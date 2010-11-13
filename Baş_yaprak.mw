@@ -1,292 +1,414 @@
-==This subdomain is reserved for the creation of a [[wikimedia:Our projects|Wikipedia]] in '''[[w:en:Gagauz|Gagauz]]''' language==
+<div style="width:100%;margin-top:+.7em;background-color:#E8E8E8;border:1px solid #8898BF;-moz-border-radius-topright:5px;-moz-border-radius-topleft:5px;">
+<center>
+{|style="width:97%;margin-top:+.7em;background-color:#FFFFFF;border:1px solid #8898BF"
+<!-- bayraq -->
+|style="width:30%;color:#000"|
+[[Image:Flag of Gagauzia.svg|180px|border]]
+<!-- hoş geldiniz yazı -->
+|style="width:40%;font-size:90%;color:#000"|
+<div style="top:+0.2em;font-size: 100%"> Gagauzca laf edän insannar bizä katılın</div><br>
 
-* Please '''do not start editing''' this new site. This site has a test project on the [[incubator:|Wikimedia Incubator]] (or on the [[betawikiversity:|BetaWikiversity]] or on the [[oldwikisource:|Old Wikisource]]) and it will be imported to here.
+<div style="font-family:Verdana;font-size:85%;border:none;margin: 0;padding:.1em;color:#000"><p id="welcome" style="text-align:center;font-size:150%;line-height:1.3em;font-weight:normal;margin-bottom:0;"><font color="blue">Gagauz Vikipediyasına hoş geldiniz</div>
+<div style="font-family:Verdana;font-size:165%;border:none;margin: 0;padding:.1em;color:#000"></div>
+<!-- tarih, maqale sayısı ve qıdıruv qutusı -->
+|style="width:30%;font-size:100%;color:#000"|
+<div id="articlecount" style="width:100%;text-align:center;font-size:100%;">{{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:100%;">
+Şindi bizim var: '''{{NUMBEROFARTICLES}}'''  yazı
+<center>
+<inputbox>type=search2
+width=20%
+buttonlabel=Ara
+searchbuttonlabel=Git
+break=no
+</inputbox>
+</center>
+|}<!-- alt yazılar ve bağlantılar -->
+{|style="width:100%;background:none;margin:"
+|style="font-size:95%;text-align:center;white-space:nowrap;color:#000"|Proekti açmaa deyni lääzım taa çok kullanıcı [[Yardım|Yardım]] etsin yazıları yazmaa <br>
+<center>[[İndeks|İndeks]] <big><b>•</big></b>  [[Gözat|Gözat]] <big><b>•</big></b> [[Meydan|Meydan]] <big><b>•</big></b> [[Vikipediya|Vikipediya]] </center>
+</div>
+|}
+</center>
+</div>
 
-* If you would like to help translating the interface to this language, please do not translate here, but go to [[translatewiki:|translatewiki]], a special wiki for translating the interface. That way everyone can use it on every wiki using the [[mw:|same software]].
 
-* For information about how to edit and for other general help, see [[m:Help:Contents|Help on Wikimedia's Meta-Wiki]] or [[mw:Help:Contents|Help on MediaWiki.org]].
+{| width="100%"
+|-  valign="bottom" align="center" style="font-weight:bold; font-size:90%;"
+<!---------------------------------------------->
+{|width="100%" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
+|width="50%" style="border:1px solid #CCF7CC;background:#EEFFEE"|
+{|width="100%" cellspacing="0" cellpadding="5" style="background:#EEFFEE"
+<!---------------------------------------------->
+|[[Image:Kpdf bookish.svg|nothumb|42px|center]]
+|style="font-size:95%"|'''[[:Category:Literatura|Literatura]]'''<br />
+<!---------------------------------------------->
+|}
+|&nbsp;&nbsp;
+|style="border:1px solid #DDDDF7;background:#F7F7FF"|
+{|width="100%" cellspacing="0" cellpadding="5" style="background:#F7F7FF"
+<!---------------------------------------------->
+|[[Image:Nuvola apps kdict.png|37px|center]]
+|style="font-size:95%"|'''[[:Category:Diller|Diller]]'''<br />
+|}
+|}
+<!---------------------------------------------->
+| width="9%" | <imagemap>Image:4seasons.gif|39px|]]
+default  [[:Category:Tabiat|Tabiat]]
+desc none</imagemap>[[:Category:Tabiat|Tabiat]]
 
-== Sister projects ==
-<span class="plainlinks">
-[http://www.wikipedia.org Wikipedia] |
-[http://www.wiktionary.org Wiktonary] |
-[http://www.wikibooks.org Wikibooks] |
-[http://www.wikinews.org Wikinews] |
-[http://www.wikiquote.org Wikiquote] |
-[http://www.wikisource.org Wikisource]
-[http://www.wikiversity.org Wikiversity]
-</span>
+| width="9%" | <imagemap>Image:USCG helicopter propeller animation.gif|65px|]]
+default [[:Category:Bilim|Bilim]]
+desc none</imagemap>[[:Category:Bilim|Bilim]]
 
-See Wikimedia's [[m:|Meta-Wiki]] for the coordination of these projects.
+| width="9%" | <imagemap>Image:Stylised Lithium Atom.png|30px|]]
+default  [[:Category:Kultura|Kultura]]
+desc none</imagemap>[[:Category:Kultura|Kultura]]
 
-[[aa:]]
-[[ab:]]
-[[ace:]]
+| width="9%" | <imagemap>Image:Nuvola 64 viquiprojecte cinema.png|34px|]]
+default [[:Category:Kino|Kino]]
+desc none</imagemap>[[:Category:Kino|Kino]]
+
+| width="9%" | <imagemap>Image:790106-0203 Voyager 58M to 31M reduced.gif|34px|]]
+default [[:Category:Yıldızlar|Yıldızlar]]
+desc none</imagemap>[[:Category:Yıldızlar|Yıldızlar]] 
+
+| width="9%" | <imagemap>Image:AnimOUTILS.gif|34px|]] 
+default [[:Category:Ekonomika|Ekonomika]]
+desc none</imagemap>[[:Category:Ekonomika|Ekonomika]]
+ 
+| width="9%" | <imagemap>Image:Color world map.png|53px|]]
+default  [[:Category:Devletlär|Devletlär]]
+desc none</imagemap>[[:Category:Devletlär|Devletlär]]
+
+| width="9%" | <imagemap>Image:Wikipe-tan wearing baro't saya.png|24px|]]
+default  [[:Category:Biografiya|Biografiya]]
+desc none</imagemap> [[:Category:Biografiya|Biografiya]]
+
+| width="9%" | <imagemap>Image:Rotating earth (Very small).gif|33px|]]
+default  [[:Category:Geografiya|Geografiya]]
+desc none</imagemap>[[:Category:Geografiya|Geografiya]]
+
+| width="9%" | <imagemap>Image:P antiquity.png|39px|]]
+default  [[:Category:İstoriya|İstoriya]]
+desc none</imagemap>[[:Category:İstoriya|İstoriya]]
+
+| width="9%" | <imagemap>Image:Animalibrí.gif|54px|]]
+default [[:Category:Hayvannar|Hayvannar]]
+desc none</imagemap>[[:Category:Hayvannar|Hayvannar]]
+
+| width="9%" | <imagemap>Image:Heart-beat.gif|42px|]]
+default [[:Category:Yaşamak|Yaşamak]]
+desc none</imagemap>[[:Category:Yaşamak|Yaşamak]]
+
+|}<noinclude>
+
+<!-- begin left column -->
+<div style="float:left; width:49%;">
+
+<!-- listing of top-level categories and portals -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#ddffdd; border:1px solid #99cc99; font-weight:bold; text-align:center;">
+[[Image:Exquisite-khelpcenter.png|left|31px]]
+Yazılar
+</div>
+<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
+{{Yazılar1}}
+<noinclude>
+
+</div>
+</div>
+
+<!-- more information and navigation -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#FAD97D; border:1px solid #99cc99; font-weight:bold; text-align:center;">
+[[Image:Nuvola apps kworldclock.png|left|31px]]
+Yazılar
+</div>
+<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
+{{Yazılar2}}
+<noinclude>
+
+</div>
+</div>
+
+</div>
+<!-- end left column -->
+
+<!-- begin right column -->
+<div style="float:right; width:49%">
+
+<!-- featured article, or other high quality content -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#ddddff; border:1px solid #9999cc; font-weight:bold; text-align:center;">
+[[Image:Wreath icon.png|left|32px]]
+Yazılar
+</div>
+<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px;">
+{{Yazılar3}}
+<noinclude>
+
+</div>
+</div>
+
+<!-- another content box, anything can go in here -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#ffdddd; border:1px solid #9999cc; font-weight:bold; text-align:center;">
+[[Image:Local-time.svg|left|31px]]
+Yazılar
+</div>
+<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px">
+{{Yazılar4}}
+<noinclude>
+
+</div>
+</div>
+
+</div>
+<!-- begin left column -->
+<div style="float:right; width:49%;">
+
+<!-- listing of top-level categories and portals -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#E0E0E0; border:1px solid #99cc99; font-weight:bold; text-align:center;">
+[[Image:38094-canon.svg|left|31px]]
+Günün Görünüşü
+</div>
+<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
+{{Günün Görünüşü}}
+<noinclude>
+
+</div>
+</div>
+
+<!-- more information and navigation -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#ff0000; border:1px solid #99cc99; font-weight:bold; text-align:center;">
+[[Image:Crystal Clear app wp.png|left|31px]]
+Eni Yazı Yarat
+</div>
+<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
+{{Eni Yazı Yarat}}
+<noinclude>
+
+</div>
+</div>
+
+</div>
+<!-- end left column -->
+
+<!-- begin right column -->
+<div style="float:left; width:49%">
+
+<!-- featured article, or other high quality content -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#ffff00; border:1px solid #9999cc; font-weight:bold; text-align:center;">
+[[Image:Crystal 128 penguin.png|left|33px]]
+Yazılar
+</div>
+<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px;">
+{{Yazılar5}}
+<noinclude>
+
+</div>
+</div>
+
+<!-- another content box, anything can go in here -->
+<div style="margin-bottom:10px;">
+<div style="background-color:#00FFFF; border:1px solid #9999cc; font-weight:bold; text-align:center;">
+[[Image:Nuvola apps edu miscellaneous.png|left|31px]]
+Gagauz Alfaviti
+</div>
+<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px">
+{{Gagauz Alfaviti}}
+<noinclude>
+
+</div>
+</div>
+
+</div>
+
+<!-- end right column -->
+
+<br style="clear:both" />
+
+<!-- Wikipedia in other languages -->
+<div style="width:80%; margin: 0 auto 0 auto">
+<div style="background-color:#ffdddd; border:1px solid #cc9999; font-weight:bold; text-align:center;">
+[[Image:Dharma Wheel.svg|left|29px]]
+Kategoriyalar
+</div>
+<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
+{{Kategoriyalar}}
+</div>
+</div>
+
+
+</div>
+</div>
+
+<!-- Wikipedia in other languages -->
+<div style="width:80%; margin: 0 auto 0 auto">
+<div style="background-color:#ddddff; border:1px solid #cc9999; font-weight:bold; text-align:center;">
+[[Image:Red Gallardo icon.png|left|50px]]
+Diller
+</div>
+<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
+{{Diller}}
+</div>
+</div>
+
+
+</div>
+</div>
+
+<!-- Wikipedia in other languages -->
+<div style="width:80%; margin: 0 auto 0 auto">
+<div style="background-color:#98FB98; border:1px solid #cc9999; font-weight:bold; text-align:center;">
+[[Image:Wiki letter w.svg|left|36px]]
+Kardaş Proyektlär
+</div>
+<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
+{{Kardaş proyektlär}}
+</div>
+</div>
+
+
+</div>
+</div>
+
+<!-- Wikipedia in other languages -->
+<div style="width:80%; margin: 0 auto 0 auto">
+<div style="background-color:#FAD97D; border:1px solid #cc9999; font-weight:bold; text-align:center;">
+[[Image:Artículo bueno-blue.svg|left|30px]]
+Başka Türk dillerindäki Vikipediyalar
+</div>
+<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
+{{Başka Türk dillerindäki Vikipediyalar}}
+</div>
+</div>
+
+
+</div>
+</div>
+
+
 [[af:]]
-[[ak:]]
-[[als:]]
-[[am:]]
 [[an:]]
-[[ang:]]
-[[ar:]]
-[[arc:]]
-[[arz:]]
-[[as:]]
 [[ast:]]
-[[av:]]
 [[ay:]]
 [[az:]]
 [[ba:]]
 [[bar:]]
-[[bat-smg:]]
 [[bcl:]]
-[[be:]]
-[[be-x-old:]]
 [[bg:]]
-[[bh:]]
-[[bi:]]
-[[bm:]]
-[[bn:]]
-[[bo:]]
-[[bpy:]]
 [[br:]]
 [[bs:]]
-[[bug:]]
-[[bxr:]]
 [[ca:]]
-[[cbk-zam:]]
-[[cdo:]]
-[[ce:]]
 [[ceb:]]
-[[ch:]]
-[[cho:]]
-[[chr:]]
-[[chy:]]
-[[ckb:]]
-[[co:]]
-[[cr:]]
 [[crh:]]
 [[cs:]]
 [[csb:]]
-[[cu:]]
+[[co:]]
 [[cv:]]
 [[cy:]]
 [[da:]]
 [[de:]]
-[[diq:]]
-[[dk:]]
 [[dsb:]]
-[[dv:]]
-[[dz:]]
-[[ee:]]
-[[el:]]
-[[eml:]]
 [[en:]]
 [[eo:]]
+[[ext:]]
 [[es:]]
 [[et:]]
 [[eu:]]
-[[ext:]]
-[[fa:]]
-[[ff:]]
 [[fi:]]
 [[fiu-vro:]]
-[[fj:]]
-[[fo:]]
 [[fr:]]
 [[frp:]]
+[[fo:]]
 [[fur:]]
 [[fy:]]
 [[ga:]]
-[[gan:]]
 [[gd:]]
 [[gl:]]
-[[glk:]]
 [[gn:]]
-[[got:]]
-[[gu:]]
 [[gv:]]
-[[ha:]]
-[[hak:]]
 [[haw:]]
-[[he:]]
-[[hi:]]
-[[hif:]]
-[[ho:]]
 [[hr:]]
 [[hsb:]]
-[[ht:]]
 [[hu:]]
-[[hy:]]
-[[hz:]]
 [[ia:]]
 [[id:]]
-[[ie:]]
-[[ig:]]
-[[ii:]]
-[[ik:]]
 [[ilo:]]
-[[io:]]
 [[is:]]
+[[io:]]
 [[it:]]
-[[iu:]]
-[[ja:]]
-[[jbo:]]
-[[jv:]]
-[[ka:]]
 [[kaa:]]
-[[kab:]]
-[[kg:]]
-[[ki:]]
-[[kj:]]
 [[kk:]]
 [[kl:]]
-[[km:]]
-[[kn:]]
-[[ko:]]
-[[kr:]]
-[[ks:]]
+[[krc:]]
 [[ksh:]]
-[[ku:]]
-[[kv:]]
 [[kw:]]
 [[ky:]]
 [[la:]]
-[[lad:]]
 [[lb:]]
-[[lbe:]]
-[[lg:]]
 [[li:]]
 [[lij:]]
 [[lmo:]]
 [[ln:]]
-[[lo:]]
 [[lt:]]
 [[lv:]]
 [[map-bms:]]
-[[mdf:]]
-[[mg:]]
-[[mh:]]
-[[mhr:]]
 [[mi:]]
-[[mk:]]
-[[ml:]]
-[[mn:]]
-[[mo:]]
-[[mr:]]
 [[ms:]]
 [[mt:]]
-[[mus:]]
-[[mwl:]]
-[[my:]]
-[[myv:]]
-[[mzn:]]
-[[na:]]
-[[nan:]]
+[[nah:]]
 [[nap:]]
-[[nds:]]
-[[nds-nl:]]
-[[ne:]]
-[[new:]]
-[[ng:]]
 [[nl:]]
-[[nn:]]
+[[nrm:]]
 [[no:]]
 [[nov:]]
-[[nrm:]]
-[[nv:]]
-[[ny:]]
 [[oc:]]
 [[om:]]
-[[or:]]
 [[os:]]
-[[pa:]]
-[[pag:]]
-[[pam:]]
 [[pap:]]
 [[pdc:]]
-[[pi:]]
 [[pih:]]
 [[pl:]]
 [[pms:]]
-[[pnt:]]
-[[pnb:]]
-[[ps:]]
 [[pt:]]
 [[qu:]]
 [[rm:]]
-[[rmy:]]
-[[rn:]]
 [[ro:]]
-[[roa-rup:]]
 [[roa-tara:]]
 [[ru:]]
-[[rw:]]
-[[sa:]]
 [[sah:]]
-[[sc:]]
+[[sc:]] 
 [[scn:]]
 [[sco:]]
-[[sd:]]
 [[se:]]
-[[sg:]]
-[[sh:]]
-[[si:]]
-[[simple:]]
 [[sk:]]
 [[sl:]]
-[[sm:]]
-[[sn:]]
-[[so:]]
 [[sq:]]
-[[sr:]]
-[[srn:]]
-[[ss:]]
-[[st:]]
 [[stq:]]
-[[su:]]
 [[sv:]]
 [[sw:]]
 [[szl:]]
-[[ta:]]
-[[te:]]
 [[tet:]]
-[[tg:]]
-[[th:]]
-[[ti:]]
 [[tk:]]
 [[tl:]]
-[[tn:]]
-[[to:]]
-[[tpi:]]
 [[tr:]]
-[[ts:]]
+[[to:]]
 [[tt:]]
 [[tum:]]
-[[tw:]]
-[[ty:]]
-[[udm:]]
-[[ug:]]
+[[ug:]] 
 [[uk:]]
-[[ur:]]
 [[uz:]]
-[[ve:]]
 [[vec:]]
-[[vi:]]
 [[vls:]]
 [[vo:]]
 [[wa:]]
-[[war:]]
 [[wo:]]
-[[wuu:]]
-[[xal:]]
-[[xh:]]
-[[yi:]]
 [[yo:]]
-[[za:]]
-[[zea:]]
-[[zh:]]
-[[zh-classical:]]
-[[zh-min-nan:]]
-[[zh-yue:]]
-[[zu:]]
+
+[[Category:Wp/gag|*]]
