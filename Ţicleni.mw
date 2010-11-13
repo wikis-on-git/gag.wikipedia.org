@@ -1,0 +1,137 @@
+{| cellpadding="2" cellspacing="1" width="250" style="width: 250px; font-size: 95%; margin:1em 0 1em 1em; float:right; border:1px solid gray; padding: 5px; background-color: #ffffff;"
+|-
+! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" | Ţicleni 
+[[Image:Biserica Kretzulescu 2006 05.jpg|center|260px]]
+|-
+|- valign=top
+|-
+! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni Görünüş</center>
+|-
+| style="background:#ffffff;" align=center colspan=2 |
+{| border=0 cellpadding=2 cellspacing=0
+| align=center width=148 | [[Image:Flag of Romania.svg|135px]]
+| align=center width=148 | [[Image:Coat of arms of Romania.svg|130px]]
+|-
+| align=center width=148 | Romıniya bayraı
+| align=center width=148 | Romıniya gerbi
+|}
+|-
+! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni Kartası</center>
+|-
+| align=center colspan=2 style="background: #ffffff;" | [[Image:Ticleni jud Gorj.png|270px|center]]
+|-
+! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni</center>
+|-
+|- valign=top
+| '''Devlet:'''
+| [[Image:Flag of Romania.svg|25px]] [[Romıniya|Romıniya]]
+|- valign=top
+| '''Viliyat:'''
+| Gorj  
+|- valign=top
+| '''Kommuna başkanı:'''
+| Ilie Ion Ungureanu  
+|- valign=top
+| '''Toprak:'''
+| 72,29 km²
+|- valign=top
+| '''Nüfus:'''
+| 5.280 
+|- valign=top
+| '''Poşta kodu:'''
+| 215600
+|- valign=top
+| '''Telefon kodu:'''
+| (+40) 02 53
+|- valign=top
+| '''Üükseklik:'''
+| 180 m
+|- valign=top
+| '''Vakıt:'''
+| EET (UTC+2)
+|- valign=top
+| '''Web:'''
+| http://www.primarieticleni.ro
+|}
+'''Ţicleni''' (Romınca: ''Ţicleni'') — [[Romıniya|Romıniya]] [[Kasaba|kasaba]]sı.
+
+* Din: Ristian, Çıfıt
+* Klimat: Kara klimatı
+
+== Nüfus Sayımı ==
+* 1977: 5 161 
+* 1992: 5 372 
+* 2002: 5 280 
+
+== Yarlar ==
+* Casa Marcea
+* Pensiunea Casa Brancusi
+* Pensiunea Castania
+* Pensiunea Taco
+* Pensiunea Taco
+* Sydney Hotel
+* Horezu Bistrita Manastırı
+* Arnota  Manastırı
+* Polovragi Manastırı
+* Govora Surupatele Manastırı 
+* Buila Vanturarita Tabiet Muzesi
+* Trovantilor Muzesi
+* Tismana Manastırı
+
+''Ţicleni Nüfus:''
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:280 height:240
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:6000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:1000 start:0
+ScaleMinor = gridcolor:lightgrey increment:200 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+
+  bar:1977 text:1977
+  bar:1992 text:1992
+  bar:2002 text:2002
+  
+
+PlotData=
+  color:barra width:20 align:left
+
+  bar:1977 from:0 till: 5161
+  bar:1992 from:0 till: 5372
+  bar:2002 from:0 till: 5205
+  
+PlotData=
+
+  bar:1977 at: 5161 fontsize:S text: 5.161 shift:(-7,5)
+  bar:1992 at: 5372 fontsize:S text: 5.372 shift:(-13,5)
+  bar:2002 at: 5205 fontsize:S text: 5.205 shift:(-13,5)
+
+TextData=
+  fontsize:S pos:(20,20)
+  text:Ţicleni Nüfus Vikipediya.
+</timeline>
+
+{{Gorj Viliyatı}}
+
+[[Category:Wp/gag]]
+[[Category:Kasabalar]]
+[[Category:Arhiv]]
+
+[[en:Ţicleni]]
+[[de:Ţicleni]]
+[[it:Ţicleni]]
+[[hu:Ţicleni]]
+[[nl:Ţicleni]]
+[[pl:Ţicleni]]
+[[ro:Ţicleni]]
+[[tg:Тсиклени]]
