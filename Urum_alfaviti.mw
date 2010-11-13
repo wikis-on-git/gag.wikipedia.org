@@ -1,0 +1,345 @@
+'''Urum alfaviti'''
+{| border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse;text-align:center"
+! rowspan="2" style="background:#ccf;" | Bukva
+! colspan="4" style="background:#ccf;" | Ad
+! colspan="2" style="background:#ccf;" | Seslenmäk
+! rowspan="2" style="background:#ccf;" | Uygunnuk <br />[[Finikiya alfaviti|Finikiya]]<br />bukvalarılan
+! colspan="2" style="background:#ccf;" | [[Urumcanın latin alfavitindä transliterațiyası|Transliterațiya]]<sup>1</sup> <!-- footnote explains caveats -->
+! rowspan="2" style="background:#ccf;" | [[Urum țifraları|Țifralar]]
+|-
+! style="background:#ccffff;" | Eski<br />urum
+! style="background:#ccffff;" | Orta zaman<br />urum<br />(polytonic)
+! style="background:#ccffff;" | Modern<br />urum
+! style="background:#ccffff;" | Latin
+! style="background:#ccffff;" | Klassik<br />eski<br />urum
+! style="background:#ccffff;" | Modern<br />urum
+! style="background:#ccffff;" | Eski<br />urum
+! style="background:#ccffff;" | Modern<br />urum
+|-
+|style="font-size:133%;"|Α α
+| colspan="2" | {{Polytonic|ἄλφα}}
+| άλφα
+| Alpha
+| {{IPA|[a] [aː]}}
+| {{IPA|[a]}}
+| [[Image:phoenician_aleph.png|20px|Aleph]] Aleph
+| colspan="2" | a
+| 1
+|-
+|<span style="font-size:133%;">Β β<br />ϐ</span> (alternate<sup>2</sup>)
+| colspan="2" | {{Polytonic|βῆτα}}
+| βήτα
+| Beta
+| {{IPA|[b]}}
+| {{IPA|[v]}}
+| [[Image:phoenician_beth.png|20px|Beth]] Beth
+| b
+| v
+| 2
+|-
+|style="font-size:133%;"|Γ γ
+| colspan="2" | {{Polytonic|γάμμα}}
+| γάμμα<br />γάμα
+| Gamma
+| {{IPA|[g]}}
+| {{IPA|[ɣ], [ʝ]
+| [[Image:phoenician_gimel.png|20px|Gimel]] Gimel
+| g
+| gh, g, y
+| 3
+|-
+|style="font-size:133%;"|Δ δ
+| colspan="2" | {{Polytonic|δέλτα}}
+| δέλτα
+| Delta
+| {{IPA|[d]}}
+| {{IPA|[ð]}}
+| [[Image:phoenician_daleth.png|20px|Daleth]] Daleth
+| d
+| d, dh
+| 4
+|-
+|<span style="font-size:133%;">Ε ε<br />ϵ ϶</span> (alternate)
+| {{Polytonic|εἶ}}
+| {{Polytonic|ἒ ψιλόν}}
+| έψιλον
+| Epsilon
+| colspan="2" | {{IPA|[e]}}
+| [[Image:phoenician_he.png|20px|He]] He
+| colspan="2" | e
+| 5
+|-
+|style="font-size:133%;"|Ζ ζ
+| colspan="2" | {{Polytonic|ζήτα}}
+| ζήτα
+| Zeta
+| {{IPA|[zd]}}<br />([[Zeta (letter)#Pronunciation|or {{IPA|[dz]}}?]])<br />later {{IPA|[zː]}}
+| {{IPA|[z]}}
+| [[Image:phoenician_zayin.png|20px|Zayin]] Zayin
+| colspan="2" | z
+| 7
+|-
+|style="font-size:133%;"|Η η
+| colspan="2" | {{Polytonic|ἦτα}}
+| ήτα
+| Eta
+| {{IPA|[ɛː]}}
+| {{IPA|[i]}}
+| [[Image:phoenician_heth.png|20px|Heth]] Heth
+| e, ē
+| i
+| 8
+|-
+|<span style="font-size:133%;">Θ θ<br />ϴ ϑ</span> (alternate)
+| colspan="2" | {{Polytonic|θῆτα}}
+| θήτα
+| Theta
+| {{IPA|[tʰ]}}
+| {{IPA|[θ]}}
+| [[Image:phoenician_teth.png|20px|Teth]] Teth
+| colspan="2" | th
+| 9
+|-
+|style="font-size:133%;"|Ι ι
+| colspan="2" | {{Polytonic|ἰῶτα}}
+| ιώτα<br />γιώτα
+| Iota
+| {{IPA|[i] [iː]}}
+| {{IPA|[i], [ʝ]}}
+| [[Image:phoenician_yodh.png|20px|Yodh]] Yodh
+| colspan="2" | i
+| 10
+|-
+|<span style="font-size:133%;">Κ κ<br />ϰ ϗ</span> (alternate)
+| colspan="2" | {{Polytonic|κάππα}}
+| κάππα<br />κάπα
+| Kappa
+| {{IPA|[k]}}
+| {{IPA|[k], [c]}}
+| [[Image:phoenician_kaph.png|20px|Kaph]] Kaph
+| colspan="2" | k
+| 20
+|-
+|style="font-size:133%;"|Λ λ
+| {{Polytonic|λάβδα}}
+| {{Polytonic|λάμβδα}}
+| λάμδα<br />λάμβδα
+| Lambda
+| colspan="2" | {{IPA|[l]}}
+| [[Image:phoenician_lamedh.png|20px|Lamedh]] Lamedh
+| colspan="2" | l
+| 30
+|-
+|style="font-size:133%;"|Μ μ
+| colspan="2" | {{Polytonic|μῦ}}
+| μι<br />μυ
+| Mu
+| colspan="2" | {{IPA|[m]}}
+| [[Image:phoenician_mem.png|20px|Mem]] Mem
+| colspan="2" | m
+| 40
+|-
+|style="font-size:133%;"|Ν ν
+| colspan="2" | {{Polytonic|νῦ}}
+| νι<br />νυ
+| Nu
+| colspan="2" | {{IPA|[n]}}
+| [[Image:phoenician_nun.png|20px|Nun]] Nun
+| colspan="2" | n
+| 50
+|-
+|style="font-size:133%;"|Ξ ξ
+| {{Polytonic|ξεῖ}}
+| {{Polytonic|ξῖ}}
+| ξι
+| Xi 
+| colspan="2" | {{IPA|[ks]}}
+| [[Image:phoenician_samekh.png|20px|Samekh]] Samekh
+| x
+| x, ks
+| 60
+|-
+|style="font-size:133%;"|Ο ο
+| {{Polytonic|οὖ}}
+| {{Polytonic|ὂ μικρόν}}
+| όμικρον
+| Omicron
+| colspan="2" | {{IPA|[o]}}
+| [[Image:phoenician_ayin.png|20px|Ayin]] Ayin
+| colspan="2" | o
+| 70
+|-
+|<span style="font-size:133%;">Π π<br />ϖ</span> (alternate)
+| {{Polytonic|πεῖ}}
+| {{Polytonic|πῖ}}
+| πι
+| Pi
+| colspan="2" | {{IPA|[p]}}
+| [[Image:phoenician_pe.png|20px|Pe]] Pe
+| colspan="2" | p
+| 80
+|-
+|<span style="font-size:133%;">Ρ ρ<br /> ϱ</span> (alternate)
+| colspan="2" | {{Polytonic|ῥῶ}}
+| ρω
+| Rho 
+| {{IPA|[r]}}, {{IPA|[r̥]}}
+| {{IPA|[r]}}
+| [[Image:phoenician_res.png|20px|Res]] Resh
+| r ({{Polytonic|ῥ}}: rh)
+| r
+| 100
+|-
+|<span style="font-size:133%;">Σ σ<br />Ϲ ϲ<br />Ͻ {{Unicode|ͻ}}<br />ς</span> (alternate<sup>3</sup>)
+| colspan="2" | {{Polytonic|σῖγμα}}
+| σίγμα
+| Sigma
+| colspan="2" | {{IPA|[s]}}
+| [[Image:phoenician_sin.png|20px|Sin]] Shin
+| colspan="2" | s
+| 200
+|-
+|style="font-size:133%;"|Τ τ
+| colspan="2" | {{Polytonic|ταῦ}}
+| ταυ
+| Tau
+| colspan="2" | {{IPA|[t]}}
+| [[Image:phoenician_taw.png|20px|Taw]] Taw
+| colspan="2" | t
+| 300
+|-
+|<span style="font-size:133%;">Υ υ<br />ϒ</span> (alternate)
+| {{Polytonic|ὗ}}
+| {{Polytonic|ὓ ψιλόν}}
+| ύψιλον
+| Upsilon 
+| {{IPA|[y] [yː]<br />(earlier [ʉ] [ʉː])}}
+| {{IPA|[i]}}
+| [[Image:phoenician_waw.png|20px|Waw]] Waw
+| u, y
+| y, v, f
+| 400
+|-
+|<span style="font-size:133%;">Φ φ<br />ϕ</span> (alternate)
+| {{Polytonic|φεῖ}}
+| {{Polytonic|φῖ}}
+| φι
+| Phi
+| {{IPA|[pʰ]}}
+| {{IPA|[f]}}
+| rowspan="3" | origin disputed<br />(see text)
+| ph
+| f
+| 500
+|-
+|style="font-size:133%;"|Χ χ
+| {{Polytonic|χεῖ}}
+| {{Polytonic|χῖ}}
+| χι
+| Chi
+| {{IPA|[kʰ]}}
+| {{IPA|[x], [ç]}}
+| ch
+| ch, kh
+| 600
+|-
+|style="font-size:133%;"|Ψ ψ
+| {{Polytonic|ψεῖ}}
+| {{Polytonic|ψῖ}}
+| ψι
+| Psi 
+| colspan="2" | {{IPA|[ps]}}
+| colspan="2" | ps
+| 700
+|-
+|style="font-size:133%;"|Ω ω
+| {{Polytonic|ὦ}}
+| {{Polytonic|ὦ μέγα}}
+| ωμέγα
+| Omega
+| {{IPA|[ɔː]}}
+| {{IPA|[o]}}
+| [[Image:phoenician_ayin.png|20px|Ayin]] Ayin|
+| o, ō
+| o
+| 800
+|}
+# Detallar için hem türlü transliterațiya sistemleri için bak (Transliteration of Greek into English) Urum alfavitinnän angliycaya transliterațiya.
+# Sade lafın ortasında işlener.
+# Sade lafın bitkisindä işlener.
+
+Aşaadaki bukvalar girmez standart urum alfavitinä, ama kullanıldı pre-klassik zamannarda yada bir takım dialektlerdä. Digamma, stigma, qoppa, hem sampi bukvaları işlenir hem [[urum țifralar]]ı gibi.
+
+{| border="1" cellpadding="3" cellspacing="0" style="border-collapse: collapse;text-align:center"
+! rowspan="2" style="background:#ccf;" | Bukva
+! colspan="3" style="background:#ccf;" | Ad
+! rowspan="2" style="background:#ccf;" | Seslenmäk
+! rowspan="2" style="background:#ccf;" | Uygunnuk <br />[[Finikiya alfaviti|Finikiya]]<br />bukvalarılan
+! rowspan="2" style="background:#ccf;" | [[Urumcanın latin alfavitindä transliterațiyası|Transliterațiya]]<sup>1</sup> <!-- footnote explains caveats -->
+! rowspan="2" style="background:#ccf;" | [[Urum țifraları|Țifralar]]
+|-
+! style="background:#ccffff;" | Arhaik<br />urum<br />
+! style="background:#ccffff;" | Geç<br />urum<br />(polytonic)
+! style="background:#ccffff;" | Latin
+|-
+|style="font-size:133%;"|Ϝ ϝ
+| {{Polytonic|ϝαῦ}} ?
+| {{Polytonic|δίγαμμα}}
+| Digamma
+| probably {{IPA|[w]}}
+| [[Image:phoenician_waw.png|20px|Waw]] Waw
+| w
+| 6
+|-
+|style="font-size:133%;"|Ϛ ϛ
+| {{Polytonic|ϛῖγμα}} ?
+| {{Polytonic|στῖγμα}} 
+| Stigma 
+| {{IPA|[st]}}
+| –
+| st
+| 6
+|-
+|style="font-size:133%;"|Ϻ ϻ
+| {{Polytonic|ϻάν}} ?
+| {{Polytonic|σάν}}
+| San 
+| {{IPA|[s]}}
+| [[Image:phoenician_sade.png|20px|Sade]] Tsade (position)<br />[[Image:phoenician_sin.png|20px|Sin]] Shin  (name)
+| s
+| ?
+|-
+|style="font-size:133%;"|Ϸ ϸ
+| {{Polytonic|ϸω}} ?
+| {{Polytonic|σχω}}
+| Sho 
+| obviously fricative,<br />but exact value discussed<br />{{IPA|[ʃː]}} is proposed
+| Origin disputed,<br />possibly [[Image:phoenician_sin.png|20px|Shin]] Shin
+| sh
+| ?
+|-
+|style="font-size:133%;"|Ϟ ϟ<br />Ϙ ϙ</span> (alternate)
+| {{Polytonic|ϙόππα}} ?
+| {{Polytonic|κόππα}}
+| Qoppa
+| {{IPA|[q]}}
+| [[Image:phoenician_qof.png|20px|Qoph]] Qoph
+| q
+| 90
+|-
+|style="font-size:133%;"|Ϡ ϡ
+| {{Polytonic|ϡαμπῖ}} ?
+| {{Polytonic|σαμπῖ}}
+| Sampi
+| obviously fricative,<br />but exact value discussed<br />{{IPA|[sː]}}, {{IPA|[ks]}}, {{IPA|[ts]}} are proposed
+| Origin disputed,<br />possibly [[Image:phoenician_sade.png|20px|Sade]] Tsade
+| ss
+| 900
+|}
+
+[[Category:Wp/gag]]
+[[Category:Alfavit]]
+[[Category:Bilim]]
+[[Category:Kultura]]
+[[Category:Arhiv]]
+[[Category:Literatura]]
