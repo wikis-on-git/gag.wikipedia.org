@@ -14,7 +14,7 @@
 |style="width:30%;font-size:100%;color:#000"|
 <div id="articlecount" style="width:100%;text-align:center;font-size:100%;">{{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}</div>
 <div id="articlecount" style="width:100%;text-align:center;font-size:100%;">
-Şindi bizim var: '''[[Özel:İstatistikler|{{NUMBEROFARTICLES}}]]'''  yazı
+Şindi bizim var: '''{{NUMBEROFARTICLES}}'''  yazı
 <center>
 <inputbox>type=search2
 width=20%
