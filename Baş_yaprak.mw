@@ -1,296 +1,61 @@
-<div style="width:100%;margin-top:+.7em;background-color:#E8E8E8;border:1px solid #8898BF;-moz-border-radius-topright:5px;-moz-border-radius-topleft:5px;">
-<center>
-{|style="width:97%;margin-top:+.7em;background-color:#FFFFFF;border:1px solid #8898BF"
-<!-- bayraq -->
-|style="width:30%;color:#000"|
-[[Dosya:Flag of Gagauzia.svg|180px|border]]
-<!-- hoş geldiniz yazı -->
-|style="width:40%;font-size:90%;color:#000"|
-<div style="top:+0.2em;font-size: 100%"> Gagauzca laf edän insannar bizä katılın</div><br>
-
-<div style="font-family:Verdana;font-size:85%;border:none;margin: 0;padding:.1em;color:#000"><p id="welcome" style="text-align:center;font-size:150%;line-height:1.3em;font-weight:normal;margin-bottom:0;"><font color="blue">Gagauz Vikipediyasına hoş geldiniz</div>
-<div style="font-family:Verdana;font-size:165%;border:none;margin: 0;padding:.1em;color:#000"></div>
-<!-- tarih, maqale sayısı ve qıdıruv qutusı -->
-|style="width:30%;font-size:100%;color:#000"|
-<div id="articlecount" style="width:100%;text-align:center;font-size:100%;">{{CURRENTDAY}} {{CURRENTMONTHNAME}} {{CURRENTYEAR}}</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:100%;">
-Şindi bizim var: '''[[Özel:İstatistikler|{{NUMBEROFARTICLES}}]]'''  yazı
-<center>
-<inputbox>type=search2
-width=20%
-buttonlabel=Ara
-searchbuttonlabel=Git
-break=no
-</inputbox>
-</center>
-|}<!-- alt yazılar ve bağlantılar -->
-{|style="width:100%;background:none;margin:"
-|style="font-size:95%;text-align:center;white-space:nowrap;color:#000"|Proekti ilerletmää deyni lääzım taa çok kullanıcı [[Yardım|Yardım]] etsin yazıları yazmaa <br>
-<center>[[İndeks]] <big><b>•</big></b>  [[Gözat]] <big><b>•</big></b> [[Meydan]] <big><b>•</big></b> [[Vikipediya]] <big><b>•</big></b> [http://gag.wikipedia.org/wiki/%C3%96zel:T%C3%BCmSayfalar Hepsi yazılar] </center>
-</div>
+<!-- Giriş -->
+{{Şablon:Giriş}}
+<!-- Giriş son -->
+<!-- İçerik -->
+{| style="width:100%; background:none; margin:.5em 0 0 0;" cellspacing=0
+| style="width:63%; border:1px solid #ccdceb; border-radius:4px; -moz-border-radius:4px; background:none; vertical-align:top;" |
+{| cellpadding="1" cellspacing="3" style="width:100%; vertical-align:top; background:none;"
+! <h2 style="margin:.2em; padding:.2em .3em; text-align:left; font-size:100%; font-weight:bold; border:0; background:#ccdceb; border:0; border-radius:4px; -moz-border-radius:4px;">Yazı</h2>
+|-
+|{{Şablon:Yazılar1}}
+|-
+|{{Şablon:Yazılar2}}
 |}
-</center>
-</div>
-
-{| width="100%"
-|-  valign="bottom" align="center" style="font-weight:bold; font-size:90%;"
-<!---------------------------------------------->
-{|width="100%" cellspacing="0" cellpadding="0" style="margin-top:0.8em;margin-bottom:0.8em"
-|width="50%" style="border:1px solid #CCF7CC;background:#EEFFEE"|
-{|width="100%" cellspacing="0" cellpadding="5" style="background:#EEFFEE"
-<!---------------------------------------------->
-|[[Dosya:Kpdf bookish.svg|nothumb|42px|center]]
-|style="font-size:95%"|'''[[:Kategori:Literatura|Literatura]]'''<br />
-<!---------------------------------------------->
+{| cellpadding="1" cellspacing="3" style="width:100%; vertical-align:top; background:none;"
+! <h2 style="margin:.2em; padding:.2em .3em; text-align:left; font-size:100%; font-weight:bold; border:0; background:#ccdceb; border:0; border-radius:4px; -moz-border-radius:4px;">Yazı</h2>
+|-
+|{{Şablon:Yazılar3}}
+|-
+|{{Şablon:Yazılar4}}
 |}
-|&nbsp;&nbsp;
-|style="border:1px solid #DDDDF7;background:#F7F7FF"|
-{|width="100%" cellspacing="0" cellpadding="5" style="background:#F7F7FF"
-<!---------------------------------------------->
-|[[Dosya:Nuvola apps kdict.png|37px|center]]
-|style="font-size:95%"|'''[[:Kategori:Diller|Diller]]'''<br />
+{| cellpadding="1" cellpadding="3" style="width:100%; border:0; border-radius:4px; -moz-border-radius:4px; vertical-align:top; margin:.6em 0 1em 0; background:none;" align="left"
+! <h2 style="margin:.2em; padding:.2em .3em; background:#ccdceb; font-size:100%; font-weight:bold; border:0; text-align:left; color:#000; border-radius:4px; -moz-border-radius:4px;">Günün Görünüşü</h2>
+|-
+| align="top" | {{Günün Görünüşü}}
 |}
+| style="border:0px;" | &nbsp;
+| style="width:37%; border:1px solid #ccdceb; border-radius:4px; -moz-border-radius:4px; background:none; vertical-align:top;" |
+
+{| cellpadding="1" cellspacing="3" style="width:100%; vertical-align:top; background:none;"
+! <h2 style="margin:.2em; padding:.2em .3em; text-align:left; font-size:100%; font-weight:bold; border:0; background:#ccdceb; border:0; border-radius:4px; border-radius-topright:0.5em;border-radius-topleft:0.5em; -moz-border-radius:4px;">Kateqoriyalar</h2>
+|-
+| {{Şablon:Kategoriyalar}}
 |}
-<!---------------------------------------------->
-| width="9%" | <imagemap>Dosya:4seasons.gif|39px|]]
-default  [[:Category:Tabiat|Tabiat]]
-desc none</imagemap>[[:Kategori:Tabiat|Tabiat]]
+{| cellpadding="1" cellspacing="3" style="width:100%; vertical-align:top; background:none;"
+! <h2 style="margin:.2em; padding:.2em .3em; text-align:left; font-size:100%; font-weight:bold; border:0; background:#ccdceb; border:0; border-radius:4px; border-radius-topright:0.5em;border-radius-topleft:0.5em; -moz-border-radius:4px;">Eni yazı yarat</h2>
+|-
+| {{Eni Yazı Yarat}}
+|}
+{| cellpadding="1" cellspacing="3" style="width:100%; vertical-align:top; background:none;"
+! <h2 style="margin:.2em; padding:.2em .3em; text-align:left; font-size:100%; font-weight:bold; border:0; background:#ccdceb; border:0; border-radius:4px; border-radius-topright:0.5em;border-radius-topleft:0.5em; -moz-border-radius:4px;">Gagauz Alfaviti</h2>
+|-
+| {{Gagauz Alfaviti}}
+|}
+{| cellpadding="1" cellspacing="3" style="width:100%; vertical-align:top; background:none;"
+! <h2 style="margin:.2em; padding:.2em .3em; text-align:left; font-size:100%; font-weight:bold; border:0; background:#ccdceb; border:0; border-radius:4px; border-radius-topright:0.5em;border-radius-topleft:0.5em; -moz-border-radius:4px;">Kardaş proyektlär</h2>
+|-
+| {{Kardaş proyektlär}}
+|}
 
-| width="9%" | <imagemap>Dosya:USCG helicopter propeller animation.gif|65px|]]
-default [[:Category:Bilim|Bilim]]
-desc none</imagemap>[[:Kategori:Bilim|Bilim]]
-
-| width="9%" | <imagemap>Dosya:Stylised Lithium Atom.png|30px|]]
-default  [[:Category:Kultura|Kultura]]
-desc none</imagemap>[[:Kategori:Kultura|Kultura]]
-
-| width="9%" | <imagemap>Dosya:Nuvola 64 viquiprojecte cinema.png|34px|]]
-default [[:Category:Kino|Kino]]
-desc none</imagemap>[[:Kategori:Kino|Kino]]
-
-| width="9%" | <imagemap>Dosya:790106-0203 Voyager 58M to 31M reduced.gif|34px|]]
-default [[:Category:Yıldızlar|Yıldızlar]]
-desc none</imagemap>[[:Kategori:Yıldızlar|Yıldızlar]] 
-
-| width="9%" | <imagemap>Dosya:AnimOUTILS.gif|34px|]] 
-default [[:Category:Ekonomika|Ekonomika]]
-desc none</imagemap>[[:Kategori:Ekonomika|Ekonomika]]
- 
-| width="9%" | <imagemap>Dosya:Color world map.png|53px|]]
-default  [[:Category:Devletler|Devletler]]
-desc none</imagemap>[[:Kategori:Devletler|Devletler]]
-
-| width="9%" | <imagemap>Dosya:Wikipe-tan wearing baro't saya.png|24px|]]
-default  [[:Category:Biografiya|Biografiya]]
-desc none</imagemap> [[:Kategori:Biografiya|Biografiya]]
-
-| width="9%" | <imagemap>Dosya:Rotating earth (Very small).gif|33px|]]
-default  [[:Category:Geografiya|Geografiya]]
-desc none</imagemap>[[:Kategori:Geografiya|Geografiya]]
-
-| width="9%" | <imagemap>Dosya:P antiquity.png|39px|]]
-default  [[:Category:İstoriya|İstoriya]]
-desc none</imagemap>[[:Kategori:İstoriya|İstoriya]]
-
-| width="9%" | <imagemap>Dosya:Animalibrí.gif|54px|]]
-default [[:Category:Hayvannar|Hayvannar]]
-desc none</imagemap>[[:Kategori:Hayvannar|Hayvannar]]
-
-| width="9%" | <imagemap>Dosya:Heart-beat.gif|42px|]]
-default [[:Category:Yaşamak|Yaşamak]]
-desc none</imagemap>[[:Kategori:Yaşamak|Yaşamak]]
-
-|}<noinclude>
-
-<!-- begin left column -->
-<div style="float:left; width:49%;">
-
-<!-- listing of top-level categories and portals -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#ddffdd; border:1px solid #99cc99; font-weight:bold; text-align:center;">
-[[Dosya:Exquisite-khelpcenter.png|left|31px]]
-Yazılar
-</div>
-<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
-{{Yazılar1}}
-<noinclude>
-
-</div>
-</div>
-
-<!-- more information and navigation -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#FAD97D; border:1px solid #99cc99; font-weight:bold; text-align:center;">
-[[Dosya:Nuvola apps kworldclock.png|left|31px]]
-Yazılar
-</div>
-<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
-{{Yazılar2}}
-<noinclude>
-
-</div>
-</div>
-
-</div>
-<!-- end left column -->
-
-<!-- begin right column -->
-<div style="float:right; width:49%">
-
-<!-- featured article, or other high quality content -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#ddddff; border:1px solid #9999cc; font-weight:bold; text-align:center;">
-[[Dosya:Wreath icon.png|left|32px]]
-Yazılar
-</div>
-<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px;">
-{{Yazılar3}}
-<noinclude>
-
-</div>
-</div>
-
-<!-- another content box, anything can go in here -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#ffdddd; border:1px solid #9999cc; font-weight:bold; text-align:center;">
-[[Dosya:Local-time.svg|left|31px]]
-Yazılar
-</div>
-<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px">
-{{Yazılar4}}
-<noinclude>
-
-</div>
-</div>
-
-</div>
-<!-- begin left column -->
-<div style="float:right; width:49%;">
-
-<!-- listing of top-level categories and portals -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#E0E0E0; border:1px solid #99cc99; font-weight:bold; text-align:center;">
-[[Dosya:38094-canon.svg|left|31px]]
-Günün Görünüşü
-</div>
-<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
-{{Günün Görünüşü}}
-<noinclude>
-
-</div>
-</div>
-
-<!-- more information and navigation -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#ff0000; border:1px solid #99cc99; font-weight:bold; text-align:center;">
-[[Dosya:Crystal Clear app wp.png|left|31px]]
-Eni Yazı Yarat
-</div>
-<div style="background-color:#ffffff; border:1px solid #99cc99; border-top:0px solid white; padding:5px;">
-{{Eni Yazı Yarat}}
-<noinclude>
-
-</div>
-</div>
-
-</div>
-<!-- end left column -->
-
-<!-- begin right column -->
-<div style="float:left; width:49%">
-
-<!-- featured article, or other high quality content -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#ffff00; border:1px solid #9999cc; font-weight:bold; text-align:center;">
-[[Dosya:Crystal 128 penguin.png|left|33px]]
-Yazılar
-</div>
-<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px;">
-{{Yazılar5}}
-<noinclude>
-
-</div>
-</div>
-
-<!-- another content box, anything can go in here -->
-<div style="margin-bottom:10px;">
-<div style="background-color:#00FFFF; border:1px solid #9999cc; font-weight:bold; text-align:center;">
-[[Dosya:Nuvola apps edu miscellaneous.png|left|31px]]
-Gagauz Alfaviti
-</div>
-<div style="background-color:#ffffff; border:1px solid #9999cc; border-top:0px solid white; padding:5px">
-{{Gagauz Alfaviti}}
-<noinclude>
-
-</div>
-</div>
-
-</div>
-
-<!-- end right column -->
-
-<br style="clear:both" />
-
-<!-- Wikipedia in other languages -->
-<div style="width:80%; margin: 0 auto 0 auto">
-<div style="background-color:#ffdddd; border:1px solid #cc9999; font-weight:bold; text-align:center;">
-[[Dosya:Dharma Wheel.svg|left|29px]]
-Kategoriyalar
-</div>
-<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
-{{Kategoriyalar}}
-</div>
-</div>
-
-
-</div>
-</div>
-
-<!-- Wikipedia in other languages -->
-<div style="width:80%; margin: 0 auto 0 auto">
-<div style="background-color:#ddddff; border:1px solid #cc9999; font-weight:bold; text-align:center;">
-[[Dosya:Red Gallardo icon.png|left|50px]]
-Diller
-</div>
-<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
+|}
+<br>
+<!-- FƏAL MƏZMUN son -->
 {{Diller}}
-</div>
-</div>
-
-
-</div>
-</div>
-
-<!-- Wikipedia in other languages -->
-<div style="width:80%; margin: 0 auto 0 auto">
-<div style="background-color:#98FB98; border:1px solid #cc9999; font-weight:bold; text-align:center;">
-[[Dosya:Wiki letter w.svg|left|36px]]
-Kardaş Proyektlär
-</div>
-<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
-{{Kardaş proyektlär}}
-</div>
-</div>
-
-
-</div>
-</div>
-
-<!-- Wikipedia in other languages -->
-<div style="width:80%; margin: 0 auto 0 auto">
-<div style="background-color:#FAD97D; border:1px solid #cc9999; font-weight:bold; text-align:center;">
-[[Dosya:Artículo bueno-blue.svg|left|30px]]
-Başka Türk dillerindäki Vikipediyalar
-</div>
-<div style="background-color:#ffffff; border:1px solid #cc9999; border-top:0px solid white; padding:5px;">
 {{Başka Türk dillerindäki Vikipediyalar}}
-</div>
-</div>
 
-</div>
-</div>
+__notoc__
+__noeditsection__
 
-<!-- Other languages -->
 [[ace:]]
 [[aa:]]
 [[af:]]
