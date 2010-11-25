@@ -1,46 +1,102 @@
+{| class="toccolours" border=1 cellpadding=4 style="margin: 0 0 1em 1em; float:right; width:300; border-collapse:collapse;"
+|+ <big>'''Üülen Amerika '''</big><br />  '''''South America'''''
+|-
+| colspan=2 |                                        
+{| align=center style="text-align:center;"           
+|-                                                   
+<!-- | ([[Bandiera della AMU|Dettaglio]])                 -->
+<!-- | ([[Logo della AMU|Dettaglio]])                     -->
+|} 
+|- 
+| colspan=2 align=center | [[Dosya:South America (orthographic projection).svg|300px]]
+|-
+|
+| align="center" width="155" style="font-size: 0.9em;" | Üülen Amerika 
+|-
+| '''En Büük Devlet'''
+| [[Braziliya]] 
+|-
+| '''En Küçük Devlet'''
+| [[Franțuz Gayanası]]
+|-
+| '''Diller'''
+| [[İspan dili]] <br />[[Portugaliya dili]]<br />[[Niderland dili]]<br />[[Franțuz dili]]
+|-
+| '''En Büük Baş kasaba'''
+| [[Rio de Janeiro]]
+|-
+| '''Devlet Sayısı'''
+| 13 Devlet
+|-
+| '''Toprak'''
+| 17. 840.000&nbsp;km² 
+|-
+| '''İnsannar'''
+| 382.000.000  
+|-
+| '''İnsannar Sıklıı'''
+| 21.4/km² 
+|-
+| '''Vakıt '''
+| [[UTC]]-2 ([[Braziliya]]) a [[UTC]]-5 ([[Ekvador]])
+|-
+| '''Baş kasabalar'''
+| [[Buenos Aires]]<br/>[[La Paz]]<br/>[[Brasilia]]<br/>[[Santiago]]<br/>[[Bogota]]<br/>[[Quito]]<br/>[[Cayenne]]<br/>[[Georgetown]]<br/>[[Asuncion]]<br/>[[Lima]]<br/>[[Paramaribo]]<br/>[[Montevideo]]<br/>[[Karakas]] 
+|-
+|}
+
+'''Üülen Amerika''' — bir kоntinent, [[Poyraz Amerika]]  barabar.
+
+
+* Büük kasabalar
+
+* [[São Paulo]]
+ 
+* [[Buenos Aires]]
+
+* [[Rio de Janeiro]]
+
+* [[La Paz]]
+
+* [[Brasilia]]
+
+* [[Santiago]]
+
+* [[Bogota]]
+
+* [[Quito]]
+
+* [[Fortaleza]]
+
+* [[Cayenne]]
+
+* [[Georgetown]]
+
+* [[Asuncion]]
+
+* [[Lima]]
+
+* [[Paramaribo]]
+
+* [[Montevideo]]
+
+* [[Karakas]] 
+
+* [[Belo Horizonte]]
+
+* [[Salvador]]
+
+
 [[Dosya:Map-Romance Latin America.svg|thumb|right|185px|Üülen Amerika Dilleri]]
 [[Dosya:SACN member states.jpg|thumb|right|175px|Üülen Amerika]]
-{|class="infobox" style="background:#f0f6fa; border:1px solid #ccd2d9; table-layout:auto; border-collapse:collapse; padding:0.5em 1em; font-size:0.86em; width:240px; line-height:normal;" cellspacing="0" cellpadding="0"
-| colspan="2" style="text-align:center;"| <big>'''Üülen Amerika'''</big>
-|-
-| colspan="2" style="text-align:center;"| [[Dosya:LocationSouthAmerica.png|thumb|240px|Üülen Amerika]]
-|- style="border-top:solid 1px #ccd2d9;" 
-! Territoriya
-| 17. 840.000&nbsp;km²
-|- style="border-top:solid 1px #ccd2d9;" 
-! Nüfus
-| 382.000.000 
-|- style="border-top:solid 1px #ccd2d9;" 
-! İnsan sıklıı
-| 21.4/km²
-|- style="border-top:solid 1px #ccd2d9;" 
-! Devletler
-| 13
-|- style="border-top:solid 1px #ccd2d9;"
-! Diller
-| 4
-|- style="border-top:solid 1px #ccd2d9;" 
-! En Büük Devlet
-| Breziliya
-|- style="border-top:solid 1px #ccd2d9;"
-! En Büük Göl
-| Marakaybo
-|- style="border-top:solid 1px #ccd2d9;" 
-! Şehirler
-| [[Sao Paulo]], [[Buenos Aires]], [[Rio de Janeiro]], [[Bogota]], [[Lima]], [[Santiago]], [[Caracas]]
-|- style="border-top:solid 1px #ccd2d9;" 
-! Zona horària
-| De [[UTC]]-2 ([[Braziliya]]) a [[UTC]]-5 ([[Ekvador]])
-|}
-'''Üülen Amerika''' — bir kоntinent, Poyraz Amerikayalan barabar.
 
 {| cellspacing=0 cellpadding=4 border=1 style="text-align:right;"
 |- bgcolor="#ececec" style="text-align:center;"
 ! Devlet
 ! Baş kasaba
-! Territoriya (km²)
-! Nüfus<br />(2002)
-! Nüfus sıklıı<br />(km² başına)
+! Toprak (km²)
+! İnsannar<br />(2002)
+! İnsannar sıklıı<br />(km² başına)
 |- 
 | style="text-align:left;" | [[Dosya:Flag of Argentina.svg|25px]][[Argantina]]
 | [[Buenos Aires]]
@@ -78,7 +134,7 @@
 | 13,447,494
 | 47
 |-
-| style="text-align:left;" |  [[Frantsuz Gayanası]]
+| style="text-align:left;" |  [[Dosya:Flag of French Guiana.svg|25px]] [[Franțuz Gayanası]]
 | [[Cayenne]]
 | 91,000
 | 182,333
@@ -122,7 +178,7 @@
 | 24,287,670
 | 27
 |- style=" font-weight:bold; "
-| style=" text-align:left; " | Toplam
+| style=" text-align:left; " | Hepsi
 | .
 | 17,806,335
 | 235,006
@@ -131,7 +187,8 @@
 
 {{Kontinentlär}}
 
-[[Kategori:Evropa]]
+[[Kategori:Üülen Amerika]]
+[[Kategori:Kontinentlär]]
 [[Kategori:Arhiv]]
 
 [[ace:Amirika Seulatan]]
