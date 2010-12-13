@@ -1,12 +1,12 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>'''Tuva'''<br>
+|+<big>'''Tuva'''<br />
 Тыва Республика, Tıva Respublika</br>Респу́блика Тыва
 </big></big>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Image:Flag of Tuva.svg|125px]]
-| align=center width=148 | [[Image:Coat of arms of Tuva.svg|100px]]
+| align=center width=148 | [[Dosya:Flag of Tuva.svg|125px]]
+| align=center width=148 | [[Dosya:Coat of arms of Tuva.svg|100px]]
 |-
 | align=center width=148 | Tuva bayraı
 | align=center width=148 | Tuva gerbi
@@ -15,25 +15,25 @@
 | '''Milli Deviz'''
 | Tooruktug Dolgay Tangdym
 |-
-| align=center colspan=2 style="background: #ffffff;" | [[Image:Map of Russia - Tuva Republic (2008-03).svg|260px|center]]
+| align=center colspan=2 style="background: #ffffff;" | [[Dosya:Map of Russia - Tuva Republic (2008-03).svg|260px|center]]
 |-
 | '''Geografik koordinatnarı'''
 | 51° 30′ 0″ N, 95° 5′ 0″ E
 |-
 | '''Devlet'''
-| [[Image:Flag of Russia.svg|26px]] [[Rusiya|Rusiya]]
+| [[Dosya:Flag of Russia.svg|26px]] [[Rusiya]]
 |-
 | '''Federal Zona'''
 | Sibir Federal Zonası
 |-
 | '''Baş kasaba'''
-| [[Kızıl|Kızıl]]
+| [[Kızıl]]
 |-
 | '''Diller'''
-| [[Tuva dili|Tuva dili]], [[Rus dili|Rus dili]]
+| [[Tuva dili]], [[Rus dili]]
 |-
 | '''En büük kasaba'''
-| [[Kızıl|Kızıl]]
+| [[Kızıl]]
 |-
 | '''Devlet kurumu'''
 | Respublika
@@ -71,11 +71,11 @@
 | '''Internet TLD'''
 | .ru
 |}
-[[Image:Republiek Tuva.png|220px|right|thumb|Tuva Kartası]]
-[[Image:Kyzyl government building.jpg|220px|right|thumb|Tuva]]
-[[Image:Tuwa200107280091.jpg|220px|right|thumb|Tuva]]
-[[Image:Tuva Kyzyl Center of Asia 200107260179.jpg|220px|right|thumb|Tuva]]
-[[Image:Yurt in Tos Bulak.jpg|220px|right|thumb|Tuva]]
+[[Dosya:Republiek Tuva.png|220px|right|thumb|Tuva Kartası]]
+[[Dosya:Kyzyl government building.jpg|220px|right|thumb|Tuva]]
+[[Dosya:Tuwa200107280091.jpg|220px|right|thumb|Tuva]]
+[[Dosya:Tuva Kyzyl Center of Asia 200107260179.jpg|220px|right|thumb|Tuva]]
+[[Dosya:Yurt in Tos Bulak.jpg|220px|right|thumb|Tuva]]
 '''Tuva''' ([[Tuva dili|Tuva]]: ''Тыва Республика'', [[Rus dili|Rus]]: Республика Тыва) 
 
 * Nüfus: 305,510 (2002)
@@ -354,7 +354,7 @@
 |}
 
 <onlyinclude>{| clear=both style="border:1px solid #a9a9a9; background:#fafafa; margin-top:0.5em; margin-bottom:0.5em"
-| width=24 align=center | [[Image:Commons-logo.svg|left|35px]]
+| width=24 align=center | [[Dosya:Commons-logo.svg|left|35px]]
 | [[commons:Main Page|'''Wikimedia Commons''']]'ta <span class="plainlinks"> var [[commons:Category:Tuva|Tuva]] </span> bilgileri.
 |}</onlyinclude>
 
@@ -363,8 +363,8 @@
 {{Türk devletleri hem avtonom türk devletleri}}
 {{Aziya Devletleri}}
 
-[[Category:Devletler]]
-[[Category:Arhiv]]
+[[Kategori:Devletler]]
+[[Kategori:Arhiv]]
 
 [[ace:Republik Tuva]]
 [[af:Tiwa]]
@@ -427,6 +427,7 @@
 [[tl:Tuva]]
 [[tr:Tuva Cumhuriyeti]]
 [[tt:Тыва]]
+[[udm:Тыва]]
 [[ug:تۇۋا]]
 [[uk:Тува]]
 [[vi:Tuva]]
