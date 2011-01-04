@@ -1,12 +1,12 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>'''Honduras'''<br>
+|+<big>'''Honduras'''<br />
 República de Honduras </br>
 </big></big>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Image:Honduras flag 300.png|125px]]
-| align=center width=148 | [[Image:Coat of arms of Honduras.svg|90px]]
+| align=center width=148 | [[Dosya:Honduras flag 300.png|125px]]
+| align=center width=148 | [[Dosya:Coat of arms of Honduras.svg|90px]]
 |-
 | align=center width=148 | Honduras bayraı
 | align=center width=148 | Honduras gerbi
@@ -18,22 +18,22 @@ República de Honduras </br>
 | '''Milli Gimna'''
 | Himno Nacional de Honduras
 |-
-| align=center colspan=2 style="background: #ffffff;" | [[Image:Honduras (orthographic projection).svg|260px|center]]
+| align=center colspan=2 style="background: #ffffff;" | [[Dosya:Honduras (orthographic projection).svg|260px|center]]
 |-
 | '''Geografik koordinatnarı'''
 | 14° 6′ 0″ N, 87° 13′ 0″ W
 |-
 | '''Adı'''
-| [[Image:Honduras flag 300.png|26px]] Honduras
+| [[Dosya:Honduras flag 300.png|26px]] Honduras
 |-
 | '''Baş kasaba'''
-| [[Tegucigalpa|Tegucigalpa]]
+| [[Tegucigalpa]]
 |-
 | '''Diller'''
-| [[İspan dili|İspan dili]]
+| [[İspan dili]]
 |-
 | '''En büük kasaba'''
-| [[Tegucigalpa|Tegucigalpa]]
+| [[Tegucigalpa]]
 |-
 | '''Devlet kurumu'''
 | Respublika
@@ -57,7 +57,7 @@ República de Honduras </br>
 | % 2 
 |-
 | '''Kendi başınalık'''
-| [[Image:Flag of Spain.svg|26px]] [[İspaniya|İspaniya]] 15 Caviz ay 1821
+| [[Dosya:Flag of Spain.svg|26px]] [[İspaniya]] 15 Caviz ay 1821
 |-
 | '''Poyraz Amerika Federal Respublikası'''
 | 31 Hederlez 1838 
@@ -92,9 +92,9 @@ República de Honduras </br>
 | '''Web Sitesi'''
 | http://www.honduras.com/
 |}
-[[File:HondurasDivisions.png|thumb|right|250px|Honduras Zonalar hem Kommunalar Kartası]]
-[[Image:Catedral de Amapala.JPG|220px|right|thumb|Honduras]]
-'''Honduras''' ([[İspan dili|ispan]]: ''República de Honduras'') — [[Poyraz Amerika|Poyraz Amerika]] da bir devlet. 
+[[Dosya:HondurasDivisions.png|thumb|right|250px|Honduras Zonalar hem Kommunalar Kartası]]
+[[Dosya:Catedral de Amapala.JPG|220px|right|thumb|Honduras]]
+'''Honduras''' ([[İspan dili|ispan]]: ''República de Honduras'') — [[Poyraz Amerika]] da bir devlet. 
 
 * Zakon: 11 Büük ay 1982
 * Aeroport: 116 (2004)
@@ -103,9 +103,9 @@ República de Honduras </br>
 * Karayolu: 13.603 km (1999)
 
 == Komşuları ==
-* [[Image:Flag of Guatemala.svg|26px]] [[Gvatemala|Gvatemala]]
-* [[Image:Flag of El Salvador.svg|26px]] [[El Salvador|El Salvador]]
-* [[Image:Flag of Nicaragua.svg|26px]] [[Nikaragua|Nikaragua]]
+* [[Dosya:Flag of Guatemala.svg|26px]] [[Gvatemala]]
+* [[Dosya:Flag of El Salvador.svg|26px]] [[El Salvador]]
+* [[Dosya:Flag of Nicaragua.svg|26px]] [[Nikaragua]]
 
 == Honduras Zonalar hem Kommunalar ==
 # Atlántida
@@ -191,10 +191,9 @@ Image:San Antonio de Flores Templo principal.JPG
 {{Poyraz Amerika Devletleri}}
 {{Latin Birlii}}
 
-
-[[Category:Devletler]]
-[[Category:Poyraz Amerika]]
-[[Category:Arhiv]]
+[[Kategori:Devletler]]
+[[Kategori:Poyraz Amerika]]
+[[Kategori:Arhiv]]
 
 [[ace:Honduras]]
 [[af:Honduras]]
@@ -298,6 +297,7 @@ Image:San Antonio de Flores Templo principal.JPG
 [[ps:هندوراس]]
 [[pt:Honduras]]
 [[qu:Unduras]]
+[[rn:Honduras]]
 [[ro:Honduras]]
 [[ru:Гондурас]]
 [[rw:Hondurasi]]
