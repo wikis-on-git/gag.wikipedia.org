@@ -1,12 +1,12 @@
 {| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>'''Yaponiya'''<br>
+|+<big>'''Yaponiya'''<br />
 日本国 </br>Nippon-koku hem Nihon-koku
 </big></big>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Image:Flag of Japan.svg|125px]]
-| align=center width=148 | [[Image:Imperial Seal of Japan.svg|100px]]
+| align=center width=148 | [[Dosya:Flag of Japan.svg|125px]]
+| align=center width=148 | [[Dosya:Imperial Seal of Japan.svg|100px]]
 |-
 | align=center width=148 | Yaponiya bayraı
 | align=center width=148 | Yaponiya gerbi
@@ -15,16 +15,16 @@
 | '''Gimna'''
 | Kimi ga yo 君が代
 |-
-| align=center colspan=2 style="background: #ffffff;" | [[Image:Japan (orthographic projection).svg|260px|center]]
+| align=center colspan=2 style="background: #ffffff;" | [[Dosya:Japan (orthographic projection).svg|260px|center]]
 |-
 | '''Baş kasaba'''
-| [[Tokiyo|Tokiyo]]
+| [[Tokiyo]]
 |-
 | '''Dil'''
-| [[Yaponiya dili|Yaponiya dili]]
+| [[Yaponiya dili]]
 |-
 | '''En büük kasaba'''
-| [[Tokiyo|Tokiyo]]
+| [[Tokiyo]]
 |-
 | '''Devlet kurumu'''
 | Krallık
@@ -68,24 +68,24 @@
 | '''Internet TLD'''
 | .jp
 |}
-[[File:Tokyo odaiba.jpg|thumb|right|220px|Tokiyo]]
-[[File:Minato Mirai 21 Mid View.JPG|thumb|right|220px|Yokohama]]
-[[File:OsakaFromOsakaCastleM0742.jpg|thumb|right|220px|Osaka]]
-[[File:Japan 040.jpg|thumb|right|220px|Nagoya]]
-[[File:Sapporo1.jpg|thumb|right|220px|Sapporo]]
-[[File:Port of Kobe02s4100.jpg|thumb|right|220px|Kobe]]
-[[File:Kioto - kawaramachi.jpg|thumb|right|220px|Kyoto]]
-[[File:Nakasu.JPG|thumb|right|220px|Fukuoka]]
-[[File:Kawasaki Station East Exit 2.jpg|thumb|right|220px|Kawasaki]]
-[[File:Sintosincore.jpg|thumb|right|220px|Saitama]]
-[[File:HiroshimaNight.jpg|thumb|right|220px|Hiroşima]]
-[[File:Downtown Buildings Sendai 01.JPG|thumb|right|220px|Sendai]]
-[[File:Wakato Bridge KitaKyushu Japan.jpg|thumb|right|220px|Kitakyushu]]
-[[File:Chiba_monorail_train.jpg|thumb|right|220px|Chiba]]
-[[File:Senboku New-Town001.JPG|thumb|right|220px|Sakai, Osaka]]
-[[File:Niigata002.PNG|thumb|right|220px|Niigata]]
-[[File:Hokkaido Sapporo Odori Park.jpg|thumb|right|220px|Sapporo]]
-'''Yaponiya''' (Yaponiya: ''日本国'') — [[Aziya|Aziya]]da bir devlet.
+[[Dosya:Tokyo odaiba.jpg|thumb|right|220px|Tokiyo]]
+[[Dosya:Minato Mirai 21 Mid View.JPG|thumb|right|220px|Yokohama]]
+[[Dosya:OsakaFromOsakaCastleM0742.jpg|thumb|right|220px|Osaka]]
+[[Dosya:Japan 040.jpg|thumb|right|220px|Nagoya]]
+[[Dosya:Sapporo1.jpg|thumb|right|220px|Sapporo]]
+[[Dosya:Port of Kobe02s4100.jpg|thumb|right|220px|Kobe]]
+[[Dosya:Kioto - kawaramachi.jpg|thumb|right|220px|Kyoto]]
+[[Dosya:Nakasu.JPG|thumb|right|220px|Fukuoka]]
+[[Dosya:Kawasaki Station East Exit 2.jpg|thumb|right|220px|Kawasaki]]
+[[Dosya:Sintosincore.jpg|thumb|right|220px|Saitama]]
+[[Dosya:HiroshimaNight.jpg|thumb|right|220px|Hiroşima]]
+[[Dosya:Downtown Buildings Sendai 01.JPG|thumb|right|220px|Sendai]]
+[[Dosya:Wakato Bridge KitaKyushu Japan.jpg|thumb|right|220px|Kitakyushu]]
+[[Dosya:Chiba_monorail_train.jpg|thumb|right|220px|Chiba]]
+[[Dosya:Senboku New-Town001.JPG|thumb|right|220px|Sakai, Osaka]]
+[[Dosya:Niigata002.PNG|thumb|right|220px|Niigata]]
+[[Dosya:Hokkaido Sapporo Odori Park.jpg|thumb|right|220px|Sapporo]]
+'''Yaponiya''' (Yaponiya: ''日本国'') — [[Aziya]]da bir devlet.
 
 == Yaponiya Kasaba Nüfusu ==
 {| class="wikitable sortable"
@@ -538,8 +538,8 @@
 {{Ekonomika İşbirlii Topluluu (OECD)}}
 {{Avstraliya Grupa}}
 
-[[Category:Devletler]]
-[[Category:Arhiv]]
+[[Kategori:Devletler]]
+[[Kategori:Arhiv]]
 
 [[ab:Иапониа]]
 [[ace:Jeupun]]
@@ -708,6 +708,7 @@
 [[so:Jabaan]]
 [[sq:Japonia]]
 [[sr:Јапан]]
+[[srn:Japan]]
 [[ss:IJaphani]]
 [[stq:Japan]]
 [[su:Jepang]]
