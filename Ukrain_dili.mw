@@ -6,10 +6,10 @@
 | align=center colspan="2" |
 {| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="0"
 |- align=center
-|| [[Image:Ukrainians en.svg|320px]]<center><small>Ukrain dili</center></small>
+|| [[Dosya:Ukrainians en.svg|320px]]<center><small>Ukrain dili</center></small>
 |}
 |-
-| '''Ukrain dili laf eden devletlär ''' || {{Ukrayna}}<br>{{Rusiya}}<br>{{Kazahstan}}<br>{{Kanada}}<br>{{Biyaz Rusiya}}<br>{{Braziliya}}<br>{{Portugaliya}}<br>{{Argentina}}<br>{{Kırgızstan}}<br>{{Romıniya}}<br>{{Özbekistan}}<br>{{Moldova}}<br>{{Polşa}}<br>{{Gruziya}}
+| '''Ukrain dili laf eden devletlär ''' || {{Ukrayna}}<br />{{Rusiya}}<br />{{Kazahstan}}<br />{{Kanada}}<br />{{Biyaz Rusiya}}<br />{{Braziliya}}<br />{{Portugaliya}}<br />{{Argentina}}<br />{{Kırgızstan}}<br />{{Romıniya}}<br />{{Özbekistan}}<br />{{Moldova}}<br />{{Polşa}}<br />{{Gruziya}}
 |-
 ! colspan="2" bgcolor="FFFF00" | '''Kişi Sayısı'''
 |-
@@ -18,16 +18,16 @@
 | '''Sıra''' || 28 
 |-
 | '''Dil aylesi''' || İnd-Evropa <br />
-:Baltık - slavän<br>
-::Slavän dilleri <br>
-:::Günbatısı slavän <br> 
-::::'''Ukrain dili'''<br>
+:Baltık - slavän<br />
+::Slavän dilleri <br />
+:::Günbatısı slavän <br /> 
+::::'''Ukrain dili'''<br />
 |-
 | '''Yazı''' || Kiril alfaviti
 |-
 ! colspan="2" bgcolor="FFFF00" | '''Ofiţial dil'''
 |-
-| '''Ofiţial dil ''' || {{Ukrayna}}<br>{{Transdnestr}}<br> 
+| '''Ofiţial dil ''' || {{Ukrayna}}<br />{{Transdnestr}}<br /> 
 |-
 | '''Dil kuruluşu''' || Ukrayna milli bilimner akademiyası
 |-
@@ -58,14 +58,14 @@
 | І і || Ї ї || Й й || К к || Л л || М м || Н н || О о || П п || Р р || С с
 |- align=center
 | Т т || У у || Ф ф || Х х || Ц ц || Ч ч || Ш ш || Щ щ || Ь ь || Ю ю || Я я
-|}<noinclude>[[pt:Predefinição:Alfabeto ucraniano]][[zh:Template:Alphabet uk]]</noinclude>
+|}<noinclude></noinclude>
 
 
 
 
 
 
-===Hem bak===
+=== Hem bak ===
 
 * [[Ukrayna alfaviti]]
 
@@ -119,9 +119,8 @@
 
 {{InterWiki|uk}}
 
-
 [[Kategori:Diller]]
-[[Kategori:Slavän dilleri]] 
+[[Kategori:Slavän dilleri]]
 [[Kategori:Ukrayna]]
 [[Kategori:Günduusu slavän dilleri]]
 
@@ -210,6 +209,7 @@
 [[qu:Ukranya simi]]
 [[ro:Limba ucraineană]]
 [[ru:Украинский язык]]
+[[rue:Україньскый язык]]
 [[sah:Украин тыла]]
 [[sco:Ukrainian leid]]
 [[se:Ukrainagiella]]
