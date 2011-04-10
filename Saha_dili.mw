@@ -14,10 +14,10 @@
 |-
 | '''Sıra''' || 
 |-
-| '''Dil aylesi''' || Altay <br> 
-:Türk dilleri <br>
-:::Sibir <br>
-::::'''Saha'''<br> 
+| '''Dil aylesi''' || Altay <br /> 
+:Türk dilleri <br />
+:::Sibir <br />
+::::'''Saha'''<br /> 
 |-
 | '''Yazı''' || Kirill alfaviti
 |-
@@ -39,13 +39,13 @@
 |}
 
 
-[[Image:Map of Russia - Sakha (Yakutia) Republic (2008-03).svg|thumb|right|325px|Saha Respublikası kartası]]
+[[Dosya:Map of Russia - Sakha (Yakutia) Republic (2008-03).svg|thumb|right|325px|Saha Respublikası kartası]]
 
 '''Saha dili''' (Saha: ''Саха тыла'') ya da Yakut dili  bir sibir dilleri  grupasında angısında [[Sahalar]] laf eder. [[Türk dilleri|Türk dillerindän]] biri. [[Saha Respublikası|Saha Respublikasının]] ofițial dili.
 
 
 
-==Saha alfaviti==
+== Saha alfaviti ==
 
 {| style="font-family:Arial Unicode MS; font-size:1.4em; border-color:#000000; border-width:1px; border-style:solid; border-collapse:collapse; background-color:#F8F8EF"
 | style="width:3em; text-align:center; padding: 3px;" | А а
@@ -120,8 +120,6 @@
 [[Kategori:Türk dilleri]]
 [[Kategori:Arhiv]]
 
-[[tt:Якут теле]]
-
 [[af:Jakoeties]]
 [[ar:لغة ياقوتية]]
 [[be:Якуцкая мова]]
@@ -163,8 +161,9 @@
 [[sv:Jakutiska]]
 [[szl:Jakucko godka]]
 [[ta:யாகுத மொழி]]
-[[th:ภาษาซาคา]]
+[[th:ภาษาซาฮา]]
 [[tr:Yakutça]]
+[[tt:Якут теле]]
 [[udm:Саха кыл]]
 [[ug:ياقۇت تىلى]]
 [[uk:Якутська мова]]
