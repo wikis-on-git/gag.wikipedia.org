@@ -402,11 +402,6 @@
 * John Michael Talbot 
 * Carrie Underwood 
 
-<onlyinclude>{| clear=both style="border:1px solid #a9a9a9; background:#fafafa; margin-top:0.5em; margin-bottom:0.5em"
-| width=24 align=center | [[Dosya:Commons-logo.svg|left|35px]]
-| [[commons:Main Page|'''Wikimedia Commons''']]'ta <span class="plainlinks"> var [[commons:Category: Oklahoma|Oklahoma]] </span> bilgileri.
-|}</onlyinclude>
-
 {|class="wikitable" border="1" style="float:left; margin:2em; font-size:90%;"
 |+ '''Amerika Birleşik Devletleri'''
 |-style="background:lightgrey;"
@@ -466,6 +461,11 @@
 |align="center" bgcolor="#fff3f3"|'''59.02%''' ''533,039''
 |align="center" bgcolor="#f0f0ff"|40.98% ''533,039''
 |}
+
+<onlyinclude>{| clear=both style="border:1px solid #a9a9a9; background:#fafafa; margin-top:0.5em; margin-bottom:0.5em"
+| width=24 align=center | [[Dosya:Commons-logo.svg|left|35px]]
+| [[commons:Main Page|'''Wikimedia Commons''']]'ta <span class="plainlinks"> var [[commons:Category: Oklahoma|Oklahoma]] </span> bilgileri.
+|}</onlyinclude>
 
 {{Amerika Konfedere Devletleri}}
 {{Amerika Birleşik Devletleri Viliyatları}}
