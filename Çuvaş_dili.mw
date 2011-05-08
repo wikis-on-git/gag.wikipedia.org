@@ -13,10 +13,10 @@
 |-
 | '''Sıra''' || -- 
 |-
-| '''Dil aylesi''' || Altay <br> 
-:Türk dilleri <br>
-:::Ogur<br> 
-::::'''Çuvaş'''<br> 
+| '''Dil aylesi''' || Altay <br /> 
+:Türk dilleri <br />
+:::Ogur<br /> 
+::::'''Çuvaş'''<br /> 
 |-
 | '''Yazı''' || Kirill alfaviti
 |-
@@ -42,7 +42,7 @@
 
 
 
-=== Yazı  ===
+=== Yazı ===
 
 :{{unicode|А Ӑ Б В Г Д Е Ё Ӗ Ж З И Й К Л М Н О П Р С Ҫ Т У Ӳ Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я}}
 :{{unicode|а ӑ б в г д е ё ӗ ж з и й к л м н о п р с ҫ т у ӳ ф х ц ч ш щ ъ ы ь э ю я}}
@@ -51,7 +51,7 @@
 
 
 
-===Hem bak===
+=== Hem bak ===
 
 * [[Gagauz dili]]
 
@@ -106,7 +106,7 @@
 [[ca:Txuvaix]]
 [[crh:Çuvaş tili]]
 [[cs:Čuvaština]]
-[[cu:Чьва́шьскъ ѩꙁꙑ́къ]]
+[[cu:Чьвашьскъ ѩꙁꙑкъ]]
 [[cv:Чăваш чĕлхи]]
 [[de:Tschuwaschische Sprache]]
 [[en:Chuvash language]]
