@@ -3,7 +3,7 @@
 '''Dışandakı borca görä devletlärin listasi'''
 
 {| {{prettytable}} class="wikitable sortable" style="text-align:right"
-! Sıra !!Devlet !! Dış borç<br><small>USD</small> !! İstoriya !! Kişi başına<br><small>USD</small> !! Borç-GSYİH oranı<br><small>%</small>
+! Sıra !!Devlet !! Dış borç<br /><small>USD</small> !! İstoriya !! Kişi başına<br /><small>USD</small> !! Borç-GSYİH oranı<br /><small>%</small>
 |-
 | align="left" | ''[[Dünnää]]''   || 56.900.000.000.000 || 31 Kırım ay (Dekabri) 2009  || 8.422 || 98
 |-
@@ -414,16 +414,16 @@
 
 
 
-===Hem bak===
+=== Hem bak ===
 
 * [[Ekonomika]]
 
 * [[Bilim]]
 
 
-===Dış baalantılar===
+=== Dış baalantılar ===
 
-*[http://www.jedh.org/jedh_instrument.html www.jedh.org] -  dış borç (Joint External Debt Hub)
+* [http://www.jedh.org/jedh_instrument.html www.jedh.org] - dış borç (Joint External Debt Hub)
 
 [[Kategori:Ekonomika]]
 [[Kategori:Bilim]]
@@ -434,7 +434,7 @@
 [[es:Anexo:Deuda externa por país]]
 [[ko:외채액에 따른 나라 목록]]
 [[lt:Sąrašas:Valstybės pagal užsienio skolą]]
-[[pt:Lista de países por dívida externa]]
+[[pt:Anexo:Lista de países por dívida externa]]
 [[ru:Список стран по внешнему долгу]]
 [[tr:Dış borca göre ülkeler listesi]]
 [[zh:各国外债列表]]
