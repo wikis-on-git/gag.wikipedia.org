@@ -13,10 +13,10 @@
 |-
 | '''Sıra''' || -- 
 |-
-| '''Dil aylesi''' || Altay <br> 
-:Türk dilleri <br>
-:::Kıpçak<br> 
-::::'''Kirgiz'''<br> 
+| '''Dil aylesi''' || Altay <br /> 
+:Türk dilleri <br />
+:::Kıpçak<br /> 
+::::'''Kirgiz'''<br /> 
 |-
 | '''Yazı''' || Kiril alfaviti
 |-
@@ -263,7 +263,7 @@
 
 
 
-===Hem bak===
+=== Hem bak ===
 
 * [[Gagauz dili]]
 
@@ -303,7 +303,6 @@
 
 
 {{Türk dilleri}}
-
 
 [[Kategori:Diller]]
 [[Kategori:Türk dilleri]]
@@ -375,4 +374,4 @@
 [[udm:Киргиз кыл]]
 [[ug:قىرغىز تىلى]]
 [[uk:Киргизька мова]]
-[[zh:柯爾克孜語]]
+[[zh:吉尔吉斯语]]
