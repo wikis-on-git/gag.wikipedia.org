@@ -1,6 +1,56 @@
 <!-- Giriş -->
 {{Şablon:Giriş}}
 <!-- Giriş son -->
+
+{| id="mp-upper" style="width: 100%; margin:6px 0 0 0; background:none; border-spacing: 0px;"
+| style="width:50%; background:#FFFFE0; border:1px solid #EECFA1; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
+<!-----    TEST1    ----->
+<div id="mp-tfa"><!--Selector per a [[meta:Mobile]]-->
+{| id="mp-left" style="vertical-align:top; background:#FFFFE0; border-spacing: 0px;"
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-right:0px; padding:0px; font-size:150%; vertical-align:middle; font-weight:normal; width:100%;" | TEST1
+! style="background:#FFDEAD; border:1px solid #EECFA1; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px]]</div>
+|-
+| colspan=2 style="color:#000; background:#FFFFE0; padding:15px 5px" | <div id="mp-itn"><div style="text-align:left; font-size:95%;">
+.......................TEST1.......................</div></div>
+|}</div>
+| style="border:1px solid transparent;" |
+| style="width:50%;background:#f5fffa;border:1px solid #99CC33;padding:10px;margin-bottom:7px; vertical-align:top;-moz-border-radius:1em;-webkit-border-radius:1em;border-radius:1em; " | 
+<!-----    TEST2    ----->
+<div id="mp-itn">
+{| id="mp-left" style="vertical-align:top; background:#f5fffa; border-spacing: 0px;"
+! style="background:#a5e085; border:1px solid #99CC33; border-right:0px; padding:0px; font-size:150%; vertical-align:middle; font-weight:normal; width:100%;" | TEST2 
+! style="background:#a5e085; border:1px solid #99CC33; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px]]</div>
+|-
+| colspan=2 style="color:#000; background:#f5fffa; padding:15px 5px" |<div id="mp-itn"><div style="text-align:left; font-size:95%;">
+.......................TEST2.......................</div></div>
+|}</div>
+|}
+{| id="mp-upper" style="width: 100%; margin:6px 0 0 0; background:none; border-spacing: 0px;"
+| style="width:50%; style="background:#f5faff;border:1px solid #cedff2;padding:10px;margin-bottom:7px; vertical-align:top;-moz-border-radius:1em;-webkit-border-radius:1em;border-radius:1em; " | 
+<!-----    TEST3    ----->
+<div id="mp-dyk">
+{| id="mp-left" style="vertical-align:top; background:#f5faff; border-spacing: 0px;"
+! style="background:#cedff2; border:1px solid #cedff2; border-right:0px; padding:0px; font-size:150%; vertical-align:middle; font-weight:normal; width:100%;" | TEST3
+! style="background:#cedff2; border:1px solid #cedff2; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px]]</div>
+|-
+| colspan=2 style="color:#000; background:#f5faff; padding:15px 5px" | <div id="mp-itn"><div style="text-align:left; font-size:95%;">
+[[File:Gartoon-Gedit-icon.png|50px]]
+....................TEST3................... 
+
+</div></div>
+|}</div>
+| style="border:1px solid transparent;" |
+| style="width:50%; background:#ffeedd; border:1px solid #ffbd7f; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em; " | 
+<!-----   TEST 4   ----->
+<div id="mp-otd">
+{| id="mp-left" style="vertical-align:top; background:#ffeedd; border-spacing: 0px;"
+! style="background:#ffbd7f; border:1px solid #ff9d42; border-right:0px; padding:0px; font-size:150%; vertical-align:middle; font-weight:normal; width:100%;" |TEST4
+! style="background:#ffbd7f; border:1px solid #ff9d42; border-left:0px; padding:0px; vertical-align:middle;" | <div style="float:right;">[[File:Wikibar.png|90px]]</div>
+|-
+| colspan=2 style="color:#000; background:#ffeedd; padding:15px 5px" | <div id="mp-itn"><div style="text-align:left; font-size:95%;">
+..................TEST4..........................
+</div></div>
+|}
 <!-- İçerik -->
 {| style="width:100%; background:none; margin:.5em 0 0 0;" cellspacing=0
 | style="width:63%; border:1px solid #ccdceb; border-radius:4px; -moz-border-radius:4px; background:none; vertical-align:top;" |
