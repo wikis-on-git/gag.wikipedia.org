@@ -1,0 +1,373 @@
+== Kullanımdaki kodlar ==
+Resmi ISO 4217 para birimleri kodları.
+{| class="wikitable"
+|+align="bottom"|
+|-
+! Kod !! № !! E !! Para birimi !! Para birimini kullanan ülkeler
+|-
+| AED || 784 || 2 || [[Drahmi]] || [[Birleşik Arap Emirlikleri]]
+|-
+| AFN || 971 || 2 || [[Afgan (para birimi)|Afgan]] || [[Afganistan]]
+|-
+| ALL || 008 || 2 || [[Lek]] || [[Arnavutluk]]
+|-
+| AMD || 051 || 2 || [[Ermeni Dramı|Dram]] || [[Ermenistan]]
+|-
+| ANG || 532 || 2 || [[Antiller Guldeni]] || [[Hollanda Antilleri]] <!--(assuming Guikder is a typo) (it surely is)-->
+|-
+| AOA || 973 || 2 || [[Kwanza]] || [[Angola]]
+|-
+| ARS || 032 || 2 || [[Arjantin Pesosu]] || [[Arjantin]]
+|-
+| AUD || 036 || 2 || [[Avustralya Doları]] || [[Avustralya]], [[Avustralya Antarktik Bölgesi]], [[Christmas Adası]], [[Cocos (Keeling) Adaları]], [[Heard ve McDonald Adaları]], [[Kiribati]], [[Nauru]], [[Norfolk Adası]], [[Tuvalu]]
+|-
+| AWG || 533 || 2 || [[Aruba Florini]] || [[Aruba]]
+|-
+| AZN || 944 || 2 || [[Yeni Manat|Azerbaycan Manatı]] || [[Azerbaycan]]
+|-
+| BAM || 977 || 2 || [[Konvertible Mark]] || [[Bosna-Hersek]]
+|-
+| BBD || 052 || 2 || [[Barbados Doları]] || [[Barbados]]
+|-
+| BDT || 050 || 2 || [[Taka]] || [[Bangladeş]]
+|-
+| BGN || 975 || 2 || [[Lev|Bulgaristan Levi]] || [[Bulgaristan]]
+|-
+| BHD || 048 || 3 || [[Dinar (para)|Bahreyn Dinarı]] || [[Bahreyn]]
+|-
+| BIF || 108 || 0 || [[Burundi Frankı]] || [[Burundi]]
+|-
+| BMD || 060 || 2 || [[Bermuda Doları]] (Bermuda Dolar olarak da bilinir.) || [[Bermuda]]
+|-
+| BND || 096 || 2 || [[Brunei Doları]] || [[Brunei]]
+|-
+| BOB || 068 || 2 || [[Bolivya Bolivyanosu]] || [[Bolivya]]
+|-
+| BOV || 984 || 2 || Bolivya Mvdolu (Para kodu) || [[Bolivya]]
+|-
+| BRL || 986 || 2 || [[Brazilya Reali]] || [[Brezilya]]
+|-
+| BSD || 044 || 2 || [[Bahama Doları]] || [[Bahamalar]]
+|-
+| BTN || 064 || 2 || [[Ngultrum]] || [[Bhutan]]
+|-
+| BWP || 072 || 2 || [[Botsvana Pulası]] || [[Botsvana Cumhuriyeti]]
+|-
+| BYR || 974 || 0 || [[Belarus Rublesi]] || [[Belarus]]
+|-
+| BZD || 084 || 2 || [[Belize Doları]] || [[Belize]]
+|-
+| CAD || 124 || 2 || [[Kanada Doları]] || [[Kanada]]
+|-
+| CDF || 976 || 2 || [[Kongo Frankı]] || [[Demokratik Kongo Cumhuriyeti]]
+|-
+| CHE || 947 || 2 || [[WIR Bank|WIR Euro]] ([[Tamamlayıcı para birimi]]) || [[İsviçre]]
+|-
+| CHF || 756 || 2 || [[İsviçre Frankı]] || [[İsviçre]]
+|-
+| CHW || 948 || 2 || [[WIR Bank|WIR Franc]] ([[Tamamlayıcı para birimi]]) || [[İsviçre]]
+|-
+| CLF || 990 || 0 || [[Unidades de formento]] (Para kodu) || [[Şili]]
+|-
+| CLP || 152 || 0 || [[Şili Pesosu]] || [[Şili]]
+|-
+| CNY || 156 || 2 || [[Yuan Renminbisi]] || [[Çin]]
+|-
+| COP || 170 || 2 || [[Kolombiya Pesosu]] || [[Kolombiya]]
+|-
+| COU || 970 || 2 || [[Unidad de Valor Real]] || [[Kolombiya]]
+|-
+| CRC || 188 || 2 || [[Kosta Rika Colonu]] || [[Kosta Rika]]
+|-
+| CUP || 192 || 2 || [[Küba Pesosu]] || [[Küba]]
+|-
+| CVE || 132 || 2 || [[Cape Verde Escudosu]] || [[Cape Verde]]
+|-
+| CYP || 196 || 2 || [[Kıbrıs Lirası]] || [[Kıbrıs Cumhuriyeti]]
+|-
+| CZK || 203 || 2 || [[Çek Korunası]] || [[Çek Cumhuriyeti]]
+|-
+| DJF || 262 || 0 || [[Cibuti Frankı]] || [[Cibuti]]
+|-
+| DKK || 208 || 2 || [[Danimarka Kronu]] || [[Danimarka]], [[Faroe Adaları]], [[Grönland]]
+|-
+| DOP || 214 || 2 || [[Dominik Pesosu]] || [[Dominik Cumhuriyeti]]
+|-
+| DZD || 012 || 2 || [[Dinar (para)|Cezayir Dinarı]] || [[Cezayir]]
+|-
+| EEK || 233 || 2 || [[Estonya Kronu]] || [[Estonya]]
+|-
+| EGP || 818 || 2 || [[Mısır Lirası]]/ Gineih || [[Mısır]]
+|-
+| ERN || 232 || 2 || [[Nakfa]] || [[Eritre]]
+|-
+| ETB || 230 || 2 || [[Etiyopya Birri]] || [[Etiyopya]]
+|-
+| EUR || 978 || 2 || [[Avro]] || [[Avrupa Birliği]], ''bkz. [[Avro Alanı]]''
+|-
+| FJD || 242 || 2 || [[Fiji Doları]] || [[Fiji]]
+|-
+| FKP || 238 || 2 || [[Falkland Adaları Lirası]] || [[Falkland Adaları]]
+|-
+| GBP || 826 || 2 || [[İngiliz Sterlini]]/[[İngiliz Lirası]] || [[Birleşik Krallık]]
+|-
+| GEL || 981 || 2 || [[Gürcistan Lirası]]/ Lari || [[Gürcistan]]
+|-
+| GHC || 288 || 2 || [[Cedi]] || [[Gana]]
+|-
+| GIP || 292 || 2 || [[Cebelitarık Lirası]] || [[Cebelitarık]]
+|-
+| GMD || 270 || 2 || [[Dalasi]] || [[Gambia]]
+|-
+| GNF || 324 || 0 || [[Gine Frangı]] || [[Gine]]
+|-
+| GTQ || 320 || 2 || [[Guatemala Kuetzalı]] || [[Guatemala]]
+|-
+| GYD || 328 || 2 || [[Guyana Doları]] || [[Guyana]]
+|-
+| HKD || 344 || 2 || [[Hong Kong Doları]] || [[Hong Kong|Hong Kong Özel İdare Bölgesi]]
+|-
+| HNL || 340 || 2 || [[Honduras Lempirası]] || [[Honduras]]
+|-
+| HRK || 191 || 2 || [[Hırvatistan Kunası]] || [[Hırvatistan]]
+|-
+| HTG || 332 || 2 || [[Haiti Gourde]]|| [[Haiti]]
+|-
+| HUF || 348 || 2 || [[Macar Forinti]] || [[Macaristan]]
+|-
+| IDR || 360 || 2 || [[Rupiah]] || [[Endonezya]]
+|-
+| ILS || 376 || 2 || [[İsrail Yeni Şekeli]] || [[İsrail]]
+|-
+| INR || 356 || 2 || [[Hindistan Rupisi]] || [[Hindistan]]
+|-
+| IQD || 368 || 3 || [[Dinar (para)|Irak Dinarı]] || [[Irak]]
+|-
+| IRR || 364 || 2 || [[İran Riyali]]|| [[İran]]
+|-
+| ISK || 352 || 2 || [[İzlanda Kronası]] || [[İzlanda]]
+|-
+| JMD || 388 || 2 || [[Jamaika Doları]] || [[Jamaika]]
+|-
+| JOD || 400 || 3 || [[Dinar (para)|Ürdün Dinarı]] || [[Ürdün]]
+|-
+| JPY || 392 || 0 || [[Japon Yeni]] || [[Japonya]]
+|-
+| KES || 404 || 2 || [[Kenya Şilini]] || [[Kenya]]
+|-
+| KGS || 417 || 2 || [[Kırgızistan Somu]] || [[Kırgızistan]]
+|-
+| KHR || 116 || 2 || [[Riel]] || [[Kamboçya]]
+|-
+| KMF || 174 || 0 || [[Komoro Frankı]] || [[Komorlar]]
+|-
+| KPW || 408 || 2 || [[Kuzey Kore Wonu]] || [[Kuzey Kore]]
+|-
+| KRW || 410 || 0 || [[Güney Kore Wonu]] || [[Güney Kore]]
+|-
+| KWD || 414 || 3 || [[Dinar (para)|Kuveyt Dinarı]] || [[Kuveyt]]
+|-
+| KYD || 136 || 2 || [[Cayman Adaları Doları]] || [[Cayman Adaları]]
+|-
+| KZT || 398 || 2 || [[Tenge|Kazak Tengesi]] || [[Kazakistan]]
+|-
+| LAK || 418 || 2 || [[Kip]] || [[Laos]]
+|-
+| LBP || 422 || 2 || [[Lübnan Lirası]] || [[Lübnan]]
+|-
+| LKR || 144 || 2 || [[Sri Lanka Rupisi]] || [[Sri Lanka]]
+|-
+| LRD || 430 || 2 || [[Liberya Doları]] || [[Liberya]]
+|-
+| LSL || 426 || 2 || [[Loti]] || [[Lesoto]]
+|-
+| LTL || 440 || 2 || [[Litvanya Litası]] || [[Litvanya]]
+|-
+| LVL || 428 || 2 || [[Letonya Latsı]] || [[Letonya]]
+|-
+| LYD || 434 || 3 || [[Dinar (para)|Libya Dinarı]] || [[Libya]]
+|-
+| MAD || 504 || 2 || [[Fas dirhemi|Fas Dirhemı]] || [[Fas]], [[Batı Sahra]]
+|-
+| MDL || 498 || 2 || [[Moldovya Leusu]] || [[Moldova]]
+|-
+| MGA || 969 || 0 || [[Madagaskar Ariarisi]] || [[Madagaskar]]
+|-
+| MKD || 807 || 2 || [[Dinar (para)|Makedon Dinarı]] || [[Makedonya]]
+|-
+| MMK || 104 || 2 || [[Kyat]] || [[Myanmar|Burma]]
+|-
+| MNT || 496 || 2 || [[Tugrik]] || [[Moğolistan]]
+|-
+| MOP || 446 || 2 || [[Macau Patakası]] || [[Macau]] [[Özel İdare Bölgesi (Çin Halk Cumhuriyeti)|Özel İdare Bölgesi]]
+|-
+| MRO || 478 || 2 || [[Ouguiya]] || [[Moritanya]]
+|-
+| MTL || 470 || 2 || [[Malta Lirası]] || [[Malta]]
+|-
+| MUR || 480 || 2 || [[Mauritius Rupisi]] || [[Mauritius]]
+|-
+| MVR || 462 || 2 || [[Maldiv Rupisi]] [[Rufiyaa]] || [[Maldivler]]
+|-
+| MWK || 454 || 2 || [[Kwacha]] || [[Malavi]]
+|-
+| MXN || 484 || 2 || [[Meksika Pesosu]] || [[Meksika]]
+|-
+| MXV || 979 || 2 || [[Mexican Unidad de Inversion]] (UDI) (Para kodu) || [[Meksika]]
+|-
+| MYR || 458 || 2 || [[Malezya Ringgiti]] || [[Malezya]]
+|-
+| MZN || 943 || 2 || [[Mozambik Metikali]] || [[Mozambik]]
+|-
+| NAD || 516 || 2 || [[Namibya Doları]] || [[Namibya]]
+|-
+| NGN || 566 || 2 || [[Naira]] || [[Nijerya]]
+|-
+| NIO || 558 || 2 || [[Kordoba]] || [[Nikaragua]]
+|-
+| NOK || 578 || 2 || [[Norveç Kronu]] || [[Norveç]]
+|-
+| NPR || 524 || 2 || [[Nepal Rupisi]] || [[Nepal]]
+|-
+| NZD || 554 || 2 || [[Yeni Zelanda Doları]] || [[Cook Adaları]], [[Yeni Zelanda]], [[Niue]], [[Pitcairn]], [[Tokelau]]
+|-
+| OMR || 512 || 3 || [[Umman Riyali]] || [[Umman]]
+|-
+| PAB || 590 || 2 || [[Balboa]] || [[Panama]]
+|-
+| PEN || 604 || 2 || [[Nuevo Sol]] || [[Peru]]
+|-
+| PGK || 598 || 2 || [[Kina]] || [[Papua Yeni Gine]]
+|-
+| PHP || 608 || 2 || [[Filipinler Pesosu]] || [[Filipinler]]
+|-
+| PKR || 586 || 2 || [[Pakistan Rupisi]] || [[Pakistan]]
+|-
+| PLN || 985 || 2 || [[Leh Zlotisi]] || [[Polonya]]
+|-
+| PYG || 600 || 0 || [[Guarani]] || [[Paraguay]]
+|-
+| QAR || 634 || 2 || [[Katar Riyali]] || [[Katar]]
+|-
+| ROL || 642 || 2 || Eski Romanya Leyi || [[Romanya]]
+|-
+| RON || 946 || 2 || [[Rumen leyi|Yeni Ley]] || [[Romanya]]
+|-
+| RSD || 941 || 2 || [[Dinar (para)|Sırbistan Dinarı]] || [[Sırbistan]]
+|-
+| RUB || 643 || 2 || [[Rus Rublesi]] || [[Rusya]], [[Abhazya]], [[Kuzey Osetya]]
+|-
+| RWF || 646 || 0 || [[Rıanda Frankı]] || [[Ruanda]]
+|-
+| SAR || 682 || 2 || [[Suudi Riyali]] || [[Suudi Arabistan]]
+|-
+| SBD || 090 || 2 || [[Solomon Adaları Doları]] || [[Solomon Adaları]]
+|-
+| SCR || 690 || 2 || [[Seyşeller Rupisi]] || [[Seyşeller]]
+|-
+| SDD || 736 || 2 || [[Dinar (para)|Sudan Dinar'ı]] || [[Sudan]]
+|-
+| SEK || 752 || 2 || [[İsveç Kronu]] || [[İsveç]]
+|-
+| SGD || 702 || 2 || [[Singapur Doları]] || [[Singapur]]
+|-
+| SHP || 654 || 2 || [[Saint Helena Lira]] || [[Saint Helena]]
+|-
+| SIT || 705 || 2 || [[Tolar]] || [[Slovenya]]
+|-
+| SKK || 703 || 2 || [[Slovak Korunası]] || [[Slovakya]]
+|-
+| SLL || 694 || 2 || [[Leone]] || [[Sierra Leone]]
+|-
+| SOS || 706 || 2 || [[Somali Şilini]] || [[Somali]]
+|-
+| SRD || 968 || 2 || [[Surinam Doları]] || [[Surinam]]
+|-
+| STD || 678 || 2 || [[Dobra]] || [[Sao Tome ve Principe]]
+|-
+| SYP || 760 || 2 || [[Suriye Lirası]] || [[Suriye]]
+|-
+| SZL || 748 || 2 || [[Lilangeni]] || [[Svaziland]]
+|-
+| THB || 764 || 2 || [[Baht]] || [[Tayland]]
+|-
+| TJS || 972 || 2 || [[Somoni]] || [[Tacikistan]]
+|-
+| TMM || 795 || 2 || [[Manat (Türkmenistan)|Turkmenistan Manatı]] || [[Türkmenistan]]
+|-
+| TND || 788 || 3 || [[Dinar (para)|Tunus Dinarı]] || [[Tunus]]
+|-
+| TOP || 776 || 2 || [[Pa'anga]] || [[Tonga]]
+|-
+| TRL || 949 || 2 || [[Türk Lirası]] || [[Türkiye]] ve Kuzey Kıbrıs Türk Cumhuriyeti
+|-
+| TTD || 780 || 2 || [[Trinidad ve Tobago Doları]] || [[Trinidad Tobago]]
+|-
+| TWD || 901 || 2 || [[Yeni Tayvan Doları]] || [[Tayvan]] ve Çin Cumhuriyeti kontrolü altındaki diğer adalar
+|-
+| TZS || 834 || 2 || [[Tanzanya Şilini]] || [[Tanzanya]]
+|-
+| UAH || 980 || 2 || [[Grivna|Ukrayna Grivnası]] || [[Ukrayna]]
+|-
+| UGX || 800 || 2 || [[Uganda Şilini]] || [[Uganda]]
+|-
+| USD || 840 || 2 || [[Amerikan Doları]] || [[Amerikan Samoa]], [[İngiliz Hint Okyanus Bölgesi]], [[Ekvador]], [[El Salvador]], [[Guam]], [[Haiti]], [[Marshall Adaları]], [[Mikronezya]], [[Kuzey Mariana Adaları]], [[Palau]], [[Panama]], [[Doğu Timor]], [[Turks ve Caicos Adaları]], [[Amerika Birleşik Devletleri|Birleşik Devletler]], [[Virgin Adaları]]
+|-
+| USN || 997 || 2 || || [[Amerika Birleşik Devletleri|ABD]]
+|-
+| USS || 998 || 2 || || [[Amerika Birleşik Devletleri|ABD]]
+|-
+| UYU || 858 || 2 || [[Uruguay Pesosu]] || [[Uruguay]]
+|-
+| UZS || 860 || 2 || [[Özbekistan Somu]] || [[Özbekistan]]
+|-
+| VEB || 862 || 2 || [[Venezuela Bolivarı]] || [[Venezuela]]
+|-
+| VND || 704 || 2 || [[Dong]] || [[Vietnam]]
+|-
+| VUV || 548 || 0 || [[Vatu]] || [[Vanuatu]]
+|-
+| WST || 882 || 2 || [[Samoa Talası]] || [[Samoa]]
+|-
+| XAF || 950 || 0 || [[CFA Franc BEAC]] || [[Kamerun]], [[Orta Afrika Cumhuriyeti]], [[Kongo]], [[Çad]], [[Ekvator Ginesi]], [[Gabon]]
+|-
+| XAU || 961 || . || [[Gümüş]] (1 [[Troy ons]]) (=31.1034768 gram) ||
+|-
+| XAU || 959 || . || [[Altın]] (1 [[Troy ons]]) (=31.1034768 gram)||
+|-
+| XBA || 955 || . || [[Avrupa Para Birimi]]  (EURCO) (Bond Piyasası Birimi) ||
+|-
+| XBB || 956 || . || [[Avrupa Para Birimi]]  (E.M.U.-6) (Bond Piyasası Birimi) ||
+|-
+| XBC || 957 || . || [[Avrupa Hesap Birimi 9]] (E.U.A.-9) (Bond Piyasası Birimi) ||
+|-
+| XBD || 958 || . || [[Avrupa Hesap Birimi 17]] (E.U.A.-17) (Bond Piyasası Birimi) ||
+|-
+| XCD || 951 || 2 || [[Doğu Karayip Doları]] || [[Anguilla]], [[Antigua ve Barbuda]], [[Dominika]], [[Grenada]], [[Montserrat]], [[Saint Kitts ve Nevis]], [[Saint Lucia]], [[Saint Vincent ve Grenadinler]]
+|-
+| XDR || 960 || . || [[Özel Çekme Hakları]] || [[Uluslararası Para Fonu]]
+|-
+| XFO || Nil || . || [[Altın Frank]] (özel ödeme para birimi) || [[Uluslararası Ödemeler Bankası]]
+|-
+| XFU || Nil || . || [[UIC Frank]] (özel ödeme para birimi) || [[Uluslararası Demiryolları Birliği]]
+|-
+| XOF || 952 || 0 || [[CFA Franc BCEAO]] || [[Benin]], [[Burkina Faso]], [[Fildişi Sahili]], [[Gine-Bissau]], [[Mali]], [[Nijer]], [[Senegal]], [[Togo]]
+|-
+| XPD || 964 || . || [[Palladium]] (1 [[3 gram Truva]]) ||
+|-
+| XPF || 953 || 0 || [[CFP franc]] || [[Fransız Polinezyası]], [[Yeni Kaledonya]], [[Wallis ve Futuna]]
+|-
+| XPT || 962 || . || [[Platin]] (1 [[3 gram Truva]])(= 31.1034768 gram)||
+|-
+| XTS || 963 || . || test edilen para birimleri için kullanılır ||
+|-
+| XXX || 999 || . || Böyle Bir Para Birimi Yok||
+|-
+| YER || 886 || 2 || [[Yemen Riyali]] || [[Yemen]]
+|-
+| ZAR || 710 || 2 || [[Güney Afrika Randı]] || [[Güney Afrika]]
+|-
+| ZMK || 894 || 2 || [[Kwacha]] || [[Zambiya]]
+|-
+| ZWD || 716 || 2 || [[Zimbabve Doları]] || [[Zimbabve]]
+|}
