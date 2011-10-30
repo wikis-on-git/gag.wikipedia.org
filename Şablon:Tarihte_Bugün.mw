@@ -4,7 +4,7 @@
 '''Tarihte bugün''' sayfası, insanları bilgilendirme amacı ile geçmişte ilgili günlerde hangi olayların yaşandığını ve kimlerin doğup kimlerin öldüğünü listelemektedir. Sayfanın amacı, [[Ana Sayfa|Vikipedi ana sayfasındaki]] "[[Vikipedi:Tarihte bugün|Tarihte bugün]]" bölümüne içerik sağlamak ve her gün sağlıklı bir şekilde güncellenmesini mümkün kılmaktır. Bu sayfayı güncellerken [[Vikipedi:Cesur ol|cesur olun]], ancak [[#Bu sayfalara bilgi eklerken dikkat edilmesi gereken hususlar|yönergelere]] uygun hareket ettiğinizden de emin olun.
 </noinclude> 
 
-{{:tr:Vikipediya:Tarihte bugün/{{CURRENTDAY}}_{{CURRENTMONTHNAME}}}}
+{{Vikipediya:Tarihte bugün/{{CURRENTDAY}}_{{CURRENTMONTHNAME}}}}
 
 
 <noinclude> 
