@@ -1,0 +1,75 @@
+<noinclude> 
+<center>Bugün [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]], [[{{CURRENTDAYNAME}}]]; şu an saat {{CURRENTTIME}} ([[UTC]])</center>
+
+'''Tarihte bugün''' sayfası, insanları bilgilendirme amacı ile geçmişte ilgili günlerde hangi olayların yaşandığını ve kimlerin doğup kimlerin öldüğünü listelemektedir. Sayfanın amacı, [[Ana Sayfa|Vikipedi ana sayfasındaki]] "[[Vikipedi:Tarihte bugün|Tarihte bugün]]" bölümüne içerik sağlamak ve her gün sağlıklı bir şekilde güncellenmesini mümkün kılmaktır. Bu sayfayı güncellerken [[Vikipedi:Cesur ol|cesur olun]], ancak [[#Bu sayfalara bilgi eklerken dikkat edilmesi gereken hususlar|yönergelere]] uygun hareket ettiğinizden de emin olun.
+</noinclude> 
+
+{{Wp/tr/Vikipediya:Tarihte bugün/{{CURRENTDAY}}_{{CURRENTMONTHNAME}}}}
+
+
+<noinclude> 
+<br>
+== Bu sayfalara bilgi eklerken dikkat edilmesi gereken hususlar ==
+Yılın her gününde birçok önemli olay yaşanması nedeniyle, tarihte bugün listelerine seçilecek olaylar için özel kısıtlamalar getirilmiştir. Bağlantısı olan maddenin kalitesinin yanında şu ölçütlerde gözetilir:
+# En fazla 10 olay, 5 doğum ve 5 ölüm eklenebilir.
+# Tüm metinler '''-di'li geçmiş zaman'''da yazılmalıdır.
+# Listeye girecek olayın diğer adaylara göre tarihî etkisinin daha fazla olması gerekmektedir.
+# Bağlantısı olan maddelerin tarihte bugün sayfasında verilen bilgiden yoksun olmaları durumunda, bu maddeler güncellenmelidir.
+# Maddelere bağlantı verilirken [[Vikipedi:Taslak madde|taslak maddeler]] yerine, geniş içeriğe sahip maddeler seçilmelidir.
+# Seçilen konular belli bir konuya veya Türkiye Cumhuriyeti vatandaşlarına/olaylarına odaklanmış olmamalıdır.
+
+== Gün sayfalarına resim ekleme ölçütleri ==
+# Herhangi bir gün için sadece bir tane resim eklenebilir. Ancak resim, o gün dahil olmak üzere, istenildiği zaman değiştirilebilir.
+# Resim 100 px genişlik ve 150 px yükseklikten daha büyük <u>olmamalıdır</u>.
+# Sadece öneri niteliğinde olsa da; eğer sola dönük bir kişi resmi ve sağa dönük bir kişi resmi arasında tercih yapmanız gerekiyorsa, sola dönük olanı tercih ediniz. Bu tür bir seçim okuyucunun ilgisini ilgili metne yönlendirecektir.
+# Ana sayfaya sadece özgür lisanslı ([[Kamu malı]], [[GÖBL]], [[Creative Commons]] vs.) resimler eklenebilir. '''Adil kullanım resimlerine izin verilmemektedir.'''
+
+==Resim kodu==
+Resim kodu:<nowiki>
+<div style="float:right;margin-left:0.5em">
+[[Resim:Resim dosyasının adı.jpg|100px|Resim alt yazısı]]
+</div>
+</nowiki><!--100 px genişlik ve 150 px yükseklikten daha büyük olmamalı-->
+
+------
+{{Tarihte Bugün Çubuk}}
+[[Kategori:Tarihte bugün| ]]
+[[Kategori:Vikipedi Ana Sayfa|Tarihte bugün]]
+
+[[af:Wikipedia:Uitgesoekte herdenkings]]
+[[ang:Wikipedia:Gecorene gemynddagas]]
+[[ar:ويكيبيديا:حدث في مثل هذا اليوم]]
+[[be-x-old:Вікіпэдыя:Дзень у гісторыі]]
+[[bg:Уикипедия:Избрани годишнини]]
+[[bs:Wikipedia:Na današnji dan]]
+[[ca:Viquipèdia:Efemèrides seleccionades]]
+[[cs:Wikipedie:Vybraná výročí dne]]
+[[da:Wikipedia:Årets dage kort]]
+[[de:Wikipedia:Hauptseite/Jahrestage]]
+[[el:Πύλη:Κύρια/Επιλεγμένα Γεγονότα]]
+[[en:Wikipedia:Selected anniversaries]]
+[[es:Wikipedia:Efemérides]]
+[[eu:Wikipedia:Urteurrenak]]
+[[fa:ویکی‌پدیا:یادبودهای برگزیده]]
+[[fi:Wikipedia:Päivämalline]]
+[[ga:Vicipéid:Laethanta roghnaithe]]
+[[gan:Wikipedia:許年今日]]
+[[gl:Wikipedia:Efemérides destacadas]]
+[[he:ויקיפדיה:היום בהיסטוריה]]
+[[hr:Wikipedija:Izabrane godišnjice]]
+[[hu:Wikipédia:Évfordulók]]
+[[ko:위키백과:오늘의 역사]]
+[[mk:Википедија:Проект:На денешен ден]]
+[[ms:Wikipedia:Hari ulang tahun pilihan]]
+[[nl:Wikipedia:Dag uit de geschiedenis]]
+[[no:Wikipedia:Hendelser]]
+[[pl:Wikipedia:Wybrane rocznice]]
+[[pt:Wikipedia:Efemérides]]
+[[sl:Wikipedija:Izbrane obletnice]]
+[[sr:Википедија:Изабрани догађаји]]
+[[sv:Wikipedia:Dagens händelser]]
+[[th:วิกิพีเดีย:วันนี้ในอดีต]]
+[[vi:Wikipedia:Ngày này năm xưa]]
+[[yo:Wikipedia:Àwọn Ìṣẹ̀lẹ̀ Bíi Ọjọ́ Òní]]
+[[zh:Wikipedia:历史上的今天]]
+</noinclude>
