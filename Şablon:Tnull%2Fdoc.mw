@@ -1,0 +1,36 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+===Usage===
+'''Tnull''' is used to nullify templates in the monospaced font. It is similar to {{tlx|tlx}} in the way that it has support for many parameters.
+
+=== Example ===
+Typing <code>&#123;&#123;tnull|foo|bar|baz|boo&#125;&#125;</code> in the "edit-form" would yield <code>&#123;&#123;foo|bar|baz|boo&#125;&#125;</code> in the "read-mode".
+
+=== Note on the "=" character ===
+If there is a "=" character in ''any'' parameter, you must replace it with <code>&amp;#61;</code> as in:
+:<code>&#123;&#123;tnull|click|image&amp;#61;<var>image name</var>|width&amp;#61;<var>width</var>|height&amp;#61;<var>height</var>|link&amp;#61;<var>page name</var>&#125;&#125;</code>
+
+Or you can use <code><var>parameter-number</var>=<var>value</var></code> as in:
+:<code>&#123;&#123;tnull|click|2=image=<var>image name</var>|3=width=<var>width</var>|4=height=<var>height</var>|5=link=<var>page name</var>&#125;&#125;</code>
+
+Either method would yield the following output:
+:{{tnull|click|2=image=<var>image name</var>|3=width=<var>width</var>|4=height=<var>height</var>|5=link=<var>page name</var>}}
+
+=== See also ===
+* {{tlx|tlc}} – No link, several parameters and text in <code>&lt;code>&lt;/code></code> style.
+* {{tlx|tld}} – No link, several parameters and <tt>teletype</tt> text style.
+* {{tlx|tlf}} – No link, several parameters and normal text style.
+* {{tlx|tl}} –  Template link, no parameters and normal text style.
+* {{tlx|tlx}} – Template link, several parameters and interwiki links, <tt>teletype</tt> text style.
+* {{tlx|tn}} – Same as {{tlx|tl}} except it shows the braces as part of the link.
+
+<includeonly>
+<!-- ADD CATEGORIES AND INTERWIKIS BELOW THIS LINE -->
+[[Category:Typing-aid templates|{{PAGENAME}}]]
+
+</includeonly>
+
+<noinclude>
+[[hy:Կաղապար:Tnull]]
+[[zh:Template:Tnull/doc]]
+</noinclude>
