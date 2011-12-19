@@ -1,0 +1,106 @@
+<div style="float: right; margin: 0 0 1em 1em; width: auto; text-align: center; font-size: 90%; line-height: 1.4em; font-family: lucida grande, sans-serif;">
+
+<!-- start of floated right section -->
+<div style="border: 1px solid #ccd2d9; width: 23.5em; background:#f9f9f9; text-align: center; padding: 0.5em 1em 0.5em 1em; text-align: center;">
+
+<!-- start of slate grey box -->
+{| style="background: transparent; text-align: cener; table-layout: auto; border-collapse: collapse; padding: 0; font-size: 100%;" cellspacing="2" cellpadding="2"
+|+ style="margin-center: inherit; font-size: 135%; padding-bottom: 0.5em; line-height: 1.1em;" |  
+|-
+| align="center" style="background:#FFDEAD"  colspan="5" |  
+|-
+<!----- Resim ----->
+| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{resim}}}|260px|center]]
+|-
+<!----- bayrak ve arma ----->
+|colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{bayrak}}}|120px|left]][[Image:{{{arma}}}|60px|right]]
+|-
+<!----- Devlet ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Devlet'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{devlet}}}
+|-
+<!----- Toprak ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Toprak'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{toprak}}}
+|-
+<!----- Nüfus ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Nüfus'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{nüfus}}}
+|-
+<!----- Yoğunluk ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''yoğunluk'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{yoğunluk}}}
+|-
+<!----- Yükseklik----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Yükseklik'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{yükseklik}}}
+|-
+<!----- Prezident----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''Prezident'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{prezident}}}
+|-
+<!----- telefon kodu----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''Telefon Kodu'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{telefon_kodu}}}
+|-
+<!----- araba kodu----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''Araba Kodu'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{araba_kodu}}}
+|-
+<!----- İşsizlik----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''İşsizlik'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{işsizlik}}}
+|-
+<!----- Vakit bölgesi----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''Vakit Bölgesi'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{vakit_bölgesi}}}
+|-
+<!----- Web----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''Web'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{web}}}
+|-
+|align="center" style="background:#f9f9f9"  colspan="5" |                    
+|-
+<div style="width:100%; height:45px; overflow:hidden; padding: 0px; border:solid #FFDEAD 0px; background-color:#FFDEAD;">[[File:Gagkasabapanorama.jpg|270px|right]]</div>
+<div style="position:absolute; top: 10px;; right: 140px; height: 40px; ">
+{{Template:Kasaba/Intro}}
+<!----- footnotes ----->
+{{#if: {{{footnotes|}}} |
+{{!}} colspan="2" style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" {{!}} <small>{{{footnotes|}}}</small> }}
+|}
+</div></div>
+
+<!-- end of slate grey box -->
+<noinclude>
+
+==kullanım==
+<pre>
+{{Template:Kasaba bilgi
+|resim = 
+|bayrak =
+|arma =
+| {{Location map
+|ülke	
+|label=şehir		
+|lat_dir=N
+| lat_deg=0 
+| lat_min=00	
+| lat_sec=0	
+|lon_dir=E 
+| lon_deg=0 
+| lon_min=0
+| lon_sec=0
+}}
+|devlet = 
+|toprak= 
+|nüfus = 
+|yoğunluk = 
+|yükseklik = 
+|prezident = 
+|araba_kodu =
+|telefon_kodu =
+|işsizlik =
+|vakit_bölgesi =
+|web    =
+}}
+</pre>
