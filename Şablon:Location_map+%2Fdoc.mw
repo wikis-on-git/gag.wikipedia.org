@@ -1,0 +1,369 @@
+{{documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+
+{{Location map+|England|width=300|AlternativeMap=England_locator_map_w_Northumberland_highlighted.svg|alt=Map of England showing the locations of towns and battles. Bosworth is in the centre, northwest of London.|float=right|caption=<span style="font-size:95%;">[[File:Battle icon active (crossed swords).svg|16px|link=]] [[Battle of Bosworth Field]] [[File:Battle icon (crossed swords).svg|14px|link=]] other battles</span> |places=
+  {{Location map~ |England |label='''[[Battle of Bosworth Field|Bosworth]]''' |label_size=86 |position=right |lat=52.591265 |long=-1.410327 |mark=Battle_icon_active_(crossed_swords).svg |marksize=18 |link=Battle of Bosworth Field}}
+  {{Location map~ |England |label=[[Battle of Blore Heath|Blore Heath]] |label_size=86 |position=top |lat=52.913611 |long=-2.424722 |mark=Battle_icon_(crossed_swords).svg |marksize=16 |link=Battle of Blore Heath}}
+  {{Location map~ |England |label=[[Battle of Barnet|Barnet]] |label_size=86 |position=top |lat=51.662233 |long=-0.200039 |mark=Battle_icon_(crossed_swords).svg |marksize=16 |link=Battle of Barnet}}
+  {{Location map~ |England |label=[[Battle of Stoke Field|Stoke]] |label_size=86 |position=top |lat=53.029058 |long=-0.892586 |mark=Battle_icon_(crossed_swords).svg |marksize=16 |link=Battle of Stoke Field}}
+  {{Location map~ |England |label=[[Battle of Tewkesbury|Tewkesbury]] |label_size=86 |position=top |lat=51.986389 |long=-2.161389 |mark=Battle_icon_(crossed_swords).svg |marksize=16 |link=Battle of Tewkesbury}}
+  {{Location map~ |England |label=Berwick |label_size=86 |position=bottom |lat=55.771 |long=-2.007 |mark=Steel pog.svg |marksize=6}}
+  {{Location map~ |England |label=London |label_size=86 |position=bottom |lat=51.507778 |long=-0.128056 |mark=Steel pog.svg |marksize=6}}
+  {{Location map~ |England |label=York |label_size=86 |position=bottom |lat=53.958333 |long=-1.096667 |mark=Steel pog.svg |marksize=6}}
+  {{Location map~ |England |label=Plymouth |label_size=86 |position=bottom |lat=50.371397 |long=-4.142431 |mark=Steel pog.svg |marksize=6}}
+  {{Location map~ |England |label=Poole |label_size=86 |position=bottom |lat=50.71942 |long=-1.98113 |mark=Steel pog.svg |marksize=6}}
+  {{Location map~ |England |label=Wem |label_size=86 |position=left |lat=52.8555 |long=-2.7211 |mark=Steel pog.svg |marksize=6}}
+  {{Location map~ |England |label=Northumberland |label_size=86 |position=right |lat=55.1 |long=-1.68 |mark=Steel pog.svg |marksize=1}}
+  {{Location map~ |England |label=Shrewsbury |label_size=86 |position=bottom |lat=52.7077 |long=-2.7541 |mark=Steel pog.svg |marksize=6}}
+  {{Location map~ |England |label=Milford Haven |label_size=86 |position=bottom |lat=51.71418 |long=-5.04274 |mark=Steel pog.svg |marksize=6}}
+}}
+
+This template places one or more location marks on a map, with optional labels. It is in the same family of templates as the [[Template:Location map|Location map]] template and the documentation for that template might be helpful.
+
+This template uses a helper template, [[Template:Location map~|Location map~]], one or more times to generate a mark for each location.
+
+== Usage ==
+
+{|
+|- valign=top
+|<pre style="width:15em; margin-right:2em;">
+{{Location map+
+| {{{1}}}
+| width          =
+| float          =
+| border         =
+| caption        =
+| alt            =
+| relief         =
+| AlternativeMap =
+| overlay_image  =
+| places         =
+}}</pre>
+|<pre style="width:15em;">
+{{Location map~
+| {{{1}}}
+| label      =
+| label_size =
+| position   =
+| background =
+| mark       =
+| marksize   =
+| link       =
+| lat_deg    =
+| lat_min    =
+| lat_sec    =
+| lat_dir    =
+| lon_deg    =
+| lon_min    =
+| lon_sec    =
+| lon_dir    =
+}}</pre>
+|}
+
+{{clear}}
+
+== Parameters ==
+{| class="wikitable" style="width:100%;"
+|+ Parameters for Location map+
+! Parameter
+! Description
+|-
+| <tt>{{{1}}}</tt>
+| Required. Use the name of the map as the first unnamed parameter. For example, specify ''England'' to use the values in {{tl|Location map England}}. See the [[#Examples|examples]] below.
+|-
+| <tt>width</tt>
+| Determines the width of the map in [[pixel]]s. The default is 240. Do not include <code>px</code>, for example: <code>width=300</code>, not <code>width=300px</code>.
+|-
+| <tt>float</tt>
+| Specifies the position of the map on the page. Valid values are <code>left</code>, <code>right</code>, <code>center</code> and <code>none</code>. The default is <code>right</code>''.
+|-
+| <tt>border</tt>
+|  Specifies the color of the 1px map border. The default is ''lightgrey'' (see [[web colors]]). If set to <code>none</code>, no border will be generated. This parameter is seldom used.
+|-
+| <tt>caption</tt>
+| The text of a caption to be displayed below the map. Specifying a caption will cause the map to be displayed with a frame. If <code>caption</code> is defined but is not assigned a value, the map will not be framed and no caption will be displayed. If <code>caption</code> is not defined, the map will not be framed and a default caption will be generated. The default caption is created from the <tt>label</tt> parameter (or the current page name if label not defined) and the <tt>name</tt> parameter from map definition template. See the [[#Examples|examples]] below.
+|-
+| <tt>alt</tt>
+| Alt text for map; used by [[screen reader]]s, see [[WP:ALT]].
+|-
+| <tt>relief</tt>
+| Any non-blank value (1, yes, etc.) will cause the template to display the map specified in the map definition template as <tt>image1</tt>, which is usually a [[Relief mapping (computer graphics)|relief map]]. See the example at [[Template:Location map+/relief|Location map+/relief]].
+|-
+| <tt>AlternativeMap</tt>
+| Allows the use of an alternative map. The image must have the same edge coordinates as the location map template. See the example at [[Template:Location map+/AlternativeMap|Location map+/AlternativeMap]].
+|-
+| <tt>overlay_image</tt>
+| Allows an overlay to be superimposed on the map. This parameter is seldom used. See the example at [[Template:Location map+/overlay|Location map+/overlay]].
+|-
+| <tt>places</tt>
+| Specifies one or more place markers using <code>Location map~<code>.
+|}
+
+{| class="wikitable" style="width:100%;"
+|+ Parameters for Location map~
+! Parameter
+! Description
+|-
+| <tt>{{{1}}}</tt>
+| Required. Use the name of the map as the first unnamed parameter. For example, specify ''England'' to use the values in {{tl|Location map England}}. See the [[#Examples|examples]] below.
+|-
+| <tt>label</tt>
+| The text of the label to display next to the mark. A [[Wiki markup|wiki link]] can be used. The default if not specified is no label, just the marker.
+|-
+| <tt>label_size</tt>
+|  The font size to use for the label, given as a percentage of the normal font size (<100 = smaller, >100 = larger). The default is 90. Do not include <code>%</code>, for example: <code>label_size=80</code>, not <code>label_size=80%</code>.
+|-
+| <tt>position</tt>
+| The position of the label relative to the mark. Valid values are <code>left</code>, <code>right</code>, <code>top</code> and <code>bottom</code>. The default is <code>right</code>''.
+|-
+| <tt>background</tt>
+| The background color to use for the label. See [[Web colors]]. The default is no background color, which shows the map image behind the label.
+|-
+| <tt>mark</tt>
+| The name of an image to display as the mark. The default is [[:File:Red pog.svg|Red pog.svg]] ([[File:Red pog.svg|8px]]). See examples at [[Commons:Location markers]] and [[Commons:Category:Map icons]].
+|-
+| <tt>marksize</tt>
+| The size of the mark in [[pixel]]s. The default is 8. Do not include <code>px</code>, for example: <code>marksize=10</code>, not <code>marksize=10px</code>.
+|-
+| <tt>link</tt>
+| Specifies a [[Wiki markup|wiki link]] which will be followed if the reader clicks on the mark. The name of the linked article is displayed when the mouse pointer hovers over the mark.
+|-
+|<tt>lat_deg</tt>
+| Required. The degrees of [[latitude]]. This value can be specified using [[decimal degrees]] and when this format is used minutes and seconds should not be specified.
+|-
+| <tt>lat_min</tt>
+| The minutes of latitude.
+|-
+| <tt>lat_sec</tt>
+| The seconds of latitude. Usually not necessary.
+|-
+| <tt>lat_dir</tt>
+| N if north (default value) or S for south of the [[Equator]]. Other values will be disregarded. Not required if using signed decimal degrees (i.e. negative numbers for southern latitude).
+|-
+| <tt>lon_deg</tt>
+| Required. The degrees of [[longitude]]. This value can be specified using [[decimal degrees]] and when this format is used minutes and seconds should not be specified.
+|-
+| <tt>lon_min</tt>
+| The minutes of longitude.
+|-
+| <tt>lon_sec</tt>
+| The seconds of longitude. Usually not necessary.
+|-
+| <tt>lon_dir</tt>
+| E for east (default value) or W for west of the [[Prime Meridian]]. Other values will be disregarded. Not required if using signed decimal degrees (i.e. negative numbers for western longitude).
+|}
+
+== Available map templates ==
+
+Location map templates can be found using these sources:
+
+:[[Template:Location map/List|List of templates]] - 1050 templates available when the list was generated.
+:[[:Category:Location map templates]] - templates sorted by category.
+:[[Special:WhatLinksHere/Template:Location map/Info]] - a search that might help.
+:[[Special:Prefixindex/Template:Location map]] - another search that might help.
+
+== Examples ==
+
+This example does not designate the <code>caption</code> parameter. It demonstrates the use of the defaults. Notice that the default caption is the page name followed by the map name in parenthesis and that the label position is automatically adjusted if it is too close to an edge.
+
+{{Location map+ | Australia
+| places =
+  {{Location map~ | Australia
+    | label = Sydney
+    | lat_deg = -33.86
+    | lon_deg = 151.21 }}
+  {{Location map~ | Australia
+    | label = Melbourne
+    | lat_deg = -37.81
+    | lon_deg = 144.96 }}
+}}
+<pre style="width:35em;">
+{{Location map+ | Australia
+| places =
+  {{Location map~ | Australia
+    | label = Sydney
+    | lat_deg = -33.86
+    | lon_deg = 151.21 }}
+  {{Location map~ | Australia
+    | label = Melbourne
+    | lat_deg = -37.81
+    | lon_deg = 144.96 }}
+}}</pre>
+
+{{clear}}
+
+This example uses a designated but empty <code>caption</code>. It demonstrates coordinates using [[decimal degrees]] and a 10px mark with a link.
+
+{{Location map+ | France
+| caption =
+| places =
+  {{Location map~ | France
+    | label = Paris
+    | position = top
+    | marksize = 10
+    | link = Paris
+    | lat_deg = 48.8567
+    | lon_deg = 2.3508
+  }}
+  {{Location map~ | France
+    | label = Marseille
+    | position = top
+    | marksize = 10
+    | link = Marseille
+    | lat_deg = 43.2964
+    | lon_deg = 5.3610
+  }}
+}}
+<pre style="width:35em;">
+{{Location map+ | France
+| caption =
+| places =
+  {{Location map~ | France
+    | label = Paris
+    | position = top
+    | marksize = 10
+    | link = Paris
+    | lat_deg = 48.8567
+    | lon_deg = 2.3508
+  }}
+  {{Location map~ | France
+    | label = Marseille
+    | position = top
+    | marksize = 10
+    | link = Marseille
+    | lat_deg = 43.2964
+    | lon_deg = 5.3610
+  }}
+}}
+</pre>
+{{clear}}
+
+This example uses <code>caption</code> with an assigned value. It demonstrates coordinates in degree, minute, second format, a relief map, label background color and linked labels.
+
+{{Location map+ | USA2
+| width = 300
+| caption = Some cites in the United States
+| relief = 1
+| places =
+  {{Location map~ | USA2
+    | label = [[New York City|New York]]
+    | position =
+    | background = white
+    | mark = Cyan pog.svg
+    | alt = alt text for New York City
+    | link = New York City
+    | lat_deg = 40 | lat_min = 43 | lat_dir = N
+    | lon_deg = 74 | lon_min = 0  | lon_dir = W
+  }}
+  {{Location map~| USA2
+    | label = [[San Francisco]]
+    | position =
+    | background = white
+    | mark = Purple pog.svg
+    | alt = alt text for San Francisco
+    | link = San Francisco
+    | lat_deg = 37  | lat_min = 46 | lat_dir = N
+    | lon_deg = 122 | lon_min = 25 | lon_dir = W
+  }}
+}}
+<pre style="width:35em;">
+{{Location map+ | USA2
+| width = 300
+| caption = Some cites in the United States
+| relief = 1
+| places =
+  {{Location map~ | USA2
+    | label = [[New York City|New York]]
+    | position =
+    | background = white
+    | mark = Cyan pog.svg
+    | alt = alt text for New York City
+    | link = New York City
+    | lat_deg = 40 | lat_min = 43 | lat_dir = N
+    | lon_deg = 74 | lon_min = 0  | lon_dir = W
+  }}
+  {{Location map~| USA2
+    | label = [[San Francisco]]
+    | position =
+    | background = white
+    | mark = Purple pog.svg
+    | alt = alt text for San Francisco
+    | link = San Francisco
+    | lat_deg = 37  | lat_min = 46 | lat_dir = N
+    | lon_deg = 122 | lon_min = 25 | lon_dir = W
+  }}
+}}
+</pre>
+
+Also see the examples on the [[Template:Location map|Location map]] page, as well as:
+* [[Template:Location map+/relief]], an example using the ''relief'' parameter
+* [[Template:Location map+/AlternativeMap]], an example using the ''AlternativeMap'' parameter
+* [[Template:Location map+/overlay]], an example using the ''overlay_image'' parameter
+
+==See also==
+* [[Template:Location map]], displays one mark using latitude and longitude
+* [[Template:Location map many]], displays up to nine marks using latitude and longitude
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Graphic templates]]
+[[Category:Location map templates| ]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+[[af:Sjabloon:Location map+]]
+[[ar:قالب:خارطة مواقع+]]
+[[as:সাঁচ:Location map+]]
+[[az:Şablon:Yer xəritəsi+]]
+[[ba:Ҡалып:ПозКарта+]]
+[[be:Шаблон:На карце+]]
+[[be-x-old:Шаблён:Лякалізацыйная мапа/Пункты]]
+[[bg:Шаблон:ПК+]]
+[[ca:Plantilla:Location map+]]
+[[ce:Куцкеп:ПозКарта+]]
+[[cs:Šablona:LocMap vícenásobně]]
+[[cv:Шаблон:ПозКартти+]]
+[[de:Vorlage:Positionskarte+]]
+[[diq:Template:Location map+]]
+[[dsb:Pśedłoga:LocMap+]]
+[[en:Template:Location map+]]
+[[eo:Ŝablono:Situo sur mapo/+]]
+[[es:Plantilla:Mapa de localización+]]
+[[eu:Txantiloi:Kokapen mapa+]]
+[[fi:Malline:Location map+]]
+[[ka:თარგი:პოზრუკა+]]
+[[kbd:Template:Location map+]]
+[[kk:Үлгі:ПозКарта+]]
+[[ko:틀:위치 지도+]]
+[[hi:साँचा:Location map+]]
+[[hr:Predložak:Lokacijska karta+]]
+[[hsb:Předłoha:LocMap+]]
+[[hy:Կաղապար:Տեղորոշման քարտեզ+]]
+[[id:Templat:Location map+]]
+[[it:Template:Mappa di localizzazione+]]
+[[ja:Template:Location map+]]
+[[koi:Шаблон:ПозКарта+]]
+[[krc:Шаблон:Геолокализация+]]
+[[ku:Şablon:Nexşeya cihan+]]
+[[lt:Šablonas:Location map+]]
+[[mhr:Кышкар:ПозКарта+]]
+[[mn:Загвар:Location map+]]
+[[ms:Templat:Location map+]]
+[[ne:ढाँचा:Location map+]]
+[[nl:Sjabloon:Positiekaart+]]
+[[no:Mal:Kartposisjon+]]
+[[os:Шаблон:ПозКартæ+]]
+[[pl:Szablon:Mapa lokalizacyjna+]]
+[[pt:Predefinição:Location map+]]
+[[ru:Шаблон:ПозКарта+]]
+[[rue:Шаблона:ПозКарта+]]
+[[simple:Template:Location map+]]
+[[sl:Predloga:Lokacijska karta+]]
+[[th:แม่แบบ:Location map+]]
+[[tr:Şablon:Harita konum+]]
+[[tt:Калып:ПозХарита+]]
+[[uk:Шаблон:Карта розташування+]]
+[[vi:Bản mẫu:Bản đồ định vị+]]
+[[xal:Кевләр:ПозКарта+]]
+[[yo:Àdàkọ:Location map+]]
+[[zh:Template:Location map+]]
+</includeonly>
