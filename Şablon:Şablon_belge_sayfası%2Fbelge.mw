@@ -1,0 +1,62 @@
+==Kullanım==
+
+'''Şablon belge sayfası''' şablonu, şablonların açıklamalarının yeraldığı /belge sayfalarının tepesine yerleştirilir
+<pre>{{Şablon belge sayfası}}</pre>
+
+==Yapısı==
+<pre>{{#ifeq: {{PAGENAME}} | {{BASEPAGENAME}} ...</pre>
+
+<pre>{{şablon belge sayfası bağlantılı kopyalama}}</pre>
+<pre>{{şablon belge sayfası doğrudan gösterme}}</pre>
+Eğer şablon sayfasındaysak o şablonu uygun kategoriye sokalım: 
+<pre><includeonly>
+{{#ifeq: {{PAGENAME}} | {{BASEPAGENAME}} | [[Kategori:Şablon belgele|{{PAGENAME}}]]...
+</pre>
+
+==Ayrıca bakınız==
+*Aynı amaçla hazırlanmış [[Şablon:Belgeleme altsayfası]]
+
+<includeonly><!-- 
+KATEGORİLER VE INTERWIKI'LER BURAYA LÜTFEN!
+-->
+[[Kategori:Şablon isim alanı şablonları |{{PAGENAME}}]]
+[[Kategori:Şablon belgelemesi| ]]
+
+[[als:Vorlage:Dokumentation/Dokuseite]]
+[[ar:قالب:صفحة توثيق فرعية]]
+[[bar:Vorlage:Dokumentation/Dokuseitn]]
+[[be-x-old:Шаблён:Падстаронка-дакумэнтацыя]]
+[[bg:Шаблон:Подстраница с документация]]
+[[ca:Plantilla:Subpàgina de plantilla]]
+[[cs:Šablona:Podstránka s dokumentací]]
+[[da:Skabelon:Skabelondokumentationsside vist direkte]]
+[[de:Vorlage:Dokumentation/Dokuseite]]
+[[en:Template:Documentation subpage]]
+[[es:Plantilla:Subpágina de documentación]]
+[[fa:الگو:Documentation subpage]]
+[[fr:Modèle:Documentation modèle vue directement]]
+[[eu:Txantiloi:Txantiloi dokumentazio azpiorrialdea]]
+[[id:Templat:Subhalaman dokumentasi]]
+[[is:Snið:Skjalsíða]]
+[[ja:template:Documentation subpage]]
+[[ka:template:თარგის ინფო გვერდის ხედვა პირდაპირ]]
+[[la:Formula:Documentation subpage]]
+[[mk:Шаблон:Документација потстрана]]
+[[ml:ഫലകം:Template doc page transcluded]]
+[[nl:Sjabloon:Sjabdoc direct]]
+[[nn:Mal:Dokumentasjonsunderside]]
+[[no:Mal:Dokumentasjonsunderside]]
+[[pl:Szablon:Podstrona dokumentacji]]
+[[pt:Predefinição:Subpágina de documentação]]
+[[ro:template:Template doc page viewed directly]]
+[[ru:Шаблон:Docpage]]
+[[simple:Template:Documentation subpage]]
+[[sl:template:Dokumentacijska podstran]]
+[[sl:template:Dokumentacijska podstran]]
+[[sq:Stampa:Documentation subpage]]
+[[sv:Mall:Dokumentationssida]]
+[[tpi:Template:Documentation subpage]]
+[[uk:Шаблон:Підсторінка документації]]
+[[ur:Template:Documentation subpage]]
+[[zh:模板:Template doc page viewed directly]]
+</includeonly>
