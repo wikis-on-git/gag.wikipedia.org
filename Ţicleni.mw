@@ -1,7 +1,7 @@
 {| cellpadding="2" cellspacing="1" width="250" style="width: 250px; font-size: 95%; margin:1em 0 1em 1em; float:right; border:1px solid gray; padding: 5px; background-color: #ffffff;"
 |-
 ! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" | Ţicleni 
-[[Image:Biserica Kretzulescu 2006 05.jpg|center|260px]]
+[[Dosye:Biserica Kretzulescu 2006 05.jpg|center|260px]]
 |-
 |- valign=top
 |-
@@ -9,8 +9,8 @@
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Image:Flag of Romania.svg|135px]]
-| align=center width=148 | [[Image:Coat of arms of Romania.svg|130px]]
+| align=center width=148 | [[Dosye:Flag of Romania.svg|135px]]
+| align=center width=148 | [[Dosye:Coat of arms of Romania.svg|130px]]
 |-
 | align=center width=148 | Romıniya bayraı
 | align=center width=148 | Romıniya gerbi
@@ -18,19 +18,19 @@
 |-
 ! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni Kartası</center>
 |-
-| align=center colspan=2 style="background: #ffffff;" | [[Image:Ticleni jud Gorj.png|270px|center]]
+| align=center colspan=2 style="background: #ffffff;" | [[Dosye:Ticleni jud Gorj.png|270px|center]]
 |-
 ! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni</center>
 |-
 |- valign=top
 | '''Devlet:'''
-| [[Image:Flag of Romania.svg|25px]] [[Romıniya|Romıniya]]
+| [[Dosye:Flag of Romania.svg|25px]] [[Romıniya]]
 |- valign=top
 | '''Viliyat:'''
-| Gorj  
+| Gorj 
 |- valign=top
 | '''Kommuna başkanı:'''
-| Ilie Ion Ungureanu  
+| Ilie Ion Ungureanu 
 |- valign=top
 | '''Toprak:'''
 | 72,29 km²
@@ -53,7 +53,7 @@
 | '''Web:'''
 | http://www.primarieticleni.ro
 |}
-'''Ţicleni''' (Romınca: ''Ţicleni'') — [[Romıniya|Romıniya]] [[Kasaba|kasaba]]sı.
+'''Ţicleni''' (Romınca: ''Ţicleni'') — [[Romıniya]] [[Kasaba|kasabas]]ı.
 
 * Din: hristian, çıfıt
 * Klimat: Kara klimatı
@@ -71,7 +71,7 @@
 * Pensiunea Taco
 * Sydney Hotel
 * Horezu Bistrita Manastırı
-* Arnota  Manastırı
+* Arnota Manastırı
 * Polovragi Manastırı
 * Govora Surupatele Manastırı 
 * Buila Vanturarita Tabiet Muzesi
@@ -86,12 +86,12 @@ Colors=
   id:sfondo value:rgb(1,1,1)
   id:barra value:rgb(0.6,0.7,0.8)
 
-ImageSize  = width:280 height:240
-PlotArea   = left:50 bottom:50 top:30 right:30
+ImageSize = width:280 height:240
+PlotArea = left:50 bottom:50 top:30 right:30
 DateFormat = x.y
-Period     = from:0 till:6000
-TimeAxis   = orientation:vertical
-AlignBars  = justify
+Period = from:0 till:6000
+TimeAxis = orientation:vertical
+AlignBars = justify
 ScaleMajor = gridcolor:darkgrey increment:1000 start:0
 ScaleMinor = gridcolor:lightgrey increment:200 start:0
 BackgroundColors = canvas:sfondo
@@ -123,9 +123,8 @@ TextData=
 
 {{Gorj Viliyatı}}
 
-
-[[Category:Kasabalar]]
-[[Category:Arhiv]]
+[[Kategoriya:Kasabalar]]
+[[Kategoriya:Arhiv]]
 
 [[de:Țicleni]]
 [[en:Ţicleni]]
@@ -138,3 +137,4 @@ TextData=
 [[pt:Ţicleni]]
 [[ro:Țicleni]]
 [[tg:Тсиклени]]
+[[uk:Циклень]]
