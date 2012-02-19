@@ -5,3 +5,16 @@
 |colspan="6" align="center" bgcolor="white" |
 [[Portal:Coğrafya|Coğrafya]] {{,}} [[Portal:Tarih|Tarih]] {{,}} [[Portal:Din|Din]] {{,}} [[Portal:Spor|Spor]] {{,}} [[Portal:Bilim|Bilim]] {{,}} [[Portal:Sinema|Sinema]] {{,}}[[Portal:Müzik|Müzik]] {{,}} [[Portal:Gagauz|Gagauz]]
 {{GAGTabloson}}
+
+
+{{Box-header
+| title= Portaller
+| editpage= Şablon:Browsebar/Intro
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Şablon:Browsebar/Intro}}
+
+{{Box-footer|     }}
