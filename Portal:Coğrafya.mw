@@ -1,3 +1,37 @@
+
+
+{{Box-header
+| title= Coğrafya
+| editpage= Şablon:Portal:Coğrafya/Intro
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
 {{Portal:Coğrafya/Intro}}
-{{Portal:Coğrafya/Başlık}}
-{{Portal:Coğrafya/Kategori}}
+
+{{Box-footer| Portal:Coğrafya }}
+
+{{Box-header
+| title= Coğrafya
+| editpage= Şablon:Portal:Coğrafya/Resim
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Coğrafya/Resim}}
+
+{{Box-footer| Portal:Coğrafya }}
+
+{{Box-header
+| title= Coğrafya
+| editpage= Şablon:Portal:Coğrafya/Kategoriya
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Coğrafya/Kategoriya}}
+
+{{Box-footer| Portal:Coğrafya }}
