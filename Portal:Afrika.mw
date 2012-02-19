@@ -1,0 +1,37 @@
+
+
+{{Box-header
+| title= {{PAGENAME}}
+| editpage= Şablon:{{PAGENAME}}/Intro
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{{{PAGENAME}}/Intro}}
+
+{{Box-footer| {{PAGENAME}} }}
+
+{{Box-header
+| title= {{PAGENAME}}
+| editpage= Şablon:{{PAGENAME}}/Resim
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{{{PAGENAME}}/Resim}}
+
+{{Box-footer| {{PAGENAME}} }}
+
+{{Box-header
+| title= {{PAGENAME}}
+| editpage= Şablon:{{PAGENAME}}/Kategoriya
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{{{PAGENAME}}/Kategoriya}}
+
+{{Box-footer| {{PAGENAME}} }}
