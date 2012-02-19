@@ -1,0 +1,37 @@
+
+
+{{Box-header
+| title= Din
+| editpage= Şablon:Portal:Din/Intro
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Din/Intro}}
+
+{{Box-footer| Portal:Din }}
+
+{{Box-header
+| title= Din
+| editpage= Şablon:Portal:Din/Resim
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Din/Resim}}
+
+{{Box-footer| Portal:Din }}
+
+{{Box-header
+| title= Din
+| editpage= Şablon:Portal:Din/Kategoriya
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Din/Kategoriya}}
+
+{{Box-footer| Portal:Din }}
