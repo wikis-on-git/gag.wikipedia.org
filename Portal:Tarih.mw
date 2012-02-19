@@ -1,0 +1,37 @@
+
+
+{{Box-header
+| title= Coğrafya
+| editpage= Şablon:Portal:Tarih/Intro
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Tarih/Intro}}
+
+{{Box-footer| Portal:Tarih }}
+
+{{Box-header
+| title= Coğrafya
+| editpage= Şablon:Portal:Tarih/Resim
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Tarih/Resim}}
+
+{{Box-footer| Portal:Tarih }}
+
+{{Box-header
+| title= Coğrafya
+| editpage= Şablon:Portal:Tarih/Kategoriya
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Tarih/Kategoriya}}
+
+{{Box-footer| Portal:Tarih }}
