@@ -1,0 +1,37 @@
+
+
+{{Box-header
+| title= Bilim
+| editpage= Şablon:Portal:Bilim/Intro
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Bilim/Intro}}
+
+{{Box-footer| Portal:Bilim }}
+
+{{Box-header
+| title= Bilim
+| editpage= Şablon:Portal:Bilim/Resim
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Bilim/Resim}}
+
+{{Box-footer| Portal:Bilim }}
+
+{{Box-header
+| title= Bilim
+| editpage= Şablon:Portal:Bilim/Kategoriya
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Portal:Bilim/Kategoriya}}
+
+{{Box-footer| Portal:Bilim }}
