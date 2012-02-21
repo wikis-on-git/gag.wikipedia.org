@@ -20,7 +20,7 @@
  #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#333;">{{{başlık}}}</div></div>
 <div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
-1px solid; text-align: right; font-size: 90%; padding-right: 0.5em">{{{bundboks}}}</div>}}
+1px solid; text-align: right; font-size: 90%; padding-right: 0.5em">
 </div><noinclude> 
  
 
