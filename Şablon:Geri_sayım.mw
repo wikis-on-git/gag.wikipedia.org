@@ -1,0 +1,11 @@
+<div style="font-family: Georgia, serif; padding-bottom: 10px; margin-bottom: 10px;">
+<!-- BAŞLANGIÇ -->
+{| align="center"
+| style="background: #fafafa; border: 1px solid #ccc; border-radius: 6px; height: 90px; width: 250px; -moz-box-shadow: 1px 1px 5px #ccc; -webkit-box-shadow: 1px 1px 5px #ccc; box-shadow: 1px 1px 5px #ccc;" |
+{| style="vertical-align: middle; background: #fafafa; width: 100%; clear: both;"
+|- style="background: #fafafa; font-family: Calibri; font-size: 74px; font-weight: bold; text-align: center; text-shadow: 0 2px 2px #ccc; letter-spacing: 8px; line-height: 80px;"
+| {{#expr: ceil(({{#time:xnU|{{{1|{{MEVCUTYIL}}-{{MEVCUTAY}}-{{MEVCUTGÜN}}}}}}}-{{#time:xnU}})/(3600*24))}}
+|}
+|-
+| style="color: #2f4f4f; font-family: Calibri; font-size: 18px; text-align: center; text-transform: uppercase;" | <br />{{{2|Gün kaldı}}}
+|}<!-- SON --></div>
