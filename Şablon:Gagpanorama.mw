@@ -36,7 +36,7 @@
  
 
 <pre>
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 1(blå) 2(gul) 3(lilla)
 |bredde           = (boksens bredde i procent - kan udelades)
 |billede          =
@@ -54,7 +54,7 @@
 
 ===Eksempel 1===
 <pre>
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 1
 |billede          = Emblem-star.svg
 |overskrift       = Overskrift1
@@ -63,7 +63,7 @@
 }}
 </pre>
 
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 1
 |billede          = Emblem-star.svg
 |overskrift       = Overskrift1
@@ -73,7 +73,7 @@
 
 ===Eksempel 2===
 <pre>
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 2
 |billede          = Internet-web-browser.svg
 |overskrift       = Overskrift2
@@ -82,7 +82,7 @@
 }}
 </pre>
 
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 2
 |billede          = Internet-web-browser.svg
 |overskrift       = Overskrift2
@@ -92,7 +92,7 @@
 
 ===Eksempel 3===
 <pre>
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 3
 |billede          = Gnome-fs-blockdev.svg
 |overskrift       = Overskrift3
@@ -101,7 +101,7 @@
 }}
 </pre>
 
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 3
 |billede          = Gnome-fs-blockdev.svg
 |overskrift       = Overskrift3
@@ -111,7 +111,7 @@
 
 ===Eksempel 4===
 <pre>
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 2
 |bredde           = 45
 |billede          = Internet-web-browser.svg
@@ -123,7 +123,7 @@
 }}
 </pre>
 
-{{FunkyBoks
+{{Gagpanorama
 |farvekombination = 2
 |bredde           = 45
 |billede          = Internet-web-browser.svg
@@ -133,9 +133,6 @@
 |bgfarve          = EFDFDF
 |indhold          = Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 }}
-
-== Se også ==
-{{uddybende|Bruger:HenrikRomby/FunkyBoks}}
-
-[[Kategori:Wikipedia:Skabeloner|FunkyBoks]]
+ 
+ 
 </noinclude>
