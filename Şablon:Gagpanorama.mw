@@ -21,18 +21,7 @@
 <div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
 </div>
-{{#if: {{{bundboks|}}}|<div style="background-color: #{{
- #switch:{{{kombinasyonyeri}}}
- |1=D9E6F3
- |2=FFF0CD
- |3=E3E3F5
- }}; border-top: #{{
- #switch:{{{kombinasyonyeri}}}
- |1=AFCCEB
- |2=F5DF9A
- |3=D2D2F0
- }} 1px solid; text-align: right; font-size: 90%; padding-right: 0.5em">{{{bundboks}}}</div>}}
-</div><noinclude>
+<noinclude>
  
 
 <pre>
