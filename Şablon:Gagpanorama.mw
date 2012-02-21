@@ -20,7 +20,8 @@
  #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#333;">{{{başlık}}}</div></div>
 <div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
-</div>}}
+</div>
+
 </div><noinclude>
 
 <pre>
