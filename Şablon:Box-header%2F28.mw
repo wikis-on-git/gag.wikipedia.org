@@ -1,0 +1,7 @@
+{{Portal:Box-header{{{watch|}}} | title={{{1}}} 
+|editpage={{{2}}} 
+|border=#A3A3BF           <!-- H240 S15 V75 the color of the borders around Box Sections -->
+|titleforeground=black    <!-- This is the color of the Box Section Title Bar text -->
+|titlebackground=#8282D9  <!-- H240 S40 V85 the color of the Box Section Title Bar -->
+|background=#F5F5FF       <!-- H240 S4 V100 the color of the Box Section background -->
+|foreground=black}}       <!-- This is the color of the Box Section text -->
