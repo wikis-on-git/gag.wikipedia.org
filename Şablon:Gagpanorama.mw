@@ -17,7 +17,7 @@
  }}; border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Image:{{{resim}}}|left|{{{resimsol|35}}}px|link=]]</div>
 <div style="padding-left: {{
- #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#000;">{{{başlık}}}</div></div>
+ #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#fff;">{{{başlık}}}</div></div>
 <div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
 </div>
