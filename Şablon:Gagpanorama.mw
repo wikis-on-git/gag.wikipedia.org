@@ -37,7 +37,7 @@
 
 <pre>
 {{Gagpanorama
-|farvekombination = 1(blå) 2(gul) 3(lilla)
+|kombinasyonyeri = 1(blå) 2(gul) 3(lilla)
 |bredde           = (boksens bredde i procent - kan udelades)
 |billede          =
 |billedstørrelse  = (kan udelades)
@@ -55,7 +55,7 @@
 ===Eksempel 1===
 <pre>
 {{Gagpanorama
-|farvekombination = 1
+|kombinasyonyeri = 1
 |billede          = Emblem-star.svg
 |overskrift       = Overskrift1
 |yazı          = Indhold1
@@ -64,7 +64,7 @@
 </pre>
 
 {{Gagpanorama
-|farvekombination = 1
+|kombinasyonyeri = 1
 |billede          = Emblem-star.svg
 |overskrift       = Overskrift1
 |indhold          = Indhold1
@@ -74,7 +74,7 @@
 ===Eksempel 2===
 <pre>
 {{Gagpanorama
-|farvekombination = 2
+|kombinasyonyeri = 2
 |billede          = Internet-web-browser.svg
 |overskrift       = Overskrift2
 |indhold          = Indhold2
@@ -83,7 +83,7 @@
 </pre>
 
 {{Gagpanorama
-|farvekombination = 2
+|kombinasyonyeri = 2
 |billede          = Internet-web-browser.svg
 |overskrift       = Overskrift2
 |indhold          = Indhold2
@@ -93,7 +93,7 @@
 ===Eksempel 3===
 <pre>
 {{Gagpanorama
-|farvekombination = 3
+|kombinasyonyeri = 3
 |billede          = Gnome-fs-blockdev.svg
 |overskrift       = Overskrift3
 |indhold          = Indhold3
@@ -102,7 +102,7 @@
 </pre>
 
 {{Gagpanorama
-|farvekombination = 3
+|kombinasyonyeri = 3
 |billede          = Gnome-fs-blockdev.svg
 |overskrift       = Overskrift3
 |indhold          = Indhold3
@@ -112,7 +112,7 @@
 ===Eksempel 4===
 <pre>
 {{Gagpanorama
-|farvekombination = 2
+|kombinasyonyeri = 2
 |bredde           = 45
 |billede          = Internet-web-browser.svg
 |billedstørrelse  = 56
@@ -124,7 +124,7 @@
 </pre>
 
 {{Gagpanorama
-|farvekombination = 2
+|kombinasyonyeri = 2
 |bredde           = 45
 |billede          = Internet-web-browser.svg
 |billedstørrelse  = 56
