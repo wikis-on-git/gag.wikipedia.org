@@ -1,17 +1,17 @@
 <div style="background-color: #{{{yazırengi|FAFAFF}}}; width: {{{yükseklik|100}}}%; border: 1px #{{
  #switch:{{{kombinasyonyeri}}}
- |1=f30
+ |1=00f
  |2=c30
  |3=d99
  }} solid; margin-bottom: 5px;margin-left:-1px">
 <div style="height: 18pt; background-color: #{{
  #switch:{{{kombinasyonyeri}}}
- |1=f30
+ |1=00f
  |2=c30
  |3=d99
  }}; border: 0px; border-bottom: 1px #{{
  #switch:{{{kombinasyonyeri}}}
- |1=f30
+ |1=00f
  |2=c30
  |3=d99
  }}; border-style: solid;black font: 11pt; font-weight: bolder; position: relative;">
