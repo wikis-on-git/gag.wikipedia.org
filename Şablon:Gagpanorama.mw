@@ -17,7 +17,7 @@
  }}; border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Image:{{{resim}}}|left|{{{resimsol|35}}}px|link=]]</div>
 <div style="padding-left: {{
- #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#333;">{{{overskrift}}}</div></div>
+ #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#333;">{{{başlık}}}</div></div>
 <div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
 </div>
@@ -41,7 +41,7 @@
 |bredde           = (boksens bredde i procent - kan udelades)
 |resim          =
 |resimsol  = (kan udelades)
-|overskrift       = 
+|başlık       = 
 |margin           = (tekstmargin til bokskant - kan udelades)
 |yazırengi          = (boksens baggrundsfarve - kan udelades))
 |yazı          = 
@@ -57,7 +57,7 @@
 {{Gagpanorama
 |kombinasyonyeri = 1
 |billede          = Emblem-star.svg
-|overskrift       = Overskrift1
+|başlık       = başlık1
 |yazı          = yazı1
 |altyazı         = Bundboks1
 }}
@@ -66,7 +66,7 @@
 {{Gagpanorama
 |kombinasyonyeri = 1
 |resim          = Emblem-star.svg
-|overskrift       = Overskrift1
+|başlık       = başlık1
 |yazı          = yazı1
 |bundboks         = Bundboks1
 }}
@@ -76,7 +76,7 @@
 {{Gagpanorama
 |kombinasyonyeri = 2
 |resim          = Internet-web-browser.svg
-|overskrift       = Overskrift2
+|başlık       = başlık2
 |yazı          = yazı2
 |bundboks         = Bundboks2
 }}
@@ -85,7 +85,7 @@
 {{Gagpanorama
 |kombinasyonyeri = 2
 |resim          = Internet-web-browser.svg
-|overskrift       = Overskrift2
+|başlık       = başlık2
 |yazı          = yazı2
 |bundboks         = Bundboks2
 }}
@@ -95,7 +95,7 @@
 {{Gagpanorama
 |kombinasyonyeri = 3
 |resim          = Gnome-fs-blockdev.svg
-|overskrift       = Overskrift3
+|başlık       = başlık3
 |yazı          = yazı3
 |bundboks         = Bundboks3
 }}
@@ -104,7 +104,7 @@
 {{Gagpanorama
 |kombinasyonyeri = 3
 |resim          = Gnome-fs-blockdev.svg
-|overskrift       = Overskrift3
+|başlık       = başlık3
 |yazı          = yazı3
 |bundboks         = Bundboks3
 }}
@@ -116,7 +116,7 @@
 |bredde           = 45
 |resim          = Internet-web-browser.svg
 |resimsol  = 56
-|overskrift       = Lorem ipsum
+|başlık       = Lorem ipsum
 |margin           = 3.5em 0.5em 0.5em 0.5em
 |yazırengi          = EFDFDF
 |yazı          = Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -128,7 +128,7 @@
 |bredde           = 45
 |resim          = Internet-web-browser.svg
 |resimsol  = 56
-|overskrift       = Lorem ipsum
+|başlık       = Lorem ipsum
 |margin           = 3.5em 0.5em 0.5em 0.5em
 |yazırengi          = EFDFDF
 |yazı          = Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
