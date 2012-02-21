@@ -9,12 +9,11 @@
 {{Şablon:Yazılar3}}
 |}
 
-{{Portal:Box-header
-|title=GÜNÜN YAZISI
-|border=#A3A3BF           
-|titleforeground=black     
-|titlebackground=#8282D9   
-|background=#F5F5FF       
-|foreground=black
-{{Şablon:Yazılar3}}
+{{Gagpanorama
+|kombinasyonyeri = 1 
+|yükseklik          =45  
+|resim          =Flag of Gagauzia.svg
+|başlık       = GÜNÜN YAZISI
+|yazırengi          = skyblue 
+|yazı          = {{Şablon:Yazılar3}}
 }}
