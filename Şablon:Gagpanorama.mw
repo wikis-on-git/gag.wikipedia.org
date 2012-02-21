@@ -1,0 +1,142 @@
+<div style="background-color: #{{{yazırengi|FAFAFF}}}; width: {{{yükseklik|100}}}%; border: 1px #{{
+ #switch:{{{kombinasyonyeri}}}
+ |1=AFCCEB
+ |2=F5DF9A
+ |3=D2D2F0
+ }} solid; margin-bottom: 5px;margin-left:-1px">
+<div style="height: 16pt; background-color: #{{
+ #switch:{{{kombinasyonyeri}}}
+ |1=AFCCEB
+ |2=F5DF9A
+ |3=D2D2F0
+ }}; border: 0px; border-bottom: 1px #{{
+ #switch:{{{kombinasyonyeri}}}
+ |1=81A7D1
+ |2=CDB772
+ |3=AAAAC8
+ }}; border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[Image:{{{billede}}}|left|{{{billedstørrelse|35}}}px|link=]]</div>
+<div style="padding-left: {{
+ #if: {{{billedstørrelse|}}}|{{#expr: {{{billedstørrelse}}} + 3}}|38}}px; color:#333;">{{{overskrift}}}</div></div>
+<div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
+{{{indhold}}}
+</div>
+{{#if: {{{bundboks|}}}|<div style="background-color: #{{
+ #switch:{{{kombinasyonyeri}}}
+ |1=D9E6F3
+ |2=FFF0CD
+ |3=E3E3F5
+ }}; border-top: #{{
+ #switch:{{{kombinasyonyeri}}}
+ |1=AFCCEB
+ |2=F5DF9A
+ |3=D2D2F0
+ }} 1px solid; text-align: right; font-size: 90%; padding-right: 0.5em">{{{bundboks}}}</div>}}
+</div><noinclude>
+
+{{semibeskyttet skabelon}}
+
+<pre>
+{{FunkyBoks
+|farvekombination = 1(blå) 2(gul) 3(lilla)
+|bredde           = (boksens bredde i procent - kan udelades)
+|billede          =
+|billedstørrelse  = (kan udelades)
+|overskrift       = 
+|margin           = (tekstmargin til bokskant - kan udelades)
+|bgfarve          = (boksens baggrundsfarve - kan udelades))
+|indhold          = 
+|bundboks         = (kan udelades)
+}}
+</pre>
+
+----
+==Eksempler==
+
+===Eksempel 1===
+<pre>
+{{FunkyBoks
+|farvekombination = 1
+|billede          = Emblem-star.svg
+|overskrift       = Overskrift1
+|yazı          = Indhold1
+|altyazı         = Bundboks1
+}}
+</pre>
+
+{{FunkyBoks
+|farvekombination = 1
+|billede          = Emblem-star.svg
+|overskrift       = Overskrift1
+|indhold          = Indhold1
+|bundboks         = Bundboks1
+}}
+
+===Eksempel 2===
+<pre>
+{{FunkyBoks
+|farvekombination = 2
+|billede          = Internet-web-browser.svg
+|overskrift       = Overskrift2
+|indhold          = Indhold2
+|bundboks         = Bundboks2
+}}
+</pre>
+
+{{FunkyBoks
+|farvekombination = 2
+|billede          = Internet-web-browser.svg
+|overskrift       = Overskrift2
+|indhold          = Indhold2
+|bundboks         = Bundboks2
+}}
+
+===Eksempel 3===
+<pre>
+{{FunkyBoks
+|farvekombination = 3
+|billede          = Gnome-fs-blockdev.svg
+|overskrift       = Overskrift3
+|indhold          = Indhold3
+|bundboks         = Bundboks3
+}}
+</pre>
+
+{{FunkyBoks
+|farvekombination = 3
+|billede          = Gnome-fs-blockdev.svg
+|overskrift       = Overskrift3
+|indhold          = Indhold3
+|bundboks         = Bundboks3
+}}
+
+===Eksempel 4===
+<pre>
+{{FunkyBoks
+|farvekombination = 2
+|bredde           = 45
+|billede          = Internet-web-browser.svg
+|billedstørrelse  = 56
+|overskrift       = Lorem ipsum
+|margin           = 3.5em 0.5em 0.5em 0.5em
+|bgfarve          = EFDFDF
+|indhold          = Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+}}
+</pre>
+
+{{FunkyBoks
+|farvekombination = 2
+|bredde           = 45
+|billede          = Internet-web-browser.svg
+|billedstørrelse  = 56
+|overskrift       = Lorem ipsum
+|margin           = 3.5em 0.5em 0.5em 0.5em
+|bgfarve          = EFDFDF
+|indhold          = Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+}}
+
+== Se også ==
+{{uddybende|Bruger:HenrikRomby/FunkyBoks}}
+
+[[Kategori:Wikipedia:Skabeloner|FunkyBoks]]
+</noinclude>
