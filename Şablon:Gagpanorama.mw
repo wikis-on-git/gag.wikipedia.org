@@ -15,9 +15,9 @@
  |2=CDB772
  |3=AAAAC8
  }}; border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
-<div style="position: absolute; top: 0; left: 0;">[[Image:{{{billede}}}|left|{{{billedstørrelse|35}}}px|link=]]</div>
+<div style="position: absolute; top: 0; left: 0;">[[Image:{{{resim}}}|left|{{{resimsol|35}}}px|link=]]</div>
 <div style="padding-left: {{
- #if: {{{billedstørrelse|}}}|{{#expr: {{{billedstørrelse}}} + 3}}|38}}px; color:#333;">{{{overskrift}}}</div></div>
+ #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#333;">{{{overskrift}}}</div></div>
 <div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{indhold}}}
 </div>
@@ -39,8 +39,8 @@
 {{Gagpanorama
 |kombinasyonyeri = 1(blå) 2(gul) 3(lilla)
 |bredde           = (boksens bredde i procent - kan udelades)
-|billede          =
-|billedstørrelse  = (kan udelades)
+|resim          =
+|resimsol  = (kan udelades)
 |overskrift       = 
 |margin           = (tekstmargin til bokskant - kan udelades)
 |bgfarve          = (boksens baggrundsfarve - kan udelades))
@@ -50,9 +50,9 @@
 </pre>
 
 ----
-==Eksempler==
+==örnek==
 
-===Eksempel 1===
+===örnek 1===
 <pre>
 {{Gagpanorama
 |kombinasyonyeri = 1
@@ -71,11 +71,11 @@
 |bundboks         = Bundboks1
 }}
 
-===Eksempel 2===
+===örnek 2===
 <pre>
 {{Gagpanorama
 |kombinasyonyeri = 2
-|billede          = Internet-web-browser.svg
+|resim          = Internet-web-browser.svg
 |overskrift       = Overskrift2
 |indhold          = Indhold2
 |bundboks         = Bundboks2
@@ -84,17 +84,17 @@
 
 {{Gagpanorama
 |kombinasyonyeri = 2
-|billede          = Internet-web-browser.svg
+|resim          = Internet-web-browser.svg
 |overskrift       = Overskrift2
 |indhold          = Indhold2
 |bundboks         = Bundboks2
 }}
 
-===Eksempel 3===
+===örnek 3===
 <pre>
 {{Gagpanorama
 |kombinasyonyeri = 3
-|billede          = Gnome-fs-blockdev.svg
+|resim          = Gnome-fs-blockdev.svg
 |overskrift       = Overskrift3
 |indhold          = Indhold3
 |bundboks         = Bundboks3
@@ -103,19 +103,19 @@
 
 {{Gagpanorama
 |kombinasyonyeri = 3
-|billede          = Gnome-fs-blockdev.svg
+|resim          = Gnome-fs-blockdev.svg
 |overskrift       = Overskrift3
 |indhold          = Indhold3
 |bundboks         = Bundboks3
 }}
 
-===Eksempel 4===
+===örnek 4===
 <pre>
 {{Gagpanorama
 |kombinasyonyeri = 2
 |bredde           = 45
-|billede          = Internet-web-browser.svg
-|billedstørrelse  = 56
+|resim          = Internet-web-browser.svg
+|resimsol  = 56
 |overskrift       = Lorem ipsum
 |margin           = 3.5em 0.5em 0.5em 0.5em
 |bgfarve          = EFDFDF
@@ -126,8 +126,8 @@
 {{Gagpanorama
 |kombinasyonyeri = 2
 |bredde           = 45
-|billede          = Internet-web-browser.svg
-|billedstørrelse  = 56
+|resim          = Internet-web-browser.svg
+|resimsol  = 56
 |overskrift       = Lorem ipsum
 |margin           = 3.5em 0.5em 0.5em 0.5em
 |bgfarve          = EFDFDF
