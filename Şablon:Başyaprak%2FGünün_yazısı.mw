@@ -8,3 +8,15 @@
  
 {{Şablon:Yazılar3}}
 |}
+
+
+{{Box-header/28
+| title= 
+| titleforeground= white
+| titlebackground= red
+| background= white
+}}
+
+{{Başyaprak/Yazı2}}
+
+{{Box-footer|    }}
