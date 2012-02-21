@@ -1,19 +1,19 @@
 <div style="background-color: #{{{yazırengi|FAFAFF}}}; width: {{{yükseklik|100}}}%; border: 1px #{{
  #switch:{{{kombinasyonyeri}}}
- |1=AFCCEB
- |2=F5DF9A
- |3=D2D2F0
+ |1=skyblue
+ |2=green
+ |3=red
  }} solid; margin-bottom: 5px;margin-left:-1px">
-<div style="height: 56pt; background-color: #{{
+<div style="height: 18pt; background-color: #{{
  #switch:{{{kombinasyonyeri}}}
- |1=grey
- |2=F5DF9A
- |3=D2D2F0
+ |1=skyblue
+ |2=green
+ |3=red
  }}; border: 0px; border-bottom: 1px #{{
  #switch:{{{kombinasyonyeri}}}
- |1=81A7D1
- |2=CDB772
- |3=AAAAC8
+ |1=skyblue
+ |2=green
+ |3=red
  }}; border-style: solid;black font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Image:{{{resim}}}|left|{{{resimsol|35}}}px|link=]]</div>
 <div style="padding-left: {{
