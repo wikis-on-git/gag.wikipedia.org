@@ -27,15 +27,15 @@
 
 <pre>
 {{Gagpanorama
-|kombinasyonyeri = 1(blå) 2(gul) 3(lilla)
-|bredde           = (boksens bredde i procent - kan udelades)
+|kombinasyonyeri =  
+|yükseklik          =  
 |resim          =
-|resimsol  = (kan udelades)
+|resimsol  =  
 |başlık       = 
-|margin           = (tekstmargin til bokskant - kan udelades)
-|yazırengi          = (boksens baggrundsfarve - kan udelades))
+|margin           = 
+|yazırengi          =  
 |yazı          = 
-|bundboks         = (kan udelades)
+|bundboks         =  
 }}
 </pre>
 
@@ -46,7 +46,7 @@
 <pre>
 {{Gagpanorama
 |kombinasyonyeri = 1
-|billede          = Emblem-star.svg
+|resim         = Emblem-star.svg
 |başlık       = başlık1
 |yazı          = yazı1
 |altyazı         = Bundboks1
@@ -103,7 +103,7 @@
 <pre>
 {{Gagpanorama
 |kombinasyonyeri = 2
-|bredde           = 45
+|yükseklik  = 45
 |resim          = Internet-web-browser.svg
 |resimsol  = 56
 |başlık       = Lorem ipsum
@@ -115,7 +115,7 @@
 
 {{Gagpanorama
 |kombinasyonyeri = 2
-|bredde           = 45
+|yükseklik           = 45
 |resim          = Internet-web-browser.svg
 |resimsol  = 56
 |başlık       = Lorem ipsum
