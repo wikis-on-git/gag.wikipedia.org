@@ -1,3 +1,12 @@
+{{ambox
+ |mini       = <!-- При любом непустом значении параметра ширина шаблона - 30% от ширины страницы -->
+ |type       = <!-- Название типа сообщения, см. ниже все варианты. Если параметр не задан, используется тип notice -->
+ |style      = <!-- Дополнительные параметры оформления -->
+ |image      = <!-- Название изображения в формате [[Файл:Example.png]]. Если параметр не задан, используется стандартное для этого типа изображение -->
+ |text       = <!-- Заголовок сообщения. Рекомендуется использовать полужирное начертание -->
+ |text-small = <!-- Текст меньшего шрифта под заголовком -->
+}}
+
 '''Kongaz''' (moldovanca: ''Congaz'', rusça: ''Конгаз'') — en eni kasaba [[Avtonom Territorial Bölümlüü Gagauz Yeri|Gagauziyada]].
 
 Kuruldu 1812-ci yılda hem sayıldı dünnedä en büük küü. Kongazda yaşêêr 12602 insan, angısınnan 5495 insan işlemäk yaşında. Kongaz küüyü 195 yıldan sora kasaba oldu. 2007-ci yıl iyün ayın 29-da Kongaz küüyün primariyası, primar Demyan Karaseni küü sovetniklerinnän barabar, bu kararı aldılar hem, karara, Zakon statusunu vermäk için, Gagauziya Halk Topluşuna danıştılar. Sentäbri ayın 21-dä olan toplantısında da GHT Kongazın kasaba olması için Zakonu kabletti.
