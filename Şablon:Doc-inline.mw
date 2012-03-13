@@ -1,0 +1,15 @@
+<div style="background:#F0F8FF; border:1px dotted #8BCBFF; padding:10px; margin-top:10px"><noinclude>
+Obyektiv olaraq sənədləşməni səhifədən ayırmaq üçündür. Şablona uyğun fon rəngi {{[[Şablon:Doc|doc]]}}. 
+
+İstifadə misalı:
+<pre>
+{{doc-inline}}
+Bu sənədləşmə
+</div>
+=Müzakirə=
+</pre>
+
+</div>
+[[Kateqoriya:Şablonlar|{{PAGENAME}}]]
+[[hy:Կաղապար:Doc-inline]]
+</noinclude>
