@@ -1,29 +1,32 @@
-{{Devlet
-|Şəhərin adı    = Liman
-|Şəhərin şəkil adı = 
-|Şəhərin bayrağı= 
-|Şəhərin gerbi  = 
-
-|pushpin_map    = Azərbaycan
-|pushpin_label_position = top
-|pushpin_mapsize = 260
-|label          = Liman
-|name           = Liman
-|latd=38 |latm=52 |lats=
-|longd=48 |longm=48 |longs=
-
-|Ölkə           = {{AZE}}
-|Bölgə          = 
-|Sahə           = 
-|Əhali          = 12.100<ref>[http://www.azstat.org/region/az/002.shtml Azərbaycan Dövlət Statistika Komitəsi]</ref>
-|Əhali il       = 2008
-|Əhali sıxlığı  = 
-|Nəqliyyat vas. kodu   = 42
-|Telefon kodu   = 994 171
-|Poçt indeksi   = AZ4200
-|İcra başçısı   = 
-|İnternet saytı = 
+{{Template:Kasaba bilgi
+|resim = 
+|bayrak =
+|arma =
+| {{Location map
+|ülke   
+|label=şehir            
+|lat_dir=N
+| lat_deg=0 
+| lat_min=00    
+| lat_sec=0     
+|lon_dir=E 
+| lon_deg=0 
+| lon_min=0
+| lon_sec=0
 }}
+|devlet = 
+|toprak= 
+|nüfus = 
+|yoğunluk = 
+|yükseklik = 
+|prezident = 
+|araba_kodu =
+|telefon_kodu =
+|işsizlik =
+|vakit_bölgesi =
+|web    =
+}}
+
 
 '''Sumqayıt''' kasabası [[Azerbaycan|Azerbaycanın]] bir büük kasabası
 == Dış baalantılar==
