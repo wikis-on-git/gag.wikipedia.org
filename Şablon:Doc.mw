@@ -1,0 +1,7 @@
+<includeonly>{{doc/begin|{{SUBJECTSPACE}}:{{PAGENAME:{{{1|{{SUBJECTPAGENAME}}/doc}}}}}|notoc={{{notoc|}}}}}
+{{#ifexist:{{{1|{{SUBJECTPAGENAME}}/doc}}}|{{{{{1|{{SUBJECTPAGENAME}}/doc}}}}}|{{#ifexist:{{SUBJECTSPACE}}:{{{1}}}|{{{{{1}}}}}|{{Sənədləşdirin|{{{1|{{SUBJECTPAGENAME}}/doc}}}}}}}}}
+{{doc/end}}</includeonly><noinclude>
+{{doc}}<!--
+[Az]: Kateqoriya və intervikiləri bura yox, /doc səhifəsinə əlavə edin!
+[Eng]: Please add categories and interwiki links to the /doc subpage, not here!
+--></noinclude>
