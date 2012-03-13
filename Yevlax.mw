@@ -1,28 +1,30 @@
-{{Template:Devlet 
-|native_name ='''Yevlax'''  
-|common_name ='''Yevlax''' 
-|conventional_long_name = 
-|bayrak = 
-|arma = 
-|harita = 
-|slogan =
-|marş = 
-|kuruluş =
-|başkent = 
-|dil =Azerbaycan turki 
-|halk =
-|hükümet = 
-|prezident =
-|din =musliman
+{{Template:Kasaba bilgi
+|resim = 
+|bayrak =
+|arma =
+| {{Location map
+|ülke   
+|label=şehir            
+|lat_dir=N
+| lat_deg=0 
+| lat_min=00    
+| lat_sec=0     
+|lon_dir=E 
+| lon_deg=0 
+| lon_min=0
+| lon_sec=0
+}}
+|devlet = 
 |toprak= 
-|tahmini_nüfus =  
+|nüfus = 
 |yoğunluk = 
-|gsyih = 
-|para = 
-|para_kodu = 
-|vakit = 
-|internet =az 
-|telefon = 
+|yükseklik = 
+|prezident = 
+|araba_kodu =
+|telefon_kodu =
+|işsizlik =
+|vakit_bölgesi =
+|web    =
 }}
 
 '''Yevlax''' kasabası [[Azerbaycan|Azerbaycanın]] bir büük kasabası
