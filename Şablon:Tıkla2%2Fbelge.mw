@@ -1,0 +1,9 @@
+{{ombox
+| type = content
+| text =
+'''Bu şablon [[Özel:EnÇokBağlantıVerilenŞablonlar|{{#if:{{{1|}}}|{{{1}}}|çok fazla sayıda}} sayfada]] kullanılmaktadır.'''<br />Sunucu üzerinde çok fazla gereksiz yük oluşturmamak ve büyük ölçekte aksamalara sebep olmamak için, yapılacak değişiklikler ilk önce bu şablonun [[{{#ifeq:{{SUBPAGENAME}}|doc| {{SUBJECTSPACE}}:{{BASEPAGENAME}} | {{SUBJECTPAGENAME}} }}/sandbox|/''sandbox'']] veya [[{{#ifeq:{{SUBPAGENAME}}|doc| {{SUBJECTSPACE}}:{{BASEPAGENAME}} | {{SUBJECTPAGENAME}} }}/testcases|/''testcases'']] altsayfalarında, ya da kendi [[Vikipedi:Altsayfalar#Nasıl altsayfa yaratılır|kullanıcı alanınızda]] denenmelidir (test edilmelidir). Denenmiş değişiklikler, sorunsuz kullanılabilir oldukları anlaşıldığında tek bir hamlede (değiştirme hamlesiyle) bu şablona eklenmelidir. Aynı zamanda lütfen değişiklikleri uygulayıp aktif hale getirmeden önce diğer kullanıcılarla da {{#if:{{{2|}}}|[[{{{2}}}]]|[[{{#ifeq:{{SUBPAGENAME}}|doc| {{TALKSPACE}}:{{BASEPAGENAME}} | {{TALKPAGENAME}} }}|tartışma sayfasında]]}} görüş alışverişinde bulunun.
+}}<noinclude>
+
+{{Belgeleme}}
+<!-- Kategori ve intervikileri buraya değil, belgeleme sayfasına ekleyiniz. -->
+</noinclude>
