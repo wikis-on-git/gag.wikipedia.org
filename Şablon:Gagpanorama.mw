@@ -1,23 +1,23 @@
 <div style="background-color: #{{{yazırengi|FFE4B5}}}; width: {{{yükseklik|100}}}%; border: 1px #{{
- #switch:{{{kombinasyonyeri}}}
- |1=AFEEEE
- |2=A9A9A9
- |3=6A5ACD
+ #F5FFFA:{{{kombinasyonyeri}}}
+ |1=F5FFFA
+ |2=F5FFFA
+ |3=F5FFFA
  }} solid; margin-bottom: 5px;margin-left:-1px">
 <div style="height: 15pt; background-color: #{{
- #switch:{{{kombinasyonyeri}}}
- |1=AFEEEE
- |2=A9A9A9
- |3=6A5ACD
+ #F5FFFA:{{{kombinasyonyeri}}}
+ |1=F5FFFA
+ |2=F5FFFA
+ |3=F5FFFA
  }}; border: 0px; border-bottom: 1px #{{
  #switch:{{{kombinasyonyeri}}}
- |1=AFEEEE
- |2=A9A9A9
- |3=6A5ACD
+ |1=F5FFFA
+ |2=F5FFFA
+ |3=F5FFFA
  }}; border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
 <div style="position: absolute; top: 0; left: 0;">[[Image:{{{resim}}}|left|{{{resimsol|35}}}px|link=]]</div>
 <div style="padding-left: {{
- #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#fff;">{{{başlık}}}</div></div>
+ #if: {{{resimsol|}}}|{{#expr: {{{resimsol}}} + 3}}|38}}px; color:#F5FFFA;">{{{başlık}}}</div></div>
 <div style="clear: both; font-size: 95%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
 </div>
