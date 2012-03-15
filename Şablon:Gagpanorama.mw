@@ -1,17 +1,17 @@
 <div style="background-color: #{{{yazırengi|F0F8FF}}}; width: {{{yükseklik|100}}}%; border: 1px #{{
  #switch:{{{kombinasyonyeri}}}
- |1=FFE4B5
- |2=FFE4B5
- |3=FFE4B5
+ |1=AFEEEE
+ |2=A9A9A9
+ |3=6A5ACD
  }} solid; margin-bottom: 5px;margin-left:-1px">
 <div style="height: 15pt; background-color: #{{
  #switch:{{{kombinasyonyeri}}}
- |1=FFE4B5
+ |1=AFEEEE
  |2=A9A9A9
  |3=6A5ACD
  }}; border: 0px; border-bottom: 1px #{{
  #switch:{{{kombinasyonyeri}}}
- |1=FFE4B5
+ |1=AFEEEE
  |2=A9A9A9
  |3=6A5ACD
  }}; border-style: solid; font: 11pt; font-weight: bolder; position: relative;">
