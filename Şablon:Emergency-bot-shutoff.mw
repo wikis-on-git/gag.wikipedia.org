@@ -1,0 +1,12 @@
+{| style="background-color: transparent; text-align: center;" align="center" class="plainlinks"
+|style="text-align: center; font-size: 2em; line-height:normal"|<b>Emergency {{{titlename|robot}}} shutoff button</b>
+|-
+|style="text-align: center; font-size: 100%; padding: .2em;" class="nounderlines plainlinksneverexpand"|
+<br><center>
+<div style="position:relative; width:128px; height:128px; overflow:hidden;"><div style="position:absolute; font-size:1000px; overflow:hidden; line-height:1000px; letter-spacing:1000px;">[{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} &nbsp;&nbsp;&nbsp;]</div>[[Image:Crystal Clear action exit.svg|128px]]</div>
+</center><br>
+|-
+|'''[[Vikipediya:İdarəçilər|İdarəçilər]]:''' Use this button if {{{name|the bot}}} is malfunctioning. ([{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} <span style="color:#002bb8;font-weight:bold">direct link</span>])
+
+Non-administrators can report misbehaving bots to [[Wikipedia:Administrators' noticeboard]].
+|}
