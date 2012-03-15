@@ -1,7 +1,6 @@
-{|id="mp-topbanner" width="100%" style="border:1px solid #87CEEB;background:#{{{yazırengi|FFE4B5}}};border:1px solid #87CEEB; -moz-border-radius:10px; margin:1.2em 0 6px 0;"
+{|{|id="mp-topbanner" width="100%" style="border:1px solid #87CEEB;background:#F0F8FF;border:1px solid #87CEEB; -moz-border-radius:10px; margin:1.2em 0 6px 0;"
 |-
 |<center>'''SEÇKİN YER'''</center>
-{|id="mp-topbanner" width="100%" style="border:1px solid #87CEEB;background:#F0F8FF;border:1px solid #87CEEB; -moz-border-radius:10px; margin:1.2em 0 6px 0;"
 |-
 |{{Şablon:Yazılar1}}
 |}
