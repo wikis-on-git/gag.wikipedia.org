@@ -1,5 +1,23 @@
 <!-- Giriş -->
-{{BAŞYAPRAK}}
+<div>
+{|width="100%" cellpadding="5" cellspacing="6" style="vertical-align:top; background:#F9F9F9;"
+|style="color:#000;"|{{başyaprak100}}
+|-
+|}
+{| border="0" cellspacing="10"
+|- valign="top"
+| width="30%"|
+{{Şablon:Başyaprak/Yazı1}}
+{{Şablon:Başyaprak/Yazı2}}
+| width="2%"|
+{{Vikipediya:GÜNÜN GÖRÜNÜŞÜ Dosyali/{{#time:F j}}}}
+{{Şablon:Başyaprak/Kategori}}
+|}
+{{Şablon:Başyaprak/Alfaviti}}
+{{Şablon:Başyaprak/Diller}}
+{{Şablon:Başyaprak/Kardaş Protektlär}}
+</div>
+
 
 <!-- Giriş son -->
 
