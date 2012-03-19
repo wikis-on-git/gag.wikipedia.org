@@ -5,3 +5,158 @@
 
 <span class="plainlinks">''Administrators, remember to check  [[Special:Whatlinkshere/{{FULLPAGENAME}}|if anything links here]] and [{{fullurl:{{FULLPAGENAME}}|action=history}} the page history] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} last edit]) before [{{fullurl:{{FULLPAGENAME}}|action=delete}} deletion].''</span>
 |}<includeonly>{{{category|[[Category:Candidates for speedy deletion]]}}}</includeonly>
+
+{| style="width: 80%; margin: 0 0 0 10%; border-collapse: collapse; background: #FEE; border: 1px solid #aaa; border-left: 10px solid #b22222;"
+|-
+| colspan=2 align=center style="font-size:140%; color:#b22222; background:#FEE" |
+'''Bu səhifənin məzmunu boşdur və ya uyğun deyil!'''
+----
+|-
+| width=100 align=center valign=top style="padding-top:5px" | [[Image:User-trash-full-4.svg|80px]]
+| align=left style="padding-left:5px" | '''Bu səhifə [[:Vikipediya:Səhifə_silmə_kriteriyaları | Vikipediya səhifə silmə kriteriyalarına]] görə yaxın vaxtda silinəcək.''' Əgər səhifənin silinməsini düzgün hesab etmirsinizsə [[:{{NAMESPACE}}_Talk:{{PAGENAME}}|müzakirə]] səhifəsində bu barədə fikrinizi bildirin, ya da [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} '''buradan'''] və ya yuxarıdakı <font color=blue>redaktə</font> keçidindən istifadə etməklə məqalədə düzəliş aparın ''(Düzəliş etdikdən sonra <nowiki>{{sil}}</nowiki> şablonunu səhifədən kənarlaşdırmağı unutmayın)
+{{Gizli|Sağdakı "Göstər" bölməsində [[VP:SSK|səhifə silmə kriteriyalarını]] nəzərdən keçirə bilərsiniz|(''Lütfən bu mətni sadəcə lazımi qaydaları xatırlamaq üçün istifadə edin, [[VP:HS]] səhifəsindəki qaydaları bildiyinizdən əmin olun. Əlaqədar kriteriyaların aşağıdakı kriteriyadan əlavə şərtləri ola bilər.'')
+
+G1: Mənasız; G2: Sınaq; G3: Vandalizm; G4: Əvvəldən silinmiş mətn; G5: Bloklanmış istifadəçi; G6: İstifadəçi tələbi; G7: Silinmiş səhifənin müzakirəsi; G8: Təmizlik məqsədiylə; G9: Müəllif hüququ pozuntusu; G10: Hücum; G11: Reklam; G12: Əlaqədar olmayan müzakirə
+
+M1: Yetərsiz məlumat; M2: Azərbaycan dilində olmayan məqalə; M3: Məzmunsuz; M4: Transvikilənmiş; M6: Ensiklopedik deyil; M8: Quruluş ve ensiklopediklik baxımından uyğun deyil
+
+Y1: Boşa istiqamətləndirmə; Y2: Xətalı istiqamətləndirmə; Y3: Fərqli adlar fəzası arasında yönlədirmə 
+
+RM1: Təkrar yüklənmiş şəkil; RM2: Xətalı/boş şəkil; RM4: Lisenziyası uyğun deyil, qaynağı bəlli deyil; RM5: Xətalı və ya istifadə edilməyən şəkil; RM6: Qeyri-ensiklopedik şəkil 
+
+K1: Boş kateqoriya; K2: Yenidən adlandırma kateqoriyası; K3: Şablon kateqoriyası
+
+U2: Mövcud olmayan istifadəçi;  U3: Ədalətli istifadə galeriyası
+
+Ş1: Provakativ/separatist şablon —  Ş2: İstifadəsiz şablon
+
+P1: Məqalə olaraq silinə biləcək portal; P2: Kriteriyaları əhatə etməyən portal
+}}
+<small>'''[[Vikipediya:İdarəçilər|İdarəçilər]]: '''Zəhmət olmasa səhifənın [http://az.wikipedia.org/w/index.php?title={{PAGENAMEE}}&action=history tarixçəsini] yoxlamadan, xüsusilə də [http://az.wikipedia.org/w/index.php?title={{PAGENAMEE}}&diff=0 son dəyişiklikləri] &nbsp; nəzərdən keçirmədən [http://az.wikipedia.org/w/index.php?title={{PAGENAMEE}}&action=delete səhifəni] &nbsp;silməyin. </small>
+----
+|-
+| align=center style="font-size:130%; |<big> '''Səbəb'''</big>
+| style="font-size:110%; padding-left:5px" | {{{1|Silmək üçün səbəbini yazın!<br>Zəhmət olmasa bu şablonu '''<nowiki>{{sil |silmə səbəbi}}</nowiki>''' şəklində istifadə edin.}}}
+|}<includeonly>[[Kateqoriya:Vikipediya:Silinəcək səhifələr]]</includeonly><noinclude>
+
+{{doc}}
+
+[[kategoriyası:Məqalə şablonları]]
+
+[[af:Sjabloon:Skrap]]
+[[ak:Template:Delete]]
+[[an:Plantilla:Destruyir]]
+[[ang:Bysen:Delete]]
+[[ar:قالب:شطب]]
+[[ast:Plantía:Destruir]]
+[[ay:Plantilla:Borrar]]
+[[bar:Vorlage:Löschen]]
+[[bat-smg:Šabluons:Delete]]
+[[be:Шаблон:Выдаліць]]
+[[be-x-old:Шаблён:Выдаліць]]
+[[bg:Шаблон:Бързо изтриване]]
+[[bn:টেমপ্লেট:অপসারণ]]
+[[br:Patrom:Delete]]
+[[bs:Šablon:Brisanje]]
+[[ca:Plantilla:Esborrar1]]
+[[ceb:Plantilya:Delete]]
+[[co:Template:Delete]]
+[[cr:Template:Delete]]
+[[cs:Šablona:Smazat]]
+[[cv:Шаблон:Кăларса пăрах]]
+[[cy:Nodyn:Tudalen amheus]]
+[[da:Skabelon:Slet]]
+[[de:Vorlage:Löschen]]
+[[dsb:Pśedłoga:Lašowaś]]
+[[el:Πρότυπο:Διαγραφή]]
+[[en:Template:Db]]
+[[eo:Ŝablono:Forigu]]
+[[es:Plantilla:Destruir]]
+[[et:Mall:Kustutada]]
+[[eu:Txantiloi:Ezabatu]]
+[[fa:الگو:حذف سریع]]
+[[fi:Malline:Roskaa]]
+[[fr:Modèle:Suppression Immédiate]]
+[[fy:Berjocht:Wiskwarskôging]]
+[[ga:Teimpléad:Scrios]]
+[[gd:Template:Delete]]
+[[he:תבנית:למחוק]]
+[[hi:साँचा:शीघ्र हटाएं]]
+[[hr:Predložak:Bris]]
+[[hsb:Předłoha:Wušmórnyć]]
+[[ht:Modèl:Efase]]
+[[hu:Sablon:Azonnal törlendő]]
+[[hy:Կաղապար:Ջնջում]]
+[[ia:Patrono:Eliminar]]
+[[id:Templat:Penghapusan]]
+[[ie:Template:Delete]]
+[[io:Shablono:Efacinda pagino]]
+[[is:Snið:Eyða]]
+[[it:Template:Cancella subito]]
+[[ja:Template:即時削除]]
+[[jbo:Template:ko vimcu]]
+[[jv:Cithakan:Busak]]
+[[ka:თარგი:წასაშლელი]]
+[[km:ទំព័រគំរូ:លុបជាបន្ទាន់]]
+[[kn:ಟೆಂಪ್ಲೇಟು:ಅಳಿಸುವಿಕೆ]]
+[[ko:틀:삭제 신청]]
+[[ksh:Schablon:Schmieß Fott]]
+[[ku:Şablon:Betalkirin]]
+[[la:Formula:Delete]]
+[[lb:Schabloun:Läschen]]
+[[lt:Šablonas:Trinti]]
+[[lv:Veidne:Dzēst]]
+[[mi:Template:Mukua]]
+[[mk:Шаблон:Db]]
+[[ml:ഫലകം:മായ്ക്കുക]]
+[[mr:साचा:पान काढायची विनंती]]
+[[ms:Templat:Hapus]]
+[[nah:Nemachiyōtīlli:Destruir]]
+[[nap:Modello:Delete]]
+[[nds:Vörlaag:Gauweg]]
+[[nds-nl:Mal:Vort]]
+[[nl:Sjabloon:Nuweg]]
+[[nn:Mal:Sletting]]
+[[no:Mal:Hurtigsletting]]
+[[oc:Modèl:Supression]]
+[[pap:Template:Delete]]
+[[pl:Szablon:Ek]]
+[[pms:Stamp:Gav-me]]
+[[pt:Predefinição:Er1]]
+[[qu:Plantilla:Champay]]
+[[ro:Format:Ştergere rapidă]]
+[[roa-tara:Template:Delete]]
+[[ru:Шаблон:К быстрому удалению]]
+[[scn:Template:Delete]]
+[[sh:Šablon:Delete]]
+[[simple:Template:QD]]
+[[sk:Šablóna:Zmazať lebo]]
+[[sl:Predloga:Briši ker]]
+[[sq:Stampa:Grise]]
+[[sr:Шаблон:Брзо брисање]]
+[[su:Citakan:Hapus]]
+[[sv:Mall:Radera]]
+[[sw:Kigezo:Futa]]
+[[szl:Szablon:Gw]]
+[[ta:வார்ப்புரு:Delete]]
+[[te:మూస:Delete]]
+[[tet:Template:Halakon]]
+[[tg:Шаблон:Delete]]
+[[th:แม่แบบ:ลบ]]
+[[tl:Suleras:Burahin]]
+[[tpi:Template:Delete]]
+[[tr:Şablon:Sil]]
+[[uk:Шаблон:Db-reason]]
+[[ur:سانچہ:حذف]]
+[[uz:Andoza:Delete]]
+[[vec:Template:Canceła subito]]
+[[vi:Tiêu bản:Chờ xoá]]
+[[vls:Patrôon:Nuweg]]
+[[vo:Samafomot:Moükön]]
+[[wa:Modele:Delete]]
+[[wuu:模板:Delete]]
+[[yi:מוסטער:שנעל אויסמעקן]]
+[[yo:Àdàkọ:Delete]]
+[[zh:Template:Delete]]
+[[zh-yue:Template:刪]]
+</noinclude>
