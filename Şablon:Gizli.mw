@@ -1,0 +1,8 @@
+<div class="NavFrame" style="border: none;"><div class="NavFrame" style="border: none;"><div class="NavFrame" style="border: none;">
+<div class="NavHead" style="font-weight:{{{fw1|bold}}}; background-color: {{{bg1|transparent}}}; text-align: {{{ta1|center}}};">{{{header|{{{1}}}}}}&nbsp;</div>
+<div class="NavContent" style="font-weight:{{{fw2|normal}}}; background-color: {{{bg2|transparent}}}; text-align: {{{ta2|left}}}; display:none;">
+{{{content|{{{2}}}}}}
+</div></div></div></div>
+<noinclude>
+[[Kategori:Şablonnar]]
+</noinclude>
