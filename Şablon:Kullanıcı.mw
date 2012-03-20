@@ -1,13 +1,16 @@
-<includeonly>[[İstifadəçi:{{{1}}}|{{{2|{{{1}}}}}}]] ([[İstifadəçi müzakirəsi:{{{1}}}|müzakirə səhifəsi]] • [[Xüsusi:Contributions/{{{1}}}|fəaliyyətləri]])</includeonly><noinclude>
+<includeonly>[[Kullanıcı:{{{1}}}|{{{2|{{{1}}}}}}]] ([[Kullanıcımüzakirəsi:{{{1}}}|Kullanıcı dartışma]] • [[Xüsusi:Contributions/{{{1}}}|fəaliyyətləri]])</includeonly><noinclude>
 ==İstifadə qaydası==
 
-<pre>{{İstifadəçi|istifadəçinin adı}}
+<pre>{{Kullanıcı|Kullanıcıinin adı}}
 
 və ya
 
-{{user|istifadəçinin adı}}</pre>
+{{user|Kullanıcinin adı}}</pre>
 
-[[Kategoriya:Şablonlar]] 
+===Nümunə:===
+<nowiki>{{user|XYZ}}</nowiki> - {{user|XYZ}}
+
+[[Kateqoriya:Şablonlar]] 
 
 [[ar:قالب:مس]]
 [[ang:Bysen:User]]
