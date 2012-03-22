@@ -1,5 +1,4 @@
 {| id="toc" style="margin: 0 2em 0 2em;"
-|}
 {{
   {{namespace detect 
   | demospace = {{{demospace|}}}
@@ -9,6 +8,7 @@
   | category  = cmbox
   | other     = ombox
   }}
+|}
 | type       = {{{type|}}}
 | image      = {{{image|}}}
 | imageright = {{{imageright|}}}
