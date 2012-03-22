@@ -1,7 +1,7 @@
 {| id="toc" style="margin: 0 2em 0 2em;"
 {| class="messagebox"
 |align="center"|[[Image:Crystal Clear action run.png|50px]]
-|align="left" width="100%"|'''Bu kullanıcı hesabı bir [[Vikipediya:Topluluk portalı|bottur]] ve [[:{{{site|gag}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|gag}}}:User talk:{{{1}}}|mesaj]]) tarafından işletilir.'''
+|align="left" width="100%"|'''Bu kullanıcı hesabı bir [[Vikipediya:Botlar|bottur]] ve [[:{{{site|gag}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|gag}}}:User talk:{{{1}}}|mesaj]]) tarafından işletilir.'''
 Bu bir [[Vikipedi:Kukla|kukla]] değildir, tersine elle yapılması çok zor olan sürekli değişiklikleri otomatik veya yarı-otomatik olarak yapan bir hesaptır.
 <br>
 <small>''Hizmetliler: eğer bu bot bozuluyorsa veya zarar veriyorsa, lütfen <span class="plainlinks">[{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} engelleyiniz]</span>.''</small>
@@ -12,7 +12,7 @@ Bu bir [[Vikipedi:Kukla|kukla]] değildir, tersine elle yapılması çok zor ola
 It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated or semi-automated account for making repetitive edits that would be extremely tedious to do manually.
 <br>
 <small>''Administrators: if this bot is malfunctioning or causing harm, please <span class="plainlinks">[{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} block it]</span>.''</small>
-|} --->{{{kategori|{{{category|[[Kategori:Vikipediya botları|<includeonly>{{PAGENAME}}</includeonly> ]]}}}}}}
+|} --->{{{kategori|{{{category|[[Kategori:botları|<includeonly>{{PAGENAME}}</includeonly> ]]}}}}}}
 
 <noinclude>
 [[ab:Ашаблон:Bot]]
