@@ -12,7 +12,7 @@ Bu bir [[Vikipedi:Kukla|kukla]] değildir, tersine elle yapılması çok zor ola
 It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated or semi-automated account for making repetitive edits that would be extremely tedious to do manually.
 <br>
 <small>''Administrators: if this bot is malfunctioning or causing harm, please <span class="plainlinks">[{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} block it]</span>.''</small>
-|} --->{{{kategori|{{{category|[[Kategori:botları|<includeonly>{{PAGENAME}}</includeonly> ]]}}}}}}
+|} --->{{{kategori|{{{category|[[Kategori:botlar|<includeonly>{{PAGENAME}}</includeonly> ]]}}}}}}
 
 <noinclude>
 [[ab:Ашаблон:Bot]]
