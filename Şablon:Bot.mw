@@ -8,11 +8,11 @@ Bu bir [[Vikipedi:Kukla|kukla]] değildir, tersine elle yapılması çok zor ola
 |}
 <!--- {| class="messagebox"
 |align="center"|[[Image:Crystal Clear action run.png|50px]]
-|align="left" width="100%"|'''This user account is a [[Vikipedi:Botlar|bot]] operated by [[:{{{site|gag}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|gag}}}:User talk:{{{1}}}|talk]]).'''
+|align="left" width="100%"|'''This user account is a [[Vikipedi:Vikipediya:Topluluk portalı|bot]] operated by [[:{{{site|gag}}}:User:{{{1}}}|{{{1}}}]] ([[:{{{site|gag}}}:User talk:{{{1}}}|talk]]).'''
 It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated or semi-automated account for making repetitive edits that would be extremely tedious to do manually.
 <br>
 <small>''Administrators: if this bot is malfunctioning or causing harm, please <span class="plainlinks">[{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} block it]</span>.''</small>
-|} --->{{{kategori|{{{category|[[Kategori:Vikipedi botları|<includeonly>{{PAGENAME}}</includeonly> ]]}}}}}}
+|} --->{{{kategori|{{{category|[[Kategori:Topluluk portalı|<includeonly>{{PAGENAME}}</includeonly> ]]}}}}}}
 
 <noinclude>
 [[ab:Ашаблон:Bot]]
