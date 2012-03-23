@@ -1,0 +1,5 @@
+<div style="background:#ecfcf4;border:1px dotted #aaa;padding:10px;margin-top:10px;clear:both;">__NOEDITSECTION__
+<div style="float:right;padding-right:1em;"><span class=plainlinks style="font-size:11px"><nowiki>[</nowiki>[[{{{1}}}|gör]]<nowiki>]</nowiki>&nbsp;<nowiki>[</nowiki>[{{fullurl:{{{1}}}|action=edit}} değiştir]<nowiki>]</nowiki>&nbsp;<nowiki>[</nowiki>[{{fullurl:{{{1}}}|action=history}} geçmiş]<nowiki>]</nowiki>&nbsp;<nowiki>[</nowiki>[{{fullurl:{{FULLPAGENAMEE}}|action=purge}} yenile]<nowiki>]</nowiki></span></div><span style="font-size:11pt;line-height:11pt;">[[Dosye:Information.svg|20px|Belgeleme]]&nbsp;Belgeleme</span>
+----<noinclude>
+[[Kategori:Şablon belgelemesi|{{PAGENAME}}]]
+</noinclude>
