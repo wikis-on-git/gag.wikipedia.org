@@ -1,0 +1,44 @@
+{| class="ombox ombox-protection" style="font-size:90%; text-align: center; margin:auto;"
+|-
+!colspan="5" | {{Tnavbar-header|[[:Kategori:Koruma şablonları|Koruma şablonları]]|Koruma şablonları}}
+|-
+|rowspan="9" style="vertical-align: top;"|[[Dosya:Padlock.svg|40px]]
+|style="text-align:right;"| '''[[Vikipedi:Koruma politikası|Politika]]''' - {{tlx|koruma-ana}}
+! Tam
+! Yarı
+! Taşıma
+|-
+!style="text-align: right;"| Genel:
+| colspan="2" |{{tlx|koruma}}|| {{tlx|koruma-taşıma}}
+|-
+!style="text-align: right;"| Anlaşmazlık:
+| {{tlx|koruma-anlaşmazlık}} || {{N/A}} || {{tlx|koruma-taşıma-anlaşmazlık}}
+|-
+!style="text-align: right;"| Vandalizm:
+| colspan="2" | {{tlx|koruma-vandalizm}} || {{tlx|koruma-taşıma-vandalizm}}
+|-
+!style="text-align: right;"| Yüksek trafiğe sahip şablonlar:
+| colspan="2" | {{tlx|koruma-şablon}} || {{N/A}}
+|-
+!style="text-align: right;"| [[VP:YİB]]:
+| {{N/A}} || {{tlx|koruma-yarı-yib}} || {{N/A}}
+|-
+!style="text-align: right;"| Uzun süreli:
+| {{N/A}} || {{tlx|koruma-yarı-süresiz}} || {{tlx|koruma-taşıma-süresiz}}
+|-
+!style="text-align: right;"| Tartışma sayfası bilgisi:
+| {{tlx|Koruma-tartışma-süresiz}} || {{tlx|Koruma-tartışma-geçici}} || {{N/A}}
+|-
+!style="text-align: right;"| Oluşturma koruması:
+| colspan="2" |{{tlx|koruma-oluşturma}}|| {{N/A}}
+|}<noinclude>
+<!-- Şablondaki satır sayısını artırmak için tablonun başındaki 'rowspan="??"' değerini de güncellemeniz gerekmektedir. -->
+
+[[Kategori:Koruma şablonları|*]]
+
+[[en:Template:Protection templates]]
+[[fr:Modèle:Modèles de protection]]
+[[ja:Template:Protection templates]]
+[[mk:Шаблон:Шаблони за заштитување]]
+[[zh:Template:保護模板]]
+</noinclude>
