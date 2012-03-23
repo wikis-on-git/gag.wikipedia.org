@@ -1,0 +1,11 @@
+<div>
+{{imbox
+| type      = license
+| image     = [[Image:Nuvola apps emacs.png|60px|GFDL]]
+| textstyle = font-size:95%;
+| text      = '''{{PAGENAME}}''' belgesinin yaratıcısı olarak ben{{#if: {{{1|}}} | , [[:{{{2|}}}:User:{{{1}}}|'''{{{1}}}''']]}}, bu belgenin
+:* [[GNU Özgür Belgeleme Lisansı]]'nın 1.2 sürümü ya da [[Özgür Yazılım Vakfı]] tarafından yayımlanmış daha yeni sürümlerindeki koşullara uygun şekilde ve
+:* değişmeyen bölümler, ön kapak metni ve arka kapak metni olmaksızın,
+kopyalanması, dağıtılması ve/veya değiştirilmesine izin veriyorum.<br />
+<small>'''Telif hakkı''' ile ilgili bu etiket, İngilizce Wikipedia'daki [[:en:Template:GFDL-self|Template:GFDL-self]] etiketinden Türkçe'ye çevrilerek hazırlanmıştır.''</small>}}<includeonly>[[Kategori:GOBL resimleri|{{PAGENAME}}]]</includeonly></div><noinclude>
+[[kategori:GOBL etiketleri|Kişisel]]</noinclude>
