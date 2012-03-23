@@ -1,0 +1,17 @@
+<div>
+{{imbox
+| type      = license
+| image     = [[File:CC-BY-SA 3 icon 88x31.png|84px|Bazı hakları saklıdır]]
+| textstyle = font-size:95%;
+| text      = '''{{PAGENAME}}''' görüntüsü, [[Creative Commons|'''C'''reative '''C'''ommons]] '''Atıf-BenzerPaylaşım''' ''(Attribution-ShareAlike)'' lisansının [http://creativecommons.org/licenses/by-sa/2.5/ 2.5], [http://creativecommons.org/licenses/by-sa/2.0/ 2.0] &nbsp;ve [http://creativecommons.org/licenses/by-sa/1.0/ 1.0] &nbsp;sürümleri ile lisanslandırılmıştır.
+}}<includeonly>[[Kategori:CC-A-BP resimleri|{{PAGENAME}}]]</includeonly></div><noinclude>
+
+'''Cc-a-bp-2.5,2.0,1.0''', İngilizce Wikipedia'daki [[:en:Template:Cc-by-sa-2.5,2.0,1.0|'''''Template:Cc-by-sa-2.5,2.0,1.0''''']] kaynak alınarak oluşturulmuş bir [[telif hakkı]] [[:Kategori:Resim telif etiketleri|şablonudur]] ve Vikipedi'ye yüklenen bir görüntünün [[Creative Commons|'''C'''reative '''C'''ommons]] '''A'''tıf-'''B'''enzer'''P'''aylaşım ''(Attribution-ShareAlike)'' lisansının [http://creativecommons.org/licenses/by-sa/2.5/ '''2.5'''], [http://creativecommons.org/licenses/by-sa/2.0/ '''2.0'''] &nbsp;ve [http://creativecommons.org/licenses/by-sa/1.0/ '''1.0'''] sürümlerinin üçü ile birden lisanslandırıldığı bilgisini sunmak için kullanılabilir.
+* '''Cc-by-sa''', '''''C'''reative '''C'''ommons-Attribution-'''S'''hare'''A'''like'' için kısaltmadır ("tarafından" anlamına gelen '''''by''''' kelimesi, ''attribution'' kelimesi için bir kısaltma olarak kullanılmıştır).
+* '''Cc-a-bp''' ise, ''Creative Commons-Attribution-ShareAlike'' için elde edilmiş "'''C'''reative '''C'''ommons-'''A'''tıf-'''B'''enzer'''P'''aylaşım" çevirisi için kısaltmadır ("Creative Commons" özel isim olmak üzere).
+
+=== Kullanım kılavuzu ===
+* Bu şablon, yüklenilen resmin sayfasına aşağıdaki kodun ''kopyala-yapıştır'' ile aktarılması yoluyla kullanılır.
+{| style="margin-left:3em; font-size:90%"
+| <pre>{{Cc-a-bp-2.5,2.0,1.0}}</pre>
+|}
