@@ -1,0 +1,23 @@
+----
+
+
+== Açıklama ==
+'''Cc-a-2.5''', İngilizce Wikipedia'daki [[:en:Template:Cc-by-2.5|'''''Template:Cc-by-2.5''''']] kaynak alınarak oluşturulmuş bir [[telif hakkı]] [[:Kategori:Resim telif etiketleri|şablonudur]] ve Vikipedi'ye yüklenen bir görüntünün [[Creative Commons|'''C'''reative '''C'''ommons]] [http://creativecommons.org/licenses/by/2.5/ '''A'''tıf ''(Attribution)'' lisansının '''2.5''' sürümü] &nbsp;ile lisanslandırıldığı bilgisini sunmak için kullanılabilir.
+:* '''Cc-by''' : '''''C'''reative '''C'''ommons-Attribution'' için kısaltma - "tarafından" anlamına gelen '''''by''''', ''attribution'' yerine kullanılmış.
+:* '''Cc-a''' : '''''C'''reative '''C'''ommons-'''A'''tıf'' için kısaltma.
+
+== Önemli not ==
+Telif hakkını herhangi bir [[:Kategori:Creative Commons etiketleri|Creative Commons lisansı]] ile sağlayacağınız bir görüntüyü yüklemek istediğinizde, bunu Vikipedi'nin kendisindense [http://commons.wikimedia.org/wiki/Ana_Sayfa '''Wikimedia Commons'''<nowiki>'</nowiki>a] yüklemeniz ve gerekli lisansı orada uygulayarak, bahsi geçen görüntüyü tüm dillerdeki Wikipedialar'ın kullanımına açmanız daha uygun olacaktır.
+
+Wikimedia Commons'ta, [http://commons.wikimedia.org/w/index.php?title=Commons:Upload/tr&uselang=tr dosya yükleme sayfasının '''Türkçe'''<nowiki>'</nowiki>sini tercih edebilirsiniz].
+
+== Kullanım kılavuzu ==
+Bu şablon, yüklenilen resmin sayfasına aşağıdaki kodun ''kopyala-yapıştır'' ile aktarılması yoluyla kullanılır.
+{| style="margin-left:3em; font-size:90%"
+| <pre>{{Cc-a-2.5}}</pre>
+|}
+
+[[Kategori:Creative Commons etiketleri|*{{PAGENAME}}]]
+
+[[ar:قالب:Cc-by-2.5]]
+[[de:Vorlage:Bild-CC-by/2.5]]
