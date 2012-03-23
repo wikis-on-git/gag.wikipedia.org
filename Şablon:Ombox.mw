@@ -1,0 +1,19 @@
+{{#ifeq:{{{small|}}}|yes
+| {{ombox/core
+  | small = yes
+  | type  = {{{type|}}}
+  | Dosye = {{#if:{{{smallDosye|}}}| {{{smallDosye}}} | {{{Dosye|}}} }}
+  | imageright = {{#if:{{{smallimageright|}}} | {{{smallimageright}}} | {{{imageright|}}} }}
+  | style = {{{style|}}}
+  | textstyle = {{{textstyle|}}}
+  | text  = {{#if:{{{smalltext|}}}| {{{smalltext}}} | {{{text}}} }}
+  }}
+| {{ombox/core
+  | type  = {{{type|}}}
+  | Dosye= {{{Dosye|}}}
+  | imageright = {{{imageright|}}} 
+  | style = {{{style|}}}
+  | textstyle = {{{textstyle|}}}
+  | text  = {{{text}}}
+  }}
+}}<noinclude>{{documentation}}<!-- Add categories and interwikis to the /doc subpage, not here! --></noinclude>
