@@ -12,22 +12,22 @@
 | #default   = imbox-notice
 }}" style="{{{style|}}}">
 <tr>
-{{#ifeq:{{{image|}}}|none
-| <!-- No image. Cell with some width or padding necessary for text cell to have 100% width. --><td class="mbox-empty-cell"></td>
-| <td class="mbox-image">
-  {{#if:{{{image|}}}
-  | {{{image}}}
+{{#ifeq:{{{Dosye|}}}|none
+| <!-- No Dosye. Cell with some width or padding necessary for text cell to have 100% width. --><td class="mbox-empty-cell"></td>
+| <td class="mbox-Dosye">
+  {{#if:{{{Dosye|}}}
+  | {{{Dosye}}}
   | {{#switch:{{{type|}}}
-    | speedy     = [[Image:Imbox speedy deletion.png|40x40px]] 
-    | delete     = [[Image:Imbox deletion.png|40x40px]] 
-    | content    = [[Image:Imbox content.png|40x40px]]
-    | style      = [[Image:Imbox style.png|40x40px]]
-    | move       = [[Image:Imbox move.png|40x40px]]
-    | protection = [[Image:Imbox protection.png|40x40px]]
-    | license    = [[Image:Imbox license.png|40x40px]]
-    | featured   = [[Image:Imbox featured.png|40x40px]]
+    | speedy     = [[Dosye:Imbox speedy deletion.png|40x40px]] 
+    | delete     = [[Dosye:Imbox deletion.png|40x40px]] 
+    | content    = [[Dosye:Imbox content.png|40x40px]]
+    | style      = [[Dosye:Imbox style.png|40x40px]]
+    | move       = [[Dosye:Imbox move.png|40x40px]]
+    | protection = [[Dosye:Imbox protection.png|40x40px]]
+    | license    = [[Dosye:Imbox license.png|40x40px]]
+    | featured   = [[Dosye:Imbox featured.png|40x40px]]
     | notice          <!-- notice = default -->
-    | #default   = [[Image:Imbox notice.png|40x40px]]
+    | #default   = [[Dosye:Imbox notice.png|40x40px]]
     }}
   }}</td>
 }}
