@@ -1,0 +1,50 @@
+<div>
+{{imbox
+| type      = license
+| image     = [[File:CC-BY-SA 3 icon 88x31.png|84px|Bazı hakları saklıdır]]
+| textstyle = font-size:95%;
+| text      = '''{{PAGENAME}}''' görüntüsü, [[Creative Commons|'''C'''reative '''C'''ommons]] '''Atıf-BenzerPaylaşım''' ''(Attribution-ShareAlike)'' lisansının [http://creativecommons.org/licenses/by-sa/2.5/ '''2.5''' sürümü] &nbsp;ile lisanslandırılmıştır.}}<includeonly>[[Kategori:CC-A-BP resimleri|{{PAGENAME}}]]</includeonly></div><noinclude>
+
+'''Cc-a-bp-2.5''', İngilizce Wikipedia'daki [[:en:Template:Cc-by-sa-2.5|'''''Template:Cc-by-sa-2.5''''']] kaynak alınarak oluşturulmuş bir [[telif hakkı]] [[:Kategori:Resim telif etiketleri|şablonudur]] ve Vikipedi'ye yüklenen bir görüntünün [[Creative Commons|'''C'''reative '''C'''ommons]] [http://creativecommons.org/licenses/by-sa/2.5/ '''A'''tıf-'''B'''enzer'''P'''aylaşım ''(Attribution-ShareAlike)'' lisansının '''2.5''' sürümü] &nbsp;ile lisanslandırıldığı bilgisini sunmak için kullanılabilir.
+* '''Cc-by-sa''', '''''C'''reative '''C'''ommons-Attribution-'''S'''hare'''A'''like'' için kısaltmadır ("tarafından" anlamına gelen '''''by''''' kelimesi, ''attribution'' kelimesi için bir kısaltma olarak kullanılmıştır).
+* '''Cc-a-bp''' ise, ''Creative Commons-Attribution-ShareAlike'' için elde edilmiş "'''C'''reative '''C'''ommons-'''A'''tıf-'''B'''enzer'''P'''aylaşım" çevirisi için kısaltmadır ("Creative Commons" özel isim olmak üzere).
+
+=== Kullanım kılavuzu ===
+* Bu şablon, yüklenilen resmin sayfasına aşağıdaki kodun ''kopyala-yapıştır'' ile aktarılması yoluyla kullanılır.
+{| style="margin-left:3em; font-size:90%"
+| <pre>{{Cc-a-bp-2.5}}</pre>
+|}
+
+=== Önemli not ===
+Telif hakkını herhangi bir [[:Kategori:Creative Commons etiketleri|Creative Commons lisansı]] ile sağlayacağınız bir görüntüyü yüklemek istediğinizde, bunu Vikipedi'ye yüklemek yerine [http://commons.wikimedia.org/wiki/Main_Page '''Wikimedia Commons'''<nowiki>'</nowiki>a] yüklemeniz ve gerekli lisansı orada uygulayarak, bahsi geçen görüntüyü tüm dillerdeki Wikipedia'ların kullanımına açmanız daha uygun olacaktır.
+[[Kategori:Creative Commons etiketleri|*{{PAGENAME}}]]
+[[ar:قالب:مشاع إبداعي-بواسطة-الترخيص بالمثل-2.5]]
+[[bg:Шаблон:Cc-by-sa-2.5]]
+[[ca:Plantilla:Cc-by-sa-2.5]]
+[[da:Skabelon:Cc-by-sa-2.5]]
+[[de:Vorlage:Bild-CC-by-sa/2.5]]
+[[el:Πρότυπο:Cc-by-sa-2.5]]
+[[en:Template:Cc-by-sa-2.5]]
+[[et:Mall:Cc-by-sa-2.5]]
+[[eu:Txantiloi:Cc-by-sa-2.5]]
+[[fa:الگو:Cc-by-sa-2.5]]
+[[fi:Malline:Cc-by-sa-2.5]]
+[[fr:Modèle:CC-BY-SA-2.5]]
+[[he:תבנית:Cc-by-sa-2.5]]
+[[id:Templat:Cc-by-sa-2.5]]
+[[it:Template:Cc-by-sa-2.5]]
+[[ja:Template:Cc-by-sa-2.5]]
+[[ka:თარგი:Cc-by-sa-2.5]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Cc-by-sa-2.5]]
+[[ko:틀:Cc-by-sa-2.5]]
+[[no:Mal:Cc-by-sa-2.5]]
+[[pl:Szablon:Cc-by-sa-2.5]]
+[[pt:Predefinição:Cc-by-sa-2.5]]
+[[ru:Шаблон:CC-BY-SA-2.5]]
+[[sl:Predloga:CC-BY-SA-2.5]]
+[[sr:Шаблон:CC-BY-SA-2.5]]
+[[uk:Шаблон:Cc-by-sa-2.5]]
+[[vi:Bản mẫu:Cc-by-sa-2.5]]
+[[zh:Template:Cc-by-sa-2.5]]
+[[zh-min-nan:Template:Cc-by-sa-2.5]]
+</noinclude>
