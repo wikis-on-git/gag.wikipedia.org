@@ -1,0 +1,51 @@
+{| style="width:90%; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; font-size:90%; line-height:1.2" cellspacing=7
+|-valign=center
+| [[Dosya:Public domain shiny.svg|64px]]
+| {{#if:{{{1|}}}|Ben, [[Kullanıcı:{{{1}}}|'''{{{1}}}''']],&nbsp;}}'''{{PAGENAME}}''' çalışmasını yaratan kişi olarak bu çalışmamı '''[[kamu malı|kamu mülkiyetine]]''' bırakıyorum. Bu izin tüm dünyada geçerlidir.
+
+Yasal olarak bunun mümkün olmadığı durumlarda,
+:* '''herhangi bir kişiye''',
+:* '''herhangi bir amaç''' için ve kanunlar tarafından gerekli görülmediği sürece '''koşulsuz olarak'''
+bu çalışmayı kullanma hakkını bağışlıyorum.
+|-
+| <nowiki></nowiki>
+| <small>'''Telif hakkı''' ile ilgili bu etiket, İngilizce Vikipedi'deki [[:en:Template:PD-self|Template:PD-self]] etiketinden Türkçe'ye çevrilerek hazırlanmıştır.''</small>
+|}<includeonly>[[Kategori:KM-Kişisel resimleri|{{PAGENAME}}]]</includeonly><noinclude>
+
+== Şablonun amacı ve kullanımı ==
+'''Şablon:KM-Kişisel''', kişisel olarak [[kamu malı|kamu mülkiyetine]] bıraktığınız bir çalışmanızı etiketlemenize yarayacak bir [[telif hakkı]] [[:kategori:Resim telif etiketleri|şablonudur]].
+
+Bu şablonu iki türlü uygulayabilirsiniz:
+* '''Kullanıcı''' değişkenine veri <u>girmeden</u> uygulamada, bu telif hakkı etiketi ile etiketlemek istediğiniz çalışmanıza ait sayfadaki uygun bir yere aşağıdaki satırı ''kopyala-yapıştır'' ile aktarmanız yeterlidir. Bu şekilde, yukarıda gördüğünüz etiket o sayfada yer alacaktır.
+{| style="margin-left:5em; font-size:90%"
+| <pre>{{KM-Kişisel}}</pre>
+|}
+* '''Kullanıcı''' değişkenine veri <u>girerek</u> uygulamada ise aşağıdaki satırı ''kopyala-yapıştır'' ile aktardıktan sonra, '''KULLANICI''' yerine kendi kullanıcı adınızı yazmanız yeterlidir.
+{| style="margin-left:5em; font-size:90%"
+| <pre>{{KM-Kişisel|KULLANICI}}</pre>
+|}
+:* Örnek uygulama ve uygulamanın görüntüsü:
+{| style="margin-left:5em"
+| width=186 style="font-size:90%" | <pre>{{KM-Kişisel|Doruksal}}</pre>
+| <nowiki></nowiki>
+|-
+| colspan=2 |
+{| style="margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; font-size:90%; line-height:1.2" cellspacing=7
+|-valign=top
+| [[Resim:PD-icon.svg|64px]]
+| Ben, [[Kullanıcı:Doruksal|'''Doruksal''']],&nbsp;'''{{PAGENAME}}''' çalışmasını yaratan kişi olarak bu çalışmamı '''[[kamu malı|kamu mülkiyetine]]''' bırakıyorum. Bu izin tüm dünyada geçerlidir.
+
+Yasal olarak bunun mümkün olmadığı durumlarda,
+:* '''herhangi bir kişiye''',
+:* '''herhangi bir amaç''' için ve kanunlar tarafından gerekli görülmediği sürece '''koşulsuz olarak'''
+bu çalışmayı kullanma hakkını bağışlıyorum.
+|-
+| <nowiki></nowiki>
+| <small>'''Telif hakkı''' ile ilgili bu etiket, İngilizce Vikipedi'deki [[:en:Template:PD-self|Template:PD-self]] etiketinden Türkçe'ye çevrilerek hazırlanmıştır.''</small>
+|}
+|}
+
+[[kategori:Kamu malı etiketleri|Kişisel]]
+
+[[en:Template:PD-self]]
+</noinclude>
