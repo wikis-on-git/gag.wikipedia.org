@@ -1,7 +1,7 @@
 {{Belgeleme navigasyonu}}
 <includeonly>{{high-risk| 850,000+ }}</includeonly>
 <!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
-{{mbox templates}}Bu imbox yani İmage Message Box Türkçesiyle Resim İleti Kutusu.Türkçe hali için bakınız:RikutusuIt is used to build message box templates for file (image) pages, such as {{tl|cleanup-image}} etc. It offers several different colours, uses default images if no Dosye parameter is given and it has some other features.
+{{mbox templates}}Bu imbox yani İmage Message Box Türkçesiyle Resim İleti Kutusu.Türkçe hali için bakınız:RikutusuIt is used to build message box templates for file (Dosye) pages, such as {{tl|cleanup-Dosye}} etc. It offers several different colours, uses default Dosye if no Dosye parameter is given and it has some other features.
 
 This template works almost exactly like {{tl|ambox}} and uses the same parameters.
 
@@ -27,7 +27,7 @@ Complex example:
 <pre>
 {{imbox
 | type      = style
-| Dosye     = [[Image:Emblem-question-yellow.svg|40px]]
+| Dosye     = [[Dosye:Emblem-question-yellow.svg|40px]]
 | style     = width: 400px; 
 | textstyle = color: red; font-weight: bold; font-style: italic;
 | text      = The message body text.
@@ -36,7 +36,7 @@ Complex example:
 
 {{imbox
 | type      = style
-| Dosye     = [[Image:Emblem-question-yellow.svg|40px]]
+| Dosye     = [[Dosye:Emblem-question-yellow.svg|40px]]
 | style     = width: 400px; 
 | textstyle = color: red; font-weight: bold; font-style: italic;
 | text      = The message body text.
@@ -85,17 +85,17 @@ The following examples use different '''type''' parameters but use no image para
 
 === Other Dosyes ===
 
-The default images shown above are mostly for convenience. In many cases it is more appropriate to use more specific images. These examples use the '''image''' parameter to specify an image other than the default images.
+The default images shown above are mostly for convenience. In many cases it is more appropriate to use more specific images. These examples use the '''Dosye''' parameter to specify an image other than the default images.
 
 {{imbox
 | type  = style
 | Dosye = [[Dosye:Gnome-dev-camera.svg|42px]]
-| text  = type = style <br> image = <nowiki>[[Image:Gnome-dev-camera.svg|42px]]</nowiki> <br> This image is used for {{tl|cleanup-image}}. 
+| text  = type = style <br> image = <nowiki>[[Dosye:Gnome-dev-camera.svg|42px]]</nowiki> <br> This image is used for {{tl|cleanup-image}}. 
 }}
 {{imbox
 | type  = move
 | Dosye = [[Dosye:To Commons.svg|52px]]
-| text  = type = move <br> image = <nowiki>[[Image:To Commons.svg|52px]]</nowiki> <br> This image is used for {{tl|copy to Wikimedia Commons}}. 
+| text  = type = move <br> image = <nowiki>[[Dosye:To Commons.svg|52px]]</nowiki> <br> This image is used for {{tl|copy to Wikimedia Commons}}. 
 }}
 {{imbox
 | type  = license
@@ -111,21 +111,21 @@ Some other parameter combinations.
 | text  = No type and no image given ('''default''')
 }}
 {{imbox
-| image = none
+| Dosye= none
 | text  = No type and '''image=none''' – No image is used and the '''text''' uses the whole message box area.
 }}
 
 {{imbox
 | type = license
-| Dosye= [[Dosye:Imbox license.svg|40px]] <br> [[Image:Ambox warning yellow.svg|40px]]
-| imageright = [[Image:Shuttle.svg|30px]]
+| Dosye= [[Dosye:Imbox license.svg|40px]] <br> [[Dosye:Ambox warning yellow.svg|40px]]
+| Dosyeeright = [[Dosye:Shuttle.svg|30px]]
 | text  = type = license <br> Dosye = <nowiki>[[Dosye:Imbox license.svg|40px]] &lt;br> [[Dosye:Ambox warning yellow.svg|40px]]</nowiki> <br> imageright = <nowiki>[[Dosye:Shuttle.svg|30px]]</nowiki>
 }}
 
 {{imbox
 | type = license
 | Dosye = [[Dosye:Imbox license.svg|40px]] <br> [[Dosye:Ambox warning yellow.svg|40px]]
-| imageright = [[Dosye:Shuttle.svg|30px]]
+| Dosyeeright = [[Dosye:Shuttle.svg|30px]]
 | text  = '''This file is in the [[public domain]] because it was created by [[NASA]].'''
 <br>Note that use of NASA logos, insignia and emblems are restricted per US law.
 }}
@@ -134,7 +134,7 @@ Some other parameter combinations.
 | type       = license
 | Dosye      = [[Dosye:Imbox license.svg|40px]]
 | text       = 
-type = license <br> image = <nowiki>[[Dosye:Imbox license.svg|40px]]</nowiki> <br> below = <nowiki>{{imbox | type = content | text = '''This license tag is deprecated!''' }}</nowiki>
+type = license <br> Dosye = <nowiki>[[Dosye:Imbox license.svg|40px]]</nowiki> <br> below = <nowiki>{{imbox | type = content | text = '''This license tag is deprecated!''' }}</nowiki>
 | below = 
   {{imbox
   | type = content
@@ -151,7 +151,7 @@ List of all parameters:
 | type  = speedy / delete / content / style / notice / 
           move / protection / license / featured
 | Dosye = none / [[Dosye:Some image.svg|40px]]
-| imageright = [[Dosye:Some image.svg|40px]]
+| Dosyeeright = [[Dosye:Some image.svg|40px]]
 | style = CSS value
 | textstyle = CSS value
 | text  = The message body text.
@@ -164,13 +164,13 @@ List of all parameters:
 
 '''image'''
 :'''No parameter''' = If no '''image''' parameter is given the template uses a default image. Which default image it uses depends on the '''type''' parameter. 
-:'''An image''' = Should be an Dosye with usual wiki notation. 40px - 50px width are usually about right depending on the image height to width ratio. (But the message box can handle images of any size.) For example: 
+:'''An Dosye''' = Should be an Dosye with usual wiki notation. 40px - 50px width are usually about right depending on the image height to width ratio. (But the message box can handle images of any size.) For example: 
 ::<code><nowiki>image = [[Dosye:Gnome-dev-camera.svg|40px]]</nowiki></code>
 :'''none''' = Means that no image is used.
 
 '''imageright'''
 :'''No parameter''' = If no '''imageright''' parameter is given then no image is shown on the right side.
-:'''An image''' = Should be an image with usual wiki notation. 40px - 50px width are usually about right depending on the image height to width ratio. (But the message box can handle images of any size.) For example: 
+:'''An Dosye''' = Should be an image with usual wiki notation. 40px - 50px width are usually about right depending on the image height to width ratio. (But the message box can handle images of any size.) For example: 
 ::<code><nowiki>imageright = [[Dosye:Nuvola apps bookcase.png|40px]]</nowiki></code>
 :'''Anything''' = Any other object that you want to show on the right side.
 
