@@ -1,3 +1,10 @@
+<div>
+{{imbox
+| type      = 
+| Dosye     =[[Dosye :Emblem-star.svg ]]
+| textstyle = 
+| text      =
+
 
 <div style="float: left; width: 33%; text-align: left">
 <div style="float:left;height:3.5em;margin-right:.5em;padding-top:5px">[[Dosya:Wiktionary-logo-tr.png|35px]]</div>
@@ -37,6 +44,20 @@
 <div style="float:left;height:3.5em;margin-right:.5em;padding-top:10px">[[Dosya:Wikiversity-logo.svg|35px]]</div>
 [[:en:v:Wikiversity:Main Page|'''Vikiversitet''']]
 </div>
+
+}}
+
+
+
+
+
+
+
+
+
+
+
+
 |-
 |}
 
