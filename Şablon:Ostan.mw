@@ -1,13 +1,37 @@
-{{Baba Marta}}
-
-'''<includeonly>{{subst:PAGENAME}}</includeonly>''' , Gregoryen Takvimi'ne göre yılın {{<includeonly>subst:</includeonly>Gregoryen|<includeonly>{{subst:PAGENAME}}</includeonly>}} . ([[Artık yıllarda]] {{<includeonly>subst:</includeonly>Artık|<includeonly>{{subst:PAGENAME}}</includeonly>}}.) günüdür..
-
-== Olaylar ==
-== Doğumlar ==
-== Ölümler ==
-== Tatiller ve Özel Günler ==
+{{Template:Kasaba bilgi
+|resim = 
+|bayrak ={{AZE}}
+|arma =
+| {{Location map
+|ülke   
+|label=şehir            
+|lat_dir=N
+| lat_deg=0 
+| lat_min=00    
+| lat_sec=0     
+|lon_dir=E 
+| lon_deg=0 
+| lon_min=0
+| lon_sec=0
+}}
+|devlet = [[Azerbaycan]]
+|toprak= 
+|nüfus = 
+|yoğunluk = 
+|yükseklik = 
+|prezident = 
+|araba_kodu =
+|telefon_kodu =
+|işsizlik =
+|vakit_bölgesi =
+|web    =
+}}
+'''<includeonly>{{subst:PAGENAME}}</includeonly>''' Rayoni[[Azerbaycan|Azerbaycanın]] bir büük Rayonidir.
 ==Hem bak==
+*[[Azerbaycan]]
 == Dış baalantılar==
+*[http://en.wikipedia.org/wiki/Template:Administrative_divisions_of_Azerbaijan  English free encyclopedia]
 <references/>
-{{Aylar}}
-[[Kategoriya:Baba Marta|06]]
+<references/>
+{{Azerbaycan kasabalar}}
+[[Kategori:Azerbaycan Kasabalar]]
