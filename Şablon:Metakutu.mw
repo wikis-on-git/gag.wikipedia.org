@@ -1,0 +1,135 @@
+<includeonly><div id="mc{{{id|0}}}" class="mc{{{color|Lila}}}">
+<div>
+{{#if:{{{bt1|}}}|<div id="mc{{{id|0}}}bt1" {{#ifexpr: {{{sel|0}}}=1 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona1|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt1|}}}{{{urlPost|}}}|{{{bt1|}}}]]</div>}}{{#if:{{{bt2|}}}|<div id="mc{{{id|0}}}bt2" {{#ifexpr: {{{sel|0}}}=2 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona2|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt2|}}}{{{urlPost|}}}|{{{bt2|}}}]]</div>}}{{#if:{{{bt3|}}}|
+<div id="mc{{{id|0}}}bt3" {{#ifexpr: {{{sel|0}}}=3 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona3|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt3|}}}{{{urlPost|}}}|{{{bt3|}}}]]</div>}}{{#if:{{{bt4|}}}|
+<div id="mc{{{id|0}}}bt4" {{#ifexpr: {{{sel|0}}}=4 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona4|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt4|}}}{{{urlPost|}}}|{{{bt4|}}}]]</div>}}{{#if:{{{bt5|}}}|
+<div id="mc{{{id|0}}}bt5" {{#ifexpr: {{{sel|0}}}=5 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona5|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt5|}}}{{{urlPost|}}}|{{{bt5|}}}]]</div>}}{{#if:{{{bt6|}}}|
+<div id="mc{{{id|0}}}bt6" {{#ifexpr: {{{sel|0}}}=6 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona6|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt6|}}}{{{urlPost|}}}|{{{bt6|}}}]]</div>}}{{#if:{{{bt7|}}}|
+<div id="mc{{{id|0}}}bt7" {{#ifexpr: {{{sel|0}}}=7 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona7|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt7|}}}{{{urlPost|}}}|{{{bt7|}}}]]</div>}}{{#if:{{{bt8|}}}|
+<div id="mc{{{id|0}}}bt8" {{#ifexpr: {{{sel|0}}}=8 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona8|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt8|}}}{{{urlPost|}}}|{{{bt8|}}}]]</div>}}{{#if:{{{bt9|}}}|
+<div id="mc{{{id|0}}}bt9" {{#ifexpr: {{{sel|0}}}=9 | class="mcBotoSel" | class="mcBoto" }}>{{{bticona9|}}}&nbsp;[[{{{PageName|{{PAGENAMEE}}}}}/{{{urlPrev|}}}{{{bt9|}}}{{{urlPost|}}}|{{{bt9|}}}]]</div>}}</div><div   class="mcContingut">
+{{#if:{{{bt1|}}}|
+<div id="mc{{{id|0}}}ps1" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=1 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps1|No hi ha contingut, cal definir el paràmetre '''ps1'''}}}
+</div>}}{{#if:{{{bt2|}}}|
+<div id="mc{{{id|0}}}ps2" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=2 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps2|No hi ha contingut, cal definir el paràmetre '''ps2'''}}}
+</div>}}{{#if:{{{bt3|}}}|
+<div id="mc{{{id|0}}}ps3" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=3 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps3|No hi ha contingut, cal definir el paràmetre '''ps3'''}}}
+</div>}}{{#if:{{{bt4|}}}|
+<div id="mc{{{id|0}}}ps4" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=4 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps4|No hi ha contingut, cal definir el paràmetre '''ps4'''}}}
+</div>}}{{#if:{{{bt5|}}}|
+<div id="mc{{{id|0}}}ps5" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=5 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps5|No hi ha contingut, cal definir el paràmetre '''ps5'''}}}
+</div>}}{{#if:{{{bt6|}}}|
+<div id="mc{{{id|0}}}ps6" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=6 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps6|No hi ha contingut, cal definir el paràmetre '''ps6'''}}}
+</div>}}{{#if:{{{bt7|}}}|
+<div id="mc{{{id|0}}}ps7" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=7 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps7|No hi ha contingut, cal definir el paràmetre '''ps7'''}}}
+</div>}}{{#if:{{{bt8|}}}|
+<div id="mc{{{id|0}}}ps8" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=8 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps8|No hi ha contingut, cal definir el paràmetre '''ps8'''}}}
+</div>}}{{#if:{{{bt9|}}}|
+<div id="mc{{{id|0}}}ps9" class="mcPestanya" {{#ifexpr: {{{sel|0}}}=9 | style="display:block;visibility:visible;" | style="display:none;visibility:hidden;" }}>{{{ps9|No hi ha contingut, cal definir el paràmetre '''ps9'''}}}
+</div>}}</div></div></includeonly>
+<noinclude>
+== Utilització ==
+Plantilla pensada per a usar-la en l'[[espai de noms]] Viquipèdia, Ajuda, Usuaris i Portals. Es prega no usar-la en els articles i en les categories.
+
+Permet incloure metacaixes (vegeu la [[Portada]]), amb una pestanya preseleccionada. Per a pestanyes aleatòries, cal usar la plantilla {{tl|MetacaixaAleatoria}}. 
+
+Caldrà crear subpàgines per a cada combinació de pestanyes existent, per a permetre que la metacaixa sigui funcional per als navegadors que no disposen de [[JavaScript]].
+
+Paràmetres;
+ id -> id de caixa (de 0 a 9, valor per defecte=0), ha de ser únic i correlatiu dins d'una pàgina
+       no cal omplir-lo si només tenim una metacaixa a la pàgina
+ bticona1 -> Si es vol posar una icona davant de l'etiqueta botó 1
+ bticona2 -> Si es vol posar una icona davant de l'etiqueta botó 2
+ ...
+ bticona9 -> Si es vol posar una icona davant de l'etiqueta botó 9
+ bt1 -> Etiqueta botó 1
+ bt2 -> Etiqueta botó 2
+ ...
+ bt9 -> Etiqueta botó 9
+ ps1 -> Contingut pestanya 1
+ ps2 -> Contingut pestanya 2
+ ...
+ ps9 -> Contingut pestanya 9
+ sel -> Pestanya seleccionada, del 1 al 9 per a mostrar-ne una per defecte
+        0 o no omplir el paràmetre per canviar la pestanya aleatòriament cada vegada que es carrega la pàgina.
+ color -> "Verd", "Vermell", "Blau", "Groc", "Lila" o "Taronja" de moment (si es deixa en blanc, serà lila)
+ PageName -> Ens permet redirigir les pestanyes a una URL per navegadors sense JavaScript 
+ urlPrev ->  Ens permet redirigir les pestanyes a una URL per navegadors sense JavaScript 
+ urlPost ->  Ens permet redirigir les pestanyes a una URL per navegadors sense JavaScript
+
+== Kullanma talimatı ==
+
+=== Kod örneği ===
+<pre>
+{{Metakutu
+|id=0
+|color=Taronja
+|bt1=1'nci sayfa düğmesi/Başlık
+|bt2=2'nci sayfa düğmesi/Başlık
+|bt3=3'ncü sayfa düğmesi/Başlık
+|bticona1=[[Resim:Nuvola_apps_kuickshow.png|16px]]
+|bticona3=[[Resim:Nuvola_apps_kuickshow.png|16px]]
+|ps1=1'nci sayfa/içerik
+|ps2=2'nci sayfa/içerik
+|ps3=3'ncü sayfa/içerik
+|sel=2
+}}
+</pre>
+
+=== Netice ===
+{{Metakutu
+|id=0
+|color=Taronja
+|bt1=1'nci sayfa düğmesi/Başlık
+|bt2=2'nci sayfa düğmesi/Başlık
+|bt3=3'ncü sayfa düğmesi/Başlık
+|bticona1=[[Resim:Nuvola_apps_kuickshow.png|16px]]
+|bticona3=[[Resim:Nuvola_apps_kuickshow.png|16px]]
+|ps1=1'nci sayfa/içerik
+|ps2=2'nci sayfa/içerik
+|ps3=3'ncü sayfa/içerik
+|sel=2
+}}
+
+==Com incloure aquesta plantilla en altres wikis==
+*Cal que el vostre wiki suporti les [http://meta.wikimedia.org/wiki/ParserFunctions ParserFunctions] (Funcionen en tots els projectes de a fundació wikimedia). 
+*Cal que copieu aquesta plantila a la vostra viquipèdia
+*Per a veure-la correctament, cal que copieu la secció dels estils de [[MediaWiki:Common.css]] corresponent a la Plantilla:MetaCaixa
+*Per a que funcioni, cal també copiar la secció corresponent de [[MediaWiki:Common.js]].
+
+==How can I include this Template in my wiki?==
+*First of all, you must be sysop or you must apply help to a sysop, in order to edit MediaWiki pages.
+*Your wiki must support [http://meta.wikimedia.org/wiki/ParserFunctions ParserFunctions] (Parser Functions work well in all Wikimedia Fundation Projects)
+*Copy this Template to your Wikipedia or other project and adapt it into your language ("Metacaixa" can be translated to "Metabox" in English).
+*In order to see this Template, you must copy style section from [[MediaWiki:Common.css]]. Copy from /*HERE STARTS "METABOX" COLOUR-SCHEMES*/ to /*HERE FINISHES "METABOX" COLOUR-SCHEMES*/. These codes are ranges of colours used in Metaboxes. For the moment, there are 6 ranges available: "Lila" means "Lilac" (this colour is by default), "Verd" means "Green", "Vermell" means "Red", "Blau" means "Blue", "Groc" means "Yellow" and "Taronja" means "Orange"; but you can create new ranges with adapting current range codes with new colour shades.
+*So that this template can work, you must copy also working-code section from [[MediaWiki:Common.js]]. Copy from /*HERE STARTS THE WORKING-CODE OF "METABOXES"*/ to /*HERE FINISHES THE WORKING-CODE OF "METABOXES"*/.
+*Then, adapt codes into your language. Here below you can find possible translations in English of variable codes in Catalan.
+
+===Possible translations in English of variable codes===
+*mcBotoSel = mbButtonSel (metabox button selected)
+*mcBoto = mbButton (Metabox button)
+*MetaCaixaInit = MetaBoxInit (Metabox initiating)
+*vMc = vMb (variable metabox)
+*vPsIni = vTabIni (variable tab initiating)
+*vBt = vBt (variable button)
+*mc = mb (metabox)
+*bt = bt (button)
+*MetaCaixaMostraPestanya = MetaBoxShowTab
+*psini = tabini (tab initiating)
+*vMcNom = vMbName (variable metabox name)
+*vIndex = vIndex (variable index)
+*vPsElem = vTabItem (variable tab items)
+*mcContingut = mbContent
+*mcPestanya = mbTab
+*mcLila = mbLilac
+*mcVerd = mbGreen
+*mcVermell = mbRed
+*mcBlau = mbBlue
+*mcGroc = mbYellow
+*mcTaronja = mbOrange
+*bticona = bticon (button icon)
+*sel = sel (selected)
+
+[[Categoria:Plantilles de la portada]]
+[[fr:Modèle:Cadre à onglets]]
+</noinclude>
