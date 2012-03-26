@@ -1,0 +1,28 @@
+{{imbox
+| type = featured
+| image = [[Image:Cscr-featured.svg|50px|Featured picture star]]
+| text = This is a [[Wikipedia:Featured pictures|featured {{#switch:{{{type}}}|picture=picture|video=video|animation=animation|#default=picture}}]], which means that [[Wikipedia:Featured picture candidates|members of the community]] have '''''{{#if:{{{1|}}}|[[Wikipedia:Featured picture candidates/{{{1}}}|identified]]|{{#ifexist:Wikipedia:Featured picture candidates/{{FULLPAGENAME}}|[[Wikipedia:Featured picture candidates/{{FULLPAGENAME}}|identified]]|identified}}}}''''' it as one of the finest images on the English Wikipedia, adding significantly to its accompanying article.  If you have a different image of similar quality, be sure to [[Special:Upload|upload]] it using the proper [[Wikipedia:Image copyright tags|free license tag]], [[Wikipedia:Extended image syntax|add]] it to a relevant article, and [[Wikipedia:Featured picture candidates|nominate it]].
+<includeonly>{{{category|[[Category:Featured pictures|{{PAGENAME}}]]}}}</includeonly>
+}}
+<div style="display:none; right:10px;" class="featured-picture metadata topicon" id="featured-star">[[Image:Cscr-featured.svg|14px|This picture has been featured on Wikipedia and is considered one of the best images Wikipedia has to offer. For more information, click here.|link=Wikipedia:Featured pictures]]</div><noinclude>
+
+See also: [[Commons:Template:Featured picture|Wikimedia Commons version]].
+
+{{Pp-template|small=yes}}
+
+[[Category:Title templates|{{PAGENAME}}]]
+[[Category:Wikipedia featured content templates|{{PAGENAME}}]]
+
+[[de:Vorlage:Exzellentes Bild]]
+[[eu:Txantiloi:Nabarmendutako irudia]]
+[[hsb:Předłoha:Dobry wobraz]]
+[[id:Templat:Gambar pilihan]]
+[[hu:Sablon:Kiemelt kép]]
+[[mk:Шаблон:Избрана слика]]
+[[ja:Template:秀逸画像]]
+[[or:ଟେମ୍ପଲେଟ:FeaturedPicture]]
+[[pl:Szablon:Ilustracja medalowa]]
+[[sl:Predloga:Izbrana slika]]
+[[zh-yue:Template:FeaturedPicture]]
+[[zh:Template:FeaturedPicture]]
+</noinclude>
