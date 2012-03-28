@@ -496,11 +496,11 @@
 <th>[[Plaka kodu]]</th>
 <td>{{{plaka_kodu}}}</td>
 </tr>
-}}<!-- ***** ISO Kodu ***** -->
-{{#if:{{{iso_kodu|}}}|
+}}<!-- ***** toprak***** -->
+{{#if:{{{toprak|}}}|
 <tr class_"mergedrow">
-<th>[[ISO|ISO kodu]]</th>
-<td>{{{iso_kodu}}}</td>
+<th>[[toprak]]</th>
+<td>{{{toprak}}}</td>
 </tr>
 }}<!---------------Kardeş kentler--------------->
 {{#if:{{{kardeş1|}}}|
@@ -532,7 +532,7 @@
 <th>&nbsp;-&nbsp;{{{kardeş5}}}
 <th>{{{kardeş5_ülke}}}
 </tr>
-}}{{#if:{{{kardeş6|}}}|
+}}{{#if:{{{toprak|}}}|
 <tr class="mergedrow">
 <th>&nbsp;-&nbsp;{{{kardeş6}}}
 <th>{{{kardeş6_ülke}}}
