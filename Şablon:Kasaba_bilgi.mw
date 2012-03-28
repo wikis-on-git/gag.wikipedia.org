@@ -139,6 +139,41 @@
 <tr class="mergedrow">
 <td colspan="2" align="center">[[devlet ]]: {{{devlet |}}}</td>
 </tr>
+}}<!-- ***** yoğunluk ***** -->
+{{#if:{{{yoğunluk |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[yoğunluk ]]: {{{yoğunluk |}}}</td>
+</tr>
+}}<!-- ***** toprak***** -->
+{{#if:{{{toprak|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[toprak]]: {{{toprak|}}}</td>
+</tr>
+}}<!-- ***** yükseklik ***** -->
+{{#if:{{{yükseklik |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[yükseklik ]]: {{{yükseklik |}}}</td>
+</tr>
+{{#if:{{{prezident |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[prezident ]]: {{{prezident |}}}</td>
+</tr>
+{{#if:{{{araba_kodu|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[araba_kodu]]: {{{araba_kodu|}}}</td>
+</tr>
+{{#if:{{{telefon_kodu|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[telefon_kodu]]: {{{telefon_kodu|}}}</td>
+</tr>
+{{#if:{{{işsizlik|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[işsizlik]]: {{{işsizlik|}}}</td>
+</tr>
+{{#if:{{{vakit_bölgesi|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[vakit_bölgesi]]: {{{vakit_bölgesi|}}}</td>
+</tr>
 }}<!-- ***** harita ***** -->
 {{#if:{{{harita|}}}|
 <tr class="mergedrow">
