@@ -101,7 +101,7 @@
 </tr>
 }} }} }} }} }} }}
 <!-- ***** Skyline Image ***** -->
-{{#if:{{{görüntü|}}}|
+{{#if:{{{resim |}}}|
 <tr>
 <td colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;;">
 [[Dosya:{{{resim |}}}|{{#if:{{{görüntü_boyutu|}}}|{{{görüntü_boyutu}}}|250px}}|none|{{{görüntü_açıklaması|Skyline of {{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}}}}]]{{#if:{{{görüntü_açıklaması|}}}|<small>{{{görüntü_açıklaması|}}}</small>}}
