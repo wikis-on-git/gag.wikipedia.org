@@ -18,7 +18,7 @@
 {{!}}-
 {{#if:{{{Şəhərin bayrağı|}}}|{{!}}valign=middle{{!}}[[dosye:{{{Şəhərin bayrağı}}}|{{#if:{{{Bayrağın ölçüsü|}}}|{{{Bayrağın ölçüsü|}}}|100}}px|center|Bayraq]]}}
 {{#if:{{{Şəhərin gerbi|}}}|{{!}}valign=middle{{!}}[[dosye:{{{Şəhərin gerbi}}}|{{#if:{{{Gerbin ölçüsü|}}}|{{{Gerbin ölçüsü|}}}|100}}px|center|Gerb]]}}
-{{#if:{{{arma |}}}|{{!}}valign=middle{{!}}[[dosye:{{{arma }}}|{{#if:{{{Loqonun ölçüsü|}}}|{{{Loqonun ölçüsü|}}}|100}}px|center|Loqo]]}}
+{{#if:{{{arma |}}}|{{!}}valign=middle{{!}}[[Şəkil:{{{Şəhərin loqosu}}}|{{#if:{{{Loqonun ölçüsü|}}}|{{{Loqonun ölçüsü|}}}|100}}px|center|Loqo]]
 |-
 <!----- Devlet ----->
 | style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Devlet'''
