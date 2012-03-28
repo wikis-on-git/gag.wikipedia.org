@@ -20,10 +20,10 @@
 }}
 </tr>
 <tr class="mergedtoprow">
-<td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
+<td colspan="2" style="text-align:center;">'''{{{devlet}}}'''</td>
          </tr>
 {{#if:{{{devlet |<noinclude>-</noinclude>}}}|
-!Bulundu?u Ulke
+devlet
 {{!}}{{{devlet}}}
 }}
 
