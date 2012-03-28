@@ -2,7 +2,7 @@
 {{#if:{{{latd|}}}| {{#if:{{{lats|}}}
 | {{koor başlık dms|{{{latd}}}|{{{latm}}}|{{{lats|}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longs|}}}|{{{longEW}}}|region:IN_type:city}}
 | {{koor başlık dm|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|region:IN_type:city}}
-}} | }}
+}}
 {| class="infobox geography vcard" style="width:23em; text-align:left;"
 <td colspan="2" align="center" style="width:100%; font-size: 1.25em; white-space: nowrap;">'''<span class="fn org">{{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}</span>{{#if:{{{yerli_ad|}}}|<br /><span class="Takma_ad">{{{yerli_ad}}}</span>}}{{#if:{{{diğer_ad|}}}|<br /><span class="nickname">{{{diğer_ad}}}</span>}}</td>
 </tr>
@@ -14,7 +14,7 @@
 }}{{#if:{{both|{{{ad|}}}|{{{resmi_ad|}}}}}|
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
-         </tr>
+ }}  </tr>
 {{#if:{{{ülke|<noinclude>-</noinclude>}}}|
 !Bulunduğu Ülke
 {{!}}{{{ülke}}}
@@ -596,6 +596,7 @@
 {{#if:{{{web|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''web:''' {{{web}}}
 {{!}}-
+
 |}<!--For deprecated parameter names-->
 <noinclude>
 [[Kategori:Bilgi kutusu şablonları|{{PAGENAME}}]]
