@@ -1,0 +1,10 @@
+<includeonly>{{#if:{{{3|}}}|<span style="background-color:{{{2|inherit}}};color:{{{1|inherit}}};">{{{3|}}}</span>|<span style="color:{{{1|inherit}}};">{{{2|}}}</span>}}</includeonly><noinclude>
+==İstifadə qaydası==
+<pre>
+{{fontcolor|mətnin_rəngi|fonun_rəngi|mətn}} - həm mətn, həm fon istədiyiniz rəngdə görünəcək. Rənglər ingilis dilində qeyd olunmalıdır.
+
+Əgər aşağıdakı kimi yazsanız:
+
+    * {{fontcolor|mətnin_rəngi|mətn}} - yalnız mətn rəngli görünəcək.
+
+    * {{fontcolor||fonun_rəngi|mətn}} - mətnin yalnız fonu rəngli olacaq, mətn isə qara hərflərlə görünəcək.</pre></noinclude>
