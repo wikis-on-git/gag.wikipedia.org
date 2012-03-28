@@ -16,7 +16,7 @@
 <td colspan="2" style="text-align:center;">'''{{{devlet}}}'''</td>
          </tr>
 {{#if:{{{devlet|<noinclude>-</noinclude>}}}|
-!Bulunduğu Ülke
+!devlet
 {{!}}{{{devlet}}}
 {{!}}-
 }}
