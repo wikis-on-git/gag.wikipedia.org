@@ -12,12 +12,21 @@
 <td colspan="2" style="text-align:center;background:#cddeff;">&mdash;&nbsp;&nbsp;'''{{{yerleşim_türü|}}}'''&nbsp;&nbsp;&mdash; </td>
 </tr>
 <tr class="mergedtoprow">
+<td colspan="2" style="text-align:center;">'''{{{devlet}}}'''</td>
+         </tr>
+{{#if:{{{devlet |<noinclude>-</noinclude>}}}|
+!Bulundu?u Ulke
+{{!}}{{{devlet}}}
+}}
+</tr>
+<tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
          </tr>
 {{#if:{{{devlet |<noinclude>-</noinclude>}}}|
 !Bulundu?u Ulke
 {{!}}{{{devlet}}}
 }}
+
 }}{{#if:{{{çeviri_dil1|}}}|
 <tr <!-- ***** Transliteration language 1 ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{çeviri_dil1|}}}&nbsp;transliteration(s)''' </td>
