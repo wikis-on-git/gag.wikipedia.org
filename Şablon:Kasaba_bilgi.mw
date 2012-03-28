@@ -2,13 +2,13 @@
 |- align="center" bgcolor="#e3e3e3"
 ! colspan=2 | {{{Şəhərin adı}}}
 |-
-<!-- Şəkil -->
+<!-- dosye-->
 |- align="center"
 ! colspan=2 |
 {{#if:{{{Şəhərin şəkil adı|}}}|{{{!}}style="background:inherit;width:100%;"
 {{#if:{{{Şəhərin şəkil adı|}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}}}
 {{!}}-
-{{#if:{{{Şəhərin şəkil adı|}}}|{{!}}valign=top{{!}}[[Şəkil:{{{Şəhərin şəkil adı}}}|{{#if:{{{Şəklin ölçüsü|}}}|{{{Şəklin ölçüsü|}}}|260}}px|center]]}}
+{{#if:{{{Şəhərin şəkil adı|}}}|{{!}}valign=top{{!}}[[dosye:{{{Şəhərin şəkil adı}}}|{{#if:{{{Şəklin ölçüsü|}}}|{{{Şəklin ölçüsü|}}}|260}}px|center]]}}
 {{!}}} }}
 <!-- Bayraq, gerb və loqo -->
 {{#if:{{{Şəhərin gerbi|}}}{{{Şəhərin bayrağı|}}}|{{{!}}style="background:inherit;width:100%;"
@@ -16,9 +16,9 @@
 {{#if:{{{Şəhərin gerbi|}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}'''Gerb'''}}
 {{#if:{{{Şəhərin loqosu|}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}'''Loqo'''}}
 {{!}}-
-{{#if:{{{Şəhərin bayrağı|}}}|{{!}}valign=middle{{!}}[[Şəkil:{{{Şəhərin bayrağı}}}|{{#if:{{{Bayrağın ölçüsü|}}}|{{{Bayrağın ölçüsü|}}}|100}}px|center|Bayraq]]}}
-{{#if:{{{Şəhərin gerbi|}}}|{{!}}valign=middle{{!}}[[Şəkil:{{{Şəhərin gerbi}}}|{{#if:{{{Gerbin ölçüsü|}}}|{{{Gerbin ölçüsü|}}}|100}}px|center|Gerb]]}}
-{{#if:{{{Şəhərin loqosu|}}}|{{!}}valign=middle{{!}}[[Şəkil:{{{Şəhərin loqosu}}}|{{#if:{{{Loqonun ölçüsü|}}}|{{{Loqonun ölçüsü|}}}|100}}px|center|Loqo]]}}
+{{#if:{{{Şəhərin bayrağı|}}}|{{!}}valign=middle{{!}}[[dosye:{{{Şəhərin bayrağı}}}|{{#if:{{{Bayrağın ölçüsü|}}}|{{{Bayrağın ölçüsü|}}}|100}}px|center|Bayraq]]}}
+{{#if:{{{Şəhərin gerbi|}}}|{{!}}valign=middle{{!}}[[dosye:{{{Şəhərin gerbi}}}|{{#if:{{{Gerbin ölçüsü|}}}|{{{Gerbin ölçüsü|}}}|100}}px|center|Gerb]]}}
+{{#if:{{{Şəhərin loqosu|}}}|{{!}}valign=middle{{!}}[[dosye:{{{Şəhərin loqosu}}}|{{#if:{{{Loqonun ölçüsü|}}}|{{{Loqonun ölçüsü|}}}|100}}px|center|Loqo]]}}
 |-
 <!----- Devlet ----->
 | style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Devlet'''
