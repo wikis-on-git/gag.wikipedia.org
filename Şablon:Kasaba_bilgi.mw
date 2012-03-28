@@ -16,7 +16,7 @@
 <td colspan=devlet"2" style=devlet"text-align :center;">'''{{{devlet}}}'''</td>
          </tr>
 {{#if:|{{{devlet|<noinclude>-</noinclude>}}}|
-!devlet
+!
 {{!}}{{{devlet}}}
 {{!}}-
 }}
