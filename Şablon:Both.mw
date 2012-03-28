@@ -1,0 +1,15 @@
+{{#if:{{{1|}}}|{{#if:{{{2|}}}|1|}}|}}<noinclude>''Usage:'' <nowiki>{{both|string1|string2}}</nowiki>
+
+Produces '''1''' (equivalent to a true condition) if both ''string1'' and ''string2'' are non-empty; otherwise produces the empty string (false condition).
+[[Kategori:Vikipedi formatlama ve fonksiyon şablonları]]
+
+[[cy:Nodyn:Y ddau]]
+[[da:Skabelon:Booland]]
+[[de:Vorlage:Booland]]
+[[en:Template:Both]]
+[[eo:Ŝablono:Booland]]
+[[es:Plantilla:Both]]
+[[ja:Template:Both]]
+[[no:Mal:Both]]
+[[sl:Predloga:Both]]
+</noinclude>
