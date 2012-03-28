@@ -137,12 +137,38 @@
 }}<!-- ***** devlet ***** -->
 {{#if:{{{devlet |}}}|
 <tr class="mergedrow">
-<td colspan="2" align="">'''devlet'''<center>'''{{{devlet |}}}'''</center></td>
+<td colspan="2" align="">'''devlet''':<center>'''{{{devlet |}}}'''</center></td>
 </tr>
 }}<!-- ***** toprak***** -->
 {{#if:{{{toprak|}}}|
 <tr class="mergedrow">
 <td '''toprak'''<center>'''{{{toprak|}}}'''</center>
+<td colspan="2" align="center">'''toprak''': <center>{{{slogan|}}}</center></td>
+</tr>
+}}<!-- ***** nüfus ***** -->
+{{#if:{{{nüfus|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''nüfus ''':<center>'''{{{nüfus |}}}'''</center></td>
+</tr>
+}}<!-- ***** araba_kodu***** -->
+{{#if:{{{devlet |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''araba_kodu''':<center>'''{{{araba_kodu|}}}'''</center></td>
+</tr>
+}}<!-- ***** yoğunluk ***** -->
+{{#if:{{{yoğunluk |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''yoğunluk ''':<center>'''{{{yoğunluk |}}}'''</center></td>
+</tr>
+}}<!-- ***** telefon_kodu***** -->
+{{#if:{{{telefon_kodu|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''telefon_kodu''':<center>'''{{{telefon_kodu|}}}'''</center></td>
+</tr>
+}}<!-- ***** vakit_bölgesi***** -->
+{{#if:{{{telefon_kodu|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''vakit_bölgesi''':<center>'''{{{vakit_bölgesi|}}}'''</center></td>
 </tr>
 }}<!-- ***** Slogan ***** -->
 {{#if:{{{slogan|}}}|
