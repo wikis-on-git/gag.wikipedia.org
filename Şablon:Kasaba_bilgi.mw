@@ -593,7 +593,7 @@
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yoğunluk :''' {{{yoğunluk }}}
 {{!}}-
 }}<!-- ***** vakit_bölgesi***** -->
-{{#if:{{{web|}}}|
+{{#if:{{{vakit_bölgesi|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yükseklik :''' {{{yükseklik }}}
 {{!}}-
 }}<!-- ***** araba_kodu***** -->
@@ -604,23 +604,6 @@
 {{#if:{{{web|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
 {{!}}-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }}
 |}<!--For deprecated parameter names-->
 <noinclude>
