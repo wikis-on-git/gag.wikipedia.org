@@ -11,11 +11,11 @@
 <tr <!-- ***** category ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;background:#cddeff;">&mdash;&nbsp;&nbsp;'''{{{yerleşim_türü|}}}'''&nbsp;&nbsp;&mdash; </td>
 </tr>
-}}{{#if:{{both|{{{ad|}}}|{{{resmi_ad|}}}}}|
+}}{{#if:{{both|{{{ad|}}}|{{{devlet |}}}}}|
 <tr class="mergedtoprow">
-<td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
+<td colspan="2" style="text-align:center;">'''{{{devlet}}}'''</td>
          </tr>
-{{#if:{{{ülke|<noinclude>-</noinclude>}}}|
+{{#if:{{{devlet|<noinclude>-</noinclude>}}}|
 !Bulunduğu Ülke
 {{!}}{{{devlet}}}
 {{!}}-
