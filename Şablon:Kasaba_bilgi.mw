@@ -15,7 +15,7 @@
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{devlet}}}'''</td>
          </tr>
-{{#if:{{{devlet|<noinclude>-</noinclude>}}}|
+{{#if:devlet|{{{devlet|<noinclude>-</noinclude>}}}|
 !devlet
 {{!}}{{{devlet}}}
 {{!}}-
