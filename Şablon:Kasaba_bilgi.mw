@@ -5,8 +5,8 @@
 <!-- Şəkil -->
 |- align="center"
 ! colspan=2 |
-{{#if:{{{Şəhərin şəkil adı|}}}|{{{!}}style="background:inherit;width:100%;"
-{{#if:{{{Şəhərin şəkil adı|}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}}}
+{{#if:{{{resim |}}}|{{{!}}style="background:inherit;width:100%;"
+{{#if:{{{resim |}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}}}
 {{!}}-
 {{#if:{{{resim |}}}|{{!}}valign=top{{!}}[[Dosye:{{{Şəhərin şəkil adı}}}|{{#if:{{{Şəklin ölçüsü|}}}|{{{Şəklin ölçüsü|}}}|260}}px|center]]}}
 {{!}}} }}
