@@ -473,6 +473,11 @@
 <th style="white-space: nowrap;">&nbsp;-&nbsp;Yaz&nbsp;([[Yaz saati uygulaması|YSU]])</th>
 <td>{{{zaman_dilimi_DST|}}} ({{{utc_offset_DST|}}})</td>
 </tr>
+}} }}<!-- ***** devlet  ***** -->
+{{#if:{{{devlet |}}}|
+<tr class="mergedrow">
+<th>devlet </th>
+</tr>
 }} }}<!-- ***** Posta Kodu ***** -->
 {{#if:{{{posta_kodu_türü|}}}|
 <tr class="mergedtoprow">
