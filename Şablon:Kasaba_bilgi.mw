@@ -139,6 +139,11 @@
 <tr class="mergedrow">
 <td colspan="2" align="">'''devlet'''<center>'''{{{devlet |}}}'''</center></td>
 </tr>
+}}<!-- ***** toprak***** -->
+{{#if:{{{toprak|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''toprak'''<center>'''{{{toprak|}}}'''</center></td>
+</tr>
 }}<!-- ***** Slogan ***** -->
 {{#if:{{{slogan|}}}|
 <tr class="mergedrow">
