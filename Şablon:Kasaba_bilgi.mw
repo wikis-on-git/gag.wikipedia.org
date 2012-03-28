@@ -3,7 +3,7 @@
 ! colspan=2 | {{{Şəhərin adı}}}
 |-
 <!----- Resim ----->
-{{#if:| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{resim}}}|260px|center]]
+| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>{{#if:[[Image:{{{resim}}}|260px|center]]}}
 |-
 <!----- bayrak ----->
 |colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{bayrak }}}|260px|center]]
