@@ -624,6 +624,12 @@
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Website:''' {{{website}}}
 {{!}}-
 }}
+</tr>
+}}<!-- ***** web***** -->
+{{#if:{{{web|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
+{{!}}-
+}}
 |}<!--For deprecated parameter names-->
 <noinclude>
 [[Kategori:Bilgi kutusu şablonları|{{PAGENAME}}]]
