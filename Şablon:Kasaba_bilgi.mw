@@ -129,10 +129,10 @@
 </table>
 </td>
 </tr>
-}}<!-- ***** Takma_ad***** -->
-{{#if:{{{takma_ad|}}}|
+}}<!-- ***** toprak***** -->
+{{#if:{{{toprak|}}}|
 <tr class="mergedrow">
-<td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
+<td colspan="2" align="center">[[toprak]]: <span class="nickname">{{{toprak|}}}</span></td>
 </tr>
 }}<!-- ***** devlet ***** -->
 {{#if:{{{devlet |}}}|
