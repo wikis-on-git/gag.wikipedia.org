@@ -134,6 +134,7 @@
 <tr class="mergedrow">
 <td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
 </tr>
+{{!}}-
 }}<!-- ***** devlet ***** -->
 {{#if:{{{devlet |}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''devlet :''' {{{devlet }}}
