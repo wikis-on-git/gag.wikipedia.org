@@ -12,8 +12,8 @@
 <td colspan="2" style="text-align:center;background:#cddeff;">&mdash;&nbsp;&nbsp;'''{{{yerleşim_türü|}}}'''&nbsp;&nbsp;&mdash; </td>
 </tr>
 }}{{#if:{{both|{{{ad|}}}|{{{devlet |}}}}}|
-<tr class="mergedtoprow">
-<td colspan="2" style="text-align:center;">devlet'''{{{devlet}}}'''</td>
+<tr class="mergedtoprow">devlet
+<td colspan="2" style="text-align:center;">'''{{{devlet}}}'''</td>
          </tr>
 {{#if:devlet|{{{devlet|<noinclude>-</noinclude>}}}|
 !devlet
