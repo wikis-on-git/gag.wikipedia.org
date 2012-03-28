@@ -11,7 +11,7 @@
 <tr <!-- ***** category ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;background:#cddeff;">&mdash;&nbsp;&nbsp;'''{{{yerleşim_türü|}}}'''&nbsp;&nbsp;&mdash; </td>
 </tr>
-}}{{#if:{{both|{{{ad|}}}|{{{devlet |}}}}}|
+}}{{#if:{{both|{{{ad|}}}|{{{devlet |devlet}}}}}|
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{devlet}}}'''</td>
          </tr>
