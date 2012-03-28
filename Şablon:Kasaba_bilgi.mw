@@ -15,9 +15,9 @@
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
          </tr>
-{{#if:{{{devlet |<noinclude>-</noinclude>}}}|
+{{#if:{{{ülke|<noinclude>-</noinclude>}}}|
 !Bulunduğu Ülke
-{{!}}{{{devlet }}}
+{{!}}{{{ülke}}}
 {{!}}-
 }}
 }}{{#if:{{{çeviri_dil1|}}}|
@@ -129,14 +129,15 @@
 </table>
 </td>
 </tr>
-}}<!-- ***** toprak***** -->
-{{#if:{{{toprak|}}}|
+}}<!-- ***** Takma_ad***** -->
+{{#if:{{{takma_ad|}}}|
 <tr class="mergedrow">
-<td colspan="2" align="center">[[toprak]]: <span class="nickname">{{{toprak|}}}</span></td>
+<td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
 </tr>
-{{#if:{{{vakit_bölgesi|}}}|
+}}<!-- ***** Slogan ***** -->
+{{#if:{{{slogan|}}}|
 <tr class="mergedrow">
-<td colspan="2" align="center">[[vakit_bölgesi]]: {{{vakit_bölgesi|}}}</td>
+<td colspan="2" align="center">[[Slogan]]: {{{slogan|}}}</td>
 </tr>
 }}<!-- ***** harita ***** -->
 {{#if:{{{harita|}}}|
