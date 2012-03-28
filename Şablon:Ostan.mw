@@ -1,7 +1,7 @@
 {{Template:Kasaba bilgi
 |resim = 
 |bayrak =
-|arma ={{TUR}}
+|arma =
 | {{Location map
 |ülke   
 |label=şehir            
@@ -14,7 +14,7 @@
 | lon_min=0
 | lon_sec=0
 }}
-|devlet = [[Türkiye ]]
+|devlet ={{TUR}}
 |toprak= 
 |nüfus = 
 |yoğunluk = 
