@@ -142,7 +142,7 @@
 }}<!-- ***** toprak***** -->
 {{#if:{{{toprak|}}}|
 <tr class="mergedrow">
-<td colspan="2" align="">'''toprak'''<center>'''{{{toprak|}}}'''</center></td>
+<td colspan="2" align="">'''toprak'''<center>'''{{{toprak|}}}'''</center>
 </tr>
 }}<!-- ***** Slogan ***** -->
 {{#if:{{{slogan|}}}|
