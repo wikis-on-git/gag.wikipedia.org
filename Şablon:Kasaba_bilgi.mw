@@ -581,19 +581,19 @@
 </tr>
 }}}}}}}}}}}}}}<!-- ***** nüfus ***** -->
 {{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''nüfus :''' {{{nüfus }}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''nüfus :''' {{{nüfus }}}
 {{!}}-
 }}<!-- ***** yoğunluk ***** -->
 {{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yoğunluk :''' {{{yoğunluk }}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''yoğunluk :''' {{{yoğunluk }}}
 {{!}}-
 }}<!-- ***** araba_kodu***** -->
 {{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''araba_kodu:''' {{{araba_kodu}}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''araba_kodu:''' {{{araba_kodu}}}
 {{!}}-
 }}<!-- ***** web***** -->
 {{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''web:''' {{{web}}}
 {{!}}-
 }}
 |}<!--For deprecated parameter names-->
