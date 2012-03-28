@@ -2,7 +2,7 @@
 {{#if:{{{latd|}}}| {{#if:{{{lats|}}}
 | {{koor başlık dms|{{{latd}}}|{{{latm}}}|{{{lats|}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longs|}}}|{{{longEW}}}|region:IN_type:city}}
 | {{koor başlık dm|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|region:IN_type:city}}
-}}
+}} | }}
 {| class="infobox geography vcard" style="width:23em; text-align:left;"
 <td colspan="2" align="center" style="width:100%; font-size: 1.25em; white-space: nowrap;">'''<span class="fn org">{{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}</span>{{#if:{{{yerli_ad|}}}|<br /><span class="Takma_ad">{{{yerli_ad}}}</span>}}{{#if:{{{diğer_ad|}}}|<br /><span class="nickname">{{{diğer_ad}}}</span>}}</td>
 </tr>
@@ -14,7 +14,7 @@
 }}{{#if:{{both|{{{ad|}}}|{{{resmi_ad|}}}}}|
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
- }}  </tr>
+         </tr>
 {{#if:{{{ülke|<noinclude>-</noinclude>}}}|
 !Bulunduğu Ülke
 {{!}}{{{ülke}}}
@@ -101,7 +101,7 @@
 </tr>
 }} }} }} }} }} }}
 <!-- ***** Skyline Image ***** -->
-{{#if:{{{resim |}}}|
+{{#if:{{{görüntü|}}}|
 <tr>
 <td colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;;">
 [[Dosya:{{{resim |}}}|{{#if:{{{görüntü_boyutu|}}}|{{{görüntü_boyutu}}}|250px}}|none|{{{görüntü_açıklaması|Skyline of {{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}}}}]]{{#if:{{{görüntü_açıklaması|}}}|<small>{{{görüntü_açıklaması|}}}</small>}}
@@ -281,10 +281,10 @@
 <th>{{{kuruluş_sıfatı3}}}</th>
 <td>{{{kuruluş_tarihi3}}}</td>
 </tr>
-}}{{#if:{{{toprak|}}}|
+}}{{#if:{{{kurucu|}}}|
 <tr class="mergedrow">
-<th>toprak</th>
-<td>{{{toprak}}}</td>
+<th>Kurucu</th>
+<td>{{{kurucu}}}</td>
 </tr>
 }}{{#if:{{{named_for|}}}|
 <tr class="mergedrow">
@@ -463,20 +463,15 @@
 <td><small>{{{nüfus_not}}}</small></td>
 </tr>
 }} }}<!-- ***** Time Zone ***** -->
-{{#if:{{{vakit_bölgesi|}}}|
+{{#if:{{{zaman_dilimi|}}}|
 <tr class="mergedtoprow">
-<th>vakit_bölgesi</th>
-<td>{{{vakit_bölgesi}}}
+<th>[[Zaman dilimi]]</th>
+<td>{{{zaman_dilimi}}} ({{{utc_offset}}})
 </tr>
 {{#if:{{{zaman_dilimi_DST|}}}|
 <tr class="mergedbottomrow">
 <th style="white-space: nowrap;">&nbsp;-&nbsp;Yaz&nbsp;([[Yaz saati uygulaması|YSU]])</th>
 <td>{{{zaman_dilimi_DST|}}} ({{{utc_offset_DST|}}})</td>
-</tr>
-}} }}<!-- ***** devlet  ***** -->
-{{#if:{{{devlet |}}}|
-<tr class="mergedrow">
-<th>devlet </th>
 </tr>
 }} }}<!-- ***** Posta Kodu ***** -->
 {{#if:{{{posta_kodu_türü|}}}|
@@ -489,11 +484,11 @@
                 <th>{{{posta2_kodu_türü}}}</th>
                 <td class="adr"><span class="postal-code">{{{posta2_kodu}}}</span></td>
 </tr>
-}} }}<!-- ***** araba_kodu ***** -->
-{{#if:{{{araba_kodu|}}}|
+}} }}<!-- ***** Alan Kodu ***** -->
+{{#if:{{{alan_kodu|}}}|
 <tr class="mergedrow">
-<th>araba_kodu</th>
-<td>{{{araba_kodu}}}</td>
+<th>[[Alan kodu]]</th>
+<td>{{{alan_kodu}}}</td>
 </tr>
 }}<!-- ***** Plaka Kodu ***** -->
 {{#if:{{{plaka_kodu|}}}|
@@ -584,19 +579,16 @@
 <th>{{{blank6_name}}}</th>
 <td>{{{blank6_info}}}</td>
 </tr>
-}}}}}}}}}}}}}}<!-- ***** nüfus ***** -->
-{{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''nüfus :''' {{{nüfus }}}
+}}}}}}}}}}}}}} <!-- ***** Dipnotlar ***** -->
+{{#if:{{{dipnotlar|}}}|
+<tr class="mergedtoprow">
+<td colspan="2" align="left"><small>{{{dipnotlar}}}</small></td>
+</tr>
+}}<!-- ***** Website ***** -->
+{{#if:{{{website|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Website:''' {{{website}}}
 {{!}}-
-}}<!-- ***** yoğunluk ***** -->
-{{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''yoğunluk :''' {{{yoğunluk }}}
-{{!}}-
-}}<!-- ***** web***** -->
-{{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''web:''' {{{web}}}
-{{!}}-
-
+}}
 |}<!--For deprecated parameter names-->
 <noinclude>
 [[Kategori:Bilgi kutusu şablonları|{{PAGENAME}}]]
