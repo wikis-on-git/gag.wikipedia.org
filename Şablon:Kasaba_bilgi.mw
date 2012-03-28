@@ -463,10 +463,10 @@
 <td><small>{{{nüfus_not}}}</small></td>
 </tr>
 }} }}<!-- ***** Time Zone ***** -->
-{{#if:{{{zaman_dilimi|}}}|
+{{#if:{{{vakit_bölgesi|}}}|
 <tr class="mergedtoprow">
-<th>[[Zaman dilimi]]</th>
-<td>{{{zaman_dilimi}}} ({{{utc_offset}}})
+<th>[[vakit_bölgesi]]</th>
+<td>{{{vakit_bölgesi}}} ({{{vakit_bölgesi}}})
 </tr>
 {{#if:{{{zaman_dilimi_DST|}}}|
 <tr class="mergedbottomrow">
@@ -592,8 +592,8 @@
 {{#if:{{{web|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yoğunluk :''' {{{yoğunluk }}}
 {{!}}-
-}}<!-- ***** vakit_bölgesi***** -->
-{{#if:{{{vakit_bölgesi|}}}|
+}}<!-- ***** vakit bölgesi***** -->
+{{#if:{{{vakit bölgesi|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yükseklik :''' {{{yükseklik }}}
 {{!}}-
 }}<!-- ***** araba_kodu***** -->
