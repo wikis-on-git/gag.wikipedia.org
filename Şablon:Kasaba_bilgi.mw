@@ -579,12 +579,7 @@
 <th>{{{blank6_name}}}</th>
 <td>{{{blank6_info}}}</td>
 </tr>
-}}}}}}}}}}}}}} <!-- *****vakit_bölgesi ***** -->
-{{#if:{{{vakit_bölgesi|}}}|
-<tr class="mergedtoprow">
-<td colspan="2" align="left"><small>{{{vakظit_bölgesi}}}</small></td>
-</tr>
-}}<!-- ***** nüfus ***** -->
+}}}}}}}}}}}}}}<!-- ***** nüfus ***** -->
 {{#if:{{{web|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''nüfus :''' {{{nüfus }}}
 {{!}}-
