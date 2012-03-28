@@ -134,11 +134,13 @@
 <tr class="mergedrow">
 <td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
 </tr>
-{{!}}-
 }}<!-- ***** devlet ***** -->
 {{#if:{{{devlet |}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''devlet :''' {{{devlet }}}
-{{!}}-
+</tr>
+}}<!-- ***** toprak***** -->
+{{#if:{{{toprak|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''toprak:''' {{{toprak}}}
 </tr>
 }}<!-- ***** toprak***** -->
 {{#if:{{{toprak|}}}|
@@ -628,6 +630,41 @@
 }}<!-- ***** web***** -->
 {{#if:{{{web|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
+}}<!-- ***** devlet ***** -->
+{{#if:{{{devlet |}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''devlet :''' {{{devlet }}}
+{{!}}-
+</tr>
+}}<!-- ***** toprak***** -->
+{{#if:{{{toprak|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''toprak''':<center>'''{{{toprak|}}}'''</center></td>
+</tr>
+}}<!-- ***** nüfus ***** -->
+{{#if:{{{nüfus |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''nüfus ''':<center>'''{{{nüfus |}}}'''</center></td>
+</tr>
+}}<!-- ***** araba_kodu***** -->
+{{#if:{{{araba_kodu|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''araba_kodu''':<center>'''{{{araba_kodu|}}}'''</center></td>
+</tr>
+}}<!-- ***** yoğunluk ***** -->
+{{#if:{{{yoğunluk |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''yoğunluk ''':<center>'''{{{yoğunluk |}}}'''</center></td>
+</tr>
+}}<!-- ***** telefon_kodu ***** -->
+{{#if:{{{telefon_kodu|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''telefon_kodu ''':<center>'''{{{telefon_kodu |}}}'''</center></td>
+</tr>
+}}<!-- ***** vakit_bölgesi***** -->
+{{#if:{{{vakit_bölgesi|}}}|
+<tr class="mergedrow">
+<td colspan="2" align="">'''vakit_bölgesi ''':<center>'''{{{vakit_bölgesi|}}}'''</center></td>
+</tr>
 {{!}}-
 }}
 |}<!--For deprecated parameter names-->
