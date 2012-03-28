@@ -13,7 +13,7 @@
 </tr>
 }}{{#if:{{both|{{{ad|}}}|{{{devlet|}}}}}|
 <tr class="mergedtoprow">
-<td colspan="2" style=devlet"text-align devlet:center;"><center>'''{{{devlet}}}''</center>'</td>
+<td colspan="2" style=devlet"text-align devlet<center>'''{{{devlet}}}''</center>'</td>
          </tr>
 {{#if:{{{devlet|<noinclude>-</noinclude>}}}|
 !Bulundu?u Ulke
