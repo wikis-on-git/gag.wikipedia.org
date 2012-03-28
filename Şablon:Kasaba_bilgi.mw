@@ -100,8 +100,8 @@
 <td>{{{çeviri_dil2_bilgi6}}}</td>
 </tr>
 }} }} }} }} }} }}
-<!-- ***** Skyline Image ***** -->
-{{#if:{{{görüntü|}}}|
+<!-- ***** resim  ***** -->
+{{#if:{{{resim |}}}|
 <tr>
 <td colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;;">
 [[Dosya:{{{resim |}}}|{{#if:{{{görüntü_boyutu|}}}|{{{görüntü_boyutu}}}|250px}}|none|{{{görüntü_açıklaması|Skyline of {{#if:{{{ad|}}}|{{{ad}}}|{{{resim }}}}}}}}]]{{#if:{{{görüntü_açıklaması|}}}|<small>{{{görüntü_açıklaması|}}}</small>}}
