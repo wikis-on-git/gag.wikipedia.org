@@ -584,14 +584,43 @@
 <tr class="mergedtoprow">
 <td colspan="2" align="left"><small>{{{vakظit_bölgesi}}}</small></td>
 </tr>
+}}<!-- ***** nüfus ***** -->
+{{#if:{{{web|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''nüfus :''' {{{nüfus }}}
+{{!}}-
+}}<!-- ***** yoğunluk ***** -->
+{{#if:{{{web|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yoğunluk :''' {{{yoğunluk }}}
+{{!}}-
+}}<!-- ***** vakit_bölgesi***** -->
+{{#if:{{{web|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yükseklik :''' {{{yükseklik }}}
+{{!}}-
+}}<!-- ***** araba_kodu***** -->
+{{#if:{{{web|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''araba_kodu:''' {{{araba_kodu}}}
+{{!}}-
 }}<!-- ***** web***** -->
 {{#if:{{{web|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
 {{!}}-
-}}<!-- ***** vakit_bölgesi***** -->
-{{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''vakit_bölgesi:''' {{{vakit_bölgesi}}}
-{{!}}-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }}
 |}<!--For deprecated parameter names-->
 <noinclude>
