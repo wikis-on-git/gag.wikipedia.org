@@ -137,7 +137,7 @@
 }}<!-- ***** devlet ***** -->
 {{#if:{{{devlet |}}}|
 <tr class="mergedrow">
-<td colspan="2" align="">'''devlet'''<center>{{{devlet |}}}</center></td>
+<td colspan="2" align="">'''devlet'''<center>'''{{{devlet |}}}'''</center></td>
 </tr>
 }}<!-- ***** Slogan ***** -->
 {{#if:{{{slogan|}}}|
