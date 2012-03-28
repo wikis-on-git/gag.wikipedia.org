@@ -15,10 +15,9 @@
 <tr class="mergedtoprow">
 <td colspan="2" style=devlet"text-align :center;">'''{{{devlet}}}'''</td>
          </tr>
-{{#if:{{{ülke|<noinclude>-</noinclude>}}}|
-!
-{{!}}
-{{!}}-
+{{#if:{{{devlet |<noinclude>-</noinclude>}}}|
+!Bulundu?u Ulke
+{{!}}{{{devlet}}}
 }}
 }}{{#if:{{{çeviri_dil1|}}}|
 <tr <!-- ***** Transliteration language 1 ***** --> class="mergedtoprow">
