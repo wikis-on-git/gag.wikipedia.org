@@ -465,8 +465,8 @@
 }} }}<!-- ***** Time Zone ***** -->
 {{#if:{{{vakit_bölgesi|}}}|
 <tr class="mergedtoprow">
-<th>[[vakit_bölgesi]]</th>
-<td>{{{vakit_bölgesi}}} ({{{vakit_bölgesi}}})
+<th>vakit_bölgesi</th>
+<td>{{{vakit_bölgesi}}}
 </tr>
 {{#if:{{{zaman_dilimi_DST|}}}|
 <tr class="mergedbottomrow">
