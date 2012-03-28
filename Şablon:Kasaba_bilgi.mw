@@ -8,7 +8,7 @@
 {{#if:{{{resim |}}}|{{{!}}style="background:inherit;width:100%;"
 {{#if:{{{resim |}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}}}
 {{!}}-
-{{#if:{{{resim |}}}|{{!}}valign=top{{!}}[[Dosye:{{{Şəhərin şəkil adı}}}|{{#if:{{{Şəklin ölçüsü|}}}|{{{Şəklin ölçüsü|}}}|260}}px|center]]}}
+{{#if:{{{resim |}}}|{{!}}valign=top{{!}}[[Dosye:{{{Şəhərin resim adı}}}|{{#if:{{{Şəklin ölçüsü|}}}|{{{Şəklin ölçüsü|}}}|260}}px|center]]}}
 {{!}}} }}
 <!-- Bayraq, gerb və loqo -->
 {{#if:{{{Şəhərin gerbi|}}}{{{Şəhərin bayrağı|}}}|{{{!}}style="background:inherit;width:100%;"
