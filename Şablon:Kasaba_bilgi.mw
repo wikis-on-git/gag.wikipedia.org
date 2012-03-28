@@ -142,8 +142,7 @@
 }}<!-- ***** toprak***** -->
 {{#if:{{{toprak|}}}|
 <tr class="mergedrow">
-<td '''toprak'''<center>'''{{{toprak|}}}'''</center>
-<td colspan="2" align="center">'''toprak''': <center>{{{toprak|}}}</center></td>
+<td colspan="2" align="">'''toprak''':<center>'''{{{toprak|}}}'''</center></td>
 </tr>
 }}<!-- ***** nüfus ***** -->
 {{#if:{{{nüfus|}}}|
