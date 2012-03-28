@@ -11,7 +11,7 @@
 {{#if:{{{Şəhərin gerbi|}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}'''Gerb'''}}
 {{#if:{{{Şəhərin loqosu|}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}'''Loqo'''}}
 {{!}}-
-{{#if:{{{bayrak |}}}|{{!}}valign=middle{{!}}[[dosye:{{{Şəhərin bayrağı}}}|{{#if:{{{Bayrağın ölçüsü|}}}|{{{Bayrağın ölçüsü|}}}|100}}px|center|Bayraq]]}}
+{{#if:{{{bayrak |}}}|{{!}}valign=middle{{!}}[[Dosye:{{{Şəhərin bayrağı}}}|{{#if:{{{Bayrağın ölçüsü|}}}|{{{Bayrağın ölçüsü|}}}|100}}px|center|Bayraq]]}}
 {{#if:{{{Şəhərin gerbi|}}}|{{!}}valign=middle{{!}}[[dosye:{{{Şəhərin gerbi}}}|{{#if:{{{Gerbin ölçüsü|}}}|{{{Gerbin ölçüsü|}}}|100}}px|center|Gerb]]}}
 {{#if:{{{arma |}}}|{{!}}valign=middle{{!}}[[Şəkil:{{{Şəhərin loqosu}}}|{{#if:{{{Loqonun ölçüsü|}}}|{{{Loqonun ölçüsü|}}}|100}}px|center|Loqo]]}}
 |-
