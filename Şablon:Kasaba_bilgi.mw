@@ -13,7 +13,7 @@
 </tr>
 }}{{#if:{{both|{{{ad|}}}|{{{devlet |}}}}}|
 <tr class="mergedtoprow">
-<td colspan="2" style=devlet"text-align :center;">'''{{{devlet}}}'''</td>
+<td colspan=devlet"2" style=devlet"text-align :center;">'''{{{devlet}}}'''</td>
          </tr>
 {{#if:|{{{devlet|<noinclude>-</noinclude>}}}|
 !devlet
