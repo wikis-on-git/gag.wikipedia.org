@@ -134,6 +134,11 @@
 <tr class="mergedrow">
 <td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
 </tr>
+}}<!-- ***** devlet ***** -->
+{{#if:{{{devlet |}}}|
+<tr class="mergedrow">
+<td colspan="2" align="center">[[devlet ]]: {{{devlet |}}}</td>
+</tr>
 }}<!-- ***** Slogan ***** -->
 {{#if:{{{slogan|}}}|
 <tr class="mergedrow">
