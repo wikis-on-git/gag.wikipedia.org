@@ -2,7 +2,7 @@
 |- align="center" bgcolor="#e3e3e3"
 ! colspan=2 | {{{Şəhərin adı}}}
 |-
-<!-- Şəkil -->
+<!-- Resim -->
 |- align="center"
 ! colspan=2 |
 {{#if:{{{resim |}}}|{{{!}}style="background:inherit;width:100%;"
@@ -10,6 +10,9 @@
 {{!}}-
 {{#if:{{{resim |}}}|{{!}}valign=top{{!}}[[Dosye:{{{Şəhərin resim adı}}}|{{#if:{{{Şəklin ölçüsü|}}}|{{{Şəklin ölçüsü|}}}|260}}px|center]]}}
 {{!}}} }}
+<!----- Resim ----->
+| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Dosye:{{{resim}}}|260px|center]]
+|-
 <!-- Bayraq, gerb və loqo -->
 {{#if:{{{Şəhərin gerbi|}}}{{{Şəhərin bayrağı|}}}|{{{!}}style="background:inherit;width:100%;"
 {{#if:{{{Şəhərin bayrağı|}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}'''Bayraq'''}}
