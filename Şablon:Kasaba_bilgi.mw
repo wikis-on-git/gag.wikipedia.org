@@ -15,9 +15,9 @@
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
          </tr>
-{{#if:{{{ülke|<noinclude>-</noinclude>}}}|
+{{#if:{{{devlet |<noinclude>-</noinclude>}}}|
 !Bulunduğu Ülke
-{{!}}{{{ülke}}}
+{{!}}{{{devlet }}}
 {{!}}-
 }}
 }}{{#if:{{{çeviri_dil1|}}}|
