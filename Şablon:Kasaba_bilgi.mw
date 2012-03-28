@@ -2,14 +2,6 @@
 |- align="center" bgcolor="#e3e3e3"
 ! colspan=2 | {{{Şəhərin adı}}}
 |-
-<!-- Resim -->
-|- align="center"
-! colspan=2 |
-{{#if:{{{resim |}}}|{{{!}}style="background:inherit;width:100%;"
-{{#if:{{{resim |}}}|{{!}}align="center" style="background:#f0f0f0;font-weight:bold"{{!}}}}
-{{!}}-
-{{#if:{{{resim |}}}|{{!}}valign=top{{!}}}}
-{{!}}} }}
 <!----- Resim ----->
 | colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{resim}}}|260px|center]]
 |-
