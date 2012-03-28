@@ -11,9 +11,9 @@
 <tr <!-- ***** category ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;background:#cddeff;">&mdash;&nbsp;&nbsp;'''{{{yerleşim_türü|}}}'''&nbsp;&nbsp;&mdash; </td>
 </tr>
-}}{{#if:{{both|{{{ad|}}}|{{{ülke |}}}}}|
+}}{{#if:{{both|{{{ad|}}}|{{{f|}}}}}|
 <tr class="mergedtoprow">
-<td colspan="2" style=devlet"text-align :center;">'''{{{ülke}}}'''</td>
+<td colspan="2" style=devlet"text-align :center;">'''{{{devlet}}}'''</td>
          </tr>
 {{#if:{{{devlet|<noinclude>-</noinclude>}}}|
 !Bulundu?u Ulke
