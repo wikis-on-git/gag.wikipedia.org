@@ -484,11 +484,11 @@
                 <th>{{{posta2_kodu_türü}}}</th>
                 <td class="adr"><span class="postal-code">{{{posta2_kodu}}}</span></td>
 </tr>
-}} }}<!-- ***** Alan Kodu ***** -->
-{{#if:{{{alan_kodu|}}}|
+}} }}<!-- ***** araba_kodu ***** -->
+{{#if:{{{araba_kodu|}}}|
 <tr class="mergedrow">
-<th>[[Alan kodu]]</th>
-<td>{{{alan_kodu}}}</td>
+<th>[[araba_kodu]]</th>
+<td>{{{araba_kodu}}}</td>
 </tr>
 }}<!-- ***** Plaka Kodu ***** -->
 {{#if:{{{plaka_kodu|}}}|
@@ -586,10 +586,6 @@
 }}<!-- ***** yoğunluk ***** -->
 {{#if:{{{web|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''yoğunluk :''' {{{yoğunluk }}}
-{{!}}-
-}}<!-- ***** araba_kodu***** -->
-{{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:;" {{!}} '''araba_kodu:''' {{{araba_kodu}}}
 {{!}}-
 }}<!-- ***** web***** -->
 {{#if:{{{web|}}}|
