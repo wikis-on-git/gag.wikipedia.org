@@ -19,7 +19,6 @@
 !Bulundu?u Ulke
 {{!}}{{{devlet}}}
 {{!}}-
-}}
 }}{{#if:{{{çeviri_dil1|}}}|
 <tr <!-- ***** Transliteration language 1 ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{çeviri_dil1|}}}&nbsp;transliteration(s)''' </td>
@@ -622,6 +621,7 @@
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
 }}<!-- ***** devlet ***** -->
 {{!}}-
+}}
 |}<!--For deprecated parameter names-->
 <noinclude>
 [[Kategori:Bilgi kutusu şablonları|{{PAGENAME}}]]
