@@ -19,7 +19,6 @@
 !Bulundu?u Ulke
 {{!}}{{{devlet}}}
 {{!}}-
-}}
 }}{{#if:{{{çeviri_dil1|}}}|
 <tr <!-- ***** Transliteration language 1 ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{çeviri_dil1|}}}&nbsp;transliteration(s)''' </td>
