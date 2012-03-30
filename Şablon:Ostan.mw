@@ -3,11 +3,10 @@
 | resmi_ad = 
 |resim =
 |bayrak =Flag-map of Turkey.svg
-| görüntü_boyutu=
 |arma =
 |devlet =[[Türkiye]]
 |toprak= 
-|nüfus = 
+|nüfus =
 |yoğunluk = 
  |yükseklik = 
  |prezident = 
@@ -83,9 +82,6 @@
  | utc_offset                            = 
  | zaman_dilimi_DST                      = 
  | utc_offset_DST                        = 
-        | latd   = | latm        = | lats        = | latNS       = 
-        | longd  = | longm       = | longs       = | longEW      = 
- | rakım_m                               = 
  | rakım_ft                              = 
  | rakım_max_m                           = 
  | rakım_max_ft                          = 
@@ -104,6 +100,18 @@
  | blank_info                            = 
  | website                               = 
  | dipnotlar                             = 
+{{Location map
+|Turkey   
+|label=           
+|lat_dir=
+| lat_deg= 
+| lat_min=    
+| lat_sec=     
+|lon_dir=
+| lon_deg= 
+| lon_min=
+| lon_sec=
+}}
 }}
 
 '''<includeonly>{{subst:PAGENAME}}</includeonly>''' kasabasi[[Türkiye |Türkiyenın]] bir  kasabasidir.bu kasabade Türkiye resmi [[Türk dili]] laf edelir.
