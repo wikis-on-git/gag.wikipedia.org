@@ -1,4 +1,3 @@
-
 {{#if:{{{latd|}}}| {{#if:{{{lats|}}}
 | {{koor başlık dms|{{{latd}}}|{{{latm}}}|{{{lats|}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longs|}}}|{{{longEW}}}|region:IN_type:city}}
 | {{koor başlık dm|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|region:IN_type:city}}
@@ -11,10 +10,6 @@
 <tr <!-- ***** category ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;background:#cddeff;">&mdash;&nbsp;&nbsp;'''{{{yerleşim_türü|}}}'''&nbsp;&nbsp;&mdash; </td>
 </tr>
-}}{{#if:{{both|{{{ad|}}}|{{{resmi_ad|}}}}}|
-<tr class="mergedtoprow">
-<td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
-	</tr>
 }}{{#if:{{both|{{{ad|}}}|{{{resmi_ad|}}}}}|
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
@@ -104,11 +99,11 @@
 <td>{{{çeviri_dil2_bilgi6}}}</td>
 </tr>
 }} }} }} }} }} }}
-<!-- ***** resim  ***** -->
+<!-- ***** Skyline Image ***** -->
 {{#if:{{{resim |}}}|
 <tr>
 <td colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;;">
-[[Dosya:{{{resim |}}}|{{#if:{{{görüntü_boyutu|}}}|{{{görüntü_boyutu}}}|250px}}|none|{{{görüntü_açıklaması|Skyline of {{#if:{{{ad|}}}|{{{ad}}}|{{{resim }}}}}}}}]]{{#if:{{{görüntü_açıklaması|}}}|<small>{{{görüntü_açıklaması|}}}</small>}}
+[[Dosya:{{{resim |}}}|{{#if:{{{görüntü_boyutu|}}}|{{{görüntü_boyutu}}}|250px}}|none|{{{görüntü_açıklaması|Skyline of {{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}}}}]]{{#if:{{{görüntü_açıklaması|}}}|<small>{{{görüntü_açıklaması|}}}</small>}}
 </td>
 </tr>
 }}<!-- ***** Bayrak, Damga ve Arma ***** -->
@@ -137,34 +132,6 @@
 {{#if:{{{takma_ad|}}}|
 <tr class="mergedrow">
 <td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
-</tr>
-}}<!-- ***** devlet ***** -->
-{{#if:{{{devlet |}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''devlet :''' {{{devlet }}}
-</tr>
-}}<!-- ***** toprak***** -->
-{{#if:{{{toprak|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''toprak:''' {{{toprak}}}
-</tr>
-}}<!-- ***** nüfus ***** -->
-{{#if:{{{nüfus |}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''nüfus :''' {{{nüfus }}}
-</tr>
-}}<!-- ***** araba_kodu***** -->
-{{#if:{{{araba_kodu|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''araba_kodu:''' {{{araba_kodu}}}
-</tr>
-}}<!-- ***** telefon_kodu***** -->
-{{#if:{{{telefon_kodu|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''telefon_kodu:''' {{{telefon_kodu}}}
-</tr>
-}}<!-- ***** yoğunluk***** -->
-{{#if:{{{yoğunluk|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yoğunluk:''' {{{yoğunluk}}}
-</tr>
-}}<!-- ***** vakit_bölgesi***** -->
-{{#if:{{{vakit_bölgesi|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''vakit_bölgesi:''' {{{vakit_bölgesi}}}
 </tr>
 }}<!-- ***** Slogan ***** -->
 {{#if:{{{slogan|}}}|
@@ -619,12 +586,6 @@
 }}<!-- ***** Website ***** -->
 {{#if:{{{website|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Website:''' {{{website}}}
-{{!}}-
-</tr>
-}}<!-- ***** web***** -->
-{{#if:{{{web|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
-}}<!-- ***** devlet ***** -->
 {{!}}-
 }}
 |}<!--For deprecated parameter names-->
