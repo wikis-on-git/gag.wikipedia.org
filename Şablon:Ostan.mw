@@ -102,15 +102,15 @@
  | dipnotlar                             = 
 {{Location map
 |Turkey   
-|label=           
-|lat_dir=
-| lat_deg= 
-| lat_min=    
-| lat_sec=     
-|lon_dir=
-| lon_deg= 
-| lon_min=
-| lon_sec=
+|label={{PAGENAME}}           
+|lat_dir=E
+| lat_deg=35 
+| lat_min=00     
+| lat_sec=0      
+|lon_dir=N
+| lon_deg=31  
+| lon_min=0 
+| lon_sec=0 
 }}
 }}
 
