@@ -611,6 +611,10 @@
 <tr class="mergedtoprow">
 <td colspan="2" align="left"><small>{{{dipnotlar}}}</small></td>
 </tr>
+}}<!-- ***** web***** -->
+{{#if:{{{web|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''web:''' {{{web}}}
+</tr>
 }}<!-- ***** Website ***** -->
 {{#if:{{{website|}}}|
 {{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Website:''' {{{website}}}
