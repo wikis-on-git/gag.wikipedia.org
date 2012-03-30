@@ -133,6 +133,34 @@
 <tr class="mergedrow">
 <td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
 </tr>
+}}<!-- ***** devlet ***** -->
+{{#if:{{{devlet |}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''devlet :''' {{{devlet }}}
+</tr>
+}}<!-- ***** toprak***** -->
+{{#if:{{{toprak|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''toprak:''' {{{toprak}}}
+</tr>
+}}<!-- ***** nüfus ***** -->
+{{#if:{{{nüfus |}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''nüfus :''' {{{nüfus }}}
+</tr>
+}}<!-- ***** araba_kodu***** -->
+{{#if:{{{araba_kodu|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''araba_kodu:''' {{{araba_kodu}}}
+</tr>
+}}<!-- ***** telefon_kodu***** -->
+{{#if:{{{telefon_kodu|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''telefon_kodu:''' {{{telefon_kodu}}}
+</tr>
+}}<!-- ***** yoğunluk***** -->
+{{#if:{{{yoğunluk|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''yoğunluk:''' {{{yoğunluk}}}
+</tr>
+}}<!-- ***** vakit_bölgesi***** -->
+{{#if:{{{vakit_bölgesi|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''vakit_bölgesi:''' {{{vakit_bölgesi}}}
+</tr>
 }}<!-- ***** Slogan ***** -->
 {{#if:{{{slogan|}}}|
 <tr class="mergedrow">
