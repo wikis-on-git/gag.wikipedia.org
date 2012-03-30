@@ -3,7 +3,7 @@
 | {{koor başlık dm|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|region:IN_type:city}}
 }} | }}
 {| class="infobox geography vcard" style="width:23em; text-align:left;"
-<td colspan="2" align="center" style="width:100%; font-size: 1.25em; white-space: nowrap;">'''<span class="fn org">{{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}</span>{{#if:{{{yerli_ad|}}}|<br /><span class="Takma_ad">{{{yerli_ad}}}</span>}}{{#if:{{{diğer_ad|}}}|<br /><span class="nickname">{{{diğer_ad}}}</span>}}</td>
+<td colspan="2" align="center" style="width:100%; font-size: 1.25em; white-space: nowrap;">'''<span class="fn org">{{#if:{{{ad|}}}|{{{ad}}}|{{{PAGENAME}}}}}</span>{{#if:{{{yerli_ad|}}}|<br /><span class="Takma_ad">{{{yerli_ad}}}</span>}}{{#if:{{{diğer_ad|}}}|<br /><span class="nickname">{{{diğer_ad}}}</span>}}</td>
 </tr>
 |-
 {{#if:{{both|{{{ad|}}}|{{{yerleşim_türü|}}}}}|
