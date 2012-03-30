@@ -14,11 +14,16 @@
 }}{{#if:{{both|{{{ad|}}}|{{{resmi_ad|}}}}}|
 <tr class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
+	</tr>
+}}{{#if:{{both|{{{ad|}}}|{{{resmi_ad|}}}}}|
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center;">'''{{{resmi_ad}}}'''</td>
          </tr>
 {{#if:{{{ülke|<noinclude>-</noinclude>}}}|
-!Bulundu?u Ulke
-{{!}}{{{devlet}}}
+!Bulunduğu Ülke
+{{!}}{{{ülke}}}
 {{!}}-
+}}
 }}{{#if:{{{çeviri_dil1|}}}|
 <tr <!-- ***** Transliteration language 1 ***** --> class="mergedtoprow">
 <td colspan="2" style="text-align:center;">'''{{{çeviri_dil1|}}}&nbsp;transliteration(s)''' </td>
