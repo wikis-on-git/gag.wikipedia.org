@@ -1,0 +1,12 @@
+<span class="plainlinksneverexpand">[{{Koor URL}}{{{1}}}_{{{2}}}_{{{3}}}_{{{4}}}_{{{5}}}_{{{6}}}_{{{7}}}{{#if:{{{name|}}}|&title={{urlencode:{{{name}}}}}}} <span title="Bu yer için haritalar, uydu fotoğrafları ve diğer veriler">{{{1}}}°{{{2}}}′{{{3}}}, {{{4}}}°{{{5}}}′{{{6}}}</span>]</span><noinclude>
+
+Kısaca kullanım:
+: <code><nowiki>{{</nowiki>Koor dm|''DD''|''MM''|''N/S''|''DD''|''MM''|''E/W''|}}
+:: ''DD'' = derece
+:: ''MM'' = dakika (İng. Minute)
+:: ''N/S'' = kuzey/güney (İng. North/South)
+:: ''E/W'' = doğu/batı (İng. East/West)
+</code>
+
+[[Kategori:Koordinat şablonları|{{PAGENAME}}]]
+</noinclude>
