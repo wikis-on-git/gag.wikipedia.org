@@ -18,7 +18,7 @@
 |colspan="3"| {{{{PAGENAME}}|bottom}}
 |-
 ! image 
-|colspan="3"| <tt>[[:Dosye:{{{{PAGENAME}}|image}}|{{{{PAGENAME}}|Dosye}}]]</tt>
+|colspan="3"| <tt>[[Dosye:{{{{PAGENAME}}|image}}|{{{{PAGENAME}}|Dosye}}]]</tt>
 |-
 ! map center
 |colspan="4"| {{coord|{{#expr:({{{{PAGENAME}}|top}}+{{{{PAGENAME}}|bottom}})/2}}|{{#expr:({{{{PAGENAME}}|left}}+{{{{PAGENAME}}|right}})/2}}}}
