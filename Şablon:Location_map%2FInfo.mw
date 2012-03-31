@@ -2,7 +2,7 @@
 {| class="prettytable" style="text-align:center"
 |+ Location map of {{{{PAGENAME}}|name}}
 |-
-|colspan="4"|[[Dosye:{{{{PAGENAME}}|Dosye}}|400x400px|{{PAGENAME}}]]
+|colspan="4"|[[image:{{{{PAGENAME}}|image}}|400x400px|{{PAGENAME}}]]
 |-
 ! name
 |colspan="3"| [[{{{{PAGENAME}}|name}}]]
@@ -18,13 +18,11 @@
 |colspan="3"| {{{{PAGENAME}}|bottom}}
 |-
 ! image 
-|colspan="3"| <tt>[[Dosye:{{{{PAGENAME}}|Dosye}}|{{{{PAGENAME}}|Dosye}}]]</tt>
+|colspan="3"| <tt>[[:Image:{{{{PAGENAME}}|image}}|{{{{PAGENAME}}|image}}]]</tt>
 |-
 ! map center
 |colspan="4"| {{coord|{{#expr:({{{{PAGENAME}}|top}}+{{{{PAGENAME}}|bottom}})/2}}|{{#expr:({{{{PAGENAME}}|left}}+{{{{PAGENAME}}|right}})/2}}}}
 |}</includeonly><noinclude>
-[[Kategori:Şablonlar|{{PAGENAME}}]]
-
 [[ar:قالب:Location map/Info]]
 [[bs:Šablon:Lokacijska karta/Info]]
 [[cs:Šablona:LocMap/Info]]
