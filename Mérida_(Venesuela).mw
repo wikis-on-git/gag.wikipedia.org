@@ -3,18 +3,6 @@
 |bayrak =Banderademerida.png
 | görüntü_boyutu=
 |arma =EscudoMérida.jpg
-| {{Location map
-|ülke   
-|label=şehir            
-|lat_dir=N
-| lat_deg=40  
-| lat_min=23    
-| lat_sec=43     
-|lon_dir=E 
-| lon_deg=49 
-| lon_min=52
-| lon_sec=56
-}}
 |devlet = [[Venesuela]]
 |toprak= 
 |nüfus =
@@ -26,6 +14,18 @@
 |işsizlik =D
 |vakit_bölgesi =
 |web    =http://www.bakucity.az
+{{Location map
+|Venezuela  
+|label=Mérida 
+|lat_dir=N
+| lat_deg=8 
+| lat_min=36 
+| lat_sec=43     
+|lon_dir=e 
+| lon_deg=71 
+| lon_min=9 
+| lon_sec=56
+}}
 }}
 '''Mérida''' (Hispanınca: ''Santiago de los Caballeros de Mérida'') — [[Venesuela]] [[Kasaba|kasabas]]ı.
 
