@@ -7,15 +7,12 @@
 {| border="0" cellspacing="10"
 |- valign="top"
 | width="30%"|
-{{Şablon:Başyaprak/Yazı1}}
 {{Şablon:Başyaprak/Yazı2}}
 {{Vikipediya:Seçkin yazı}}
-
-
-
+{{Vikipediya:Bilirsini}}
 | width="2%"|
 {{Vikipediya:GÜNÜN GÖRÜNÜŞÜ Dosyali/{{#time:F j}}}}
-{{Vikipediya:Bilirsini}}
+{{Şablon:Başyaprak/Yazı1}}
 |}
 </div>
 {{Baş yaprak metakutu}}
