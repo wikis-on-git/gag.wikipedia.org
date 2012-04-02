@@ -1,0 +1,1 @@
+<includeonly>{{#expr:{{{1}}}/{{{2}}}*({{{2}}}-{{{3|{{NUMBEROFARTICLES}}*1000}}})*({{{2}}}-{{{3|{{NUMBEROFARTICLES}}*1000}}})/{{{3|{{NUMBEROFARTICLES}}*1000}}}/{{{3|{{NUMBEROFARTICLES}}*1000}}} round {{{yuvarlaq|1}}}}}</includeonly><noinclude>{{doc}} {{#expr:{{NUMBEROFEDITS}}*1000}}</noinclude>
