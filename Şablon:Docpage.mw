@@ -1,0 +1,15 @@
+<includeonly>{{#ifeq: {{#rel2abs: ..}}/doc | {{SUBJECTPAGENAME}} | <div class="toc" style="text-align: center;">
+[[:{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}]] · [[:{{SUBJECTPAGENAME}}|Sənədləşmə]] · [[{{#rel2abs: .. | {{TALKPAGENAME}}}}|Müzakirə]] · [[Xüsusi:Whatlinkshere/{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}|Bu səhifəyə keçidlər]]
+</div>
+[[Kateqoriya:Şablonlar:Sənədləşmə|{{PAGENAME}}]]
+}}</includeonly><noinclude>
+{{doc}}
+
+[[Kateqoriya:Naviqasiya şablonları|{{PAGENAME}}]]
+
+[[be:Шаблон:Template navigation]]
+[[dsb:Pśedłoga:Nawigacija dokumentacije]]
+[[eo:Ŝablono:Ŝablona navigado]]
+[[hsb:Předłoha:Nawigacija dokumentacije]]
+[[uk:Шаблон:Template navigation]]
+</noinclude>
