@@ -1,0 +1,80 @@
+[[File:At sign{{#if:{{{color|}}}|{{sp}}{{{color}}}}}.svg|{{{size|{{{1|15}}}}}}px|&#xFE6B;|link=]]<noinclude>
+
+{{documentation|content=
+<!-- start documentation -->
+
+==Purpose==
+This template permits the easy insertion of an image representing the asperand (@, using [[:File:At sign.svg]]). The goal of this is to allow citing of an email address in a page without having email address collection programs collect the email address to be used in spam emailings. This effect is affected by the non-recognition of programs searching for email address of the significance of the image.
+
+==Usage==
+;Syntax:
+
+<nowiki>
+{{@}}
+</nowiki>
+
+Which gives:
+
+{{@}}
+
+===Optional parameters===
+
+There are two optional parameters.
+
+The first parameter, or <code>''<nowiki>|size=</nowiki>''</code> gives the size of the image to be used, in pixels. 
+: ''The default value is 15 pixels.''
+
+<nowiki>
+{{a|</nowiki>''size''<nowiki>}}
+</nowiki>
+
+or
+
+<nowiki>
+{{a|size=</nowiki>''size''<nowiki>}}
+</nowiki>
+
+;For example:
+
+<nowiki>{{@|size=20}}</nowiki> and <nowiki>{{@|20}}</nowiki>
+
+print:
+
+{{@|20}}
+
+The second parameter is the color parameter (<code><nowiki>|color=</nowiki></code>). It only works if there is a file by the name of <nowiki>'File:At_sign_{{{color}}}.svg'</nowiki>.
+
+
+==Example==
+Typing:
+
+<nowiki>
+You can write me at username{{@}}example.org
+</nowiki>
+
+Provides:
+
+You can write me at username{{@}}example.org
+
+==See also==
+*{{tlx|NoSpam|username|example.org}}
+<!-- end documentation -->
+}}
+
+[[br:Patrom:@]]
+[[bg:Шаблон:При]]
+[[ca:Plantilla:@]]
+[[da:Skabelon:@]]
+[[en:Template:@]]
+[[fr:Modèle:@]]
+[[hy:Կաղապար:@]]
+[[id:Templat:@]]
+[[it:Template:@]]
+[[mk:Шаблон:At]]
+[[nl:Sjabloon:@]]
+[[pl:Szablon:E-mail]]
+[[pt:Predefinição:@]]
+[[ru:Шаблон:@]]
+[[uk:Шаблон:@]]
+[[zh:Template:@]]
+</noinclude>
