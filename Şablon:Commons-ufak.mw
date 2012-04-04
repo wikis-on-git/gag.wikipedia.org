@@ -1,0 +1,32 @@
+<onlyinclude>{| clear=both style="border:1px solid #a9a9a9; background:#fafafa; margin-top:0.5em; margin-bottom:0.5em"
+| width=24 align=center | [[Dosye:Commons-logo.svg|18px]]
+| [[Wikimedia Commons]]'ta <span class="plainlinks">[{{fullurl:Commons:{{{1|{{PAGENAME}}}}}|uselang=tr}} '''{{PAGENAME}}''']</span> ile ilgili çoklu ortam belgeleri bulunur.
+|}</onlyinclude>
+
+
+== Şablonun niteliği ve amacı ==
+'''Şablon:Commons-ufak''', bir maddenin yazılması sırasında, o maddenin başlığı ile ilgili olarak [[Wikimedia Commons|'''Wikimedia Commons''']]'ta bulunabilecek çoklu ortam belgelerinin varlığından okuyucuyu haberdar etmek istenildiğinde kullanılabilecek bir etikettir.
+
+== Kullanım kılavuzu ==
+Bu şablonu iki şekilde kullanabilirsiniz:
+* Üzerinde çalıştığınız maddenin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>taki karşılığının adı farklı ise (örnek, [[Osmanlı Devleti]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile sayfanın uygun gördüğünüz yerine aktarın ve
+::* satırın içinde yer alan '''Commons'taki Madde Adı''' yerine, üzerinde çalıştığınız maddenin '''Wikimedia Commons''''taki karşılığının adını yazın.
+<pre>
+{{Commons-ufak|Commons'taki Madde Adı}}
+</pre>
+* Üzerinde çalıştığınız maddenin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>taki karşılığının adı aynı ise (örnek, [[Sigmund Freud]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile sayfanın uygun gördüğünüz yerine aktarın.
+<pre>
+{{Commons-ufak}}
+</pre>
+
+== İlgili diğer şablonlar ==
+'''Maddeler için'''
+* '''[[Şablon:Commons]]''' : '''Şablon:Commons-ufak''' ile aynı işleve sahip ancak sayfanın sağına yerleşen ve pencere biçimiyle tasarlanmış şablon.
+'''Kategoriler için'''
+* '''[[Şablon:CommonsKat]]''' : '''Vikipedi'''<nowiki>'</nowiki>deki bir kategori sayfasını '''Wikimedia Commons'''<nowiki>'</nowiki>daki karşılığına yönlendiren şablon.
+* '''[[Şablon:CommonsKat-ufak]]''' : '''Şablon:CommonsKat''' ile aynı işleve sahip ancak çerçeveli bir satır biçimiyle tasarlanmış şablon.
+
+== Kaynak ==
+* [http://en.wikipedia.org/w/index.php?title=Template:Commonstiny&oldid=46517123 İngilizce Wikipedia'daki '''Template:Commonstiny''' (1 Nisan 2006 sürümü)]
+
+[[Kategori:Wikilerarası bağlantı şablonları|Commons-ufak]]
