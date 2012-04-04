@@ -1,0 +1,109 @@
+== Şablonun niteliği ve amacı ==
+'''Şablon:Commons''', bir maddenin yazılması sırasında, o maddenin başlığı ile ilgili olarak [[Wikimedia Commons|'''Wikimedia Commons''']]'ta bulunabilecek çoklu ortam belgelerinin varlığından okuyucuyu haberdar etmek istenildiğinde kullanılabilecek bir etikettir.
+
+== Kullanım kılavuzu ==
+Bu şablonu iki şekilde kullanabilirsiniz:
+* Üzerinde çalıştığınız maddenin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>taki karşılığının adı farklı ise (örnek, [[Dolmabahçe Sarayı]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile sayfanın uygun gördüğünüz yerine aktarın ve
+::* satırın içinde yer alan '''Commons'taki Madde Adı''' yerine, üzerinde çalıştığınız maddenin '''Wikimedia Commons''''taki karşılığının adını yazın.
+<pre>
+{{Commons|Commons'taki Madde Adı}}
+</pre>
+* Üzerinde çalıştığınız maddenin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>taki karşılığının adı aynı ise (örnek, [[Albert Einstein]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile sayfanın uygun gördüğünüz yerine aktarın.
+<pre>
+{{Commons}}
+</pre>
+
+== İlgili diğer şablonlar ==
+;Maddeler için
+* [[Şablon:Commons-ufak]]: '''Şablon:Commons''' ile aynı işleve sahip ancak çerçeveli bir satır biçimiyle tasarlanmış şablon.
+Kategoriler için
+* [[Şablon:CommonsKat]]: '''Vikipedi'''<nowiki>'</nowiki>deki bir kategori sayfasını '''Wikimedia Commons'''<nowiki>'</nowiki>daki karşılığına yönlendiren şablon.
+* [[Şablon:CommonsKat-ufak]]: '''Şablon:CommonsKat''' ile aynı işleve sahip ancak çerçeveli bir satır biçimiyle tasarlanmış şablon.
+* [[Şablon:CommonsKatÇoklu]]: '''Şablon:CommonsKat''' ile aynı işleve sahip olmakla birlikte, CommonsKat'a ek olarak birden çok Commons kategorisine aynı şablon içerisinde bağlantı verebilen bir şablondur.
+
+<includeonly>
+[[Kategori:Wikilerarası bağlantı şablonları|Commons]]
+
+<!-- interwiki -->
+[[af:Sjabloon:Commons]]
+[[als:Vorlage:Commons]]
+[[ar:قالب:كومنز]]
+[[arz:قالب:كومونز]]
+[[ast:Plantía:Commons]]
+[[ay:Plantilla:Commons]]
+[[az:Şablon:Commons]]
+[[bar:Vorlage:Commons]]
+[[be:Шаблон:Commons]]
+[[be-x-old:Шаблён:Commons]]
+[[bg:Шаблон:Общомедия]]
+[[bn:টেমপ্লেট:কমন্স]]
+[[bs:Šablon:Commons]]
+[[ca:Plantilla:Commons]]
+[[cs:Šablona:Commons]]
+[[cy:Nodyn:Comin]]
+[[da:Skabelon:Commons]]
+[[de:Vorlage:Commons]]
+[[dsb:Pśedłoga:Commons]]
+[[el:Πρότυπο:Commons]]
+[[en:Template:Commons]]
+[[eo:Ŝablono:Commons]]
+[[es:Plantilla:Commons]]
+[[et:Mall:Commons]]
+[[eu:Txantiloi:Commons]]
+[[fa:الگو:ویکی‌انبار]]
+[[fi:Malline:Commons]]
+[[fr:Modèle:Commons]]
+[[fy:Berjocht:Commons]]
+[[ga:Teimpléad:Cómhaoin]]
+[[gl:Modelo:Commons]]
+[[he:תבנית:Commons]]
+[[hr:Predložak:Commons]]
+[[hsb:Předłoha:Commons]]
+[[hu:Sablon:Commons]]
+[[ia:Patrono:Commons]]
+[[id:Templat:Commons]]
+[[ik:Template:Commons]]
+[[ilo:Template:Commons]]
+[[io:Shablono:Commons]]
+[[is:Snið:Commons]]
+[[it:Template:Commons]]
+[[iu:Template:Commons]]
+[[ja:Template:Commons]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Commons]]
+[[ko:틀:위키공용]]
+[[ku:Şablon:Commons]]
+[[la:Formula:Communia]]
+[[lb:Schabloun:Commons]]
+[[li:Sjabloon:Commons]]
+[[lt:Šablonas:Commons]]
+[[lv:Veidne:Commons]]
+[[mk:Шаблон:Ризница]]
+[[ms:Templat:Commons]]
+[[nds:Vörlaag:Commons]]
+[[nl:Sjabloon:Commons]]
+[[nn:Mal:Commons]]
+[[no:Mal:Commons]]
+[[oc:Modèl:Commons]]
+[[pl:Szablon:Commons]]
+[[pt:Predefinição:Commons]]
+[[ro:Format:Commons]]
+[[ru:Шаблон:Commons]]
+[[scn:Template:Commons]]
+[[sh:Šablon:Commons]]
+[[simple:Template:Commons]]
+[[sk:Šablóna:Commons]]
+[[sl:Predloga:Zbirka]]
+[[sq:Stampa:Commons]]
+[[sr:Шаблон:Commons]]
+[[su:Citakan:Commons]]
+[[sv:Mall:Commons]]
+[[tl:Suleras:Commons]]
+[[tt:Үрнәк:Commons]]
+[[uk:Шаблон:Commons]]
+[[ur:سانچہ:Commons]]
+[[vi:Bản mẫu:Commons]]
+[[wa:Modele:Commons]]
+[[yo:Àdàkọ:Commons]]
+[[zh:Template:Commons]]
+[[zh-yue:Template:同享]]
+</includeonly>
