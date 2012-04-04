@@ -1,0 +1,36 @@
+<onlyinclude>{| clear=both style="border:1px solid #a9a9a9; background:#fafafa; margin-top:0.5em; margin-bottom:0.5em"
+| width=25 align=center | [[Resim:Commons-logo.svg|17px]]
+| [[Wikimedia Commons]]'ta <span class="plainlinks">[{{fullurl:Commons:Category:{{{1|{{PAGENAME}}}}}|uselang=tr}} '''{{{2|{{PAGENAME}}}}}''']</span> ile ilgili çoklu ortam kategorisi bulunur.
+|}</onlyinclude>
+
+== Şablonun niteliği ve amacı ==
+'''Şablon:CommonsKat-ufak''', [[Wikimedia Commons|Wikimedia '''Commons''']]'daki bir '''kat'''egorinin varlığından okuyucuyu haberdar etmek istenildiğinde kullanılabilecek bir etikettir.
+
+== Kullanım kılavuzu ==
+Bu şablonu iki şekilde kullanabilirsiniz:
+* Üzerinde çalıştığınız kategorinin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>daki karşılığının adı farklı ise (örnek, [[:Kategori:Satranç|Kategori:Satranç]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile kategori sayfasının uygun gördüğünüz yerine aktarın ve
+::* satırın içinde yer alan '''Commons'daki Kategori Adı''' yerine, üzerinde çalıştığınız kategorinin '''Wikimedia Commons''''daki karşılığının adını yazın.
+<pre>
+{{CommonsKat-ufak|Commons'daki Kategori Adı}}
+</pre>
+* Üzerinde çalıştığınız kategorinin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>daki karşılığının adı aynı ise (örnek, [[:Kategori:Fabaceae|Kategori:Fabaceae]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile kategori sayfasının uygun gördüğünüz yerine aktarın.
+<pre>
+{{CommonsKat}}
+</pre>
+
+== İlgili diğer şablonlar ==
+'''Kategoriler için'''
+* '''[[Şablon:CommonsKat]]''' : '''Şablon:CommonsKat-ufak''' ile aynı işleve sahip ancak sayfanın sağına yerleşen ve pencere biçimiyle tasarlanmış şablon.
+'''Maddeler için'''
+* '''[[Şablon:Commons]]''' : '''Vikipedi'''<nowiki>'</nowiki>deki bir madde başlığına ilişkin çoklu ortam belgelerinin bulunduğu '''Wikimedia Commons''' sayfasına yönlendiren şablon.
+* '''[[Şablon:Commons-ufak]]''' : '''Şablon:Commons''' ile aynı işleve sahip ancak çerçeveli bir satır biçimiyle tasarlanmış şablon.
+
+[[Kategori:Wikilerarası bağlantı şablonları|CommonsKat-ufak]]
+
+<!-- interwiki -->
+[[ar:قالب:كومونز تصانيف مضمنة]]
+[[ca:Plantilla:Commonscat-inline]]
+[[en:Template:Commons category-inline]]
+[[et:Mall:Commonsi kategooria-tekstina]]
+[[th:แม่แบบ:คอมมอนส์บนบรรทัด]]
+[[vi:Template:Commons category-inline]]
