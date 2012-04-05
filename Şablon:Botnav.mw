@@ -1,10 +1,13 @@
-
 {| id="toc" style="margin: 0 2em 0 2em;"
 |-
 |[[File:Crystal package system.png|50px]] [[Vikipediya:Topluluk portalı|'''Topluluk portalı''']]*[[Wikipedia:Bots|'''Overview of bots''']]* [[Wikipedia:Bot Approvals Group|Bot Approvals Group]]* [[Wikipedia:Bot policy|Bot policy]]* [[Wikipedia:Bots/Status|Bot status page]]* [[Wikipedia:Bot owners' noticeboard|Bot owners' noticeboard]]* [[Wikipedia:Bots/Requests for approval|Requests for bot approval]]/[[Wikipedia:Bots/Requests for approval/Adminbots|Adminbots]]* [[Wikipedia:Bot requests|Requests for work to be done by a bot]][[File:Crystal Clear action run.png|50px|link=]]
 </div>
 |}<noinclude>
-[[Kategori:Vikipediya botnar]]
+</noinclude>
+{{Emergency-bot-shutoff}}
+
+[[Kategoriya:Vikipediya botnar]]
+
 [[ar:قالب:تصفح البوت]]
 [[en:Template:Botnav]]
 [[fa:الگو:Botnav]]
@@ -12,4 +15,3 @@
 [[it:Template:Bot]]
 [[pt:Predefinição:Wikipedia/Bots]]
 [[ru:Шаблон:Боты]]
-</noinclude>
