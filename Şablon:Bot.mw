@@ -12,14 +12,9 @@ Bu bir [[Vikipedi:Kukla|kukla]] değildir, tersine elle yapılması çok zor ola
 It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated or semi-automated account for making repetitive edits that would be extremely tedious to do manually.
 <br>
 <small>''Administrators: if this bot is malfunctioning or causing harm, please <span class="plainlinks">[{{fullurl:Special:Blockip|wpBlockAddress={{PAGENAMEE}}&wpBlockExpiry=indefinite&wpAnonOnly=0&wpEnableAutoblock=0&wpCreateAccount=0&wpBlockReason=Bot%20malfunctioning:%20}} block it]</span>.''</small>
-|} --->{{{kategori|{{{category|}}}}}}
+|} --->{{{kategori|{{{category|[[Kategori:Vikipediya botnar|<includeonly>{{PAGENAME}}</includeonly> ]]}}}}}}
 
 <noinclude>
-</noinclude>
-{{Emergency-bot-shutoff}}
-
-[[Kategoriya:Vikipediya botnar| ]]
-
 [[ab:Ашаблон:Bot]]
 [[ace:Pola:Bot]]
 [[af:Sjabloon:Bot]]
@@ -41,7 +36,7 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[be:Шаблон:Bot]]
 [[be-x-old:Шаблён:Робат]]
 [[bg:Шаблон:Bot]]
-[[bh:टेम्पलेट:Bot]]
+[[bh:Template:Bot]]
 [[bi:Template:Bot]]
 [[bm:Modèle:Bot]]
 [[bn:টেমপ্লেট:বট]]
@@ -103,8 +98,8 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[hy:Կաղապար:Bot]]
 [[ia:Patrono:Bot]]
 [[id:Templat:Bot]]
-[[ie:Avise:Bot]]
-[[ig:Àtụ:Bot]]
+[[ie:Template:Bot]]
+[[ig:Template:Bot]]
 [[ik:Template:Bot]]
 [[io:Shablono:Bot]]
 [[is:Snið:Vélmenni]]
@@ -125,7 +120,7 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[kv:Шаблон:Bot]]
 [[ky:Template:Bot]]
 [[la:Formula:Bot]]
-[[lad:Xablón:Bot]]
+[[lad:Xabblón:Bot]]
 [[lb:Schabloun:Bot]]
 [[lbe:Шаблон:Bot]]
 [[lg:Template:Bot]]
@@ -137,7 +132,7 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[lv:Veidne:Bot]]
 [[mdf:Шаблон:Bot]]
 [[mg:Endrika:Bot]]
-[[mhr:Кышкар:Bot]]
+[[mhr:Ямдылык:Bot]]
 [[mi:Template:Bot]]
 [[mk:Шаблон:Бот]]
 [[ml:ഫലകം:യന്ത്രം]]
@@ -151,7 +146,7 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[nap:Modello:Bot]]
 [[nds:Vörlaag:Bot]]
 [[nds-nl:Mal:Bot]]
-[[ne:ढाँचा:Bot]]
+[[ne:Template:Bot]]
 [[nl:Sjabloon:Bot]]
 [[nn:Mal:Bot]]
 [[no:Mal:Bot]]
@@ -160,12 +155,12 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[ny:Template:Bot]]
 [[oc:Modèl:Bòt]]
 [[om:Template:Bot]]
-[[or:ଟେମ୍ପଲେଟ:Bot]]
+[[or:Template:Bot]]
 [[os:Шаблон:Bot]]
 [[pa:ਨਮੂਨਾ:ਰੋਬੋਟ]]
 [[pam:Template:Bot]]
 [[pap:Template:Bot]]
-[[pdc:Moddel:Bot]]
+[[pdc:Vorlage:Bot]]
 [[pih:Template:Bot]]
 [[pl:Szablon:Bot]]
 [[pms:Stamp:Trigomiro]]
@@ -212,7 +207,7 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[tn:Template:Bot]]
 [[tpi:Template:Bot]]
 [[ts:Template:Bot]]
-[[tt:Калып:Bot]]
+[[tt:Үрнәк:Bot]]
 [[tum:Template:Bot]]
 [[tw:Template:Bot]]
 [[ty:Modèle:Bot]]
@@ -237,3 +232,4 @@ It is not a [[w:Wikipedia:Sock puppetry|sock puppet]], but rather an automated o
 [[zh:Template:Bot]]
 [[zh-yue:Template:Bot]]
 [[zu:Template:Bot]]
+</noinclude>
