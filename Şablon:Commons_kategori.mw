@@ -1,0 +1,155 @@
+{{Commons
+| position = {{{position|}}}
+  <!-- {{#if:x|}} strips whitespace from parameter 1, 
+       in case it is fed like this: {{Commons kategori| Some cat }}. -->
+| Category:{{#if:x| {{{1| {{PAGENAME}} }}} }}
+| {{{2| {{{1| {{PAGENAME}} }}} }}}
+}}<noinclude>
+
+<br clear=all>
+== Şablonun niteliği ve amacı ==
+'''Şablon:CommonsKat''', bir kategorinin oluşturulması sırasında, o kategorinin [[Wikimedia Commons|'''Wikimedia Commons''']]'taki karşılığı olan kategorinin varlığından okuyucuyu haberdar etmek istenildiğinde kullanılabilecek bir etikettir.
+
+== Kullanım kılavuzu ==
+Bu şablonu iki şekilde kullanabilirsiniz:
+* Üzerinde çalıştığınız kategorinin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>taki karşılığının adı farklı ise (örnek, [[:Kategori:Matematikçiler|Kategori:Matematikçiler]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile kategori sayfasının uygun gördüğünüz yerine aktarın ve
+::* satırın içinde yer alan '''Commons'taki Kategori Adı''' yerine, üzerinde çalıştığınız kategorinin '''Wikimedia Commons''''taki karşılığının adını yazın.
+<pre>
+{{Commons kategori|Commons'taki Kategori Adı}}
+</pre>
+* Üzerinde çalıştığınız kategorinin adı ile onun '''Wikimedia Commons'''<nowiki>'</nowiki>taki karşılığının adı aynı ise (örnek, [[:Kategori:Zingiberales|Kategori:Zingiberales]]), aşağıda yer alan satırı ''kopyala-yapıştır'' ile kategori sayfasının uygun gördüğünüz yerine aktarın.
+<pre>
+{{Commons kategori}}
+</pre>
+
+== İlgili diğer şablonlar ==
+'''Kategoriler için'''
+* '''[[Şablon:CommonsKat-ufak]]''' : '''Şablon:CommonsKat''' ile aynı işleve sahip ancak çerçeveli bir satır biçimiyle tasarlanmış şablon.
+'''Maddeler için'''
+* '''[[Şablon:Commons]]''' : '''Vikipedi'''<nowiki>'</nowiki>deki bir madde başlığına ilişkin çoklu ortam belgelerinin bulunduğu '''Wikimedia Commons''' sayfasına yönlendiren şablon.
+* '''[[Şablon:Commons-ufak]]''' : '''Şablon:Commons''' ile aynı işleve sahip ancak çerçeveli bir satır biçimiyle tasarlanmış şablon.
+
+== Kaynak ==
+* [http://en.wikipedia.org/w/index.php?title=Template:Commonscat&oldid=43578775 İngilizce Wikipedia'daki '''Template:Commonscat''' (13 Mart 2006 sürümü)]
+
+[[Kategori:Wikilerarası bağlantı şablonları|CommonsKat]]
+[[Kategori:Kategori şablonları]]
+
+<!-- interwiki -->
+[[af:Sjabloon:Commons-kategorie]]
+[[als:Vorlage:Commonscat]]
+[[an:Plantilla:Commonscat]]
+[[ang:Bysen:Commonscat]]
+[[ar:قالب:تصنيف كومنز]]
+[[arz:قالب:تصنيف كومنز]]
+[[ast:Plantía:Commonscat]]
+[[az:Şablon:CommonsKat]]
+[[bar:Vorlage:Commonscat]]
+[[bat-smg:Šabluons:Commonscat]]
+[[be:Шаблон:Commonscat]]
+[[bg:Шаблон:Commonscat]]
+[[bjn:Templat:Commonscat]]
+[[bn:টেমপ্লেট:কমন্স বিষয়শ্রেণী]]
+[[br:Patrom:Commonscat]]
+[[ca:Plantilla:Commonscat]]
+[[cbk-zam:Plantilla:Commonscat]]
+[[chr:Template:Commonscat]]
+[[crh:Şablon:CommonsKat]]
+[[cs:Šablona:Commonscat]]
+[[cv:Шаблон:Commonscat]]
+[[da:Skabelon:Commonscat]]
+[[de:Vorlage:Commonscat]]
+[[diq:Template:Commonscat]]
+[[dv:ފަންވަތް:Commonscat]]
+[[el:Πρότυπο:Commonscat]]
+[[en:Template:Commons category]]
+[[eo:Ŝablono:Commonscat]]
+[[es:Plantilla:Commonscat]]
+[[eu:Txantiloi:Commonskat]]
+[[fa:الگو:ویکی‌انبار-رده]]
+[[fi:Malline:Commonscat]]
+[[fr:Modèle:Commonscat]]
+[[frp:Modèlo:Commonscat]]
+[[fy:Berjocht:Commonscat]]
+[[ga:Teimpléad:Catcómhaoin]]
+[[gd:Template:Commonscat]]
+[[gv:Clowan:Commonscat]]
+[[he:תבנית:Commonscat]]
+[[hi:साँचा:Commonscat]]
+[[hr:Predložak:Commonscat]]
+[[hu:Sablon:Commonskat]]
+[[hy:Կաղապար:Վիքիպահեստ կատեգորիա]]
+[[ia:Patrono:Commonscat]]
+[[id:Templat:Commonscat]]
+[[io:Shablono:Commonscat]]
+[[is:Snið:CommonsCat]]
+[[it:Template:Commonscat]]
+[[ja:Template:Commonscat]]
+[[jv:Cithakan:Commonscat]]
+[[ka:თარგი:Commons cat]]
+[[kaa:Shablon:Commons cat]]
+[[kg:Template:Commonscat]]
+[[kk:Үлгі:Commonscat]]
+[[kl:Ilisserut:Commonscat]]
+[[km:ទំព័រគំរូ:Commonscat]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Commonscat]]
+[[ko:틀:위키공용분류]]
+[[ksh:Schablon:Commonscat]]
+[[la:Formula:CommuniaCat]]
+[[lad:Xabblón:Commonscat]]
+[[lb:Schabloun:Commonscat]]
+[[lbe:Шаблон:Commonscat]]
+[[li:Sjabloon:Commonscat]]
+[[lo:ແມ່ແບບ:Commonscat]]
+[[lt:Šablonas:Commonscat]]
+[[lv:Veidne:Commonscat]]
+[[mi:Template:Commonscat]]
+[[mk:Шаблон:Ризница-врска]]
+[[ml:ഫലകം:Commonscat]]
+[[mn:Загвар:Commonscat]]
+[[ms:Templat:Commonscat]]
+[[nah:Nemachiyōtīlli:Commonscat]]
+[[nds-nl:Mal:Commonscat]]
+[[new:Template:Commonscat]]
+[[nl:Sjabloon:Commonscat]]
+[[nn:Mal:Commonscat]]
+[[no:Mal:Commonscat]]
+[[oc:Modèl:Commonscat]]
+[[os:Шаблон:Commonscat]]
+[[pam:Template:Commonscat]]
+[[pl:Szablon:Commonscat]]
+[[pt:Predefinição:Commonscat]]
+[[qu:Plantilla:Commonscat]]
+[[ro:Format:Commonscat]]
+[[ru:Шаблон:Commonscat]]
+[[sah:Халыып:Commonscat]]
+[[scn:Template:Commonscat]]
+[[sd:سانچو:Commonscat]]
+[[se:Template:Commonscat]]
+[[sh:Šablon:Commonscat]]
+[[si:සැකිල්ල:කොමන්ස්ප්‍රවර්]]
+[[simple:Template:Commonscat]]
+[[sk:Šablóna:Commonscat]]
+[[sl:Predloga:Kategorija v Zbirki]]
+[[so:Template:Commonscat]]
+[[sr:Шаблон:Commonscat]]
+[[su:Citakan:Commonscat]]
+[[sv:Mall:Commonscat]]
+[[sw:Kigezo:Commonscat]]
+[[ta:வார்ப்புரு:Commons category]]
+[[te:మూస:Commonscat]]
+[[th:แม่แบบ:Commonscat]]
+[[tl:Suleras:Commonscat]]
+[[tt:Үрнәк:Commonscat]]
+[[udm:Шаблон:Commonscat]]
+[[uk:Шаблон:Commonscat]]
+[[uz:Andoza:Commonscat]]
+[[vi:Bản mẫu:Commonscat]]
+[[vls:Patrôon:Commonscat]]
+[[war:Template:Commonscat]]
+[[xal:Кевләр:Commonscat]]
+[[zea:Sjabloon:Commonscat]]
+[[zh:Template:Commonscat]]
+[[zh-classical:Template:共享類]]
+[[zh-yue:Template:同享類]]
+</noinclude>
