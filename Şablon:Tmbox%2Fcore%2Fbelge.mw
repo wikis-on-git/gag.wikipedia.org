@@ -1,0 +1,20 @@
+{{Belgeleme navigasyonu}}
+<includeonly>{{high-risk| 500,000+ }}</includeonly>
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This is the {{tl|tmbox/core}} sub-template.
+
+Do not use this template directly, use {{tl|tmbox}} instead.
+
+This template is called from {{tl|tmbox}}. It holds most of the code for {{tlf|tmbox}}, while {{tlf|tmbox}} does parameter preprocessing. Thus simplifying the code in {{tlf|tmbox/core}}.
+
+For more documentation see {{tl|tmbox}}.
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Wikipedia metatemplates|{{PAGENAME}}]]
+
+[[ja:Template:Tmbox/core]]
+[[no:mal:Tmbox/core]]
+[[pt:Predefinição:Tmbox/core]]
+</includeonly>
