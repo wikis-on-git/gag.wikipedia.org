@@ -2,17 +2,18 @@ __HIDDENCAT__
 * Gizli kategoriler, '''<code><nowiki>__HIDDENCAT__</nowiki></code>''' özel koduyla veya '''{{tlx|Gizli kategori}}''' şablonuyla işaretlenmiş kategorilerdir.
 * [[Vikipedi:Kategori]] sayfasında belirtildiği üzere, burada bulunan kategoriler bir maddenin konusunu sınıflandırmak için değil, onun bakım durumunu, yani maddenin şu anki durumunu belirtmek için kullanılır.
 * Gizli kategoriler maddelerde görünmez. Bir maddeye eklediğiniz kategorinin neden görünmediğini merak ediyorsanız, bu kategorinin gizli olup olmadığını kontrol ediniz. Sayfanın önizlemesine bakarsanız gizli kategoriler sayfanın dibinde, kullanılan şablonlar listesinin altında görünecektir. 
-* Gizli kategoriler kategori sayfalarında gizli değildirler. Gizli kategorileri görmek için [[Özel:Tercihler|tercihleriniz]] sayfasında "gizli kategorileri göster" kutusunu tıklayınız. Bunu yapınca gizli kategoriler ayrı bir çizgi üzerinde, "Gizli kategoriler" olarak işaretlenmiş olarak görüneceklerdir.  
+* Gizli kategoriler kategori sayfalarında gizli değildirler. Gizli kategorileri görmek için [[Maasus:Tercihler|tercihleriniz]] sayfasında "gizli kategorileri göster" kutusunu tıklayınız. Bunu yapınca gizli kategoriler ayrı bir çizgi üzerinde, "Gizli kategoriler" olarak işaretlenmiş olarak görüneceklerdir.  
 == İlgili ==
 
 
 
 {{CommonsKat|Hidden categories}}
 
-[[Kategori:Vikipedi bakım]]
-[[Kategori:Kategoriler]]
-[[Kategori:İzleme kategorileri]]
+[[Kategoriya:Vikipedi bakım]]
+[[Kategoriya:Kategoriler]]
+[[Kategoriya:İzleme kategorileri]]
 
+[[ace:Kawan:Kategori tersembunyi]]
 [[af:Kategorie:Versteekte kategorieë]]
 [[ar:تصنيف:تصنيفات مخفية]]
 [[as:শ্ৰেণী:অদৃশ্য শ্ৰেণী সমূহ]]
@@ -72,6 +73,7 @@ __HIDDENCAT__
 [[sr:Категорија:Скривене категорије]]
 [[sv:Kategori:Dolda kategorier]]
 [[th:หมวดหมู่:หมวดหมู่ที่ซ่อนอยู่]]
+[[tr:Kategori:Gizli kategoriler]]
 [[tt:Төркем:Яшерен төркемнәр]]
 [[udm:Категория:Ватэм категориос]]
 [[uk:Категорія:Приховані категорії]]
