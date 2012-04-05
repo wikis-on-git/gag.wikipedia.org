@@ -21,7 +21,7 @@
 {{!}}- style="font-size: 95%;"
 {{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak|}}}|[[{{{bayrak}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
 </small>
-{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma_resmi|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
+{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
 </small>
 {{!}}} 
 |{{!}}- class="mergedtoprow"
