@@ -1,0 +1,61 @@
+{| class="toccolours" border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; font-size: 95%; clear: right"
+ |+ <big>'''{{{Gagauz adı}}}'''</big>{{#if: {{{Ofiţial Gagauz adı|}}} | <br/>'''({{{Ofiţial Gagauz adı}}})'''}}<br/><small><br></small><big>'''{{{Original adı}}}'''</big>
+{{#if: {{{Ofiţial Original adı|}}} | <br/>'''({{{Ofiţial Original adı}}})'''}} {{#if: {{{Ofiţial Original adı translit|}}} | <br/>'''<small>/{{{Ofiţial Original adı translit}}}/</small>'''}}
+{{#if: {{{Original adı 2|}}} | <br/> <big>'''{{{Original adı 2}}}'''</big>}} {{#if: {{{Ofiţial Original adı 2|}}} | <br/>'''({{{Ofiţial Original adı 2}}})'''}}
+{{#if: {{{Ofiţial Original adı 2 translit|}}} | <br/>'''<small>/{{{Ofiţial Original adı 2 translit}}}/</small>'''}}
+{{#if: {{{Original adı 3|}}} | <br/> <big>'''{{{Original adı 3}}}'''</big>}} {{#if: {{{Ofiţial Original adı 3|}}} | <br/>'''({{{Ofiţial Original adı 3}}})'''}}
+{{#if: {{{Original adı 4|}}} | <br/> <big>'''{{{Original adı 4}}}'''</big>}} {{#if: {{{Ofiţial Original adı 4|}}} | <br/>'''({{{Ofiţial Original adı 4}}})'''}}
+{{#if: {{{Original adı 5|}}} | <br/> <big>'''{{{Original adı 5}}}'''</big>}} {{#if: {{{Ofiţial Original adı 5|}}} | <br/>'''({{{Ofiţial Original adı 5}}})'''}}
+ | align="center" width="140" | [[Image:{{{Bayrak}}}|140px|{{{Gagauz adı}}} bayraı]]
+ | align="center" width="140" | [[Image:{{{Gerb}}}|110px|{{#if: {{{Gerbin erinä|}}} | {{{Gerbin erinä}}} {{{Gagauz adı}}} | {{{Gagauz adı}}} gerbi}}]]
+ |-
+ | align="center" | [[{{{Gagauz adı}}} bayraı|bayrak]]
+ | align="center" style="line-height: 1.2em;" | {{#if: {{{Gerbin erinä|}}} | [[{{{Gerbin yerine}}} {{{Gagauz adı}}}]] | [[{{{Gagauz adı}}} gerbi|gerb]]}}
+ |-
+ | align="center" colspan="2" style="padding-top: 0.5em; padding-bottom: 0.5em;" | {{Border|[[Image:{{{Karta}}}|250px]]}}
+ |- valign="top" style="line-height: 1.2em;" 
+ |align="center" colspan="2" | [[Milli deviz|Milli deviz]]: {{#if: {{{Deviz|}}} | ''“{{{Deviz}}}”'' | ''yok''}} {{#if: {{{Deviz çevirisi|}}} | ''({{{Deviz çevirisi}}})''}}
+ |-
+ | align="center" colspan="2" | {{#if: {{{Gimna|}}} | [[Devlet gimnası|Gimna]]: “[[{{{Gagauz adı}}} gimnası|{{{Gimna}}}]]” | [[{{{Gagauz adı}}} gimnası|{{{Gagauz adı}}} milli gimnası]]}} {{#if: {{{Gimna çevirisi|}}} | ''({{{Gimna çevirisi}}})''}} {{#if: {{{Audio|}}} |''({{Audio|{{{Audio}}}|audio}})''}}
+ |-
+{{#if: {{{Kendibaşınalık|}}}|
+{{!}} style="border-top: solid 1px #ccd2d9; padding:0.4em 1em 0.4em 0; vertical-align:top; text-align:left;" {{!}}&nbsp;'''[[Suverenitet|Kendibaşınalık]]'''
+{{!}} style="border-top: solid 1px #ccd2d9; padding:0.4em 1em 0.4em 0; vertical-align:top" {{!}} {{#ifexist:{{{Kendibaşınalık}}}|[[{{{Kendibaşınalık}}}]]|{{{Kendibaşınalık}}}}} {{#if: {{{Kimden kendibaşınalık|}}} | <span style="white-space: nowrap;">({{{Kimden kendibaşınalık}}})}}</span>
+}}
+ |-
+ | '''[[Ofiţial dil|{{#if: {{{Dil|}}} | Ofiţial dil | Ofiţial diller}}]]'''
+ | {{{Dil|{{{Diller}}}}}}
+ |-
+ | '''[[Baş kasaba|Baş kasaba]]'''
+ | {{{Baş kasaba}}}
+ |-
+ | '''[[Kasaba|{{#if: {{{En büük kasaba|}}} | En büük kasaba | En büük kasabalar}}]]'''
+ | {{{En büük kasaba|{{{En büük kasabalar}}}}}}
+ |- 
+ | '''[[Devlet kurumu|Devlet kurumu]]'''
+ | {{{Devlet kurumu}}}
+ |- style="white-space: nowrap;" 
+ |{{{Öndercilerin postların adları}}}
+ |{{{Önderciler}}}
+ |- style="white-space: nowrap;"
+ | '''[[Territоriya|Territоriya]]'''<br/>&nbsp;&nbsp;• Hepsi {{#if: {{{Su|}}} | <br/>&nbsp;&nbsp;• Su (%)}}
+ | [[Territоriyaya görä padişaalıklar tabliţası|{{{Territоriya sırası}}}]]<br/>{{{Territоriya}}} km² {{#if: {{{Su|}}} | <br/>{{{Su}}} %}}
+ |- style="white-space: nowrap;"
+ | '''[[İnsannar|İnsannar]]'''<br/>&nbsp;&nbsp;• Hepsi {{#if: {{{Yıl}}}|([[{{{İnsannar yılı}}}]])}}<br/>&nbsp;&nbsp;• [[İnsannar sıklıı|İnsannar sıklıı]]
+ | [[İnsannara göre padişaalıklar tabliţası|{{{İnsannarın sırası}}}]]<br/>{{{İnsannar}}} kişi<br/>{{{İnsannarın sıklıı}}} kişi/km²
+{{#if: {{{BİMG|}}} | {{2 cell table row|row attributes=style="white-space: nowrap;"|data1='''[[Bütün içerki milli gelir|BİMG]]'''<br/>&nbsp;&nbsp;• Hepsi {{#if: {{{BİMG yılı|}}} | ([[{{{BİMG yılı}}}|{{{BİMG yılı}}}]])}}<br/>&nbsp;&nbsp;• Kişi başına|data2=[[BİMG görä padişaalıklar tabliţası|{{{BİMG sırası}}}]]<br/>$ {{{BİMG}}} <br/>$ {{{Kişi başına BİMG}}}}}}}
+ |-
+ | '''[[Para birleşii|Para birleşii]]'''
+ | {{{Para birleşii}}}
+ |-
+ | '''[[İnternet domeni|İnternet {{#if: {{{Domen|}}} | domeni | domenleri}}]]'''
+ | {{{Domen|{{{Domenleri}}}}}}
+ |-
+ | '''[[Padişaalıklar telefon kodlarının tabliţası|Telefon kodu]]'''
+ | +{{{Telefon kodu}}}
+ |- 
+ | '''[[Vakit bölgesi|{{#if: {{{Vakit bölgesi|}}} | Vakit bölgesi | Vakit bölgeleri}}]]'''
+ | {{#if: {{{Vakit bölgesi|}}} | [[UTC|UTC]]{{{Vakit bölgesi}}} | [[UTC|UTC]] {{{Vakit bölgeleri}}}}}
+ |-
+ {{#if: {{{İhtärlär|}}} | {{1 cell table row|attributes=colspan="2" style="padding-top: 0.5em;"|data={{{İhtarlar}}}}}}}
+ |}
