@@ -1,7 +1,7 @@
+{{Şablon:Başyaprak}}
 <div>
-{|width="100%" cellpadding="5" cellspacing="6" style="vertical-align:top; background:#F9F9F9;"
-|style="color:#000;"|{{Şablon:Başyaprak}}
-|}
+{|style="border-spacing:2px;margin:0px -2px"
+|class="MainPageBG" style="width:50%;border:1.5px solid #cedff2;background-color:#F5FFFA;vertical-align:top; -moz-border-radius:10px"|<div style="margin: 0px 0px 0px 0px; text-align: left;">
 {| border="0" cellspacing="10"
 |- valign="top"
 | width="30%"|
@@ -99,3 +99,4 @@ __noeditsection__
 [[wo:]]
 
 [[Kategori:Vikipediya]]
+'''Kalın metin'''
