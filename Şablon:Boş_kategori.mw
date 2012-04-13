@@ -1,0 +1,10 @@
+{{#ifeq:{{{hide}}}|true||{{cmbox
+| type  = content
+| style = text-align: center;
+| text  = <big>'''Hizmetliler: Lütfen bu kategoriyi boş olduğu için silmeyin!'''</big> <br> Bu mesajın yer aldığı kategorilerin bazen boş olması olağan bir durumdur. {{{1|}}}
+}}}}<noinclude>
+
+{{şablon belgesi}}
+<!-- Kategori ve intervikileri buraya değil, /doc altsayfasına ekleyin! -->
+</noinclude>
+[[tr:Şablon:Boş kategori]]
