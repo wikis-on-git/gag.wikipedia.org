@@ -1,0 +1,22 @@
+{{Belgeleme navigasyonu}}
+<!-- LÜTFEN KATEGORİ VE İNTERVİKİLERİ BU SAYFANIN ALTINA EKLEYİN -->
+
+Bu, {{tlx|boş kategori}} şablonudur.
+
+Bazen boş olması olağan olan kategori sayfalarının üstüne yerleştirilmesi mümkündür. Bazı bakım, takip ve temizlik kategorileri için rutin bir uygulamadır.
+
+Bu tür kategoriler geçmişte kullanımları sona erdiği düşünülerek silindiği için sayfada böyle bir bildirime yer verilmektedir.
+
+Bu şablon, aynı zamanda ilgili kategorilerin boş kategoriler arasında listelenmesini de önleyecektir. 
+
+=== Ayrıca bkz ===
+* {{tl|Vikipedi kategorisi}}
+
+<includeonly>
+<!-- KATEGORİ VE İNTERVİKİLER BURAYA -->
+[[Kategori:Kategori şablonları|{{PAGENAME}}]]
+
+[[en:Template:Empty category]]
+[[it:Template:ServizioVuota]]
+[[zh:Template:Empty category]]
+</includeonly>
