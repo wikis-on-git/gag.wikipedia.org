@@ -1,0 +1,29 @@
+{| summary="A standardized table providing complete information about the file, including description of what it shows and how it was made, copyright status and source." class="toccolours" style="width: 100%" cellpadding="2"
+! style="background: #ccf; text-align: right; vertical-align: top; padding-right: 0.4em; width: 15%" id="fileinfotpl_desc" |Açıklama
+|
+{{{açıklama}}}
+|-
+! style="background: #ccf; text-align: right; vertical-align: top; padding-right: 0.4em" id="fileinfotpl_src" | Kaynak
+|
+{{{kaynak}}}
+|-
+! style="background: #ccf; text-align: right; vertical-align: top; padding-right: 0.4em; white-space: nowrap" id="fileinfotpl_date" | Tarih
+|
+{{{tarih}}}
+|-
+! style="background: #ccf; text-align: right; vertical-align: top; padding-right: 0.4em" id="fileinfotpl_aut" | Yazar
+|
+{{{yazar}}}
+|-
+! style="background: #ccf; text-align: right; vertical-align: top; padding-right: 0.4em" id="fileinfotpl_perm" | İzinler
+|
+{{#if:{{{İzinler|{{{izinler|}}}}}}|{{{İzinler|{{{izinler}}}}}}|Alta bakınız}}
+{{#switch: {{{diğer_sürümler|}}}
+|   =
+| - =
+| hiç biri =
+| #default = <tr><td style="background: #ccf; text-align: right; vertical-align: top; padding-right: 0.4em; font-weight: bold" id="fileinfotpl_ver">Diğer sürümler</td><td>
+{{{diğer_sürümler}}}</td></tr>}}
+|}<noinclude>
+{{belgeleme}}
+</noinclude>
