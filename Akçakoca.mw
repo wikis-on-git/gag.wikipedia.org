@@ -103,14 +103,14 @@
 {{Location map
 |Turkey   
 |label={{PAGENAME}}           
-|lat_dir=E
-| lat_deg=35 
-| lat_min=00     
-| lat_sec=0      
-|lon_dir=N
-| lon_deg=34  
-| lon_min=0 
-| lon_sec=0 
+|lat_dir=N
+| lat_deg=41 
+| lat_min=04     
+| lat_sec=59     
+|lon_dir=E
+| lon_deg=31  
+| lon_min=07
+| lon_sec=01
 }}
 }}
 '''Akçakoca''' kasabasi[[Türkiye |Türkiyenın]] bir  kasabasidir.bu kasabade Türkiye resmi [[Türk dili]] laf edelir.
@@ -124,3 +124,5 @@
 {{Turkiye Kasabalar}}
 
 [[Kategori:Turkiye Kasabalari]]
+
+[[fr:Akçakoca]]
