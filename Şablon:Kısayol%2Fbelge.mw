@@ -1,0 +1,29 @@
+*Tek kısayol için <nowiki>{{kısayol|Portal yada Proje bağlantısı}}</nowiki> {{kısayol|P:TR}}
+*Birden fazla kısayol için <nowiki>{{kısayol|VP:AY|VP:ARY|VP:AYA}}</nowiki> {{kısayol|VP:AY|VP:ARY|VP:AYA}}
+*İstenildiği takdirde bağlantı da verilebilir. {{kısayol|[[P:TR]]}}
+
+<includeonly>
+[[Kategori:İç bağlantı şablonları|{{PAGENAME}}]]
+[[Kategori:Kısayol]]
+
+[[als:Vorlage:Shortcut]]
+[[bg:Шаблон:Съкр]]
+[[cs:Šablona:Zkratka názvu stránky]]
+[[de:Vorlage:Shortcut]]
+[[en:Template:Shortcut]]
+[[eo:Ŝablono:Mallongigo]]
+[[fi:Malline:Oikopolku]]
+[[fr:Modèle:Raccourci]]
+[[he:תבנית:קיצור דרך]]
+[[hu:Sablon:Rövidítés]]
+[[ja:Template:ショートカット]]
+[[mk:Шаблон:Скратенпат]]
+[[nl:Sjabloon:Verwijzing]]
+[[ru:Шаблон:Shortcut]]
+[[sk:Šablóna:Skratka]]
+[[sl:Predloga:Bližnjica]]
+[[sv:Mall:Genväg]]
+[[tl:Template:Daang tapatan]]
+[[uk:Шаблон:Скорочення]]
+[[tr:Şablon:Kısayol/belge]]
+</includeonly>
