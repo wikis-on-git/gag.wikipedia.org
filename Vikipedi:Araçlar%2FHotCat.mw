@@ -2,7 +2,7 @@
 '''HotCat''', [[Vikipedi:Neden bir hesap edinmeli?|kayıtlı kullanıcıların]] Vikipedi sayfalarına kolaylıkla kategori eklemesi, bu kategorileri değiştirmesi ve çıkarmasına yardımcı olan bir [[JavaScript]] betiğidir. Otomatik tamamlama kolaylığıyla, mevcut kategorileri öneren liste özelliğine de sahiptir. tr.wikipedia da kullanılan sürüm [[:commons:MediaWiki:Gadget-HotCat.js|Wikimedia Commons]] üzerinde bulunan HotCat betiğinin değiştirilmiş sürümüdür.
 
 {{TOCleft}}
-[[Dosya:MHAmfi2.jpg|thumb|600px|HotCat kullanımı ekran görüntüsü]]
+[[Dosye:MHAmfi2.jpg|thumb|600px|HotCat kullanımı ekran görüntüsü]]
 
 {{clear}}
 == Kurulum ==
