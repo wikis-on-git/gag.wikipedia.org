@@ -1,0 +1,89 @@
+{{kısayol|[[VP:HOTCAT]]<br />[[VP:HC]]}}
+'''HotCat''', [[Vikipedi:Neden bir hesap edinmeli?|kayıtlı kullanıcıların]] Vikipedi sayfalarına kolaylıkla kategori eklemesi, bu kategorileri değiştirmesi ve çıkarmasına yardımcı olan bir [[JavaScript]] betiğidir. Otomatik tamamlama kolaylığıyla, mevcut kategorileri öneren liste özelliğine de sahiptir. tr.wikipedia da kullanılan sürüm [[:commons:MediaWiki:Gadget-HotCat.js|Wikimedia Commons]] üzerinde bulunan HotCat betiğinin değiştirilmiş sürümüdür.
+
+{{TOCleft}}
+[[Dosya:MHAmfi2.jpg|thumb|600px|HotCat kullanımı ekran görüntüsü]]
+
+{{clear}}
+== Kurulum ==
+Kurulumu 2 türlü yapabilirsiniz:
+# HotCat kurulumu için, [[Özel:Preferences|tercihlerim]] sayfasına gidin ve ''Küçük araçlar'' sekmesindeki ''HotCat'' seçeneğini işaretleyin ve değişiklikleri kaydedin.
+# İkinci yol olarak aşağıdaki yörüngeleri izleyebilirsiniz:
+2.1 - İstediğiniz HotCat sürümünü seçin kodunu kopyalayın ve [[Özel:Mypage/common.js|common.js]] dosyanızın en altına yapıştırın:<br /><br />
+
+<source lang=javascript>
+// HotCat - [[VP:HC]]
+importScript('Kullanıcı:Vito_Genovese/HotCat.js');
+</source>
+
+<br />
+2.2 - İstediğiniz sürümün kodunu kendi [[Özel:Mypage/common.js|common.js]] sayfanıza kaydettikten sonra common.js sayfanızı kaydedin.<br />
+2.3 - Önbelleğinizi boşaltarak tarayıcınızı yenileyin. (Shift + Tarayınıcınızın yenileme tuşuna basın)<br />
+2.4 - İşlemi tamamladınız. Artık sayfaların en altında kategorilerin yanında + ve - işaretleri göreceksiniz. Bunlara tıklayarak kategorileri kolaylıkla ekleyebilecek, değiştirebilecek ve çıkarabileceksiniz.<br />
+2.5 - Herhangi bir sorunda hizmetlilerden yardım isteyebilirsiniz.
+
+== Kullanım ipuçları ==
+Normalde HotCat değişikliğinizi otomatik olarak kaydetmektedir. Ancak bazen doğrulama amacıyla değişiklik kutusunu kontrol etmek ve sayfayı kendiniz kaydetmek isteyebilirsiniz. Sadece ''Tamam'' düğmesine basmak yerine, değiştirici tuşa basarken ''Tamam'''a basın. Değiştirici tuş, Windows bilgisayarlarında CTRL, Apple bilgisayarlarda ise ALT tuşudur.
+
+== Uygunluk ==
+* Safari 3 & 4: Test edildi, tamamen çalışıyor.
+* Safari 2: "Değişiklik" (±) bağlantısının görüntülenmesinde zararsız bir sorun var.
+* Firefox 2 & 3 & 4: Test edildi, tamamen çalışıyor.
+* IE 6 & 7 & 8 & 9: Test edildi, tamamen çalışıyor
+* Google Chrome: Test edildi, tamamen çalışıyor
+* Opera: Test edildi, tamamen çalışıyor
+
+Ayrıca [[VP:GP|Gezinti Pencereleri]], [[VP:WIKED|wikEd]] ve Modern görünüm ile de birlikte test edilmiş ve sorunsuz çalıştığı doğrulanmıştır.
+
+Betiği kullanıyorsanız, isterseniz kullanıcı sayfanıza <tt>{{tl|Kullanıcı HotCat}}</tt> şablonunu yerleştirebilir veya şablonu [[Vikipedi:Babil|Babil kutunuzda]] da kullanabilirsiniz. Bu kod sayfanızda aşağıdaki şekilde görünecektir:
+
+{{Kullanıcı HotCat}}
+
+{{clear}}
+
+[[Kategori:Vikipedi betikleri|{{SUBPAGENAME}}]]
+
+[[af:Wikipedia:HotCat]]
+[[ar:ويكيبيديا:المصناف الفوري]]
+[[arc:ܘܝܩܝܦܕܝܐ:HotCat]]
+[[as:ৱিকিপিডিয়া:হট কেট]]
+[[ay:Wikipidiya:HotCat]]
+[[az:Kömək:Gadget-HotCat]]
+[[be:Вікіпедыя:Гаджэты/HotCat]]
+[[be-x-old:Вікіпэдыя:Прылады/HotCat]]
+[[bjn:Patulung:HotCat]]
+[[bs:Wikipedia:HotCat]]
+[[cs:Nápověda:Gadget-HotCat]]
+[[da:Hjælp:HotCat]]
+[[de:Wikipedia:Helferlein/HotCat]]
+[[el:Βικιπαίδεια:HotCat]]
+[[en:Wikipedia:HotCat]]
+[[es:Wikipedia:HotCat]]
+[[et:Vikipeedia:Tööriistad/HotCat]]
+[[fa:ویکی‌پدیا:هات‌کت]]
+[[fi:Wikipedia:Pienoisohjelma/HotCat]]
+[[hr:Wikipedija:HotCat]]
+[[id:Bantuan:HotCat]]
+[[is:Wikipedia:HotCat]]
+[[it:Wikipedia:Monobook.js/Hot Cat]]
+[[ja:Wikipedia:HotCat]]
+[[ka:ვიკიპედია:Gadget/Hotcat]]
+[[kk:Уикипедия:Гаджеттер/HotCat]]
+[[ksh:Wikipedia:Gadget/HotCat]]
+[[lt:Vikipedija:HotCat]]
+[[ml:വിക്കിപീഡിയ:ഹോട്ട്കാറ്റ്]]
+[[ms:Wikipedia:HotCat]]
+[[nl:Wikipedia:HotCat]]
+[[no:Wikipedia:HotCat]]
+[[pl:Wikipedia:Narzędzia/HotCat]]
+[[pt:Wikipédia:Scripts/HotCat]]
+[[ru:Википедия:Гаджеты/HotCat]]
+[[si:විකිපීඩියා:HOTCAT]]
+[[sl:Wikipedija:HotCat]]
+[[sv:Wikipedia:Hotcat]]
+[[ta:விக்கிப்பீடியா:ஹாட்கேட்]]
+[[tt:Википедия:Gadgets-HotCat]]
+[[uk:Вікіпедія:Додатки/HotCat]]
+[[vi:Wikipedia:HotCat]]
+[[zh:Wikipedia:维基百科工具/HotCat]]
+[[tr:Vikipedi:Araçlar/HotCat]]
