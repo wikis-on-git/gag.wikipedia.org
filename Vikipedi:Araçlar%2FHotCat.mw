@@ -7,7 +7,7 @@
 {{clear}}
 == Kurulum ==
 Kurulumu 2 türlü yapabilirsiniz:
-# HotCat kurulumu için, [[Özel:Preferences|# Seçimnerim]] sayfasına gidin ve ''Küçük araçlar'' sekmesindeki ''HotCat'' seçeneğini işaretleyin ve değişiklikleri kaydedin.
+# HotCat kurulumu için, [[Özel:Preferences|Seçimnerim]] sayfasına gidin ve ''Gadgetler'' sekmesindeki ''Eni_kategoriya_ekli'' seçeneğini işaretleyin ve değişiklikleri kaydedin.
 # İkinci yol olarak aşağıdaki yörüngeleri izleyebilirsiniz:
 2.1 - İstediğiniz HotCat sürümünü seçin kodunu kopyalayın ve [[Özel:Mypage/common.js|common.js]] dosyanızın en altına yapıştırın:<br /><br />
 
