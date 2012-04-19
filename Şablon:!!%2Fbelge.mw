@@ -1,0 +1,47 @@
+{{Documentation subpage}}
+
+This is an auxiliary [[Help:Template|template]] that allows one to encode "<code>||</code>" (two pipes or [[vertical bar]]s) within template parameters.  If it is '''unnecessary''' to get a "<code>||</code>", it is better to use "<code>&amp;#124;&amp;#124;</code>".  However the "<code>||</code>" delimiter for a [[Wikipedia:How to use tables|Wiki table]] has to be escaped by a template if it is used within a template.
+
+==Notes==
+There is no such problem with "<code>!!</code>" (exclamation marks).  This problem only affects "<code>||</code>" (vertical bars) in conjunction with the [[m:Help:Parameter default]] mechanism within tables.
+
+This template cannot be [[Wikipedia:Template substitution|substituted]].
+
+==See also==
+*[[Template:!]]
+*[[Template:!-]]
+*[[Template:-!]]
+*[[Wikipedia:Qif conditionals]]
+*{{tim|!}}
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Template namespace templates|{{PAGENAME}}]]
+[[Category:Wikipedia formatting and function templates|{{PAGENAME}}]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+[[bn:Template:!!]]
+[[cs:Šablona:!!]]
+[[de:Vorlage:!!]]
+[[et:Mall:!!]]
+[[es:Plantilla:!!]]
+[[dsb:Pśedłoga:!!]]
+[[eo:Ŝablono:!!]]
+[[fa:الگو:!!]]
+[[fi:Malline:!!]]
+[[hsb:Předłoha:!!]]
+[[it:Template:!!]]
+[[ja:Template:!!]]
+[[ka:თარგი:!!]]
+[[ku:Şablon:!!]]
+[[ml:ഫലകം:!!]]
+[[mn:Загвар:!!]]
+[[nl:Sjabloon:!!]]
+[[no:Mal:!!]]
+[[pl:Szablon:!!]]
+[[pt:Template:!!]]
+[[sl:Predloga:!!]]
+[[th:แม่แบบ:!!]]
+[[tt:Үрнәк:!!]]
+[[tpi:Template:!!]]
+[[uk:Шаблон:!!]]
+</includeonly>
