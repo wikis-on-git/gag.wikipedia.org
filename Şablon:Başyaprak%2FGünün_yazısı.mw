@@ -1,7 +1,6 @@
-{| style="width: 100%; background-color: #e2e7f7; border: 2px solid #4888aa; -moz-border-radius:15px; vertical-align: top;"
-| colspan="2" style="cellpadding=8; cellspacing=11" |<center>'''GÜNÜN YAZISI'''</center>  
-<!-- Qoute section -->
-|-
-| width="20" valign="top" style="color:#B2B7F2;font-size:35px;font-family:'Times New Roman',serif;font-weight:bold;text-align:left;padding:10px 10px;" | “
-| valign="top" style="padding:4px 10px;" | <div style="font-family:'Arial'; font-style: italic; font-size:13px">{{Şablon:Yazılar3}}
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FFFAFA; -moz-border-radius:10px"
+! style="background-color:#FFF5EE; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #FAEBD7; text-align: left; padding-left: 7px; -moz-border-radius:10px" |<div style="float:right;"> [[dosye:Pages_Mac.png|40px|height]]</div>GÜNÜN YAZISI
+|}
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FFFAFA; -moz-border-radius:10px"
+! style="background-color:#FFF5EE; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #FAEBD7; text-align: left; padding-left: 7px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Şablon:Yazılar3 | width=100px | height=24px }}</div>{{Şablon:Yazılar3}}
 |}
