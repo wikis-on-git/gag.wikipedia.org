@@ -1,0 +1,11 @@
+<div class="messagebox {{#if:{{{küçük|}}}|küçük}}" style="background-color:#e0f0f9; text-align:center; font-size:94%; width:90%;">Bu [[Yardım:Kategori|kategori]] [[Vikipedi:İsim alanı|şablon isim alanı]] içindeki sayfaları içerir.
+<div style="font-size:94%;"> [[Vikipedi:Madde|Maddeleri]] kategorize ederken kullanılmamalıdır.
+<div style="text-align: left">{{#if:{{{yardım|}}}|{{#ifeq:{{{yardım}}}|hayır||{{{yardım}}}}}|
+<hr/> Bu kategoriye bir şablon eklemek için, şablonun sonuna <code style="white-space:nowrap;"><nowiki> &lt;noinclude>[[</nowiki>{{FULLPAGENAME}}<nowiki>|{{PAGENAME}}]]&lt;/noinclude> </nowiki></code> ekleyiniz. Kodun başlangıcının &lt;noinclude> şablon kodunun son karakteri ile aynı satırda başladığından emin olun.}}</div>
+</div>
+</div> {{{açıklama|}}}
+<includeonly>[[Kategori:Vikipedi şablon kategorileri|{{PAGENAME}}]]</includeonly>
+<noinclude>
+{{template doc}}
+<!-- Kategori ve interwikileri /doc altsayfasında ekleyin, buraya değil -->
+</noinclude>
