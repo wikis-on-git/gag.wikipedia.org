@@ -1,0 +1,224 @@
+{{Şablon belge sayfası}}<!-- 
+LÜTFEN KATEGORİ VE İNTERVİKİLERİ SAYFANIN SONUNA EKLEYİN 
+--><noinclude>
+{{düzenle-tr}}
+</noinclude><!--
+
+-->'''{{tl|Belgeleme}} şablonu''', şablonların "kodları" ile "belge"lerini (kategori ve interviki bilgileri, açıklamaları, örnekleri ve kullanım talimatları) ayırmak içindir. Böylece şablonlar [[Vikipedi:Koruma politikası|koruma altındayken]] de belge sayfaları düzenlenebilmekte ve şablonların belgeleri değiştirilirken yanlışlıkla şablonun kodunda değişiklik yapılması önlenmektedir. Ayrıca sayfalar görüntülenirken, bunlara ''gömülü'' olduğu için çağrılan şablonların sadece kodlarının değil bazen hayli yüklü olabilen belgelerinin de gereksiz yere çağrılıp işlenmesi, performansı olumsuz etkilemektedir. Bunları önlemek için MediaViki geliştiricileri tarafından da önerilmektedir.<ref>[http://en.wikipedia.org/w/index.php?title=Wikipedia:Village_pump_(technical)&diff=prev&oldid=69888944</ref> 
+
+Bu şablonun kullanım alanı sadece şablonlarla sınırlı değildir, istenildiği takdirde başka sayfalarda da kullanılabilir. 
+
+Belgeleme konusunda ayrıntılı bilgi için [[Vikipedi:Şablon belgelemesi]] sayfasına bakınız.
+
+Bu şablon şimdi görmekte olduğunuza benzer bir belge kutusu gösterir ve bunun içine otomatik olarak bir /belge altsayfasının içeriğini yükler. Uygun şekilde kullanıldığında, başka adreslerdeki içeriği de yükleyebilir.
+
+Bu şablon, başka sayfalara [[Wikipedia:Transclusion| katıştırılmış, gömülmüş]] şablonları ve sayfaları belgelemek için düşünülmüştür. Çoğunlukla şablon isim alanında uygulanmakla beraber, diğer [[Wikipedia:Namespace|isim alanlarına???]] ait sayfalar için de kullanılır.
+
+Bu şablon, şablonların gerekli durumlarda [[Wikipedia:Protection policy|protected]] edilmesini ama aynı anda da bunlara bağlanmış belgeleme, kategoriler ve interwiki bağlantılarını isteyenlerin düzenleyebilmelerini sağlar.
+
+=== Kullanım ===
+Normalde bu şablon hiçbir parametre kullanılmaksızın, belgelenecek şablon ya da sayfanın sonuna, <code>&lt;noinclude></code> etiketleri arasına alınarak yerleştirilir:
+<pre width=70%>
+<!--şablon kodunun son satırı--><noinclude>
+{{Belgeleme}}
+<!-- Kategori ve interwikileri buraya değil /belge altsayfasına ekleyin lütfen! -->
+</noinclude>
+</pre>
+
+Sayfaya katıştırılan Böylece, tarayıcıda açılan şablon sayfasının yapısı:
+<pre width=70%>
+...
+<includeonly>
+   [[Şablon:Şablon belgeleme başlangıç|Şablon belgeleme başlangıç]]
+      şablon-adı/belge sayfası
+   [[Şablon:Şablon belgeleme bitiş|Şablon belgeleme bitiş]]
+</includeonly>
+</pre>
+
+----
+
+*'''DİKKAT''': iki şablonun kodları çok farklı, hem [[Şablon:Belgeleme]]'yi geliştirmek hem de bu /belge belgesini düzenlemek lazım.
+*Ayrıca Bkz:[http://tr.wikibooks.org/w/index.php?title=Şablon:Belgeleme/doc Vikikitap'taki belgeleme şablonu]
+*İstiastiklere göre İngilizce Vikipedi'deki Documentation şablonu, 59000 sayfaya katışmıştır.
+*Şu anda Türkçe Vikipedi'de. 1193 sayfadan fazla kullanılıyor.
+*[http://toolserver.org/~jarry/templatecount/index.php?lang=tr&name=Belgeleme#bottom Türkçe Vikipedi'de şu anda Belgeleme şablonunun ne kadar kullanıldığını öğrenmek için tıklayın.]
+----
+
+Bu şablon ayrıca herhangi bir başka sahifeden şu şekilde içerik yükleyebilir:
+
+<pre>
+<!--Şablon kodunuzun son satırı--><noinclude>
+
+{{Belgeleme|Şablon:Başka sayfa/belge}}
+</noinclude>
+</pre>
+
+Belgelemeyi kendi /belge sayfasından başka bir sayfadan yüklemek istendiğinde kategoriler ve intervikileri eklemenin kolay olmadığına dikkatinizi çekeriz.
+
+İçerik ayrıca yazı olarak doğrudan şöyle eklenebilir:
+
+<pre>
+<!--Şablon kodunuzun son satırı--><noinclude>
+
+{{Belgeleme
+| içerik = Belgeleme yazısı.
+}}
+</noinclude>
+</pre>
+
+Eğer '''içerik''' parametresi kullanılırsa belge kutusu normalde [düzenle][sil] bağlantılarını sağ üst köşede göstermez. Eğer /belge sayfası varsa ona bir bağlantının hâlâ belgeleme kutusunun altındaki bağlantı kutusunda gösterildiğine  <!--ve bir /belge sayfasına bağlantı kutusunun altındaki belgeleme kutusunda hiçbir bağlantı gösterilmediğine -->dikkat ediniz.
+
+Fakat 1. parametre ve '''içerik''' parametresi ayrıca şu şekilde birleştirilebilir:
+
+<pre>
+<!--Şablon kodunuzun son satırı--><noinclude>
+
+{{Belgeleme
+| 1 = Şablon:Herhangi bir sahife/belge
+| içerik = {{Şablon:Herhangi bir sahife/belge|parametreler}}
+}}
+</noinclude>
+</pre>
+
+Şablonun belgelemesini düzenlemek ve yenilemek için <code>(değiştir)</code> ve <code>(yenile)</code> kullanılır.
+
+=== Kullanım talimatları ===
+
+Kod, şablon kodunun sonuna, "<code>&lt;noinclude></code>"dan sonra hiç boşluk bırakmadan yerleştirilmelidir (bu boşluk, şablonun kullanıldığı sayfalarda istenmeyen fazla aralık yaratabilir).
+
+Şablonun kendisine uygulanan kategori ve interwiki bağlantılar, /doc altsayfasının sonuna ve <code>&lt;includeonly>&lt;/includeonly></code> etiketleri içinde, eklenmelidir. Daha karmaşık durumlar için [[Wikipedia:Template documentation#Categories and interwiki links]] sayfasına bakınız.
+
+Eğer belgeleme sayfası, görünen metin içinde &lt;includeonly> ya da &lt;noinclude> etiketleri içeriyorsa, "<code>&lt;</code>" yerine "<code>&amp;lt;</code>" kullanın.
+
+=== Başlık ===
+
+Bu şablon başlığı böyle görünür:
+:[[File:Template-info.svg|32px|Belgeleme]] '''Belgeleme'''
+
+Diğer alan isimleri için böyle görünür:
+:'''Documentation'''
+
+Resimle (Dosya) olduğunda böyle görünür:
+:'''Summary'''
+
+Heading parametleri böyle görünür:
+
+:<code><nowiki>{{Belgeleme| heading = Infobox documentation }}</nowiki></code>
+
+Heading parametreleri [değiştir] [yenile] linklerinde yoktur. Gözükme:
+
+:<code><nowiki>{{Belgeleme| heading = }}</nowiki></code>
+
+Heading parametreleri [[CSS]] ile uyumludur. Örnek:
+:<code>heading-style = color: red; font-size: 150%;</code>
+
+=== Bağlantı kutusu ===
+
+Below the big doc box is a small link box that shows some meta-data about the documentation. The link box shows different things depending on what parameters are fed to this template, and in which namespace it is used. In some cases the link box is not shown at all.
+
+To hide the link box, add the parameter link box=off.
+
+You can also insert customised text in the link box, by defining the |link box parameter. For example:
+<pre>|link box=This documentation is automatically generated by [[Şablon:Country showdata]]</pre>
+
+=== Otomatik işlevler ===
+
+If the documentation page doesn't exist, the [create] link includes a [[mw:Manual:Creating pages with preloaded text|preload]] page so that clicking it will pre-fill the edit form with the basic documentation page format. Preload text is also used for the /sandbox and /testcases <small>(create)</small> links.
+
+When this template is on a protected template page it now automatically adds {{tl|pp-template}} which shows the grey or red padlock in the top right corner. So no need to manually add {{tlf|pp-template}} to templates that use {{tl|Belgeleme}}.
+
+When this template is on a /sandbox subpage it automatically adds the {{tl|template sandbox notice}}.
+
+=== Konu alanı / Tartışma alanı ===
+
+Terminoloji:''Konu alanı'',''tartışma alanı''tersidir. Örneğin "Şablon:", "Şablon tartışma:" konusu alandır.
+
+Bu şablon genellikle <noinclude> etiketleri konu alan içinde yer almaktadır. Ancak bazı durumlarda bu şablon talkpage gerekir:
+
+* Onlar <noinclude> kullanmayın çünkü, önyükleme sayfalar için (genellikle Şablon ya da Wikipedia alan). Örneğin [[Şablon tartışma: AFC önyükleme]] ve [[Şablon: RfD subpage marş]]. {| Talkdoc} {tl} Böyle talkpages ile işaretlenmiş olabilir.
+
+* Uzay MedyaViki MedyaViki alanı performans nedenleriyle temiz tutulması gerekir beri <noinclude> sık sık sistem mesajları çalışmak ve gelmez bu yana.
+
+Bu şablonu genellikle sayfanın üst kısmına yakın ve <noinclude> etiketleri olmadan yerleştirilir talkpages yerleştirilir.
+
+/doc /sanal ve /testcases sayfaları normal olmayan ad alanı dışında, konu alanı olmalıdır MedyaViki [meta: Link#Alt sayfa özelliği |subpage özelliği]] etkin.: Ana, Dosya, MediaWiki ve Kategori . (Ama şu anda  sadece /sanal ve /testcases bağlantılar Kullanıcı Kullanıcı mesaj, Şablon Şablon tartışma alanıdır.) /doc sayfa tartışma sayfası için bu ad altında saklanmalıdır neden diğer teknik nedenlerden dolayı bir sürüdür..
+
+Bu şablon, otomatik /doc /sanal ve doğru isim /testcases bağlantılar oluşturmayı işaret ediyor.
+
+=== Teknik ayrıntılar ===
+
+Bu şablon, çağrı {{tl | Belgeleme start / BOX2}} {{tl | Belgeleme / sonuna BOX2} dönüş çağrısı {{tl|Belgeleme/başlangıç ​​kutusu}} {{tl|Belgeleme/bitiş kutusu}}. Bu şablon ve start / BOX2 (ve / veya sonunda BOX2) parametre önişleme yaparken start /box (ve/ bitiş kutusu), kodun en üstünde tutun.
+
+/ Doc için önyükleme Sayfa [] bağlantısını oluşturmak [[Şablon:Belgeleme/preload], ancak Dosya boşluğunda [[Şablon: Belgeleme/preload-filespace]. [[Şablon: Belgeleme/preload testcases]: /sanal ve /testcases <small> () </ small> önyükleme sayfaları bağlantılar [Belgeleme/preload sanal] [Şablon]
+
+Şablon için daha teknikel ayrıntılar için tartışma sayfasına bakınız.
+
+=== Ayrıca bakınız ===
+* {{tl|Belgeleme}} – Şablona geri dön
+* {{tl|Belgeleme subpage}} – /doc alt sayfaları hakkında nasıl olduğunu öğrenin..
+* [[w:Wikipedia:Template documentation]] – Belgeleme şablonu hakkında bilgi alın.
+* [[w:Wikipedia:Template test cases]] – /sandox ve /testcases hakkında bilgi alın.
+*[http://tr.wikibooks.org/w/index.php?title=Şablon:Belgeleme Vikikitap'taki belgeleme şablonu]
+
+=== Kaynakça ===
+{{kaynakça}}<includeonly>
+
+<!-- KATEGORİLER BU SATIRIN ALTINA -->
+[[Kategori:Şablon isim alanı şablonları |{{PAGENAME}}]]
+[[Kategori:Şablon belgelemesi| ]]
+[[Kategori:Vikipedi formatlama ve fonksiyon şablonları|{{PAGENAME}}]]
+<!-- DİĞER DİLLER BU SATIRIN ALTINA -->
+[[als:Vorlage:Dokumentation]]
+[[ar:قالب:توثيق]]
+[[ba:Ҡалып:Doc]]
+[[bar:Vorlage:Dokumentation]]
+[[bg:Шаблон:Документация]]
+[[bs:Šablon:Dokumentacija]]
+[[ca:Plantilla:Ús de la plantilla]]
+[[cs:Šablona:Dokumentace]]
+[[cy:Nodyn:Doc]]
+[[da:Skabelon:Dokumentation]]
+[[de:Vorlage:Dokumentation]]
+[[en:Template:Documentation]]
+[[dsb:Pśedłoga:Dokumentacija]]
+[[es:Plantilla:Documentación]]
+[[eo:Ŝablono:Dok]]
+[[eu:Txantiloi:Txantiloi dokumentazioa]]
+[[fa:الگو:توضیحات]]
+[[fr:Modèle:Documentation]]
+[[gl:Modelo:Uso de marcador]]
+[[he:תבנית:תיעוד]]
+[[hsb:Předłoha:Dokumentacija]]
+[[la:Formula:Documentation]]
+[[hu:Sablon:Sablondokumentáció]]
+[[hy:Կաղապար:Փաստաթղթեր]]
+[[ia:Patrono:Docpatrono]]
+[[id:Templat:Dokumentasi]]
+[[it:Template:Man]]
+[[ja:Template:Documentation]]
+[[ko:틀:틀 설명문서]]
+[[ku:Şablon:Belgekirin]]
+[[ml:ഫലകം:വിവരണം]]
+[[ms:Templat:Dokumentasi]]
+[[no:mal:Dokumentasjon]]
+[[nl:Sjabloon:Sjabdoc]]
+[[pl:Szablon:Dokumentacja]]
+[[pt:Predefinição:Documentação]]
+[[ro:Format:Documentaţie]]
+[[ru:Шаблон:Doc]]
+[[simple:Template:Documentation]]
+[[sk:Šablóna:Dokumentácia]]
+[[sl:Predloga:Dokumentacija]]
+[[sr:Шаблон:Документација]]
+[[sq:Stampa:Dokumentacion]]
+[[stq:Foarloage:Dokumentation]]
+[[sv:Mall:Dokumentation]]
+[[tt:Үрнәк:Doc]]
+[[tpi:Template:Template doc]]
+[[uk:Шаблон:Документація]]
+[[ur:سانچہ:Documentation]]
+[[war:Template:Documentation]]
+[[yo:Àdàkọ:Aṣàlàyé]]
+[[zh:Template:Documentation]]
+[[te:మూస:Documentation]]
+</includeonly>
