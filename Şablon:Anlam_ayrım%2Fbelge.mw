@@ -1,0 +1,192 @@
+{{Şablon belge sayfası}}
+{{high-risk|2100+}}
+Bu şablonu anlamıyla karıştırmamak için kullanılır. Eğer bir anlam ayrımı sayfası oluşturduktan sonra anlam ayrımı sayfasına bağlantı veriniz. Sonra anlam ayrımı sayfasındaki içeriği yazdıktan sonra lütfen en alt bölüme <code><nowiki>{{anlam ayrım}}</nowiki></code> şablonunu eklemeyi unutmayınız. Bir kavram birden fazla anlama sahip de olsa, o isimde tek bir madde yaratabilir. Bu gibi durumlarda o terim için bir anlam ayrım sayfası yaratılır. Anlam ayrım sayfaları, makale sayfalarına yazılsalar da özel sayfalardır;madde değildirler. Sayfada, ilgili kavramın tüm anlamlarını veren bir liste vardır. Her bağlantının yanında kısa bir açıklama yazılması doğru makaleye ulaşılmasını kolaylaştırır.  Anlam ayrımı sayfaları doğrudan ilgili terim başlığı altında oluşturulabilir. Ancak terimin bir anlamı çok yaygınsa ve o terimi arayan insanların çok büyük bir ihtimalle o birinci anlamı aradığını düşünüyorsak, ya da yan anlamlar ana anlamdan türemişse (kitap adı, film adı gibi), o zaman ana anlamla ilgili madde o isim altında yazılır ve anlam ayrım sayfası için farklı bir sayfa açılır. Bu sayfasnın adı, "terim (anlam ayrımı)" olmalıdır. Anlam ayrımı sayfasında bahsedilen her başlığın içinde de anlam ayrımı sayfasına geri bağlantı bulunması gereklidir. 
+== Örnek ==
+Anlam ayrımı sayfaları şu şekilde olur:
+ *<nowiki>[[Bor]]</nowiki>: hem bir kimyasal element, hem de <nowiki>[[Niğde]]</nowiki>'nin bir ilçesinin adıdır.
+ *<nowiki>[[Irak]]:</nowiki><nowiki>Buraya biçimlendirilmemiş metin ekleyin</nowiki> hem bir <nowiki>[[ülke]]</nowiki>, hem uzak anlamında bir kelime, hem de bir makam adıdır.
+ <nowiki>{{anlam ayrım}}</nowiki>
+== Sayfaları bağlantılama ==
+Anlam ayrımı sayfasına ihtiyaç duyan her terimle ilgili her makalenin en üst satırına, anlam ayrımı imkanı olduğunu anlatmak için bir şablon konulmalıdır.
+Bu maddelerin kodunda ilk satır şöyle olur:
+'''Bor elementinin anlatıldığı maddeye:'''
+ <nowiki>{{Diğer anlamı|Bor}}</nowiki>
+'''Irak maddesine:'''
+ <nowiki>{{Diğer anlamı|Irak (anlam ayrımı)}}</nowiki>
+== Anlam ayrımı şablonları ==
+{| class=wikitable
+!Şablon
+!Nerede kullanılmalı
+|-
+|<nowiki>{{</nowiki>[[şablon:diğer kullanımlar|diğer kullanımlar]]<nowiki>}}</nowiki>
+|Gönderi yapan kısmın başında, diğer şablonlardan biri uygun değilse. Otomatik olarak (anlam ayrımı) nı ekler
+|-
+|colspan=2|{{diğer kullanımlar}}
+|-
+|<nowiki>{{</nowiki>[[şablon:Ana|Ana]]|bakılacak madde<nowiki>}}</nowiki>
+|Gönderi yapan kısmın başında
+|-
+|colspan=2|{{Ana|bakılacak madde}}
+|-
+|<nowiki>{{</nowiki>[[şablon:Anamadde|Anamadde]]|ana maddenin ismi<nowiki>}}</nowiki>
+|Alt başlığın başında
+|-
+|colspan=2|{{Anamadde|ana maddenin ismi}}
+|-
+|<nowiki>{{</nowiki>[[şablon:bakınız|bakınız]]|madde1|madde2<nowiki>}}</nowiki>
+|Gönderi yapan kısmın başında
+|-
+|colspan=2|{{bakınız|madde1|madde2}}
+|-
+|<nowiki>{{</nowiki>[[şablon:Diğer anlamı|Diğer anlamı]]|ana maddenin ismi<nowiki>}}</nowiki>
+|Sayfanın en başında
+|-
+|colspan = 2|{{Diğer anlamı|bakılacak sayfa}}
+|-
+|<nowiki>{{</nowiki>[[şablon:Diğer anlamı2|Diğer anlamı2]]|anlam ayrımı sayfası<nowiki>}}</nowiki>
+|Sayfanın en başında
+|-
+|colspan = 2|{{Diğer anlamı2|bakılacak sayfa}}
+|-
+|<nowiki>{{</nowiki>[[şablon:Farklı anlam|Farklı anlam]]|bir yardım sayfası|Vikipedi'nin anlam ayrımı|Vikipedi: Anlam ayrımı<nowiki>}}</nowiki>
+|Sayfanın en başında
+|-
+|colspan = 2|{{farklı anlam|bir yardım sayfası|Vikipedi'nin anlam ayrımı|Vikipedi: Anlam ayrımı}}
+|-
+|<nowiki>{{</nowiki>[[şablon:yerleşim birimi anlam sayfası|yerleşim birimi anlam sayfası]]|Ağrı (anlam)<nowiki>}}</nowiki>
+|Sayfanın başında
+|-
+|colspan = 2|{{yerleşim birimi anlam sayfası|Ağrı (anlam)}}
+|}
+
+Anlam ayrımı sayfaları hakkında daha fazla bilgi için [[Vikipedi:Anlam ayrımı]] sayfasına bakınız.
+ 
+ 
+<includeonly>
+[[Kategori:Belirsizlik giderme ve yönlendirme şablonları|{{PAGENAME}}]]
+
+[[af:Sjabloon:Dubbelsinnig]]
+[[als:Vorlage:Begriffsklärung]]
+[[am:መለጠፊያ:መንታ]]
+[[an:Plantilla:Desambigación]]
+[[ang:Bysen:Disambig]]
+[[ar:قالب:توضيح]]
+[[arc:ܩܠܒܐ:ܕ]]
+[[arz:قالب:توضيح]]
+[[ast:Plantía:Dixebra]]
+[[bar:Vorlage:Begriffsklärung]]
+[[bat-smg:Šabluons:Disambig]]
+[[be:Шаблон:Неадназначнасць]]
+[[be-x-old:Шаблён:Неадназначнасьць]]
+[[bg:Шаблон:Пояснение]]
+[[bjn:Templat:Disambig]]
+[[bn:টেমপ্লেট:দ্ব্যর্থতা নিরসন]]
+[[br:Patrom:Disheñvelout]]
+[[bs:Šablon:Čvor]]
+[[ca:Plantilla:Desambiguació]]
+[[cdo:Template:Gì-ngiê]]
+[[co:Template:Disambig]]
+[[cs:Šablona:Rozcestník]]
+[[cv:Шаблон:Disambig]]
+[[cy:Nodyn:Gwahaniaethu]]
+[[da:Skabelon:Flertydig]]
+[[de:Vorlage:Begriffsklärung]]
+[[dsb:Pśedłoga:Wěcejwóznamowosć]]
+[[el:Πρότυπο:Αποσαφήνιση]]
+[[en:Template:Disambig]]
+[[eo:Ŝablono:Apartigilo]]
+[[es:Plantilla:Desambiguación]]
+[[et:Mall:Täpsustuslehekülg]]
+[[eu:Txantiloi:Argipen]]
+[[ext:Prantilla:Desambiguáncia]]
+[[fa:الگو:ابهام‌زدایی]]
+[[fi:Malline:Täsmennyssivu]]
+[[fo:Fyrimynd:Fleiri týdningar]]
+[[fr:Modèle:Homonymie]]
+[[frp:Modèlo:Homonimos]]
+[[fur:Model:Disambig]]
+[[fy:Berjocht:Neibetsjuttings]]
+[[ga:Teimpléad:Idirdhealú]]
+[[gl:Modelo:Homónimos]]
+[[gu:ઢાંચો:સંદિગ્ધ શીર્ષક]]
+[[he:תבנית:פירושונים]]
+[[hi:साँचा:बहुविकल्पी शब्द]]
+[[hr:Predložak:Razdvojba]]
+[[hsb:Předłoha:Wjacezmyslnosć]]
+[[ht:Modèl:Menm non]]
+[[hu:Sablon:Egyért]]
+[[hy:Կաղապար:Բազմիմաստություն]]
+[[ia:Patrono:Disambiguation]]
+[[id:Templat:Disambig]]
+[[io:Shablono:Homonimo]]
+[[is:Snið:Aðgreining]]
+[[it:Template:Disambigua]]
+[[ja:Template:Aimai]]
+[[jv:Cithakan:Disambig]]
+[[ka:თარგი:მრავალმნიშვნელოვანი]]
+[[kk:Үлгі:Айрық]]
+[[kn:ಟೆಂಪ್ಲೇಟು:ದ್ವಂದ್ವ ನಿವಾರಣೆ]]
+[[ko:틀:동음이의]]
+[[ksh:Schablon:Disambig]]
+[[ku:Şablon:Cudakirin]]
+[[kw:Scantlyn:Clerheans]]
+[[la:Formula:Discretiva]]
+[[lb:Schabloun:Homonymie]]
+[[li:Sjabloon:Verdudeliking]]
+[[ln:Modèle:Bokokani]]
+[[lt:Šablonas:Disambig]]
+[[lv:Veidne:Nozīmju atdalīšana]]
+[[map-bms:Cithakan:Disambig]]
+[[mi:Template:Disambig]]
+[[mk:Шаблон:Појаснување]]
+[[ml:ഫലകം:വിവക്ഷകൾ]]
+[[ms:Templat:Nyahkekaburan]]
+[[mt:Mudell:Diżambigwazzjoni]]
+[[mzn:شابلون:گجگجی بیری]]
+[[nap:Modello:Disambigua]]
+[[nds:Vörlaag:Mehrdüdig Begreep]]
+[[nds-nl:Mal:Dv]]
+[[nl:Sjabloon:Dp]]
+[[nn:Mal:Fleirtyding]]
+[[no:Mal:Peker]]
+[[nrm:Template:Page dé frouque]]
+[[oc:Modèl:Omonimia]]
+[[os:Шаблон:Disambig]]
+[[pl:Szablon:Disambig]]
+[[pt:Predefinição:Desambiguação]]
+[[qu:Plantilla:Sut'ichana qillqa]]
+[[rmy:Sikavno:Dudalipen]]
+[[ro:Format:Dezambiguizare]]
+[[roa-rup:Template:Disambig]]
+[[ru:Шаблон:Неоднозначность]]
+[[scn:Template:Disambigua]]
+[[sh:Šablon:Višeznačna odrednica]]
+[[simple:Template:Disambig]]
+[[sk:Šablóna:Rozlišovacia stránka]]
+[[sl:Predloga:Razločitev]]
+[[sq:Stampa:Kthjellim]]
+[[sr:Шаблон:Вишезначна одредница]]
+[[stq:Foarloage:Begriepskläärenge]]
+[[su:Citakan:Disambig]]
+[[sv:Mall:Förgrening]]
+[[sw:Kigezo:Maana]]
+[[szl:Szablon:Disambig]]
+[[te:మూస:అయోమయ నివృత్తి]]
+[[tg:Шаблон:Ибҳомзудоӣ]]
+[[th:แม่แบบ:แก้ความกำกวม]]
+[[tl:Suleras:Paglilinaw]]
+[[uk:Шаблон:Disambig]]
+[[ur:سانچہ:Disambig]]
+[[uz:Andoza:Disambig]]
+[[vec:Modèl:Disanbigua]]
+[[vi:Bản mẫu:Trang định hướng]]
+[[vls:Patrôon:Db]]
+[[vo:Samafomot:Telplänov]]
+[[wa:Modele:Omonimeye]]
+[[yi:מוסטער:באדייטן]]
+[[zea:Sjabloon:Dp]]
+[[zh:Template:Disambig]]
+[[zh-classical:Template:釋義]]
+[[zh-min-nan:Template:Khu-pia̍t-ia̍h]]
+[[zh-yue:Template:搞清楚]]
+</includeonly>
