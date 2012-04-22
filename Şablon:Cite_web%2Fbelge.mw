@@ -1,0 +1,109 @@
+<pre>
+{{Cite web
+| url         = 
+| başlık      = 
+| erişimtarihi= 
+| erişimsaati =
+| yazar       = 
+| son         = 
+| ilk         = 
+| yazarlink   = 
+| yardımcıyazarlar= 
+| tarih       = 
+| yıl         = 
+| ay          = 
+| biçim       = 
+| çalışma     =
+| yayımcı     = 
+| yer         =
+| sayfalar    = 
+| dil         = 
+| arşivurl    = 
+| arşivtarihi = 
+| quote       = 
+| iş          = 
+}}</pre>
+
+;Asgari verilmesi gereken bilgi:
+<pre>{{Cite web | url = | başlık = | erişimtarihi = }}</pre>
+
+;Son, ilk, yardımcıyazarlar ve tarih ile birlikte:
+<pre>{{Cite web | url = | başlık = | erişimtarihi = | son = | ilk = | tarih = | yayımcı = }}</pre>
+
+== Açıklamalar ==
+==== Gerekli parametreler ====
+*'''url''': İnternet sitesinin adresi. <nowiki>http://</nowiki> eki ile başlayan adres buraya yerleştirilmelidir.
+*'''başlık''': İnternet sitesinde yer alan yazının ya da haberin başlığı. Buraya yazılan yazı url adresi ile beraber görünür.
+* '''erişimtarihi''': İnternet sitesine erişim tarihidir. Tarih tam olarak yazılmalıdır (''20.09.2010'', ''20 Eylül 2010'', ''2010-09-20'', gibi)
+
+==== İsteğe bağlı parametreler ====
+* '''erişimsaati''': İsteğe göre internet sitesine erişim saati de yazılabilir.
+* '''yazar''': Yazarın adı ve soyadı. 
+* '''son''': Yazarın soyadı.
+* '''ilk''': Yazarın adı. (böylelikle <code>soyad, ad</code> sıralaması yapılabilir.)
+* '''yazarlink''': Yazarın internet sitesi veya bağlı bulunduğu sitedeki erişim bağlantısı.
+* '''yardımcıyazarlar''': Asıl yazar ek  olarak yardımcı yazarlar burada belirtilebilir.
+:Tarih iki şekilde gösterilebilir,
+:*'''tarih''': Yazının yayım tam tarihi. (''20 Eylül 2010'' gbi.)
+:*'''yıl''': yayım yılı, '''ay''': ay adı. (Eğer bu seçenek kullanılırsa tarih, ''Eylül 2010'' şeklinde gösterilecektir.)
+*'''biçim''': Yazının veya belgenin formatı. ([[PDF|.pdf]], [[DOC|.doc]] gibi.)
+*'''çalışma''': Bağlantıda bulunan yazıyı veya belgeyi hazırlayan kişi, kurum, şirket bilgisi. (Örneğin, [[Anadolu Ajansı]], [[Reuters]]. Bu ajansların hazırladıkları haberler diğer haber kanalları, siteleri tarafından da yayınlanır. Bu durumda Anadolu Ajansı ve Reuters "çalışma"yı hazırlamış olurlar.)
+*'''yayımcı''': Yazıyı veya belgeyi yayınlayan internet sitesinin adı. (Örneğin, [[WikiLeaks]]. WikiLeaks belgeleri hazırlamaz, yalnızca yayınlar.)
+*'''yer''': Yayının ilgilendirdiği coğrafi yer.
+*'''sayfalar''': Çok sayfalı bir makale, referans ise yayının sayfa numarası belirtilmelidir.
+*'''dil''': Yayın dili. ([[İngilizce]], [[Japonca]] gibi.)
+*'''arşivurl''': Bazı kaynak siteler yayından kaldırılmış olabilir. Bu durumda [[İnternet Arşivi]] kullanılarak bu siteye tekrar erişilebilir. İnternet Arşivi aracılığıyla erişilen sitenin bağlantısı burada belirtilir.
+*'''arşivtarihi''': İnternet Arşivi'nin erişilen siteyi arşivlediği tarih burada belirtilir.
+*'''quote''': Eğer bağlantıda yer alan metin uzun bir metinse asıl kaynak cümle burada belirtilir.
+
+== Ayrıca bakınız ==
+{{Kaynakça şablonları}}
+
+<includeonly>
+[[Kategori:Kaynak gösterme şablonları|{{PAGENAME}}]]
+
+[[af:Sjabloon:Webaanhaling]]
+[[ar:قالب:مرجع وب]]
+[[az:Şablon:Cite web]]
+[[be:Шаблон:Cite web]]
+[[be-x-old:Шаблён:Спасылка]]
+[[bg:Шаблон:Цитат уеб]]
+[[ca:Plantilla:Citar web]]
+[[cs:Šablona:Citace elektronické monografie]]
+[[cy:Nodyn:Dyf gwe]]
+[[da:Skabelon:Kilde www]]
+[[de:Vorlage:Cite web]]
+[[el:Πρότυπο:Cite web]]
+[[en:Template:Cite web]]
+[[eo:Ŝablono:Citaĵo el la reto]]
+[[et:Mall:Netiviide]]
+[[es:Plantilla:Cita web]]
+[[fa:الگو:یادکرد وب]]
+[[fr:Modèle:Lien web]]
+[[hr:Predložak:Cite web]]
+[[hy:Կաղապար:Cite web]]
+[[ia:Patrono:Cite web]]
+[[it:Template:Cita web]]
+[[ja:Template:Cite web]]
+[[ko:틀:웹 인용]]
+[[hu:Sablon:Cite web]]
+[[mk:Шаблон:Cite web]]
+[[mr:साचा:संकेतस्थळ स्रोत]]
+[[ms:Templat:Cite web]]
+[[nl:Sjabloon:Voetnoot web]]
+[[no:Mal:Kilde www]]
+[[pl:Szablon:Cytuj stronę]]
+[[pt:Predefinição:Citar web]]
+[[ro:Format:Citat web]]
+[[ru:Шаблон:Cite web]]
+[[sk:Šablóna:Cite web]]
+[[sl:Predloga:Navedi splet]]
+[[sr:Шаблон:Cite web]]
+[[sv:Mall:Webbref]]
+[[fi:Malline:Verkkoviite]]
+[[th:แม่แบบ:Cite web]]
+[[uk:Шаблон:Cite web]]
+[[ur:Template:Cite web]]
+[[vi:Tiêu bản:Chú thích web]]
+[[zh:Template:Cite web]]
+</includeonly>
