@@ -1,0 +1,70 @@
+<includeonly>{{
+#if: {{#if: {{{url|}}} | {{#if: {{{başlık|}}} |1}}}}
+  ||[[Şablon:Cite web]] kullanımında hata: Parametreler '''url''' ve '''başlık''' tanımlanmalı. [[Kategori:Hatalı cite web şablonuna sahip sayfalar]]
+}}{{
+#if: {{{arşivurl|}}}{{{arşivtarihi|}}} 
+  | {{#if: {{#if: {{{arşivurl|}}}| {{#if: {{{arşivtarihi|}}} |1}}}}
+    ||[[Şablon:Cite web]] kullanımında hata: Parametreler '''arşivurl''' ve '''arşivtarihi''' ya ikisi beraber tanımlanmalı ya da hiç tanımlanmamalılar.
+}}
+}}{{#if: {{{yazar|}}}{{{son|}}}
+  | {{#if: {{{yazarlink|}}}
+    | [[{{{yazarlink}}}|{{#if: {{{son|}}}
+      | {{{son}}}{{#if: {{{ilk|}}} | , {{{ilk}}} }}
+      | {{{yazar}}}
+    }}]]
+    | {{#if: {{{son|}}}
+      | {{{son}}}{{#if: {{{ilk|}}} | , {{{ilk}}} }}
+      | {{{yazar}}}
+    }}
+  }}
+}}{{#if: {{{yazar|}}}{{{son|}}}
+  | {{#if: {{{yardımcıyazarlar|}}}| <nowiki>;</nowiki>&#32;{{{yardımcıyazarlar}}} }}
+}}{{#if: {{{yazar|}}}{{{son|}}}|
+    {{#if: {{{tarih|}}}
+    | &#32;({{{tarih}}})
+    | {{#if: {{{yıl|}}}
+      | {{#if: {{{ay|}}}
+        | &#32;({{{ay}}} {{{yıl}}})
+        | &#32;({{{yıl}}})
+      }}
+    }}
+  |}}
+}}{{#if: {{{son|}}}{{{yazar|}}}
+  | .&#32;}}{{#if: {{{arşivurl|}}}
+    | {{#if: {{{arşivurl|}}} | {{#if: {{{başlık|}}} | [{{{arşivurl}}} {{{başlık}}}] }}}}
+    | {{#if: {{{url|}}} | {{#if: {{{başlık|}}} | [{{{url}}} "{{{başlık}}}"] }}}}
+}}{{#if: {{{dil|}}} | &nbsp;({{{dil}}})
+}}{{#if: {{{biçim|}}}
+  | &#32;({{{biçim|}}})
+}}{{#if: {{{iş|}}}
+  | .&#32;''{{{iş}}}''
+}}{{#if: {{{çalışma|}}}
+  | .&#32;''{{{çalışma}}}''
+}}{{#if: {{{yer|}}}
+  | &#32;s. {{{yer}}}
+}}{{#if: {{{sayfalar|}}}
+  | &#32;s. {{{sayfalar}}}
+}}{{#if: {{{yayımcı|}}}
+  | .&#32;''{{{yayımcı}}}''{{#if: {{{yazar|}}}{{{son|}}}
+    | 
+    | {{#if: {{{tarih|}}}{{{yıl|}}}{{{ay|}}} || }}
+  }}
+}}{{#if: {{{yazar|}}}{{{son|}}}
+  ||{{#if: {{{tarih|}}}
+    | &#32;({{{tarih}}})
+    | {{#if: {{{yıl|}}}
+      | {{#if: {{{ay|}}}
+        | &#32;({{{ay}}} {{{yıl}}})
+        | &#32;({{{yıl}}})
+      }}
+    }}
+  }}
+}}.{{#if: {{{arşivtarihi|}}}
+  | &#32;[{{{url}}} Asıl] adresinden {{{arşivtarihi}}} tarihinde arşivlenmiştir.
+}}{{#if: {{{erişimtarihi|}}}
+  | &#32;{{{erişimtarihi}}} {{#if: {{{erişimyılı|}}} | {{{erişimyılı}}} }} tarihinde{{#if: {{{erişimsaati|}}} | , {{{erişimsaati}}} saatinde}} erişilmiştir.
+}}{{#if: {{{erişimaygün|}}}
+  | &#32;{{{erişimaygün}}}, {{{erişimyılı}}} tarihinde erişildi.
+}}{{#if: {{{quote|}}}
+| &nbsp;“{{{quote}}}”
+}}</includeonly><noinclude>{{Belgeleme}}</noinclude>
