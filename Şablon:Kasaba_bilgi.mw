@@ -100,10 +100,10 @@
 </tr>
 }} }} }} }} }} }}
 <!-- ***** Skyline Image ***** -->
-{{#if:{{{resim |}}}|
+{{#if:{{{Dosye|}}}|
 <tr>
 <td colspan="2" style="text-align: center; padding: 0.7em 0.8em 0.7em 0.8em;;">
-[[Dosya:{{{resim |}}}|{{#if:{{{görüntü_boyutu|}}}|{{{görüntü_boyutu}}}|250px}}|none|{{{görüntü_açıklaması|Skyline of {{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}}}}]]{{#if:{{{görüntü_açıklaması|}}}|<small>{{{görüntü_açıklaması|}}}</small>}}
+[[Dosya:{{{Dosye|}}}|{{#if:{{{görüntü_boyutu|}}}|{{{görüntü_boyutu}}}|250px}}|none|{{{görüntü_açıklaması|Skyline of {{#if:{{{ad|}}}|{{{ad}}}|{{{resmi_ad}}}}}}}}]]{{#if:{{{görüntü_açıklaması|}}}|<small>{{{görüntü_açıklaması|}}}</small>}}
 </td>
 </tr>
 }}<!-- ***** Bayrak, Damga ve Arma ***** -->
@@ -133,9 +133,9 @@
 <tr class="mergedrow">
 <td colspan="2" align="center">[[Rumuz|Takma ad]]: <span class="nickname">{{{takma_ad|}}}</span></td>
 </tr>
-}}<!-- ***** devlet ***** -->
-{{#if:{{{devlet |}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''devlet :''' {{{devlet }}}
+}}<!-- ***** Devlet***** -->
+{{#if:{{{Devlet|}}}|
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Devlet:''' {{{Devlet}}}
 </tr>
 }}<!-- ***** toprak***** -->
 {{#if:{{{toprak|}}}|
@@ -637,13 +637,13 @@
 |-
 | align="center" style="background:#FFDEAD"  colspan="5" |  
 |-
-<!----- Resim ----->
+<!----- Dosye----->
 | colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{resim}}}|260px|center]]
 |-
 <!----- bayrak ve arma ----->
 |colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{bayrak}}}|120px|left]][[Image:{{{arma}}}|60px|right]]
 |-
-<!----- Devlet ----->
+<!----- Devlet----->
 | style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Devlet'''
 | style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{devlet}}}
 |-
@@ -665,7 +665,7 @@
 |-
 <!----- Prezident----->
 | style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''Prezident'''
-| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{prezident}}}
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" | {{{Prezident}}}
 |-
 <!----- telefon kodu----->
 | style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top; text-align: left;" | '''Telefon Kodu'''
@@ -704,7 +704,7 @@
 ==kullanım==
 <pre>
 {{Template:Kasaba bilgi
-|resim = 
+|Dosye= 
 |bayrak =
 |arma =
 | {{Location map
@@ -719,12 +719,12 @@
 | lon_min=0
 | lon_sec=0
 }}
-|devlet = 
+|Devlet= 
 |toprak= 
 |nüfus = 
 |yoğunluk = 
 |yükseklik = 
-|prezident = 
+|Prezident = 
 |araba_kodu =
 |telefon_kodu =
 |işsizlik =
