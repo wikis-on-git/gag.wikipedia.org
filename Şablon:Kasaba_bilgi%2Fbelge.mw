@@ -2,16 +2,16 @@
 {| style= "background:transparent"
 | <pre>
 {{Kasaba bilgi
- | ad					 = 
- | resmi_ad				 = 
- | diğer_ad				 = 
- | yerli_ad	 			 = 
- | takma_ad				 = 
- | slogan				 = 
- |resim = 
+ |ad					 = 
+ |resmi_ad				 = 
+ |diğer_ad				 = 
+ |yerli_ad	 			 = 
+ |takma_ad				 = 
+ |slogan				 = 
+ |Dosye= 
  |bayrak =
  |arma =
- |devlet =
+ |Devlet=
  |toprak= 
  |nüfus = 
  |yoğunluk = 
@@ -237,7 +237,7 @@
  | diğer_ad				 = 
  | yerli_ad	 			 = 
  | takma_ad				 = 
- |resim = 
+ |Dosye= 
  |bayrak =
  |arma =
  |devlet =
