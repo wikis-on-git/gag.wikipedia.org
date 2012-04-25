@@ -1,18 +1,18 @@
 {{Kasaba bilgi
 |Dosye= 
-|bayrak =
+|bayrak =Flag-map of Turkey.svg
 |arma =
 | {{Location map
 |ülke   
 |label=şehir            
 |lat_dir=N
-| lat_deg=0 
-| lat_min=00    
-| lat_sec=0     
+| lat_deg=40
+| lat_min=41    
+| lat_sec=51    
 |lon_dir=E 
-| lon_deg=0 
-| lon_min=0
-| lon_sec=0
+| lon_deg=29
+| lon_min=30
+| lon_sec=41
 }}
 |Devlet = [[Türkiye ]]
 |toprak= 
@@ -37,3 +37,5 @@
 {{Turkiye Kasabalar}}
 
 [[Kategori:Turkiye Kasabalari]]
+
+[[fr:Altınova]]
