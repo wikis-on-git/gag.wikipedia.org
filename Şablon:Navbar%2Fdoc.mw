@@ -1,0 +1,171 @@
+{{documentation subpage}}
+{{high-risk|6,600,000+}}
+<!---PLEASE ADD METADATA TO THE <includeonly> SECTION AT THE BOTTOM OF THIS PAGE--->
+
+== Usage ==
+===General===
+Copyable examples when inside a given [[Wikipedia:Navigation templates|template]] adds navbar navigational functionality:
+:<tt><nowiki>{{navbar|{{subst:PAGENAME}}|mini=1}}</nowiki></tt> 
+:<tt><nowiki>{{navbar|{{subst:PAGENAME}}|plain=1}}</nowiki></tt> 
+:<tt><nowiki>{{navbar|{{subst:PAGENAME}}|fontstyle=color:green}}</nowiki></tt> 
+
+The <code><nowiki>{{subst:PAGENAME}}</nowiki></code> will be substituted with the template's name when parsed by the servers.
+<nowiki>{{navbar|navbar/doc}}</nowiki> gives: {{navbar|navbar/doc}}
+
+===Font-size===
+Font-size is 88% when used in a navbar, and 100% when nested in a navbox.
+In the navbar the weight is "normal"; when nested in navbox it takes on the outer setting. The middot is bold.
+
+== Examples ==
+===Required parameters===
+*<code><nowiki>{{navbar|Name of Template}}</nowiki></code> the template name is required.
+
+===Optional parameters===
+{| class="wikitable"
+! Options !! Parameters !! Produces...
+|-
+| Normal || <code><nowiki>{{navbar|Template Name}}</nowiki></code> || {{navbar|navbar/doc}}
+|-
+| Different text || <code><nowiki>{{navbar|Template Name|text=This template:}}</nowiki></code> || {{navbar|navbar/doc|text=This template:}}
+|-
+| No "This box:" text. || <code><nowiki>{{navbar|Template Name|plain=1}}</nowiki></code> || {{navbar|navbar/doc|plain=1}}
+|-
+| Short version. || <code><nowiki>{{navbar|Template Name|mini=1}}</nowiki></code> || {{navbar|navbar/doc|mini=1}}
+|-
+| For a color option. || <code><nowiki>{{navbar|Template Name|fontstyle=color:green}}</nowiki></code> || {{navbar|navbar/doc|fontstyle=color:green}}
+|-
+| With brackets.
+| <code><nowiki>{{navbar|Template Name|brackets=1}}</nowiki></code>
+| {{navbar|navbar/doc|brackets=1}}
+|}
+
+===Deprecated parameters===
+The <tt>miniv=1</tt>, <tt>viewplain=1</tt>, <tt>nodiv=1</tt> and <tt>fontcolor=</tt> parameters have been deprecated. To use the view-only version, use the {{tlx|v}} or {{tlx|view}} templates instead.
+
+== Prepackaged ==
+;{{tl|Tnavbar-header}}: Positions <small>v{{·}}d{{·}}e</small> on the right edge of the line, often used in non-collapsible navbox heading.
+;{{tl|Tnavbar-navframe}}: For use in conjunction with [[Wikipedia:NavFrame|Navframe div]]s, positions <small>v{{·}}d{{·}}e</small> opposite of the [hide]/[show] feature.
+;{{tl|Tnavbar-collapsible}}: For use in conjunction with [[Wikipedia: NavFrame#Collapsible tables|Collapsible tables]],floats <small>v{{·}}d{{·}}e</small> opposite of the [hide]/[show] feature.
+
+== See also ==
+{{Edit templates}}
+{{Navigational templates}}
+
+<!--- PLEASE ADD METADATA TO THE <includeonly> SECTION HERE --->
+<includeonly>
+[[Category:Internal link templates|{{PAGENAME}}]]
+
+[[af:Sjabloon:Tnavbar]]
+[[ang:Template:Tnavbar]]
+[[ar:قالب:Tnavbar]]
+[[az:Şablon:Tnavbar]]
+[[ba:Ҡалып:Tnavbar]]
+[[be-x-old:Шаблён:Спасылкі шаблёну]]
+[[be:Шаблон:Tnavbar]]
+[[bg:Шаблон:Tnavbar]]
+[[bn:Template:তথ্যছক-Tnavbar]]
+[[bpy:মডেল:Tnavbar]]
+[[br:Patrom:Tnavbar]]
+[[bs:Šablon:Tnavbar]]
+[[ca:Plantilla:Tnavbar]]
+[[ceb:Template:Tnavbar]]
+[[cs:Šablona:Tnavbar]]
+[[cv:Шаблон:Tnavbar]]
+[[cy:Nodyn:Bar llywio]]
+[[da:Skabelon:Tnavbar]]
+[[dsb:Pśedłoga:Tnavbar]]
+[[dv:Template:Tnavbar]]
+<!-- [[en:Template:Navbar]] -->
+[[et:Mall:Navbar]]
+[[el:Πρότυπο:Tnavbar]]
+[[eo:Ŝablono:Tnavbar]]
+[[eu:Txantiloi:Tnavbar]]
+[[fa:الگو:Navbar]]
+[[fr:Modèle:Tnavbar]]
+[[fi:Malline:Tnavbar]]
+[[fo:Fyrimynd:Tnavbar]]
+[[ga:Teimpléad:Tnavbar]]
+[[gl:Modelo:Tnavbar]]
+[[gu:Template:Tnavbar]]
+[[haw:Template:Tnavbar]]
+[[hi:साँचा:Tnavbar]]
+[[hr:Predložak:Tnavbar]]
+[[hsb:Předłoha:Tnavbar]]
+[[hu:Sablon:Tnavbar]]
+[[hy:Կաղապար:Tnavbar]]
+[[id:Templat:Tnavbar]]
+[[ilo:Template:Tnavbar]]
+[[os:Шаблон:Tnavbar]]
+[[it:Template:Tnavbar]]
+[[is:Snið:Tnavbar]]
+[[ja:Template:Tnavbar]]
+[[jv:Cithakan:Tnavbar]]
+[[ka:თარგი:Tnavbar]]
+[[csb:Szablóna:Navbar]]
+[[kk:Үлгі:Tnavbar]]
+[[km:ទំព័រគំរូ:Tnavbar]]
+[[kn:ಟೆಂಪ್ಲೇಟು:Tnavbar]]
+[[ko:틀:안내바]]
+[[ku:Şablon:Tnavbar]]
+[[kw:Template:Tnavbar]]
+[[la:Formula:Tnavbar]]
+[[lmo:Template:Tnavbar]]
+[[lo:ແມ່ແບບ:Tnavbar]]
+[[lt:Šablonas:Tnavbar]]
+[[lv:Veidne:Tnavbar]]
+[[mi:Template:Tnavbar]]
+[[mk:Шаблон:Навлента]]
+[[ml:ഫലകം:Tnavbar]]
+[[mn:Template:Tnavbar]]
+[[ms:Templat:Tnavbar]]
+[[mt:Template:Tnavbar]]
+[[mr:साचा:Tnavbar]]
+[[nah:Plantilla:Tnavbar]]
+[[ne:Template:Tnavbar]]
+[[new:Template:Tnavbar]]
+[[nn:Mal:Tnavbar]]
+[[no:Mal:Tnavbar]]
+[[nov:Template:Tnavbar]]
+[[oc:Modèl:Tnavbar]]
+[[pag:Template:Tnavbar]]
+[[pam:Template:Tnavbar]]
+[[pih:Template:Tnavbar]]
+[[pl:Szablon:Tnavbar]]
+[[ps:کينډۍ:Tnavbar]]
+[[pt:Predefinição:Navbar]]
+[[qu:Plantilla:Tnavbar]]
+[[rm:Template:Tnavbar]]
+[[ro:Format:Tnavbar]]
+[[ru:Шаблон:Tnavbar]]
+[[sd:Template:Tnavbar]]
+[[sh:Template:Tnavbar]]
+[[si:සැකිල්ල:Tnavbar]]
+[[simple:Template:Tnavbar]]
+[[sk:Šablóna:Tnavbar]]
+[[sl:Predloga:Prednavmeni]]
+[[sr:Шаблон:Tnavbar]]
+[[su:Citakan:Tnavbar]]
+[[sq:Stampa:Tnavbar]]
+[[sv:Mall:Tnavbar]]
+[[sw:Template:Tnavbar]]
+[[ta:வார்ப்புரு:Tnavbar]]
+[[te:మూస:Tnavbar]]
+[[tg:Шаблон:Tnavbar]]
+[[th:แม่แบบ:Tnavbar]]
+[[tl:Template:Tnavbar]]
+[[tr:Şablon:Dçubuğu]]
+[[tw:Template:Tnavbar]]
+[[uk:Шаблон:Tnavbar]]
+[[ur:سانچہ:Tnavbar]]
+[[uz:Shablon:Tnavbar]]
+[[vec:Template:Tnavbar]]
+[[vi:Tiêu bản:Tnavbar]]
+[[wa:Modele:Tnavbar]]
+[[war:Template:Tnavbar]]
+[[wuu:Template:Tnavbar]]
+[[yi:מוסטער:Tnavbar]]
+[[yo:Template:Tnavbar]]
+[[zh:Template:navbar]]
+[[zh-min-nan:Template:Tnavbar]]
+[[zh-yue:Template:Tnavbar]]
+</includeonly>
