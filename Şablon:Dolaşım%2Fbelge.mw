@@ -1,0 +1,642 @@
+{{Belgeleme navigasyonu}}
+<includeonly>{{high-risk| 1,000,000+ }}</includeonly>
+{{Dolaşım şablon grubu}}
+Bu şablon bir veya daha fazla bağlantı listesini göreceli olarak hızlıca oluşturan bir [[Wikipedia:Navigation templates|dolaşımsal şablon]] sağlar.  Çoğu dolaşımsal şablonlarla çalışan öntanımlı sitillere sahip donanımla gelir. Öntanımlı sitilleri değiştirme tasviye edilmemekle birlikte, bu mümkündür. Bu şablonu ya da "Dolaşım rehberi" kardeş şablonlarından birini kullanma, dolaşımsal şablonun standartlaşması için tavsiye edilir.
+
+== Kullanım ==
+
+Lütfen boş bırakılan parametreleri kaldırın.
+
+<pre style="overflow:auto;">{{Dolaşım
+|gövdesınıfı  = 
+|ad           = {{subst:PAGENAME}}
+|başlık       = 
+|başlıksınıfı = 
+|resim        = 
+|üst          = 
+
+|grup1        = 
+|liste1       = 
+
+|grup2        = 
+|liste2       = 
+ ...
+|grup20       = 
+|liste20      = 
+
+|alt          = 
+}}</pre>
+
+== Parametre listesi ==
+{{Dolaşım
+|ad    = Dolaşım/doc
+|durum = uncollapsed
+|resim = {{{resim}}}
+|başlık = {{{başlık}}}
+|üst = {{{üst}}}
+|grup1 = {{{grup1}}}
+|liste1 = {{{liste1}}}
+|grup2 = {{{grup2}}}
+|liste2 = {{{liste2}}}
+|liste3 = {{{liste3}}} ''{{{grup3}}} olmadan''
+|grup4 = {{{grup4}}}
+|liste4 = {{{liste4}}}
+|alt= {{{alt}}}<br/>Aşağıdaki alternatif dolaşım biçimlerine bakınız: [[#Tablo yerleşimi|''Tablo yerleşimi'']]
+}}
+Dolaşım, '''sağdaki''' kutuda da görüldüğü gibi küçük harfli parametre adları kullanır.  Zorunlu olan ''ad'' ve ''başlık'', eğer diğer parametreler göz ardı edilirse, tek satırlı bir kutu oluşturur.
+<br/>
+
+"Üst/alt" bölüm adları olan "grup1" (vb.)nin isteğe bağlı olduğuna dikkat edin.
+{{-}}
+Temel ve en yagın parametreler şunlardır (tüm liste için aşağıya bakınız):
+
+:<code>gövdesınıfı -</code> tüm dolaşıma bir HTML <code>class</code> niteliği uygular.
+:<code>ad -</code> şablonun adı.
+:<code>başlık -</code> başlık çubuğundaki metinr, such as: <nowiki>[[Parçacık]]</nowiki> gibi.
+:<code>başlıksınıfı -</code> başlık çubuğuna bir HTML <code>class</code> niteliği uygular.
+:<code>durum - autocollapse, uncollapsed, collapsed</code>: yığınlı dolaşımlarda "autocollapse" özelliğinin otomatik gizlediği kutunun gizleme/gösterme durumları.
+:<code>başlıktürü - </code>başlık çubuğunun, <code>background:gray;</code> gibi bir CSS sitili
+:<code>grupbiçimi - </code>grup hücrelerinin, <code>background:#eee;</code> gibi bir CSS sitili
+:<code>resim - </code>tam resim olarak kodlanan sağ tarafta isteğe bağlı resim. Normalde [[WP:ALT#Purely decorative images|sırf süstür]]. Bu yüzden <code><nowiki>[[Image:</nowiki><var>XX</var><nowiki>.jpg|90px|link=|alt=]]</nowiki></code> olarak kodlanır.
+:<code>resimsol - </code>sol tarafta isteğe bağlı bir resim (kodu "resim" parametresi ile aynıdır).
+
+:<code>üst- </code>grup/liste bölümünün üstünde görülecek metin (toplu wiki bağlantıları olabilir).
+
+:<code>grup<sub>n</sub> - </code>.n listeden önce sol taraftaki metin (eğer n.grup göz ardı edilirse, n.liste kutunun solundan başlar).
+:<code>liste<sub>n</sub> - </code>wiki bağlantıları listeleme metni. Genellikle, [<font/>[A]]<code>{<font/>{·}}</code> [<font/>[B]] gibi ortanokta şablonlarıyla ayrılır
+:<code>alt - </code>grup/liste bölümünün altında görülecek isteğe bağlı metin.
+
+Daha fazla ayrıntı ve karmaşık kısıtlamalar aşağıdaki ''[[#Parametre açıklamaları|Parametre açıklamaları]]'' bölümünün altında bulunabilir. Alternatif bazı dolaşım biçimleri için [[#Tablo yerleşimi|''Tablo yerleşimi'']] bölümüne bakınız.
+
+== Parametre açıklamaları ==
+Aşağıdaki, {{tl|Dolaşım}} şablonunda kullanılan tüm parametreleri listeler. Çoğu durumda gerekli olan parametreler <code>ad</code>, <code>başlık</code>, ve <code>liste1</code>'dir. [[Şablo:Dolaşım/doc#Child dolaşımlar|küçük dolaşımlar]] çoğunlukla kullanılmaz.
+
+{{tl|Dolçub}} shares numerous common parameter names as its sister templates {{tl|Navbox with columns}} and {{tl|Navbox with collapsible groups}} for consistency and ease of use.  Parameters marked with an asterisk <nowiki>*</nowiki> are common to all three master templates.
+
+=== Kurulum parametreleri ===
+:; ''ad''<nowiki>*</nowiki>
+:: Şablonun kullanıldığı tüm sayfalarda düzgün olarak çalışması için "g{{·}} t{{·}} d" ("gör{{·}} tartış{{·}} düzenle") bağlantıları gereklidir. Bunu kısayol yapmak için <code><nowiki>{{subst:PAGENAME}}</nowiki></code>  kullanabilirsiniz.  Sadece eğer bir <code>başlık</code> belirtilmişse ve <code>kenar</code> parametresi ayarlanmamışsa şablon adı zorunludur.
+
+:; ''durum''<nowiki>*</nowiki> <span style="font-weight:normal;">[<code>autocollapse, uncollapsed, collapsed, plain, off</code>]</span>
+:* öntanımlı olan <code>autocollapse</code>'dir. Eğer aynı sayfada diğer gösterilir/gizlenir tabloları kullanan iki veya daha fazla tablo varsa  <code>otomatikgizle</code> özellikli bir dolaşım gizli olarak başlar. Aksi taktirde dolaşım gösterilir (açılır).
+:* Eğer <code>gizle</code> durumunda ise dolaşım daima gizli olarak başlar.
+:* Eğer <code>sade</code> durumunda ise, dolaşım, sağ tarafta [gizle] bağlantısı olmaksızın daima gösterilir ve başlık merkeze kayar.
+:* Eğer <code>kapalt</code> durumunda ise, dolaşım sağ tarafta [gizle] bağlantısı olmaksızın daima gösterilir. Fakat başlığı merkezde tutacak birşey yoktur. Bu sadece gelişmiş bir kullanımdır. [Göster]/[gizle] düğmelerinin gizlenmesi gerektiği çoğu uygulama için "sade" seçeneği yeterlidir.
+:*Eğer <code>otomatik daralt</code>, <code>daralt</code>, <code>sade</code> veya <code>kapat</code> ("genişlet" gibi) dan başka şey ayarlıysa, dolaşım daima genişletilmiş durumda başlar. Fakat "gizle" düğmesi mevcuttur.
+
+: To show the box when standalone (non-included) but then auto-hide contents when in an article, put "uncollapsed" inside &lt;noinclude> tags:
+:* <code>state = </code><nowiki><noinclude>uncollapsed</noinclude></nowiki>
+:* That setting will force the box visible when standalone (even when followed by other boxes), displaying "[hide]" but then auto-collapse the box when stacked inside an article.
+
+: Often times, editors will want a default initial state for a dolaşım, which may be overridden in an article. Here is the trick to do this:
+:*In your intermediate template, create a parameter also named "state" as a pass-through like this:
+:*<tt><nowiki>| state = {{{state<includeonly>|your_desired_initial_state</includeonly>}}}</nowiki></tt>
+:*The <nowiki><includeonly>|</nowiki> will make the template expanded when viewing the template page by itself.
+
+::*Example: {{tl|peso}} with autocollapse as the default initial state. [[Bolivian peso]] transcludes it and has only one dolaşım. So the peso dolaşım shows. [[Chilean peso]] has iki dolaşım. So the peso dolaşım collapses.
+::*Example: {{tl|Historical currencies of Hungary}} with expanded as the default initial state. All transcluding articles shows the content by default, unless there were an hypothetical article that specifies state = collapsed when transcluding.
+
+:; ''dolçub''<nowiki>*</nowiki>
+:: Öntanımlısı <code>Tdolçub</code>dur. Eğer <code>sade</code> olarak ayarlanırsa, başıl çubuğunun sol tarafındaki <small>g • t • d</small> bağlantıları görünmez başlığı ortada tutmak için takviye otomatik olarak kullanılır. <small>g • t • d</small> bağlantılarını kaldırmak için <code>kapat</code>ı kullan. Fakat takviyeyi kullanma (bu sadece gelişmiş kullanım içindir. Dolçub'unun olmadığı yerlerde "sade" seçeneği yeterlidir.  Hiç kimseye dolçub'u gizlemeyi tavsiye etmiyorum. Çünkü şablonu düzenleyecek kullanıcılar için bunun görülmesi gerekir.
+
+:; ''kenar''<nowiki>*</nowiki>
+:: ''Örneklere ve daha fazla açıklamalara sahip olan dolaşımların kullanımı için aşağıdaki bölüme bakınız.''  Eğer <code>küçük</code> veya <code>altgrupp</code> ayarlıysa, dolaşım kenarsız olarak kullanılabilir. Bu diğer dolaşıma katılır. Kenar gizli ve tablonun köşelerinde takviye yoksa, ana dolaşımın ''liste'' alanını doldurur.  Eğer <code>hiçbiri</code> ayarlıysa kenar gizlenir hidden and padding is removed, and the dolaşım may be used as a child of another container (do not use the <code>none</code> option inside of another dolaşım; similarly, only use the <code>child</code>/<code>subgroup</code> option inside of another dolaşım).  If set to anything else (default), then a regular dolaşım is displayed with a 1px border.  An alternate way to specify the border to be a subgroup style is like this (i.e. use the first unnamed parameter instead of the named ''border'' parameter):
+:::<code><nowiki>{{Dolaşım|child</nowiki></code>
+::::<code>...
+:::<code><nowiki>}}</nowiki></code>
+
+=== Hücreler ===
+:; ''başlık''<nowiki>*</nowiki>
+:: Metin, tablonun üst orta satırında görülür. Bu genellikle şablonun konusudur. Tekbir satırdn oluşur. Fakat eğer ikinci bir satır gerekirse, metni ortalamak için <code><nowiki>{{-}}</nowiki></code> kodunu kullanın. Bu parametre teknik olarak gerekli değildir. Fakat bir başlık olmaksızın {{tl|Dolaşım}}ı kullanma anlamsızdır.
+
+:; ''grup<sub>n</sub>''<nowiki>*</nowiki>
+:: (örn. ''grup1'', ''grup2'', vb.) belirtilmişse, başlık hücresindeki metin, ''list<sub>n</sub>''nin solunda görülür. Eğer ''list<sub>n</sub>'' katılmazsa, tablonun tam genişliğini kaplar.
+
+:; ''liste<sub>n</sub>''<nowiki>*</nowiki>
+::  (örn. ''liste1'', ''liste2'', vb.) şablonun gövdesi genellikle bir bağlantı listesidir. Format is inline, although the text can be entered on separate lines if the entire list is enclosed within <code><nowiki><div> </div></nowiki></code>.  En az bir tane ''liste'' parametresi gereklidir. Her ek ''liste'' tabloda farklı bir satırda gözükür.  Eğer istenirse her ''liste<sub>n</sub>'', uygun ''group<sub>n</sub>'' parametresinden önce gelebilir (aşağı  bakınız).
+
+:; ''resim''<nowiki>*</nowiki>
+:: Resim başlığın altındaki hücrede ve (grup/liste) gövdelerinin sağında gözükür. Resmi düzgün bir şekilde göstermek için, ''liste1'' parametresi tanımlanmalıdır. ''Resim'' parametresi, resmi görüntülemek için standart vikikodunu kabul edere, ''örn.'':
+::: <code><nowiki>[[Dosya:</nowiki><var>XX</var><nowiki>.jpg|90px|link=|alt=]]</nowiki></code>
+
+:; ''resimsol''<nowiki>*</nowiki>
+:: Resim, başlık hücresinin altında ve (liste) gövdelerinin solunda gösterilir.  Resmi düzgün bir şekilde göstermek için, ''liste1'' parametresi tanımlanmalıdır ve grup parametresi de tanımlanmamalıdır. ''Resim''in kabul ettiği parametrelerin aynı sırasını takip eder.
+
+:; ''üst''<nowiki>*</nowiki>
+:: Tam hücre genişliği, başlık çubuğu ile ilk grup/liste arasında görülür. örn. şablonun ''üst'' gövdesi (gruplar, listeler ve resim). Resimsiz bir şablonda, ''üst'' aynen, ''grup1'' parametresi olmayan ''liste1'' parametresi gibi davranır.
+
+:; ''alt''<nowiki>*</nowiki>
+:: Tam hücre genişliği şablonun ''alt'' gövdesinde  görülür (groups, lists and image). In a template without an image, ''below'' behaves in the same way as the template's final ''liste<sub>n</sub>'' parameter without a ''group<sub>n</sub>'' parameter. For an example of the ''below'' parameter in use, see {{tl|Lists of the provinces and territories of Canada}}.
+
+=== Style (Biçim) parametreleri ===
+Vikipedi'de, şablonlar ve sayfalar arasındaki tutarlılığı sürdürmek için, biçimlerde değişiklik yapmak tavsiye edilmez. Yine de, biçimleri düzenleyen seçenekler şunlardır.
+
+:; ''biçim''<nowiki>*</nowiki>
+:: Şablon gövdesine uygulanacak [[Cascading Style Sheets|CSS]] biçimlerini belirtir. ''bodystyle'' parametresi de aynı örneği yapar ve bu ''style'' parametresinin olduğu yerde kullanılabilir. Bu seçenek, görünürlüğü sağlamak için kullanılabilir. Örnekler:
+::: <code>style = background:#''nnnnnn'';</code>
+::: <code>style = width:''N''&nbsp;[em/%/px veya width:auto];</code>
+::: <code>style = float:[''left/right/none''];</code>
+::: <code>style = clear:[''right/left/both/none''];</code>
+
+:; ''temelbiçim''<nowiki>*</nowiki>
+:: CSS biçimleri herşeyden önce ''başlık'', ''üst'', ''alt'' ve ''grup'' hücrelerini uygular. Biçim ''liste'' hücrelerine uygulanmaz.  Bu, dolaşımın farklı parçaları için, biçim özelliklerini tekrarlamadan dolaşımın temel renklerini kolayca değiştirmek için uygundur.  Örnekler:
+::: <code>basestyle = background:lightskyblue;</code>
+
+:; ''başlıkbiçimi''<nowiki>*</nowiki>
+:: CSS biçimleri ''başlık'' hücresine uygulanır. Çoğunlukla başlık çubuğunun artalan rengi için kullanılır:
+::: <code><nowiki>titlestyle = background:</nowiki>''#nnnnnn'';</code>
+::: <code><nowiki>titlestyle = background:</nowiki>''name'';</code>
+
+:; ''grupbiçimi''<nowiki>*</nowiki>
+:: ''GrupN'' hücrelerine uygulanacak CSS biçimleri. Bu seçenek tabloda uygulanan tüm biçimleri geçersiz kılar. Örnekler:
+::: <code>groupstyle = background:#''nnnnnn'';</code>
+::: <code>groupstyle = text-align:[''left/center/right''];</code>
+::: <code>groupstyle = vertical-align:[''top/middle/bottom''];</code>
+
+:; ''grup<sub>n</sub>biçimi''<nowiki>*</nowiki>
+:: Belirli bir gruba uygulanacak CSS biçimleri. Ayrıca her biçim ''grupbiçimi'' parametresi tarafından belirtilir.  Bu parametre sadece, standartlaşmayı ve sadeliği devam ettirmek aşırı gerektiği durumlarda kullanılır. Örnekler:
+::: <code>group3style = background:red;color:white;</code>
+
+:; ''listebiçimi''<nowiki>*</nowiki>
+:: Tüm listelere uygulanacak CSS biçimleri. Overruled by the ''oddstyle'' and ''evenstyle'' parameters (if specified) below. When using backgound colors in the dolaşım, see the [[#Intricacies|note below]].
+
+:; ''liste<sub>n</sub>biçimi''<nowiki>*</nowiki>
+:: CSS styles to apply to a specific list, in addition to any styles specified by the ''liststyle'' parameter. This parameter should only be used when absolutely necessary in order to maintain standardization and simplicity.  Examples:
+::: <code>liste5biçimi = background:#ddddff;</code>
+
+:; ''listedolgusu''<nowiki>*</nowiki>
+:: A number and unit specifying the padding in each ''list'' cell.  The ''list'' cells come equipped with a default padding of 0.25em on the left and right, and 0em on the top and bottom.  Due to complex technical reasons, simply setting "liststyle=padding:0.5em;" (or any other padding setting) will not work.  Examples:
+::: <code>listedolgusu = 0.5em 0em; </code> (sets 0.5em padding for the left/right, and 0em padding for the top/bottom.)
+::: <code>listedolgusu = 0em; </code> (removes all list padding.)
+
+:; ''tekbiçim''
+:; ''çiftbiçim''
+::Applies to odd/even list numbers.  Overrules styles defined by ''liststyle''.  The default behavior is to add striped colors (white and gray) to odd/even rows, respectively, in order to improve readability.  These should not be changed except in extraordinary circumstances.
+
+:; ''çifttek'' <span style="font-weight:normal;"><code>[swap, even, odd, off]</code></span>
+:: If set to <code>swap</code>, then the automatic striping of even and odd rows is reversed.  Normally, even rows get a light gray background for striping; when this parameter is used, the odd rows receive the gray striping instead of the even rows.  Setting to <code>even</code> or <code>odd</code> sets all rows to have that striping color.  Setting to <code>off</code> disables automatic row striping.  This advanced parameter should only be used to fix problems when the dolaşım is being used as a child of another dolaşım and the stripes do not match up.  Örnekler ve daha fazla açıklama aşağıdaki küçük dolaşım bölümünde bulunabilir.
+
+:; ''üstbiçim''<nowiki>*</nowiki>
+:; ''altbiçim''<nowiki>*</nowiki>
+:: CSS styles to apply to the top cell (specified via the ''above'' parameter) and bottom cell (specified via the ''below'' parameter). Typically used to set background color or text alignment:
+::: <code>abovestyle = background:#''nnnnnn'';</code>
+::: <code>abovestyle = text-align:[''left/center/right''];</code>
+
+:; ''resimbiçimi''<nowiki>*</nowiki>
+:; ''resimsolbiçimi''<nowiki>*</nowiki>
+:: CSS styles to apply to the cells where the image/imageleft sits.  These styles should only be used in exceptional circumstances, usually to fix width problems if the width of groups is set and the width of the image cell grows too large.  Examples:
+::: <code>resimbiçimi = width:5em;</code>
+
+===== Öntanımlı biçimler =====
+Burada listelenen biçim ayarları düzenleyicilerin (editörlerin) dolaşım için sıklıkla kullandıklarıdır. Diğer karmaşık biçim ayarları, listeyi basitleştirmek için bunun dışında tutulmuştur. Çoğu biçimler [[MediaWiki:Common.css]]'de ayarlanır.
+
+:<code>gövdebiçimi = background:#fdfdfd; width:100%; vertical-align:middle;</code>
+:<code>başlıkbiçimi  = background:#ccccff; padding-left:1em; padding-right:1em; text-align:center;</code>
+:<code>üstbiçim   = background:#ddddff; padding-left:1em; padding-right:1em; text-align:center;</code>
+:<code>altbiçim   = background:#ddddff; padding-left:1em; padding-right:1em; text-align:center;</code>
+:<code>gruhpbiçimi= background:#ddddff; padding-left:1em; padding-right:1em; text-align:right;</code>
+:<code>listebiçimi  = background:transparent; text-align:left/center;</code>
+:<code>tekbiçim  = background:transparent;</code>
+:<code>çiftbiçim = background:#f7f7f7;</code>
+
+Since ''listebiçimi'' and ''tekbiçim'' are transparent odd lists have the color of the ''bodystyle'', which defaults to #fdfdfd (white with a hint of gray). A list has <code>text-align:left;</code> if it has a group, if not it has <code>text-align:center;</code>. Since only ''bodystyle'' has a vertical-align all the others inherit its <code>vertical-align:middle;</code>.
+
+=== Gelişmiş parametreler ===
+:; ''başlıkgrubu''
+:: Başlık alanına, ''grup<sub>n</sub>'' ile aynı öntanımlı biçime sahip bir grup koyar.  It should  be used only in exceptional circumstances (usually advanced meta-templates) and its use requires some knowledge of the internal code of {{tl|Dolaşım}}; you should be ready to manually set up CSS styles to get everything to work properly if you wish to use it.  If you think you have an application for this parameter, it might be best to change your mind, or consult the talk page first.
+
+:; ''başlıkgrububiçimi''
+:: Başlıkgrup hücresi biçimleri.
+
+:; ''içbiçim''
+:: A very advanced parameter to be used ''only'' for advanced meta-templates employing the dolaşım.  Internally, the dolaşım uses an outer table to draw the border, and then an inner table for everything else (title/above/groups/lists/below/images, etc.).  The ''style''/''bodystyle'' parameter sets the style for the outer table, which the inner  table inherits, but in advanced cases (meta-templates) it may be necessary to directly set the style for the inner table.  This parameter provides access to that inner table so styles can be applied.  Use at your own risk.
+
+====Mikroformatlar====
+;gövdesınıfı: This parameter is inserted into the "class" attribute for the infobox as a whole.
+;başlıksınıfı: This parameter is inserted into the "class" attribute for the infobox's title caption.
+
+This template supports the addition of microformat information. This is done by adding "class" attributes to various data cells, indicating what kind of information is contained within. To flag a dolaşım as containing [[hCard]] information about a person, for example, add the following parameter:
+
+<pre>
+|gövdesınıfı = vcard
+</pre>
+
+''and''
+
+<pre>
+|başlıksınıfı= fn
+</pre>
+
+''or'' (for example):
+
+<pre><nowiki>
+|başlık= The books of <span class="fn">[[Iain Banks]]</span>
+</nowiki></pre>
+
+...and so forth.
+
+See [[Wikipedia:WikiProject Microformats]] for more information on adding microformat information to Wikipedia, and [[microformat]] for more information on microformats in general.
+
+== Tablo yerleşimi ==
+Tablo {{tl|Dolaşım}} ''resim'', ''üst'' ve ''alt'' '''olmayan''' parametreler tarafından oluşturulur (gri liste artalan rengi, sadece gösterim amaçlı eklenir):
+{{Dolaşım
+|ad= Dolaşım/doc
+|durum= uncollapsed
+|listebiçimi= background:silver;
+|başlık= {{{başlık}}}
+|grup1 = {{{grup1}}}
+|liste1 = {{{liste1}}}
+|grup2 = {{{grup2}}}
+|liste2 = {{{liste2}}}
+|liste3 = {{{liste3}}} ''{{{grup3}}} olmadan''
+|grup4 = {{{grup4}}}
+|list4 = {{{liste4}}}
+}}
+
+
+Tablo {{tl|Dolaşım}} ''resim'', ''üst'' ve ''alt'' '''olan''' parametreler tarafından oluşturulur (gri liste artalan rengi, sadece gösterim amaçlı eklenir):
+{{Dolaşım
+|ad = Dolaşım/doc
+|durum = uncollapsed
+|listebiçimi = background:silver;
+|resim = {{{resim}}}
+|başlık = {{{başlık}}}
+|üst = {{{üst}}}
+|grup1 = {{{grup1}}}
+|liste1 = {{{liste1}}}
+|grup2 = {{{grup2}}}
+|liste2 = {{{liste2}}}
+|liste3 = {{{liste3}}} ''{{{grup3}}} olmadan''
+|grup4 = {{{grup4}}}
+|liste4 = {{{liste4}}}
+|alt = {{{alt}}}
+}}
+
+
+Tablo {{tl|Dolaşım}} ''resim'', ''üst'', ''resimsol'', ''listeler'' '''olan''' ve ''gruplar'', ''üst'', ''alt'' '''olmayan''' parametreler tarafından oluşturulur (gri liste artalan rengi, sadece gösterim amaçlı eklenir):
+{{Dolaşım
+|ad = Dolaşım/doc
+|durum = uncollapsed
+|listebiçimi = background:silver;
+|resim = {{{resim}}}
+|resimsol = {{{resimsol}}}
+|title = {{{başlık}}}
+|liste1 = {{{liste1}}}
+|liste2 = {{{liste2}}}
+|liste3 = {{{liste3}}}
+|liste4 = {{{liste4}}}
+}}
+
+== Örnekler ==
+<!--Please don't encourage folks to use <div>s within Dolaşımlar as (unless handled carefully) they can negate liststyles/groupstyles/etc settings.-->
+
+=== Resimsiz ===
+<pre style="overflow:auto;">
+{{Dolaşım
+| ad = Dolaşım/doc
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| grup1 = Merkez
+| liste1  = [[Cyberjaya]]
+
+| grup2 = Alan
+| liste2  = [[Klang Vadisi]]
+
+| grup3 = Önemli yerler
+| liste3  = [[Petronas İkiz Kuleleri]]{{·}} [[Kuala Lumpur Kulesi]]{{·}}
+  [[Kuala Lumpur Sentral]]{{·}} [[Malezya Teknoloji Parkı]]{{·}}
+  [[Putrajaya]]{{·}} [[Cyberjaya]]{{·}}
+  [[Kuala Lumpur Uluslararası Havaalanı]]
+
+| grup4 = Altyapı
+| liste4  = [[Express Rail Link]]{{·}} [[KL-KLIA Dedicated Expressway]]
+
+| grup5 = Önemli uygulamalar
+| liste5  = [[EGovernment]]{{·}} [[MyKad]]
+}}
+</pre>
+
+{{Dolaşım
+| ad     = Dolaşım/doc
+| durum  = uncollapsed
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| grup1  = Merkez
+| liste1 = [[Cyberjaya]]
+| grup2  = Alan
+| liste2 = [[Klang Vadisi]]
+| grup3  = Önemli yerler
+| liste3 = [[Petronas İkiz Kuleleri]]{{·}} [[Kuala Lumpur Kulesi]]{{·}} [[Kuala Lumpur Sentral]]{{·}} [[Malezya Teknoloji Parkı]]{{·}} [[Putrajaya]]{{·}} [[Cyberjaya]]{{·}} [[Kuala Lumpur Uluslararası Havaalanı]]
+| grup4  = Altyapı
+| liste4 = [[Express Rail Link]]{{·}} [[KL-KLIA Dedicated Expressway]]
+| grup5  = Önemli uygulamalar
+| liste5 = [[EGovernment]]{{·}} [[MyKad]]
+}}
+
+=== Resimli, grupsuz ===
+<pre style="overflow:auto;">
+{{Dolaşım
+| ad   = Dolaşım/doc
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| resim = [[Image:Flag of Malaysia.svg|80px|link=|alt=]]
+| liste1 = [[Petronas İkiz kuleleri]]{{·}} [[Kuala Lumpur Kulesi]]{{·}} 
+  [[Kuala Lumpur Sentral]]{{·}} [[Malezya Teknoloji Parkı]]{{·}}
+  [[Putrajaya]]{{·}} [[Cyberjaya]]{{·}}
+  [[Kuala Lumpur Uluslararası Havaalanı]]
+}}
+</pre>
+{{Dolaşım
+| ad = Dolaşım/doc
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| resim = [[Image:Flag of Malaysia.svg|80px|link=|alt=]]
+| liste1 = [[Petronas Twin Towers]]{{·}} [[Kuala Lumpur Tower]]{{·}} 
+  [[Kuala Lumpur Sentral]]{{·}} [[Technology Park Malaysia]]{{·}}
+  [[Putrajaya]]{{·}} [[Cyberjaya]]{{·}}
+  [[Kuala Lumpur International Airport]]
+}}
+
+=== İki resimli, grupsuz, çok listeli ===
+<pre style="overflow:auto;">
+{{Dolaşım
+| ad = Dolaşım/doc
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| resim = [[Image:Flag of Malaysia.svg|80px|link=|alt=]]
+| resimsol = [[Image:Flag of Malaysia.svg|80px]]
+| liste1 = [[Petronas Twin Towers]]{{·}} [[Kuala Lumpur Tower]]{{·}}
+   [[Kuala Lumpur Sentral]]
+| liste2 = [[Express Rail Link]]{{·}} [[KL-KLIA Dedicated Expressway]]
+| liste3 = [[EGovernment]]{{·}} [[MyKad]]
+| liste4 = [[Klang Valley]]
+}}
+</pre>
+
+{{Dolaşım
+| ad = Dolaşım/doc
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| resim = [[Image:Flag of Malaysia.svg|80px|link=|alt=]]
+| resimsol = [[Image:Flag of Malaysia.svg|80px]]
+| liste1 = [[Petronas Twin Towers]]{{·}} [[Kuala Lumpur Tower]]{{·}}
+   [[Kuala Lumpur Sentral]]
+| liste2 = [[Express Rail Link]]{{·}} [[KL-KLIA Dedicated Expressway]]
+| liste3 = [[EGovernment]]{{·}} [[MyKad]]
+| liste4 = [[Klang Valley]]
+}}
+
+=== Resimli, gruplu, üst, alt ===
+<pre style="overflow:auto;">
+{{Dolaşım
+| ad   = Dolaşım/doc
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| resim  = [[Image:Flag of Malaysia.svg|80px|link=|alt=]]
+
+| üst    = Üst resim burada olur
+
+| grup1 = Merkez
+| liste1  = [[Cyberjaya]]
+
+| grup2 = Alan
+| liste2  = [[Klang Vadisi]]
+
+| grup3 = Önemli yerler
+| liste3  = [[Petronas İkiz Kuleleri]]{{·}} [[Kuala Lumpur Kulesi]]{{·}}
+  [[Kuala Lumpur Sentral]]{{·}} [[Technology Park Malaysia]]{{·}}
+  [[Putrajaya]]{{·}} [[Cyberjaya]]
+
+| grup4 = Altyapı
+| liste4  = [[Express Rail Link]]{{·}} [[KL-KLIA Dedicated Expressway]]
+
+| grup5 = Önemli uygulamalar
+| liste5  = [[EGovernment]]{{·}} [[MyKad]]
+
+| alt  = Website: [http://www.msc.com.my/ www.msc.com.my]
+}}
+</pre>
+
+{{Dolaşım
+| ad = Dolaşım/doc
+| başlık = [[Multimedia Super Corridor|MSC Malaysia]]
+| resim = [[Image:Flag of Malaysia.svg|80px|link=|alt=]]
+
+| üst = Üst metin burada olur
+
+| grup1 = Merkez
+| liste1  = [[Cyberjaya]]
+
+| grup2 = Alan
+| liste2  = [[Klang Vadisi]]
+
+| grup3 = Önemli yerler
+| liste3  = [[Petronas Twin Towers]]{{·}} [[Kuala Lumpur Tower]]{{·}}
+  [[Kuala Lumpur Sentral]]{{·}} [[Technology Park Malaysia]]{{·}}
+  [[Putrajaya]]{{·}} [[Cyberjaya]]
+
+| grup4 = Alt yapı
+| liste4  = [[Express Rail Link]]{{·}} [[KL-KLIA Dedicated Expressway]]
+
+| grup5 = Önemli uygulamalar
+| liste5  = [[EGovernment]]{{·}} [[MyKad]]
+
+| alt = Website: [http://www.msc.com.my/ www.msc.com.my]
+}}
+
+== Küçük dolaşımlar ==
+It is possible to place multiple navboxes within a single border with the use of the ''border'' parameter, or by specifying the first parameter to be "child".  The basic code for doing this is as follows (which adds a subgroup for the first group/list area):
+<pre style="overflow:auto;">
+{{Dolaşım
+|ad = {{subst:PAGENAME}}
+|başlık = Title
+
+|grup1 = [optional]
+|liste1 = {{Dolaşım|child
+   ...küçük dolaşım parametreleri...
+ }}
+
+...
+}}
+</pre>
+
+=== Altgrup örneği ===
+{{ana|Şablon:Dolaşım iç}}
+Bu örnek altgrubun kullanımı ile ilgilidir. {{tl|Dolaşım iç}} kullanma tavsiye edilir. Fakat aynı sonuca ulaşmak için {{tl|Dolaşım}}ı <code>border = child</code> kodu ile kullanmak gerekir veya ilk adsız parametre <code>child</code> olarak ayarlanır.  Note that the ''evenodd'' parameter is used to reverse striping in some of the subgroups in order to get all of the stripes to line up properly. Tüm şeritleri kaldırmak istiyorsan, her dolaşımı <code>liststyle = background:transparent;</code> şeklinde ayarlayabilirsin.
+
+{{Dolaşım
+|ad = Dolaşım/doc
+|resim = [[Image:Flag of the United States.svg|100px|link=|alt=]]
+|durum = uncollapsed
+|başlık = Çoklu Altgrup Örneği
+|üst = Üst
+|alt = Alt
+
+|grup1 = Grup1
+|liste1 = Liste1
+|grup2 = Grup2
+|liste2 = 
+ {{Dolaşım|child
+  |çifttek = swap
+  |grup1 = Grup2.1
+  |liste1 = Liste1
+  |grup2 = Grup2.2
+  |liste2 = Liste2
+  |grup3 = Grup2.3
+  |liste3 = Liste3
+ }}
+
+|grup3 = Grup3
+|liste3 = Liste3
+
+|grup4 = Grup4
+|liste4 = 
+ {{Dolaşım|child
+  |çifttek = swap
+  |grup1 = Grup4.1
+  |liste1 = Liste1
+  |grup2 = Grup4.2
+  |liste2 = Liste2
+  |grup3 = Grup4.3
+  |liste3 = Liste3
+ }}
+}}
+
+=== Tekbir kutuda çoklu göster/gizle ===
+{{main|Template:Navbox with collapsible groups}}
+The example below is generated using a regular navbox for the main container, then its list1, list2, and list3 parameters each contain another navbox, with <code>border = child</code> set.  Note that each of the child navboxes has its own VDE navbar; these could be hidden using <code>navbar = plain</code> for each of them, or by just leaving out the ''name'' parameter (child navboxes do not require the name parameter to be set, unlike regular navboxes).
+
+{{Dolaşım
+|ad = Dolaşım/doc
+|başlık = [[Image:Blason France moderne.svg|x17px|link=|alt=]] [[Image:Flag of France.svg|x17px|link=|alt=]] [[French colonial empires|Former French overseas empire]]
+|durum = uncollapsed
+|liste1 = {{Dolaşım|child
+ |ad = Former French colonies in Africa and the Indian Ocean
+ |başlık = [[French colonial empires|Former French colonies]] in [[Africa]] and the [[Indian Ocean]]
+ |grupbiçimi = background:lavender;
+
+ |grup1 = [[Mahgreb]]
+ |liste1  = [[French rule in Algeria|Algeria]]{{·}} [[French Morocco|Morocco]]&nbsp;<small>([[Arguin|Arguin Island]])</small>{{·}} [[History of Tunisia|Tunisia]]
+
+ |grup2 = [[French West Africa]]
+ |liste2  = [[History of Côte d'Ivoire#French Period|Côte d'Ivoire]]{{·}} [[French Dahomey|Dahomey]]{{·}} [[French Sudan]]{{·}} [[French Guinea|Guinea]]{{·}} [[History of Mauritania#French colonization and post-colonial history|Mauritania]]{{·}} [[History of Niger#Colonization|Niger]]{{·}} [[History of Senegal|Senegal]]{{·}} [[French Upper Volta|Upper Volta]]
+
+ |grup3 = &nbsp;
+ |liste3  = [[French Togoland]]{{·}} [[James Island (The Gambia)|James Island]]
+
+ |grup4 = [[French Equatorial Africa]]
+ |liste4  = [[Colonial Chad|Chad]]{{·}} [[History of Gabon|Gabon]]{{·}} [[History of the Republic of the Congo|Middle Congo]]{{·}} [[Oubangui-Chari]]
+
+ |grup5 = [[Comoros]]
+ |liste5  = [[Anjouan]]{{·}} [[Grande Comore]]{{·}} [[Mohéli]]
+
+ |grup6 = &nbsp;
+ |liste6  = [[History of Djibouti#French Interest|French Somaliland (Djibouti)]]{{·}} [[History of Madagascar#French Control|Madagascar]]{{·}} [[Mauritius|Ile de France]]{{·}} [[Seychelles]]
+}}
+
+|liste2 = {{Dolaşım|child
+ |ad = Former French colonies in the Americas
+ |başlıkbiçimi = 
+ |başlık = [[French colonial empires|Former French colonies]] in the [[Americas]]
+ |grupbiçimi = 
+ |liste1 = [[New France]]{{spaces|2}}<small>([[Acadia]]&nbsp;• [[Louisiana (New France)|Louisiana]]&nbsp;• [[Canada, New France|Canada]]&nbsp;• [[Newfoundland (island)|Terre&nbsp;Neuve]]) 1655 – 1763 </small>
+
+ |liste2 = [[Inini]]{{·}} [[Berbice]]{{·}} [[Saint-Domingue]]&nbsp;<small>([[Haiti]])</small>{{·}} [[Tobago]]{{·}} [[History of the British Virgin Islands|Virgin&nbsp;Islands]]{{·}} {{nowrap|[[France Antarctique]]}}{{·}} {{nowrap|[[France Équinoxiale]]}}
+
+ |altbiçim = 
+ |alt = [[French West India Company]]
+}}
+
+|liste3 = {{Dolaşım|child
+ |ad = Former French colonies in Asia and Oceania
+ |başlık = [[French colonial empires|Former French colonies]] in [[Asia]] and [[Oceania]]
+ |grupbiçimi = 
+
+ |grup1 = [[French India]]
+ |liste1  = [[Chandernagor]]{{·}} [[Coromandel Coast]]{{·}} [[History of Chennai|Madras]]{{·}} [[Malabar]]{{·}} [[Mahé, India|Mahé]]{{·}} [[History of Puducherry|Pondichéry]]{{·}} [[Karaikal]]{{·}} [[Yanam (India)|Yanaon]]
+
+ |grup2 = [[French Indochina]]
+ |liste2  = [[Colonial Cambodia|Cambodia]]{{·}} [[History of Laos to 1945#French Laos|Laos]]{{·}} [[French Indochina|Vietnam]]&nbsp;<small>([[Annam (French colony)|Annam]]&nbsp;• [[Cochinchina]]&nbsp;• [[Tonkin]])</small>
+
+ |grup3 = Other Asian
+ |liste3  = [[Alawite State|Alaouites]]{{·}} [[Republic of Hatay|Alexandretta-Hatay]]{{·}} [[Sri Lanka|Ceylon]]{{·}} [[Kwangchowan]]
+
+ |grup4 = [[Oceania]]
+ |liste4  = [[New Hebrides]] [[History of Vanuatu|(Vanuatu)]]
+
+ |altbiçim = 
+ |alt = [[French East India Company]]
+}}
+}}
+
+=== Ek örnekler ===
+You may find additional examples of complex subgroups and child navboxes at the [[Template:Navbox/doc/Advanced examples|advanced navbox examples page]] and the [[Template:Navbox/testcases|Navbox code test page]].
+
+== Diğer Dolaşım şablonları ile ilişkisi ==
+Bu dolaşım şablonu, diğer iki kardeş şablonla birlikte çalışması için özel olarak tasarlandı. Bunlar: {{tl|Navbox with columns}} ve {{tl|Navbox with collapsible groups}}dur.  Bu üç şablonun tümü, uyumluluk ve kolay kullanım için yaygın parametreleri paylaşır (çoğu parametreler, tamamen üst parametre listesinde bir <sup>'''†'''</sup> ile işaretlenir).  En önemlisi, tüm bu üç şablonun her biri, bir diğerinin alt birimi gibi kullanılır. Bunun için <code>border = child</code> parametresi kullanılmalı ya da <code>child</code> (alt birim) olacak ilk adsız parametre belirtilmelidir (örneğin, <code><nowiki>{{Dolaşım|child</nowiki></code>, <code><nowiki>{{Navbox with columns|child</nowiki></code> veya <code><nowiki>{{Navbox with collapsible groups|child</nowiki></code>).  Bunun nsıl yapıldığı ile ilgili örnekler için [[Şablon:Dolaşım/doc/Gelişmiş örnekler|gelişmiş dolaşım örnekleri]]ne bakınız.
+
+== Teknik ayrıntılar ==
+
+*This template uses CSS classes for most of its looks, thus it is fully skinnable.
+*Internally this meta template uses HTML markup instead of wiki markup for the table code. That is the usual way we make meta templates since wiki markup has several drawbacks. For instance it makes it harder to use [[m:Help:ParserFunctions|parser functions]] and special characters in parameters.
+*For more technical details see the [[{{TALKPAGENAME}}|talk page]], the CSS classes in [[MediaWiki:common.css]] and the collapsible table used to hide the box in [[MediaWiki:common.js]].
+
+=== Karışıklıklar ===
+
+*Grup ve listeler arasındaki 2px genişliğinde kenar, liste hücresinin border-left (kenar-sol) özelliği kullanılarak çizilir. Eğer şablonun artalan rengini değiştirmek istiyorsan (örneğin <code>bodystyle = background:purple;</code>), border-left-color özelliğini artalan rengi ile eşleştirmelisin (örn. <code>liststyle = border-left-color:purple;</code>).  Eğer her liste hücresi etrafında kenar istiyorsan, liste hücreleri ile grup hücreleri arasındaki 2px'lik kenar gözden kaybolur. Kendi çözümünü üretmelisin.
+*Liste hücresi genişliği başlangıçta %100 olarak ayarlıdır. Grup hücrelerinin genişliğini elle ayarlamak istiyorsan, ayrıca listebiçim genişliğini (width:auto) şeklinde ayarlamalısın. Grup genişliğini ayarlamak ve resim kullanmak istiyorsan, herşeyin uygun çalışması için grupbiçim, listebiçim, resimbiçim ve resimsolbiçim parametrelerindeki CSS'yi bulmak size kalmıştır. Grup genişliğini ayarlama örneği:
+::<code>groupstyle = width:10em;</code>
+::<code>liststyle = width:auto;</code>
+*Adjacent navboxes have only a 1 pixel border between them (except in IE6, which doesn't support the necessary CSS).  If you set the top or bottom margin of <code>style/bodystyle</code>, then this will not work.
+*The default margin-left and margin-right of the outer navbox table are set to "auto;".  If you wish to use navbox as a float, you need to manually set the margin-left and margin-right values, because the auto margins interfere with the float option.  For example, add the following code to use the navbox as a float:
+::<code>style = width:22em;float:right;margin-left:1em;margin-right:0em;</code>
+
+=== Diğer proje veya vikileri kopyalama? ===
+
+Note that using this template on other wikis requires [[HTML Tidy]] to be turned on. A version that does not require Tidy can be found at [[Wikipedia:WikiProject Transwiki/Template:Navbox]]. (That version generally shouldn't be used here on the English Wikipedia.) More detailed information on copying {{tlf|Navbox}} to other wikis can be found on the [[Template talk:Navbox|talk page]].
+
+== Ayrıca bakınız ==
+
+* {{tl|Dolaşım iç}} – Allows for subgroups within a Navbox.
+* {{tl|Navbox with columns}} – Allows columns instead of groups/lists.
+* {{tl|Navbox with collapsible groups}} – Another variation.
+* [[Wikipedia:Line break handling]] – The how-to guide about how to handle word wraps (line breaks) on Wikipedia, such as the wrapping of the link lists used in navboxes.
+* {{tl|Nowrap begin}} – The recommended format for adding bullets, pipes, or dashes between list items.  The page describes how to go about using them with proper wrapping.
+* {{tl|Nobold}} – To display text at normal font-weight within a context where the default font-weight is bold, e.g. header cells in tables.
+* {{tn|·}} and {{tn|•}} – The dot and bullet commonly used to separate items in Navbox lists.
+* {{tl|Flatlist}} - An accessible and semantically-valid (using an HTML list) method of separating items in Navbox lists.
+
+{{Dolaşım şablonları}}
+
+<includeonly>
+<!--Kategori-->
+[[Kategori:Dolaşım şablonları|*]]
+[[Kategori:Wikipedia metatemplates|{{PAGENAME}}]]
+
+<!--Diğer diller-->
+[[af:Sjabloon:Navbox]]
+[[ar:قالب:Navbox]]
+[[bg:Шаблон:Навигационен шаблон]]
+[[ca:Plantilla:Navbox]]
+[[cs:Šablona:Navbox]]
+[[da:Skabelon:Navbox]]
+[[en:Template:Navbox]]
+[[et:Mall:Navmall]]
+[[eo:Ŝablono:Navigilo2]]
+[[fa:الگو:جعبه گشتن]]
+[[fr:Modèle:Méta palette de navigation]]
+[[ko:틀:안내]]
+[[hi:साँचा:Navbox]]
+[[hr:Predložak:Navigacija]]
+[[id:Templat:Navbox]]
+[[is:Snið:Navbox]]
+[[it:Template:Navbox]]
+[[ka:თარგი:ნავდაფა]]
+[[lmo:Template:Navbox]]
+[[mk:Шаблон:Navbox]]
+[[ms:Templat:Navbox]]
+[[ja:Template:Navbox]]
+[[no:Mal:Navbox]]
+[[pl:Szablon:Navbox]]
+[[pt:Predefinição:Navbox]]
+[[ro:Format:Casetă de navigare simplă]]
+[[ru:Шаблон:Navbox]]
+[[sl:Predloga:Navpolje]]
+[[sv:Mall:Navbox]]
+[[th:แม่แบบ:Navbox]]
+[[uk:Шаблон:Navbox]]
+[[zh:模板:Navbox]]
+</includeonly>
