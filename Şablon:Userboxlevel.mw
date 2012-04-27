@@ -1,0 +1,18 @@
+{{userbox
+| border-c = #{{#switch:{{{level}}}|0=B0B0B0|1=C0C0F0|2=70E0E0|3=99B0F0|4=CCCC00|5=CC0000|#default=60F0A0}}
+| id-c     = #{{#switch:{{{level}}}|0=B7B7B7|1=C0C8FF|2=77E0E8|3=99B3FF|4=FFFF00|5=FF0000|#default=6EF7A7}}
+| info-c   = #{{#switch:{{{level}}}|0=E8E8E8|1=F0F8FF|2=D0F8FF|3=E0E8FF|4=FFFF99|5=FF5555|#default=C5FCDC}}
+| id       = {{{id}}}{{#switch:{{{level}}}|N=|0|1|2|3|4|5|#default=-{{{level}}} }}
+| id-s     = {{{id-s|14}}}
+| id-op    = {{{id-op}}}
+| info     = {{{info}}}
+| info-s   = {{{info-s|8}}}
+| info-op  = {{{info-op}}}
+| usercategory  = {{{usercategory|}}}
+| usercategory2 = {{{usercategory2|}}}
+}}<noinclude>
+
+[[Category:Category suppression supporting templates]]
+
+
+</noinclude>
