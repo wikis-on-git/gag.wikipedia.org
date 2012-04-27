@@ -1,9 +1,20 @@
 
-{| id="toc" style="margin: 0 2em 0 2em;"
+
+
+
+<div style="right:10px; display:none;" class="metadata topicon" id="bot"><imagemap>
+Dosya:Crystal Clear action run.svg|16x16px|Vikipedi Botlar
+default [[Vikipedi:Botlar]]
+desc none
+</imagemap></div>
+{| class="ombox ombox-notice nowraplinks" style="text-align:center;"
+|- <!----- Konu sayfaları ----->
+|class="mbox-text"|[[File:Crystal package system.png|50px|left]][[Vikipediya:Topluluk portalı|'''Topluluk portalı''']]*[[Wikipedia:Bots|'''Overview of bots''']]* [[Wikipedia:Bot Approvals Group|Bot Approvals Group]]*[[Wikipedia:Bots/Status|Bot status page]]* [[Wikipedia:Bot owners' noticeboard|Bot owners' noticeboard]]* [[Wikipedia:Bots/Requests for approval|Requests for bot approval]]/[[Wikipedia:Bots/Requests for approval/Adminbots|Adminbots]]* 
+|rowspan="2" class="mbox-imageright"| [[File:Crystal Clear action run.png|50px|height]]
 |-
-|[[File:Crystal package system.png|50px]] [[Vikipediya:Topluluk portalı|'''Topluluk portalı''']]*[[Wikipedia:Bots|'''Overview of bots''']]* [[Wikipedia:Bot Approvals Group|Bot Approvals Group]]* [[Wikipedia:Bot policy|Bot policy]]* [[Wikipedia:Bots/Status|Bot status page]]* [[Wikipedia:Bot owners' noticeboard|Bot owners' noticeboard]]* [[Wikipedia:Bots/Requests for approval|Requests for bot approval]]/[[Wikipedia:Bots/Requests for approval/Adminbots|Adminbots]]* [[Wikipedia:Bot requests|Requests for work to be done by a bot]][[File:Crystal Clear action run.png|50px|link=]]
-</div>
+|
 |}<noinclude>
+
 [[Kategori:Vikipediya botnar]]
 [[ar:قالب:تصفح البوت]]
 [[en:Template:Botnav]]
@@ -12,4 +23,4 @@
 [[it:Template:Bot]]
 [[pt:Predefinição:Wikipedia/Bots]]
 [[ru:Шаблон:Боты]]
-</noinclude>
+[[tr:Şablon:Bot dolaşım]]
