@@ -1,0 +1,96 @@
+{{Belgeleme navigasyonu}}
+<includeonly>{{karmaşık şablon}}</includeonly>
+<!-- ŞABLON BELGELEMESİ BU SATIRIN ALTINDA YER ALACAK -->
+Bu şablon, [[:Kategori:Koruma şablonları|koruma şablonlarının]] altyapısı için kullanılan bir temel şablondur.
+
+Şablon, farklı isim alanları için doğru biçimi otomatik olarak uygulamaya koyar ve seçime göre sayfaların sağ üst köşesine bir asma kilit yerleştirebilir ya da normal bir sayfa uyarı etiketi işlevi görerek sayfa içeriğinin hemen üzerinde yer alarak kullanıcıları bilgilendirir.
+
+=== Örnekler ===
+Bu sayfanın sağ üst köşesinde yer alan küçük asma kilit de bu temel şablonla oluşturulmuştur. Şablon, "Seçkin Madde" yıldızı ve "[[VP:KONUŞAN|Konuşan Vikipedi]]" sembolü ile üst üste binmeyi önleyecek bir noktayı kullanmaktadır.
+
+==== Ana alan ====
+{{tl|koruma|demoseviyesi=sysop|kategori=hayır|küçük=hayır}}
+
+==== Herhangi bir tartışma alanı ====
+{{tl|koruma-şablon|demoseviyesi=sysop|kategori=hayır|küçük=hayır}}
+
+==== Diğer alanlar ====
+{{tl|koruma-taşıma|demoseviyesi=sysop|kategori=hayır|küçük=hayır}}
+
+=== Kullanım ===
+<pre><nowiki>
+{{koruma-ana
+| tür = <koruma türüne göre "full", "semi", "indef", "move", "create" ya da "office" seçeneklerinden bir tanesi>
+| izinsizseviye = <tür move (taşıma) ya da create (oluşturma) değilse ve şablon sadece tek bir koruma seviyesinde kullanılmalı ise, "autoconfirmed" veya "sysop" seçeneklerinden bir tanesi>
+| küçük = {{{küçük|}}} <şablonun her zaman küçük olmasını istiyorsanız "evet", şablonun her zaman büyük olmasını istiyorsanız "hayır", değişken olmasını istiyorsanız aynen bırakın>
+| bitiş = {{{bitiş|}}} süresiz korumalarda aynen bırakın>
+| neden = &amp;#32;<buraya koruma nedeninizi yazın>
+| sas = <tür "create" ise, yani oluşturma koruması uygulanacaksa, bu durumda "{{{sas|}}}" şeklinde kullanın, yoksa atlayın>
+| demoseviyesi = {{{demoseviyesi|undefined}}} <şablonun uygun olmayan koruma seviyelerinde uyarı vermesini ya da koruma denetimlerini devre dışı bırakmayı istiyorsanız>
+| resim = <Dosya: önekiyle birlikte buraya resminizi yerleştirin. Standart harici bir resim kullanmak istemiyorsanız aynen bırakın>
+| simge-bağlantı = <simgede yer alacak bağlantı için [[]] olmadan bağlantınızı girin, bir #bölüm eklentisi de yapabilirsiniz>
+| simge-metin = <alternatif simge metninizin *tamamı* ve mümkünse bir noktalama işareti. Düz metin kullanın ve standart harici kullanım istemiyorsanız boş bırakın.>
+| simge-neden = <noktalama işaretsiz spesifik nedeniniz, sadece düz metin kullanın>
+| neden-metin= <noktalama işareti ve viki bağlantıları ile biçimlendirmesiz üst satırınız.>
+| açıklama-metin = <açıklamanızın tamamı>
+| kategori = {{{kategori|<buraya kategorilerinizi girin, istemiyorsanız "hayır" yazın>}}}
+}}
+</nowiki></pre>
+
+=== Parametreler ===
+Bu şablon, önemli koruma bildirimi türlerini tanımlama, aynı zamanda da istisnalar için gereken esnekliği sağlama amacıyla tasarlanmıştır. Tüm parametrelerde hata uyarılarının tolere edilebilmesi için bir son çare seçeneği yer almalı, ancak gerektiği zamanda da bu tür uygulamalara başvurulmalıdır.
+
+===="Genellikle" gerekli olan parametreler====
+;<code>tür</code>:'''Tür''', geniş koruma şablonu sınıfları için çoğu varsayılan ayarı uygulayan ve aşağıdaki değer seçeneklerinden birine izin veren bir parametredir: <code>full</code>, <code>semi</code>, <code>indef</code>, <code>move</code>, <code>create</code> ve <code>office</code> (büyük ya da küçük harf farkı yoktur). Bu değerler, standart metin, resim ve bağlantıların tercihi için kullanılmaktadır, zira varsayılan ayarlara yapılması gereken eklenti de asgari miktarda olmakta ve böylelikle <span style="font-family:monospace;"><nowiki>{{</nowiki>[[Şablon:Koruma|koruma]]<nowiki>}}</nowiki></span> gibi şablonların içeriğinin temiz tutulması sağlanmaktadır. Bu parametrenin girilmemesi halinde resim olarak [[:Dosya:Transparent.gif]] kullanılacağını unutmayın.
+;<code>küçük</code>: '''Küçük''', şablonun küçük simge sürümünün mü yoksa büyük standart metinli sürümünün mü görüntüleneceğini belirler. Şablonlar genellikle sayfanın sağ üstünde küçük bir asma kilit görüntüleyen küçük simge sürümüyle hazırlanmıştır, ancak anlaşmazlık şablonları buna istisnadır. Kullanıcılara bilgi verilmesi gereken durumlarda büyük sürümlerin kullanılması önerilir. Bu parametre "<code>evet</code>" ve "<code>hayır</code>" (büyük-küçük harf önemsiz) değerlerini alabilir. Seçeneği kullanıcıya bırakmak istiyorsanız <code><nowiki>{{{küçük|}}}</nowiki></code> şeklinde kullanın. Bu durumda standart olarak şablon büyük gösterilecek, ancak küçük sürümün ayarı kullanıcı tarafından gerçekleştirilebilecektir. Bu parametrenin kullanılmaması standart olarak büyük sürümün kullanılmasına neden olmaktadır.
+;<code>bitiş</code>: '''Bitiş''', <code>tür</code> parametresi normal tanımlandığında korumanın sona erme tarihinin hem küçük hem de büyük sürümlerde görüntülenmesini sağlar. Genellikle <code><nowiki>{{{bitiş|}}}</nowiki></code> şeklinde kullanılarak kullanıcıya tarihi girme imkanı verilmektedir.<code>tür</code> parametresinin <code>indef</code>, yani süresiz olarak girildiği şablonlarda etkisi yoktur, zira süresiz koruma şablonlarında bitiş tarihinin belirtilmesine ihtiyaç olmayacaktır. Bu şablonu temel alan şablonlarda bitiş parametresine girilecek tarih "<gün> <İngilizce ay adı> <yıl>" şeklinde olmalıdır. Örnek: "12 December 2010". İngilizce ay adı kullanımı şablonun yapısından doğan bir zorunluluktur. Buna rağmen küçük ve büyük şablon sürümlerindeki tarih bilgileri Türkçe olarak görüntülenecek, koruma bitiş tarihi geride kalan sayfalar da bunu belirten kategorilerde listelenecektir.
+;<code>anlaşmazlık</code>:'''Anlaşmazlık''', korumaya alınmış sürüm veya başlığın desteklenmesinin söz konusu olmadığına dair bir standart metin eklentisi gerçekleştirmektedir. <code>tür</code> parametresine bağlı değildir, ancak aşağıda açıklanan <code>açıklama-metin</code> parametresinin kullanılması halinde yerini bu parametrenin değerine bırakmaktadır.
+;<code>neden</code>:'''Neden''', sayfanın neden korumada olduğuna dair açıklama sunan şablona özel bir gerekçe eklenmesini sağlamaktadır. Bu parametrede kullanılan kodun başına <code>&amp;#32;</code> eklentisi getirilmeli, böylelikle kelimeler arasında uygun şekilde boşluk bırakılması sağlanmalıdır. Kod içerisinde <code><nowiki>{{{neden|}}}</nowiki></code> değerinin başına boşluk getirilmemektedir, <code>neden</code> parametresi boş bırakıldığında da gerekli noktalama işaretinin öncesine boşluk getirilmemektedir. Kullanıma örnek olarak <code><nowiki>{{{neden|varsayılan bir neden}}}</nowiki></code> verilebilir.
+;<code>kategori</code>: '''Kategori''', bu şablonun kullanması gereken girdi biçimleri konusunda görece kati bir standart benimsemektedir. Şablonun yerleştirildiği sayfalar için geçerli olması istenen kategorilerin varlığı halinde <nowiki>{{{kategori|</nowiki></code> ve <code><nowiki>}}}</nowiki></code> kodunun arasına yerleştirilmeleri gerekir. Böylelikle <code>|kategori=hayır</code> değerinin girilmesi halinde belirtilen kategorilere ekleme yapılmaması mümkün olacaktır. Şablonun uyguladığı herhangi bir kategori yoksa, bu parametrenin kullanımına gerek de olmamaktadır.
+;<code>demoseviyesi</code>: '''Demoseviyesi''', örnek kullanım ve testler için yararlıdır. Belirli bir koruma seviyesindeymiş gibi gösterimi mümkün kılan bu parametre, kullanılmadığı durumlarda varsayılan değer olan "undefined"'ı kullanmalıdır, zira boş bir değer şablonun hata vermesine yol açmaktadır. Demo seviyesi testinin başarısız olması, şablonun görüntülenmemesine ve sayfayı [[:Kategori:Hatalı koruma şablonuna sahip sayfalar]]'ın içine yerleştirmesine neden olacaktır.
+
+====Türe bağlı parametreler====
+;<code>sas</code>: <code>tür</code> parametresi değeri olarak <code>create</code> girilmişse, yani bir oluşturma koruması söz konusuysa ve <code>açıklama-metin</code> parametresi önceliği almamışsa, bu durumda '''sas''' parametresi <code><nowiki>{{{sas|}}}</nowiki></code> şeklinde kullanılmalı ve böylelikle açıklamanın daha bilgilendirici olması sağlanmalıdır.
+
+====İsteğe bağlı parametreler====
+;<code>resim</code>:'''Resim''', istenmesi halinde alternatif bir simge seçilmesini mümkün kılar. Bu resim genel olarak [[Commons:Padlock icons|asma kilit simgeleri]] arasından seçilse de, alternatif bir resmin seçilmesi de mümkündür. Alternatif resmin sadece kendi adına yer verilmelidir; "Dosya:" ya da "Resim:" öneklerini ''kullanmayın''.
+;<code>simge-bağlantı</code>:'''Simge-bağlantı''' parametresi, küçük sürüm simgesine tıklandığında ulaşılacak sayfa bağlantısını değiştirme imkanı vermektedir. Genel olarak <code>tür</code> parametresi [[Vikipedi:Koruma politikası]]'ndaki ilgili başlıklara bağlantı verilmesini sağladığı için bu parametre nadiren kullanılmaktadır, ancak istisnalara izin vermekte ve sayfa içindeki alt başlıklara giden bağlantıları düzenleyebilmektedir. Bu parametreye girilen veri, <nowiki>[[Köşeli parantez]]</nowiki> içine ''alınmamalıdır''.
+;<code>simge-metin</code>: '''Simge-metin''' parametresi, <code>simge-bağlantı</code> parametresi gibi sadece küçük sürümü etkilemektedir. Ancak farklı olarak koruma simgesinin bilgi mesajı olarak girilen metni belirlemekte ve kullanıldığında <code>tür</code> parametresinin sağladığı varsayılan metnin ''ve'' sondaki noktalama işaretinin yerine geçmektedir.
+;<code>simge-neden</code>: '''Simge-neden''' parametresi, <code>tür</code> parametresinin sağladığı küçük sürüm bilgi metnin varsayılan metnine metin eklenmesini mümkün kılmaktadır. <code>simge-metin</code> parametresi, kullanımı halinde bu parametrenin yerine geçmektedir.
+;<code>neden-metin</code>: '''Metin-neden''', genişletilmiş sürüm metninin kalın yazılı ilk satırının yerine geçmekte ve kullanıldığında <code>tür</code>, <code>bitiş</code> ve <code>neden</code> parametreleri ile tanımlanan içeriğin ve sondaki noktalama işaretinin yerine geçmektedir.
+;<code>açıklama-metin</code>:'''Açıklama-metin''', kalın neden satırından sonraki açıklama metninin yerine geçmekte ve <code>tür</code>, <code>anlaşmazlık</code> ve <code>sas</code> gibi parametrelerin sağladığı içerik ile yer değiştirmektedir.
+;<code>izinsizseviye</code>:'''İzinsizseviye''', <code>move</code> (taşıma) veya <code>create</code> (oluşturma) türünde olmayan şablonlar için belirli bir koruma seviyesine verilen izni kaldırmak için kullanılmaktadır. <code>autoconfirmed</code> veya <code>sysop</code> olarak girilmesi ve böylelikle sırasıyla yarı koruma ve tam korumada şablonu devre dışı bırakması mümkündür. Sayfanın izin verilmeyen seviyede korumaya alınmış olması ve <code>demoseviyesi</code> parametresinin izin verilen seviyede ayarlanmamış olması halinde, şablon görüntülenmeyecek ve şablonun yerleştirildiği sayfa [[:Kategori:Hatalı koruma şablonuna sahip sayfalar]]'ın içinde listelenecektir.
+
+====Parametrelerin dikey biçimde tam listesi====
+<pre><nowiki>
+{{koruma-ana
+| tür =
+| izinsizseviye =
+| küçük =
+| bitiş =
+| neden =
+| sas =
+| demoseviyesi =
+| resim =
+| simge-bağlantı =
+| simge-metin =
+| simge-neden =
+| neden-metin =
+| açıklama-metin =
+| kategori =
+}}
+</nowiki></pre>
+
+=== Ayrıca bkz ===
+{{koruma şablonları}}
+<includeonly>
+
+<!-- KATEGORİ VE İNTERVİKİLERİ BU SATIRIN ALTINA EKLEYİN -->
+[[Kategori:Koruma şablonları|Ana]]
+
+[[en:Template:Pp-meta]]
+[[ja:Template:Pp-meta]]
+[[mn:Загвар:Pp-meta]]
+[[ro:Format:Meta-pp]]
+[[zh:Template:Pp-meta]]
+</includeonly>
