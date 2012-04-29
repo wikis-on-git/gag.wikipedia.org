@@ -1,0 +1,27 @@
+{{Belgeleme navigasyonu}}
+
+Bu şablon, koruma altında olmayan sayfalarda görünür olmayacaktır. Sayfaları sadece [[VP:H|hizmetliler]] koruma altına alabilir.
+
+=== Kullanım ===
+* Normal şablon için {{tlx|{{lc:{{PAGENAME}}}}}} kodunu kullanın.
+* Silinme tartışmasına bağlantı vermek için {{tlx|{{lc:{{PAGENAME}}}}|ssm&#61;Vikipedi:Silinmeye aday sayfalar/Örnek}} kodunu kullanın.
+* Spesifik bir bitiş tarihi için {{tlx|{{lc:{{PAGENAME}}}}|bitiş&#61;<gün> <İngilizce ay adı> <yıl>}} kodunu kullanın. Bitiş parametresi değerine örnek olarak ''24 December 2011'' verilebilir. Şablonun yapısı gereği ay değerinin İngilizce olarak girilmesi zorunludur.
+* Şablon, standart olarak sayfanın sağ üst köşesinde bir asma kilit sembolü görüntüler. Bunun yerine sayfanın üst ortasında bir bilgi kutusu görüntülemek istiyorsanız {{tlx|{{lc:{{PAGENAME}}}}|küçük&#61;hayır}} kodunu kullanın. Kullanıcıya açıklama yapılmasının önemli olduğu durumlarda bu yönteme başvurulmaktadır.
+
+''(UTC)'' otomatik olarak eklenecektir.
+
+Bu şablon, isim alanına göre yerleştirildiği sayfaları [[:Kategori:Korumaya alınmış sayfalar]], [[:Kategori:Korumaya alınmış proje sayfaları]], [[:Kategori:Korumaya alınmış dosyalar]], [[:Kategori:Korumaya alınmış şablonlar]], [[:Kategori:Korumaya alınmış tartışma sayfaları]] ve [[:Kategori:Korumaya alınmış kullanıcı ve kullanıcı mesaj sayfaları]] seçeneklerinden birinin içine yerleştirecektir. Koruma süresi sona erdiğinde, sayfaları otomatik olarak [[:Kategori:Koruma süresi sona ermiş sayfalar]]'ın içine yerleştirecektir.
+
+{{koruma şablonları}}
+
+<includeonly>
+<!-- KATEGORİLERİ BU SATIRIN ALTINA EKLEYİN -->
+[[Kategori:Koruma şablonları|Genel]]
+
+<!-- İNTERVİKİLERİ BU SATIRIN ALTINA EKLEYİN -->
+[[ar:قالب:Pp-protected]]
+[[en:Template:Pp-protected]]
+[[pt:Predefinição:Pp-protegida]]
+[[ro:Format:Protejat]]
+[[vi:Bản mẫu:Khóa-tranh chấp]]
+</includeonly>
