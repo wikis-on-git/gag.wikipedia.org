@@ -1,0 +1,15 @@
+<includeonly>{{koruma-ana
+|tür=move
+|küçük={{{küçük|evet}}}
+|demoalanı={{{demoalanı|}}}
+|demoseviyesi={{{demoseviyesi|undefined}}}
+|bitiş={{{bitiş|}}}
+|anlaşmazlık=hayır
+|neden={{#if:{{{neden|}}}|&#32;zira {{lcfirst:{{{neden|}}}}}}}
+|kategori={{{kategori|{{#switch: {{NAMESPACE}}
+ | {{ns:2}}
+ | {{ns:3}} = [[Kategori:Taşıma korumasına alınmış kullanıcı ve kullanıcı mesaj sayfaları|{{BASEPAGENAME}}]]
+ | {{ns:4}}
+ | {{ns:12}} = [[Kategori:Taşıma korumasına alınmış proje sayfaları|{{PAGENAME}}]]
+ | {{ns:100}} = [[Kategori:Taşıma korumasına alınmış portal sayfaları|{{PAGENAME}}]]
+ | #default = {{talk other|[[Kategori:Taşıma korumasına alınmış tartışma sayfaları|{{PAGENAME}}]]|[[Kategori:Taşıma korumasına alınmış sayfalar|{{PAGENAME}}]]}}}}{{#if:{{{bitiş|}}}||[[Kategori:Süresiz olarak korumaya alınmış sayfalar|{{PAGENAME}}]]}}}}}}}</includeonly><noinclude>{{koruma-taşıma|küçük=hayır|demoseviyesi=sysop|kategori=hayır}}{{şablon belgesi}}</noinclude>
