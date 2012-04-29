@@ -1,0 +1,31 @@
+{{Belgeleme navigasyonu}}
+<!-- LÜTFEN KATEGORİ VE İNTERVİKİLERİ BU SAYFANIN ALTINA EKLEYİN -->
+
+=== Kullanım ===
+* Normal şablon için {{tlx|{{lc:{{PAGENAME}}}}}} kodunu kullanın.
+* Silinme tartışmasına bağlantı vermek için {{tlx|{{lc:{{PAGENAME}}}}|sas&#61;Vikipedi:Silinmeye aday sayfalar/Örnek}} kodunu kullanın.
+* Spesifik bir bitiş tarihi için {{tlx|{{lc:{{PAGENAME}}}}|bitiş&#61;<gün> <İngilizce ay adı> <yıl>}} kodunu kullanın. Bitiş parametresi değerine örnek olarak ''24 December 2011'' verilebilir. Şablonun yapısı gereği ay değerinin İngilizce olarak girilmesi zorunludur.
+* Şablon, standart olarak sayfanın sağ üst köşesinde bir asma kilit sembolü görüntüler. Bunun yerine sayfanın üst ortasında bir bilgi kutusu görüntülemek istiyorsanız {{tlx|{{lc:{{PAGENAME}}}}|küçük&#61;hayır}} kodunu kullanın. Kullanıcıya açıklama yapılmasının önemli olduğu durumlarda bu yönteme başvurulmaktadır.
+
+''(UTC)'' otomatik olarak eklenecektir.
+
+Bu şablonu sadece '''taşıma korumasına alınmış''' sayfalarda kullanın. Sayfaları sadece [[VP:H|hizmetlilerin]] koruma altına alabileceğini unutmayın. Bu şablonun herhangi bir sayfaya eklenmesi, söz konusu sayfayı taşıma korumasına '''almayacaktır'''.
+
+:''Bu şablon, eklendiği sayfaları [[:Kategori:Taşıma korumasına alınmış sayfalar]] ve [[:Kategori:Koruma süresi sona ermiş sayfalar]]'ın altına yerleştirecektir''
+:''Diğer sayfalar da isim alanlarına göre [[:Kategori:Taşıma korumasına alınmış proje sayfaları]], [[:Kategori:Taşıma korumasına alınmış kullanıcı ve kullanıcı mesaj sayfaları]] veya [[:Kategori:Taşıma korumasına alınmış tartışma sayfaları]]'nın altına yerleştirilecektir.''
+
+=== Ayrıca bkz ===
+{{koruma şablonları}}
+
+<includeonly>
+<!-- KATEGORİ VE İNTERVİKİLER BURAYA -->
+[[Kategori:Koruma şablonları|Taşıma]]
+
+[[en:Template:Pp-move]]
+[[ro:Format:Pp-mutare]]
+[[zh:Template:Pp-move]]
+</includeonly>
+<noinclude>
+[[en:Template:Pp-move/doc]]
+[[zh:Template:Pp-move/doc]]
+</noinclude>
