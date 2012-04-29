@@ -1,0 +1,115 @@
+{{#ifeq:{{#switch:{{lc:{{{tür}}}}}
+  |move=<!--
+ -->{{#ifeq:
+      {{#switch:{{lc:{{{demoseviyesi|undefined}}}}}
+        |semi
+        |autoconfirmed=autoconfirmed
+        |administrator
+        |full
+        |sysop=sysop
+        |undefined={{PROTECTIONLEVEL:move}}
+        |#default=<!--fallback value: null
+   -->}}
+      |sysop|evet|hayır
+    }}
+  |create=<!--
+ -->{{#if:
+      {{#switch:{{lc:{{{demoseviyesi|undefined}}}}}
+        |semi
+        |autoconfirmed=autoconfirmed
+        |administrator
+        |full
+        |sysop=sysop
+        |undefined={{PROTECTIONLEVEL:create}}
+        |#default=<!--fallback value: null
+   -->}}
+      |evet|hayır
+    }}
+|#default<!--includes all other types-->=<!--
+ -->{{#if:
+      {{#switch:{{lc:{{{demoseviyesi|undefined}}}}}
+        |semi
+        |autoconfirmed=autoconfirmed
+        |administrator
+        |full
+        |sysop=sysop
+        |undefined={{PROTECTIONLEVEL:edit}}
+        |#default=<!--fallback value: null
+   -->}}
+      |{{#ifeq:{{#switch:{{lc:{{{izinsizseviye|}}}}}
+                 |semi
+                 |autoconfirmed=autoconfirmed
+                 |administrator
+                 |full
+                 |sysop=sysop
+                 |#default=<!--fallback value: null-->}}
+         |{{#switch:{{lc:{{{demoseviyesi|undefined}}}}}
+            |semi
+            |autoconfirmed=autoconfirmed
+            |administrator
+            |full
+            |sysop=sysop
+            |undefined={{PROTECTIONLEVEL:edit}}
+            |#default=<!--fallback value: null
+       -->}}
+         |hayır|evet
+       }}
+   |hayır}}
+}}|evet|{{#ifeq:{{lc:{{{küçük|}}}}}|evet|
+<div class="metadata topicon" id="protected-icon" style="display:none; right:55px;">[[Dosya:{{{resim|{{#switch:{{lc:{{{tür}}}}}
+ |full=Padlock.svg
+ |semi=Padlock-silver-medium.svg
+ |move=Padlock-olive.svg
+ |indef=Padlock-red.svg
+ |office=Padlock-black.svg
+ |create=Padlock-skyblue.svg
+ |#default=Transparent.gif
+}}}}}|20px|link={{{simge-bağlantı|Vikipedi:Koruma politikası#{{lc:{{{tür}}}}}}}}|{{{simge-metin|Bu {{sayfa türü}} {{#switch:{{lc:{{{tür}}}}}
+ |semi=yarı<nowiki> </nowiki>
+ |move=taşımaya karşı<nowiki> </nowiki>
+ |indef=süresiz<nowiki> </nowiki>
+ |create=oluşturulmaya karşı<nowiki> </nowiki>
+ |office=<!--null, but should this have a special tag?-->
+ |full
+ |#default=<!--null-->
+}}korumaya alınmıştır.{{#ifeq:{{lc:{{{tür}}}}}|indef||{{#if:{{{bitiş|}}}|<nowiki> </nowiki>Bitiş tarihi: {{#time:j F Y|{{{bitiş}}}}}}}}}{{#if:{{{simge-neden|}}}|<nowiki> </nowiki>{{{simge-neden}}}}}}}}]]</div>
+|<!-- else, not small -->
+{{mbox
+| demospace = {{{demoalanı|}}}
+| type = protection
+| image = [[Dosya:{{{resim|{{#switch:{{lc:{{{tür}}}}}
+ |full=Padlock.svg
+ |semi=Padlock-silver-medium.svg
+ |move=Padlock-olive.svg
+ |indef=Padlock-red.svg
+ |office=Padlock-black.svg
+ |create=Padlock-skyblue.svg
+ |#default=Transparent.gif
+}}}}}|40px|{{{simge-metin|Bu sayfa, {{#switch:{{lc:{{{tür}}}}}
+ |semi=yarı
+ |move=taşımaya karşı
+ |indef=süresiz<nowiki> </nowiki>
+ |create=oluşturulmaya karşı
+ |office=<!--null, but should this have a special tag?-->
+ |full
+ |#default=<!--null-->
+}}<nowiki> </nowiki>korumaya alınmıştır.}}}]]
+| text = '''{{{neden-metin|{{#switch:{{lc:{{{tür}}}}}
+ |full=Bu sayfa, şu anda değişiklik yapılmaması için [[Vikipedi:Koruma politikası|korumaya]] alınmıştır
+ |semi=[[Vikipedi:Kullanıcılar#Otomatik onaylanmış kullanıcılar|Yeni]] veya [[Vikipedi:Kullanıcılar#Anonim kullanıcılar|anonim]] kullanıcıların bu {{sayfa türü}} üzerinde değişiklik yapmaları [[Vikipedi:Koruma politikası|durdurulmuştur]]
+ |move=Bu {{sayfa türü}}, şu an [[Yardım:Sayfanın ismini değiştirmek|sayfa taşıma işlemlerine]] karşı [[Vikipedi:Koruma politikası|korumaya]] alınmıştır
+ |indef=Bu sayfa '''süresiz''' olarak [[Vikipedi:Koruma politikası|korumaya]] alınmıştır
+ |office=Bu {{sayfa türü}} şu an [[Vikipedi:Koruma politikası|korumaya]] alınmış durumdadır
+ |create=Bu {{sayfa türü}}, [[Yardım:Yeni madde yaratmak|yeniden oluşturulmaması]] için [[Vikipedi:Koruma politikası|korumaya]] alınmıştır
+}}{{#ifeq:{{lc:{{{tür}}}}}|indef||{{#if:{{{bitiş|}}}|.&#32;Bitiş tarihi: {{#time:[[j F]] [[Y]]|{{{bitiş}}}}}}}}}{{{neden<includeonly>|</includeonly>}}}.}}}'''<br /> {{{açıklama-metin|{{#ifeq:{{lc:{{{anlaşmazlık}}}}}|evet|Bu koruma, {{#ifeq:{{{tür}}}|move|[{{fullurl:Special:Log|type=move&page={{FULLPAGENAMEE}}}} mevcut ismin]|[{{fullurl:{{FULLPAGENAMEE}}|action=history}} mevcut sürümün]}} onaylandığı anlamına '''gelmez'''.}} Daha fazla bilgi için [[Vikipedi:Koruma politikası|koruma politikası]] ve [{{fullurl:Special:Log|type=protect&page={{FULLPAGENAMEE}}}} koruma kaydına] başvurun. {{#switch:{{lc:{{{tür}}}}}
+ |full|indef=Lütfen her türlü değişikliği [[{{TALKPAGENAME}}|tartışma sayfasında]] diğer kullanıcıların dikkatine sunun. {{#ifeq:{{NAMESPACE}}|{{ns:8}}<!--MediaWiki-->||Sayfadaki korumanın kaldırılması gerektiğini düşünüyorsanız, lütfen [[Vikipedi:Sayfa koruma talepleri#Koruma kaldırma talepleri|koruma kaldırma talebinde]] bulunun.}}
+ |semi=Bu {{sayfa türü}} üzerinde istemenize rağmen değişiklik yapamıyorsanız, {{#ifeq:{{NAMESPACE}}|{{TALKSPACE}}||değişiklik talebinde bulunmanız, [[{{TALKPAGENAME}}|değişiklikleri tartışma sayfasında tartışmaya açmanız]],}} [[Vikipedi:Sayfa koruma talepleri#Koruma kaldırma talepleri|korumanın kaldırılması talebinde bulunmanız]], [[Special:Userlogin|oturum açmanız]] ya da <span class="plainlinks">[http://tr.wikipedia.org/w/index.php?title=Special:Userlogin&type=signup <span style="color:#002bb8;" title="Sign in / create account">bir hesap edinmeniz mümkündür</span>].
+ |move=Sayfada düzenleme yapılabilir, ancak koruma kaldırılana dek sayfanın taşınması mümkün değildir. Lütfen taşıma önerilerinizi [[{{TALKPAGENAME}}|tartışma sayfasında]] gündeme getirin.  Sayfadaki korumanın kaldırılması için [[Vikipedi:Sayfa koruma talepleri#Koruma kaldırma talepleri|talepte]] bulunabilirsiniz.  
+ |office=Bu sayfada düzenleme yapabiliyorsanız, lütfen tüm değişiklik ve eklentilerinizi ilk önce [[{{TALKPAGENAME}}|tartışma sayfasında]] gündeme getirin. '''Wikimedia Vakfı tarafından size bu konuda verilmiş bir izin yoksa, sayfadaki korumayı asla kaldırmayın.'''
+ |create=Bu sayfanın neden silindiğini öğrenmek için, lütfen {{#if:{{{sas|}}}|'''[[{{{sas}}}|silinme tartışmasını]]''' veya}} [{{fullurl:Special:Log|type=delete&page={{FULLPAGENAMEE}}}} silme kaydını] inceleyin. Bu isimle bir sayfa oluşturmak istiyorsanız korumanın kaldırılması için [[Vikipedi:Sayfa koruma talepleri#Koruma kaldırma talepleri|talepte]] bulunmalı, silinen içeriğe ulaşmak istiyorsanız da sayfayı silen hizmetli ile irtibata geçmelisiniz.
+}}}}}
+}}
+}}|{{#ifeq:{{#expr:{{#ifeq:{{FULLPAGENAME}}|Şablon:Koruma-şablon|1|0}} + {{#ifeq:{{FULLPAGENAME}}|Şablon:Koruma-ana|1|0}}}}|0|[[Kategori:Hatalı koruma şablonuna sahip sayfalar|{{PAGENAME}}]]|}}}}<!--End if small--><includeonly>{{#ifeq:{{lc:{{{kategori|hayır}}}}}|hayır||{{{kategori|}}}}}</includeonly><noinclude>
+{{belgeleme}}
+<!-- Kategori ve intervikileri buraya değil, /doc altsayfasına ekleyin! -->
+</noinclude>
