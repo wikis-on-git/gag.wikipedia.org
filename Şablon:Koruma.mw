@@ -1,0 +1,41 @@
+<includeonly>{{koruma-ana
+|tür={{#switch:{{{demoseviyesi|{{PROTECTIONLEVEL:edit}}}}}
+   |semi
+   |autoconfirmed=semi
+   |administrator
+   |full
+   |sysop=full
+   |#default=full<!--fallback value-->}}
+|küçük={{{küçük|evet}}}
+|demoalanı={{{demoalanı|}}}
+|demoseviyesi={{{demoseviyesi|undefined}}}
+|bitiş={{{bitiş|}}}
+|anlaşmazlık=hayır
+|neden={{#if:{{{neden|}}}|&#32;Gerekçe: {{lcfirst:{{{neden|}}}}}}}
+|kategori={{{kategori|
+{{#switch:{{{demoseviyesi|{{PROTECTIONLEVEL:edit}}}}}
+ |semi
+ |autoconfirmed={{#switch: {{{demoalanı|{{NAMESPACE}}}}}
+   | {{ns:2}}
+   | {{ns:3}} = [[Kategori:Yarı korumaya alınmış kullanıcı ve kullanıcı mesaj sayfaları|{{BASEPAGENAME}}]]
+   | {{ns:6}} = [[Kategori:Yarı korumaya alınmış dosyalar|{{PAGENAME}}]]
+   | {{ns:4}}
+   | {{ns:12}} = [[Kategori:Yarı korumaya alınmış proje sayfaları|{{PAGENAME}}]]
+   | {{ns:100}} = [[Kategori:Yarı korumaya alınmış portallar|{{PAGENAME}}]]
+   | {{ns:10}} = [[Kategori:Yarı korumaya alınmış şablonlar|{{PAGENAME}}]]
+   | {{ns:14}} = [[Kategori:Yarı korumaya alınmış kategoriler|{{PAGENAME}}]]
+   | #default = {{talk other|[[Kategori:Yarı korumaya alınmış tartışma sayfaları|{{PAGENAME}}]]|[[Kategori:Yarı korumaya alınmış sayfalar|{{PAGENAME}}]]}}}}
+ |administrator
+ |full
+ |sysop={{#switch: {{{demoalanı|{{NAMESPACE}}}}}
+   | {{ns:2}}
+   | {{ns:3}} = [[Kategori:Korumaya alınmış kullanıcı ve kullanıcı mesaj sayfaları|{{BASEPAGENAME}}]]
+   | {{ns:6}} = [[Kategori:Korumaya alınmış dosyalar|{{PAGENAME}}]]
+   | {{ns:4}}
+   | {{ns:12}} = [[Kategori:Korumaya alınmış proje sayfaları|{{PAGENAME}}]]
+   | {{ns:10}} = [[Kategori:Korumaya alınmış şablonlar|{{PAGENAME}}]]
+   | {{ns:14}} = [[Kategori:Korumaya alınmış kategoriler|{{PAGENAME}}]]
+   | #default = {{talk other|[[Kategori:Korumaya alınmış tartışma sayfaları]]|[[Kategori:Korumaya alınmış sayfalar|{{PAGENAME}}]]}}}}}}}}}}}</includeonly><noinclude>
+{{belgeleme}}
+<!-- Kategori ve intervikileri buraya değil, /doc altsayfasına ekleyin! -->
+</noinclude>
