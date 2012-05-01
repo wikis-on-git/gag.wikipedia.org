@@ -1,0 +1,17 @@
+{| cellspacing=5 style="border: #ccccff solid; padding: 5px; text-align: center; background-color: white; width: 600px;" 
+| colspan="2" style="font-size:150%" | [[Vikipedi:Günün seçkin resmi|Günün seçkin resmi]]
+|-
+|[[Dosya:{{{resim}}}|{{{boyut|300}}}px{{#if:{{{thumbtime|}}}| {{!}} thumbtime={{{thumbtime}}} }}|{{{konum|center}}} {{#if:{{{başlık metni|}}}|{{!}}{{{başlık metni}}}|}}]]
+|
+{{#ifexpr: {{{boyut|300}}} >= 400 |
+{{!}}-
+{{!}}
+}}
+|-
+|<br />{{{altyazı}}}<br />
+|-
+|<small>{{{üreten}}}</small><br />
+|-
+|<div style="font-size:80%; text-align:right;">[[Vikipedi:Günün seçkin resmi/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}|Arşiv]] – [[Vikipedi:Seçkin resimler|Diğer seçkin resimler]]<div/>
+|}
+<noinclude>[[Kategori:Vikipedi günün seçkin resmi şablonları]]</noinclude>
