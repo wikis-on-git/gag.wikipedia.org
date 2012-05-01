@@ -12,7 +12,7 @@
 
 {| width="10%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#FFFFF0; -moz-border-radius:10px;"
 |-
-! style="background-color:#F5F5DC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid#EEE8AA; text-align: left; padding-left: 10px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Günün seçkin resmi | width=100px | height=24px }}</div> [[Vikipedi:Günün seçkin resmi|Günün seçkin resmi]]
+! style="background-color:#F5F5DC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid#EEE8AA; text-align: left; padding-left: 10px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Günün seçkin resmi | width=100px | height=24px }}</div>günün görünüşü
 |-
 |{{Vikipediya:GÜNÜN GÖRÜNÜŞÜ Dosyali/{{#time:Y-m-d}}}}
 |}
