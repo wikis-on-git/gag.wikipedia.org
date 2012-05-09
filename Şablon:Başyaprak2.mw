@@ -1,0 +1,52 @@
+{{Serê pele cor}}
+
+{| border="0" cellspacing="5"
+|- valign="top"
+| width="10%"|
+{{Kutu
+|mewzu = 1
+|hirayiye = 100
+|sernuşte = Nuştey ewroy
+|nuşte =
+
+{{Nuşte {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+}}
+
+{{Kutu
+|mewzu = 1
+|hirayiye = 100
+|sernuşte = Procey ena meng
+|nuşte = {{Proce {{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
+}}
+
+{{Kutu
+|mewzu = 1
+|hirayiye = 100
+|sernuşte = Zıwani
+|nuşte =
+ 
+}}
+| width="5%"|
+
+{{Kutu
+|mewzu = 1
+|hirayiye = 100
+|sernuşte = Fotrafê ewroy
+|nuşte ={{Fotraf {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+}}
+
+{{Kutu
+|mewzu = 1
+|hirayiye = 100
+|sernuşte = Merdum
+|nuşte ={{Merdum {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+}}
+
+{{Kutu
+|mewzu = 1
+|hirayiye = 100
+|sernuşte = Procey Bıray
+|nuşte = 
+
+}}
+|}
