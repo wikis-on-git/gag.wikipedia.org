@@ -1,0 +1,9 @@
+<div class="notice plainlinks" id="şablon belge sayfası dönüştürülmüş">''Bu belgeleme [[{{{1|{{FULLPAGENAME}}}}}/belge]] sayfasından <small>([{{fullurl:{{{1|{{FULLPAGENAME}}}}}/belge|action=edit}} diiştir] | [{{fullurl:{{{1|{{FULLPAGENAME}}}}}/belge|action=history}} İstoriya])</small> bağlantılı kopyalanmıştır.<!--
+/deneme tahtası, /sandbox (ve /kum havuzu ???) varsa düzenleme bağlantısıyla gösterilir:
+--> Bu şablon için, düzenleme denemeleri yapmakta kullanabileceğiniz [[deneme tahtası]] {{#ifexist: {{#rel2abs: /deneme tahtası}}|vardır <small>([{{fullurl:{{FULLPAGENAME}}/deneme tahtası|action=edit}} diiştir])</small> |yoktur}}; [[sandbox]] {{#ifexist: {{#rel2abs: /sandbox}}|vardır <small>([{{fullurl:{{FULLPAGENAME}}/sandbox|action=edit}} diiştir])</small> |yoktur}};<!--
+/testcases varsa düzenleme bağlantısıyla gösterilir:
+--> {{#ifexist: {{#rel2abs: /testcases}}|[[/testcases|testcases]] vardır|[[testcases]] yoktur}}.''</div><hr style='height:4px;color: #3366BB;'><noinclude>
+Şablon yukarıda göründüğü gibi gösterilecektir.
+{{Belgeleme}}
+<!--Kategorileri ve interwikileri buraya değil /belge alt-sayfasına yazın lütfen!-->
+</noinclude>
