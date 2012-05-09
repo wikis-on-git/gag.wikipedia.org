@@ -1,6 +1,4 @@
 <includeonly>|-
 |&nbsp;&nbsp;{{Tarihin günü/entry
-|mon&yr={{{m}}} {{{y}}}
-|yr&wkd={{{y}}} ({{#time:l|{{{d}}} {{{m}}} {{{y}}}}})
-}}
+
 </includeonly>
