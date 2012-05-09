@@ -1,0 +1,188 @@
+{{Dolaşım
+|ad = {{{ad|<noinclude>Navbox with collapsible groups</noinclude>}}}
+|dolçub = {{{dolçub|}}}
+|durum= {{{durum<noinclude>|uncollapsed</noinclude>}}}
+|kenar = {{{kenar|{{{1|}}}}}}
+
+|başlık = {{{başlık<includeonly>|</includeonly>}}}
+|üst = {{{üst|}}}
+|alt = {{{alt|}}}
+|resim = {{{resim|}}}
+|resimsol = {{{resimsol|}}}
+
+|biçim = {{{biçim|}}}{{{gövdebiçimi|}}}
+|temelbiçim = {{{temelbiçim|}}}
+|başlıkbiçimi = {{{başlıkbiçimi|}}}
+|üstbiçim = {{{üstbiçim|}}}
+|altbiçim = {{{altbiçim|}}}
+|resimsol= {{{resimsol|}}}
+|resimsolbiçimi = {{{resimsolbiçimi|}}}
+
+|liste1 =
+{{#if:{{{grup1<includeonly>|</includeonly>}}}{{{seç1|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma1}}} |uncollapsed |{{{durum1|collapsed}}}}}
+    |başlıkbiçimi= {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup1biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste1biçimi|}}}
+    |başlık = {{{grup1<includeonly>|</includeonly>}}}{{{seç1|}}}
+    |liste1 = {{{liste1<includeonly>|</includeonly>}}}
+    |resim = {{{resim1|}}}
+    |resimsol = {{{resimsol1|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste1|}}}
+}}
+
+|liste2 =
+{{#if:{{{grup2<includeonly>|</includeonly>}}}{{{seç2|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma2}}} |uncollapsed |{{{durum2|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup2biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste2biçimi|}}}
+    |başlık = {{{grup2<includeonly>|</includeonly>}}}{{{seç2|}}}
+    |liste1 = {{{liste2<includeonly>|</includeonly>}}}
+    |resim = {{{resim2|}}}
+    |resimsol = {{{resimsol2|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste2|}}}
+}}
+
+|liste3 =
+{{#if:{{{grup3<includeonly>|</includeonly>}}}{{{seç3|}}}
+ | {{Dolaşım|child
+    |durum  = {{#ifeq:{{{seç}}}|{{{kısaltma3}}} |uncollapsed |{{{durum3|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup3biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste3biçimi|}}}
+    |başlık = {{{grup3<includeonly>|</includeonly>}}}{{{seç3|}}}
+    |liste1 = {{{liste3<includeonly>|</includeonly>}}}
+    |resim = {{{resim3|}}}
+    |resimsol = {{{resimsol3|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste3|}}}
+}}
+
+|liste4 =
+{{#if:{{{grup4<includeonly>|</includeonly>}}}{{{seç4|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma4}}} |uncollapsed |{{{durum4|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup4biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste4biçimi|}}}
+    |başlık = {{{grup4<includeonly>|</includeonly>}}}{{{seç4|}}}
+    |liste1 = {{{liste4<includeonly>|</includeonly>}}}
+    |resim = {{{resim4|}}}
+    |resimsol = {{{resimsol4|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste4|}}}
+}}
+
+|liste5 =
+{{#if:{{{grup5|}}}{{{seç5|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma5}}} |uncollapsed |{{{durum5|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup5biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste5biçimi|}}}
+    |başlık = {{{grup5<includeonly>|</includeonly>}}}{{{seç5|}}}
+    |liste1 = {{{liste5<includeonly>|</includeonly>}}}
+    |resim = {{{resim5|}}}
+    |resimsol = {{{resimsol5|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste5|}}}
+}}
+
+|liste6 =
+{{#if:{{{grup6|}}}{{{seç6|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma6}}} |uncollapsed |{{{durum6|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup6biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste6biçimi|}}}
+    |başlık = {{{grup6<includeonly>|</includeonly>}}}{{{seç6|}}}
+    |liste1 = {{{liste6<includeonly>|</includeonly>}}}
+    |resim = {{{resim6|}}}
+    |resimsol = {{{resimsol6|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste6|}}}
+}}
+
+|liste7 =
+{{#if:{{{grup7|}}}{{{seç7|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma7}}} |uncollapsed |{{{durum7|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup7biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste7biçimi|}}}
+    |başlık = {{{grup7<includeonly>|</includeonly>}}}{{{seç7|}}}
+    |liste1 = {{{liste7<includeonly>|</includeonly>}}}
+    |resim = {{{resim7|}}}
+    |resimsol = {{{resimsol7|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste7|}}}
+}}
+
+|liste8 =
+{{#if:{{{grup8|}}}{{{seç8|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma8}}} |uncollapsed |{{{durum8|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup8biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{list8biçimi|}}}
+    |başlık = {{{grup8<includeonly>|</includeonly>}}}{{{seç8|}}}
+    |liste1 = {{{liste8<includeonly>|</includeonly>}}}
+    |resim = {{{resim8|}}}
+    |resimsol = {{{resimsol8|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste8|}}}
+}}
+
+|liste9 =
+{{#if:{{{grup9|}}}{{{seç9|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma9}}} |uncollapsed |{{{durum9|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup9biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{list9biçimi|}}}
+    |başlık = {{{grup9<includeonly>|</includeonly>}}}{{{seç9|}}}
+    |liste1 = {{{liste9<includeonly>|</includeonly>}}}
+    |resim = {{{resim9|}}}
+    |resimsol = {{{resimsol9|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste9|}}}
+}}
+
+|liste10 =
+{{#if:{{{grup10|}}}{{{seç10|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma10}}} |uncollapsed |{{{durum10|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup10biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{list10biçimi|}}}
+    |başlık = {{{grup10<includeonly>|</includeonly>}}}{{{seç10|}}}
+    |liste1 = {{{liste10<includeonly>|</includeonly>}}}
+    |resim = {{{resim10|}}}
+    |resimsol = {{{resimsol10|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste10|}}}
+}}
+
+|liste11 =
+{{#if:{{{grup11|}}}{{{seç11|}}}
+ | {{Dolaşım|child
+    |durum = {{#ifeq:{{{seç}}}|{{{kısaltma11}}} |uncollapsed |{{{durum11|collapsed}}}}}
+    |başlıkbiçimi = {{{temelbiçim|}}};{{{grupbiçimi|}}}{{{seçbaşlıkbiçimi|}}}{{{grup11biçimi|}}}
+    |listebiçimi = {{{listebiçimi|}}}{{{liste1biçim|}}}
+    |başlık = {{{grup11<includeonly>|</includeonly>}}}{{{seç11|}}}
+    |liste1 = {{{liste11<includeonly>|</includeonly>}}}
+    |resim = {{{resim11|}}}
+    |resimsol = {{{resimsol11|}}}
+    |{{#if:{{{listedolgusu|}}} |listedolgusu |void}} = {{{listpadding|}}}
+   }}
+ | {{{liste11|}}}
+
+}}
+}}<noinclude>
+{{Belgeleme}}
+</noinclude>
