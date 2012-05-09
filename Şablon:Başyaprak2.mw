@@ -33,15 +33,15 @@
 {{Kutu
 |tema = 1
 |genişlik  = 100
-|başlık = Seçkin yer
-|yazı = {{Seçkin yer}}
-}}
-
-{{Kutu
-|tema = 1
-|genişlik  = 100
 |başlık = Bilirsini
 |yazı = {{Bilirsini}}
 }} 
 |}
+
+{{Kutu
+|tema = 1
+|genişlik  = 100
+|başlık = Seçkin yer
+|yazı = {{Seçkin yer}}
+}}
 {{Baş yaprak metakutu}}
