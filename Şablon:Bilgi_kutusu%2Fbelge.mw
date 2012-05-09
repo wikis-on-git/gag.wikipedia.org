@@ -1,0 +1,377 @@
+{{Belgeleme navigasyonu}}
+<!-- KATEGORİ VE INTERWIKILERİ sayfanın altında EKLEYİNİZ. -->
+
+=== Kullanımı ===
+Diğer bir benzer kullanım için {{tl|Dolaşım}} şablonuna bakınız, fakat ek bir fark mevcut. Tablonun her satırı, ya bir "başlık" olabilir ya da bir etiket/veri çifti olabilir, veya sadece bir veri hücresi olabilir.
+   
+=== Parametreler ===
+====Göster/Tartış/Düzenle etiketleri====
+;ad : Bu parametre kullanılırsa bilgi kutusu üzerinde "Göster/Tartış/Düzenle" etiketleri belirecektir. Parametre değeri olarak bilgi kutusu şablonunun adı belirtilmedir. Bu parametre kullanılmazsa, göster/düzenle/tartış bağlantıları gözükmeyecektir. Örnek: Müzik sanatçısı bilgi kutusu
+
+====Başlık====
+{{Bilgi kutusu
+| anabaşlık = Başlık bilgi kutusunun üzerinde (Örnek 1)
+| veri1     = (bilgi kutusunun geri kalan kısmı)
+}}
+{{Bilgi kutusu
+| üst   = Başlık bilgi kutusunun içinde (Örnek 2)
+| veri1 = (bilgi kutusunun geri kalan kısmı)
+}}
+
+;Bilgi kutusuna '''''başlık''''' eklemenin iki yolu vardır.
+:1. Birinci yol, başlık bilgi kutusunun dışında kalır ve en üste gelir. ('''anabaşlık''' kullanarak) (Örnek 1)
+::'''anabaşlık''' : Başlığın bilgi kutusunu oluşturan gövdenin üzerine çıkması için bu parametre kullanılır. (1. örnekteki gibi)
+
+:2. İkinci yol, başlık bilgi kutusunun içinde yer alır. ('''üst''' kullanarak) (Örnek 2)
+::'''üst''' : Başlığın bilgi kutusunu oluşturan gövdenin içinde yer alması için bu parametre kullanılır. (2. örnekteki gibi)
+
+Bu iki kullanımdan istediğinizi kullanabilirsiniz. Hatta iki başlığı aynı anda bile kullabilirsiniz (fakat bu kullanım tavsiye edilmez).
+
+====Tercihe bağlı parametreler====
+; altbaşlık, altbaşlık2: <code><nowiki> {{{anabaşlık}}}</nowiki></code> ve <code><nowiki>{{{üst}}}</nowiki></code> arasına uygun bir altbaşlık için bu parametreyi kullanınız.
+; resim, resim2 : Şablonda yer alması istenen resimler için kullanılır. Örneğin <nowiki>[[Dosya:örnek.png|200px]]</nowiki>. Resim otomatik olarak ortalanacaktır.
+;altyazı, altyazı2 : Resimin hemen altında görünecek olan, resimi açıklayıcı altyazı. <br />'''Not:''' ''resim'' parametresi için ''altyazı'' parametresini, ''resim2'' parametresi için ''altyazı2'' parametresini kullanın.
+;başlık(n) : Metne uygun bir başlık verir. (n: burda bir sayı göstermektedir. Örneğin: başlık1, başlık2 ... başlık80)
+;etiket(n): Metne uygun bir etiket verir. (n: burda bir sayı göstermektedir. Örneğin: etiket1, etiket2 ... etiket80)
+;veri(n): Metne uygun bir bilgi/parametre verir. (n: burda bir sayı göstermektedir. Örneğin: veri1, veri2 ... veri80)
+;alt: Bilgi kutusunun en altında yer alacak olan bilgiler için kullanılır.
+
+*'''Not''': Başlık, etiket ve veri parametrelerini kullanırken sayısal olarak sırayla gidiniz ve sayıların birbiriyle uyumlu olması gerektiğini unutmayınız. Örneğin: başlık1, etiket1, veri1; başlık2, etiket2, veri2... gibi
+
+====Tercihsel [[CSS]] stilleri====
+;gövdebiçimi : Bilgi kutusunun gövdesi için CSS stili.
+;anabaşlıkbiçimi : Sadece '''anabaşlık''' için kullanılan CSS stili.  
+;üstbiçim : '''üst''' parametresi için CSS stili. Ana ayarlar <code><nowiki>font-size:large;</nowiki></code> şeklindedir. Eğer düzgün görünümlü bir ayar istiyorsanız "font-size:medium;" şeklinde kullanınız. 
+;resimbiçimi : Resimlerin CSS stili.
+;altyazıbiçimi :Resmin altyazısı (altyazı, altyazı2) için CSS stili.
+;başlıkbiçimi : Bilgi kutusunda yer alacak başlıklar (başlık1, başlık2 ... başlık80) için CSS stili.
+;etiketbiçimi : Etiketler için (etiket1, etiket2 ... etiket80) CSS stili.
+;veribiçimi : Veri parametreleri için CSS stili. (veri1, veri2 ... veri80)
+;altbiçim : '''alt''' parametresi için CSS stili.
+
+====HTML sınıfları====
+;gövdesınıfı :
+;anabaşlıksınıfı :
+;üstsınıf : 
+;üstsırasınıfı :
+;altbaşlıksınıfı : 
+;altbaşlıksırasınıfı1, altbaşlıksırasınıfı2 :
+;resimsınıfı : 
+;resimsırasınıfı1, resimsırasınıfı2 :
+;sırasınıfı(n) :
+;sınıf(n) :
+;altsınıf :
+
+====Microformatlar====
+Bu şablon microformat'ı desteklemektedir. Bu "sınıf" nitelikleri, çeşitli veri hücreleri ekleme tür bilgilerin içinde yer alan ne olduğunu gösteren tarafından yapılır. hCard bilgileri içeren gibi bir infobox bayrağı için, örneğin, aşağıdaki parametreyi ekleyin:
+
+<pre>
+|gövdesınıfı = vcard
+</pre>
+
+''vcard'' parçası olan ve bir veri hücresi içeren her satır için, uygun bir sınıf parametresi ekleyin.
+
+<pre>
+|sınıf1 = fn
+|sınıf2 = org
+|sınıf3 = tel
+</pre>
+
+...ve bunun gibi, "üst" ve "anabaşlık" genellikle kullanılan bu parametreler için sınıf tanımlanabilir.
+
+microformat ile wikipediye bilgi eklemek istiyorsanız daha fazla bilgi için [[Wikipedia:WikiProject Microformats]] (İngilizce)'a bakınız. Ve genel microformats kullanımları için [http://microformats.org/wiki/Main_Page microformats.org] adresine bakabilirsiniz.
+
+===Alanların isteğe bağlı yapma===
+'''etiket''' i olan fakat '''veri''' si olmayan satır gösterilmez.
+Bu kullanım infobox içeriğine, isteğe bağlı bir satır yaratılmasında kolaylık sağlıyor.
+
+İsteğe bağlı extra bir parametre eklemek istiyorsanız aşağıdaki gibi kullanabilirsiniz:
+
+<pre>
+|başlık5 = Popülasyon
+|veri5  = {{{popülasyon|}}}
+</pre>
+
+Bu şekilde bir makale infobox nüfusun parametresini tanımlamak değilse satır görüntülenir olmayacaktır.
+
+Parametre olmasa bile hala mevcut olacaktır öncesi format içeriğini daha karmaşık alanları için, tüm sarabileceğiniz parametre kullanılmadığı zaman bir şeyi yapmak için bildirimde kaybolur "# if". Örneğin, aşağıdaki örnekte bir bildirimde okur "# if" # if: Parametre''kitle''sağlanmıştır | sonra gösterilir, ardından 'kg' ":
+
+<pre>
+|başlık6 = Kütle
+|veri6  = {{#if:{{{kütle|}}}|{{{kütle}}} kg}}
+</pre>
+
+#if, hakkında daha fazla bilgi için buraya[[meta:ParserFunctions##if:|bakınız.]].<br/>
+Örnek bir bilgi kutusu şablonu.
+
+<pre style="overflow:auto;">
+{{Bilgi kutusu
+|ad        = {{subst:PAGENAME}}
+|anabaşlık = İsteğe bağlı başlık değeri
+|başlık1   = {{#if:{{{değer_bir|}}}{{{değer_iki|}}}{{{değer_üç|}}} |İsteğe bağlı başlık}}
+|etiket2   = Değer 1
+|veri2     = {{{değer_bir|}}}
+|etiket3   = Değer 2
+|veri3     = {{{değer_iki|}}}
+|etiket4   = Değer 3
+|veri4     = {{{değer_üç|}}}
+}}
+</pre>
+
+Yukarıdaki örnekteki başlık1, değer1 yada değer2 yada değer3'ün herhangi birinin tanımlanması durumunda gözükecektir. Hiç bir değerin (değer1 yada değer2 yada değer3) girilmemesi durumunda gözükmeyecektir.
+
+Bu hile, hiçbir şey koşullu bölümünde herhangi yalnızca false döndürür "eğer" item_one sadece eğer her üç, bu nedenle, item_two ve item_three deyimi başarısız eğer tanımlanmamış olduğunu.
+
+===Örnekler===
+{{Bilgi kutusu
+|ad              = Bilgi kutusu/doc
+|gövdebiçimi     = 
+|anabaşlık       = Test anabaşlık
+|anabaşlıkbiçimi = 
+
+|resim           = [[Resim:örnek.jpg|200px]]
+|resimbiçimi     = 
+|altyazı         = örnek.jpg'nin altyazısı
+|altyazıbiçimi   = 
+|başlıkbiçimi    = background:#ccf;
+|etiketbiçimi    = background:#ddf;
+|veribiçimi      = 
+
+|başlık1         = Sadece başlık değeri
+|etiket1         = 
+|veri1           = 
+|başlık2         = 
+|etiket2         = Sadece etiket değeri
+|veri2           = 
+|başlık3         =
+|etiket3         = 
+|veri3           = Sadece veri değeri
+|başlık4         = 3. parametrede dolu (başlık)
+|etiket4         = 3. parametrede dolu (etiket)
+|veri4           = 3. parametrede dolu (veri)
+|başlık5         =
+|etiket5         = Etiket ve veri dolu (etiket)
+|veri5           = Etiket ve veri dolu (veri)
+
+|altbiçim        = background:#ddf;
+|alt             = En alt yazı
+}}
+
+<pre style="overflow:auto;">
+{{Bilgi kutusu
+|ad              = Bilgi kutusu/doc
+|gövdebiçimi     = 
+|anabaşlık       = Test anabaşlık
+|anabaşlıkbiçimi = 
+
+|resim           = [[Resim:örnek.jpg|200px]]
+|resimbiçimi     = 
+|altyazı         = örnek.jpg nin altyazısı
+|altyazıbiçimi   = 
+|başlıkbiçimi    = background:#ccf;
+|etiketbiçimi    = background:#ddf;
+|veribiçimi      = 
+
+|başlık1         = Sadece başlık değeri
+|etiket1         = 
+|veri1           = 
+|başlık2         = 
+|etiket2         = Sadece etiket değeri
+|veri2           = 
+|başlık3         =
+|etiket3         = 
+|veri3           = Sadece veri değeri
+|başlık4         = 3. parametrede dolu (başlık)
+|etiket4         = 3. parametrede dolu (etiket)
+|veri4           = 3. parametrede dolu (veri)
+|başlık5         =
+|etiket5         = Etiket ve veri dolu (etiket)
+|veri5           = Etiket ve veri dolu (veri)
+
+|altbiçim        = background:#ddf;
+|alt             = En alt yazı
+}}
+</pre>
+
+satırda görüntülenen infobox görünmüyor eşlik eden bir veri hücresi olmayan bir etiket tanımlanır nasıl ne zaman, ve bir başlık, başlık önceliklidir bir veri hücresi olarak aynı satırda tanımlanır dikkat edin.
+{{clear}}
+Bunun örneği, {{nowrap|bodystyle &#0061; width:20em;}} ve {{nowrap|labelstyle &#0061; width:33%;}}
+
+{{Bilgi kutusu
+|ad              = Bilgi kutusu/doc
+|gövdebiçimi     = 
+|anabaşlık       = Bilgi kutusu deneme
+|anabaşlıkbiçimi = 
+
+|resim           = [[Dosya:örnek.jpg|200px|alt=Örnek altyazı]]
+|altyazı         = Örnek resim için altyazı
+
+|başlıkbiçimi    = background:#ccf;
+|etiketbiçimi    = background:#ddf;
+|veribiçimi      = 
+
+|başlık1 = 
+|etiket1 = Etiket 1
+|veri1   = Veri 1
+|başlık2 = 
+|etiket2 = Etiket 2
+|veri2   = Veri 2
+|başlık3 = 
+|etiket3 = Etiket 3
+|veri3   = Veri 3
+|başlık4 = Başlık 4
+|etiket4 = 
+|veri4   = 
+|başlık5 = 
+|etiket5 = Etiket 5
+|veri5   = Veri 5: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+|altbiçim = background:#ddf;
+|alt      = Alt yazım
+}}
+
+{{clear}}
+
+=== En fazla kullanma ===
+'''Not:''' Bilgi kutusunda en fazla 80 başlık1/etiket/veri kullanılabilir.
+
+<pre style="overflow:auto;">
+{{Bilgi kutusu
+|ad             = {{subst:PAGENAME}}
+|gövdebiçimi    = 
+|başlık         = 
+|başlıkbiçimi   = 
+|üst            = 
+|üstbiçimi      = 
+|resim          = 
+|resimbiçimi    = 
+|altyazı        = 
+|altyazıbiçimi  = 
+|etiketbiçimi   = 
+|veribiçimi     = 
+
+|başlık1    = 
+|etiket1    = 
+|veri1      = 
+
+|başlık2    = 
+|etiket2    = 
+|veri2      = 
+
+|başlık3    = 
+|etiket3    = 
+|veri3      = 
+
+|başlık4    = 
+|etiket4    = 
+|veri4      = 
+
+|başlık5    = 
+|etiket5    = 
+|veri5      = 
+
+|başlık6    = 
+|etiket6    = 
+|veri6      = 
+
+|başlık7    = 
+|etiket7    = 
+|veri7      = 
+
+|başlık8    = 
+|etiket8    = 
+|veri8      = 
+
+|başlık9    = 
+|etiket9    = 
+|veri9      = 
+
+|başlık10   = 
+|etiket10   = 
+|veri10     = 
+
+|başlık11   = 
+|etiket11   = 
+|veri11     = 
+
+|başlık12   = 
+|etiket12   = 
+|veri12     = 
+
+|başlık13   = 
+|etiket13   = 
+|veri13     = 
+
+|başlık14   = 
+|etiket14   = 
+|veri14     = 
+
+|başlık15   = 
+|etiket15   = 
+|veri15     = 
+
+|başlık16   = 
+|etiket16   = 
+|veri16     = 
+
+|başlık17   = 
+|etiket17   = 
+|veri17     = 
+
+|başlık18   = 
+|etiket18   = 
+|veri18     = 
+
+|başlık19   = 
+|etiket19   = 
+|veri19     = 
+
+|başlık20   = 
+|etiket20   = 
+|veri20     = 
+
+|aşağıbiçimi =
+|aşağı = 
+}}
+</pre>
+
+=== MediaWiki ===
+Infobox şablonları düzenli olarak güncellenmelidir. [[en:Wikipedia:WikiProject Transwiki]]
+
+=== Ayrıca bakınız ===
+*{{tl|Bilgi kutusu başla}}
+*{{tl|Bilgi kutusu sonu}}
+
+<includeonly>
+[[Kategori:Bilgi kutusu şablonları| ]]
+
+[[et:Mall:Infobox]]
+[[eo:Ŝablono:Informkesto]]
+[[es:Plantilla:Ficha]]
+[[en:Template:Infobox]]
+[[fa:الگو:دادان]]
+[[fi:Malline:Tietolaatikko]]
+[[fr:Modèle:Infobox]]
+[[hsb:Předłoha:Infokašćik]]
+[[ia:Patrono:Infobox]]
+[[os:Шаблон:Infobox]]
+[[it:Template:Infobox]]
+[[is:Snið:Infobox]]
+[[lv:Veidne:Infobox]]
+[[mk:Шаблон:Infobox]]
+[[no:Mal:Infoboks]]
+[[ja:Template:Infobox]]
+[[ko:틀:정보상자]]
+[[ka:თარგი:ინფოდაფა]]
+[[nn:Mal:Infoboks]]
+[[pt:Predefinição:Info]]
+[[ro:Format:Infobox]]
+[[ru:Шаблон:Карточка]]
+[[sk:Šablóna:Infobox]]
+[[sl:Predloga:Infopolje]]
+[[sv:Mall:Infobox]]
+[[th:แม่แบบ:กล่องข้อมูล]]
+[[uk:Шаблон:Картка]]
+[[ur:Template:Infobox]]
+[[zh:Template:Infobox]]
+</includeonly>
