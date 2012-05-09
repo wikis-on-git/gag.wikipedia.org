@@ -1,19 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Poyraz Atlantika Annaşması Topluluu."
-|
+{{Dolaşım
+|ad=Poyraz Atlantika Annaşması Topluluu
+|başlık=Poyraz Atlantika Annaşması Topluluu
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#85ABFF; ">'''[[Poyraz Atlantika Annaşması Topluluu|Poyraz Atlantika Annaşması Topluluu (NATO)]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:left;"
-|-
-| colspan="3" | 
-{|
-<small>
-|- 
-<small>
-!  bgcolor=#85ABFF colspan="1" |<font color="white"><small> '''Aza Devletler'''</font><small> 
-| <small>
+|grup1=Aza devletler
+|liste1=
 {{Albaniya bayrak}} &nbsp;• 
 {{Amerika Birleşik Devletläri}} &nbsp;• 
 {{Belgiya}} &nbsp;•
@@ -41,28 +31,13 @@
 {{Slovakiya}} &nbsp;• 
 {{Sloveniya}} &nbsp;• 
 {{Türkiye}} &nbsp;• 
-{{Vengriya}} <small>
-|
-| 
-|-
-| 
-|
-|-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Kandidat Devletler'''</font><small>
-| <small>
+{{Vengriya}}  
+|grup2=Kandidat Devletler
+|liste2=
 {{Gruziya}} &nbsp;• 
 {{Makedoniya}} &nbsp;• 
 {{Ukrayna}} 
-<small>
-|}
-
-|-
-|}
-|}
-
-</div>
-</div>
+}}
 <noinclude>
 [[af:Sjabloon:NAVO-lande]]
 [[ar:قالب:حلف الناتو]]
