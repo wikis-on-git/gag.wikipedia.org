@@ -1,0 +1,338 @@
+<!--
+
+Lütfen tartışmadan önce bu şablonda değişiklik yapmayın, zira bu OLDUKÇA KARMAŞIK bir şablondur.
+
+-->{{Dolaşım
+|ad = {{{ad|}}}
+|dolçub         = {{{dolçub|}}}
+|durum          = {{{durum|}}}
+|kenar          = {{{kenar|{{{1|}}}}}}
+|başlık         = {{{başlık|}}}
+|üst            = {{{üst|}}}
+|alt            = {{{alt|}}}
+|resim          = {{{resim|}}}
+|resimsol       = {{{resimsol|}}}
+|biçim          = {{{biçim|}}}{{{gövdebiçimi|}}}
+|temelbiçim     = {{{temelbiçim|}}}
+|başlıkbiçimi   = {{{başlıkbiçimi|}}}
+|üstbiçim       = {{{üstbiçim|}}}
+|altbiçim       = {{{altbiçim|}}}
+|resimbiçimi    = {{{resimbiçimi|}}}
+|resimsolbiçimi = {{{resimsolbiçimi|}}}
+|liste1dolgusu  = 0px;
+
+|liste1 = <!--
+ --><table cellspacing="0" class="navbox-columns-table" style="text-align:left;<!--
+ -->{{#if:{{{dikeç1başlık|}}}{{{tamgenişlik|}}}|width:100%;<!--
+ -->|width:auto;margin-left:auto;margin-right:auto;}}{{{dikeçtablobiçimi|}}}"><!--
+
+
+--- Başlık sırası ---
+
+-->{{#if:{{{dikeç1başlık|}}}|<tr><!--
+
+--><td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç1başlıkdikkay|1}}} style="<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç1başlıkbiçimi|}}}">'''{{{dikeç1başlık}}}'''</td><!--
+
+-->{{#if:{{{dikeç2başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç2başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç2başlıkbiçimi|}}}">'''{{{dikeç2başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç3başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç3başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç3başlıkbiçimi|}}}">'''{{{dikeç3başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç4başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç4başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç4başlıkbiçimi|}}}">'''{{{dikeç4başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç5başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç5başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç5başlıkbiçimi|}}}">'''{{{dikeç5başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç6başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç6başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç6başlıkbiçimi|}}}">'''{{{dikeç6başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç7başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç7başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç7başlıkbiçimi|}}}">'''{{{dikeç7başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç8başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç8başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç8başlıkbiçimi|}}}">'''{{{dikeç8başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç9başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç9başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç9başlıkbiçimi|}}}">'''{{{dikeç9başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç10başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç10başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç10başlıkbiçimi|}}}">'''{{{dikeç10başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç11başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç11başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç11başlıkbiçimi|}}}">'''{{{dikeç11başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç12başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç12başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç12başlıkbiçimi|}}}">'''{{{dikeç12başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç13başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç13başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç13başlıkbiçimi|}}}">'''{{{dikeç13başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç14başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç14başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç14başlıkbiçimi|}}}">'''{{{dikeç14başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç15başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç15başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç15başlıkbiçimi|}}}">'''{{{dikeç15başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç16başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç16başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç16başlıkbiçimi|}}}">'''{{{dikeç16başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç17başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç17başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç17başlıkbiçimi|}}}">'''{{{dikeç17başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç18başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç18başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç18başlıkbiçimi|}}}">'''{{{dikeç18başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç19başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->colspan={{{dikeç19başlıkdikyay|1}}} style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç19başlıkbiçimi|}}}">'''{{{dikeç19başlık}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç20başlık|}}}|<td class="navbox-abovebelow" <!--
+ -->style="border-left:2px solid #fdfdfd;<!--
+ -->{{{dikeçbaşlıkbiçimi|}}}{{{dikeç20başlıkbiçimi|}}}">'''{{{dikeç20başlık}}}'''</td>}}<!--
+
+--></tr>}}<!--
+
+
+--- Ana dikeçler ---
+
+-->{{#if:{{{dikeç1|}}}|{{#if:{{{dikeç1başlığı|}}}|<tr style="height:2px;"><td></td></tr>}}<!--
+
+--><tr style="vertical-align:top;"><!--
+-->{{#if:{{{dikeç1başlığı|}}}{{{dikeç1altlığı|}}}{{{tamgenişlik|}}}|<!--
+ -->|{{#switch:{{{dolgu|}}}|off|0|0em|0px|0%|0;|0em;|0px;|0%;=<!--
+ -->|#default=<td style="width:{{{dolgu|5em}}};">&nbsp;&nbsp;&nbsp;</td>}}}}<!--
+
+--><td style="padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç1biçimi|}}};width:{{{dikeç1genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç1}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç2|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç2biçimi|}}};width:{{{dikeç2genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç2}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç3|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç3biçimi|}}};width:{{{dikeç3genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç3}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç4|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç4biçimi|}}};width:{{{dikeç4genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç4}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç5|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç5biçimi|}}};width:{{{dikeç5genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç5}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç6|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç6biçimi|}}};width:{{{dikeç6genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç6}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç7|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç7biçimi|}}};width:{{{dikeç7genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç7}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç8|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç8biçimi|}}};width:{{{dikeç8genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç8}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç9|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç9biçimi|}}};width:{{{dikeç9genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç9}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç10|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç10biçimi|}}};width:{{{dikeç10genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç10}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç11|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç11biçimi|}}};width:{{{dikeç11genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç11}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç12|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç12biçimi|}}};width:{{{dikeç12genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç12}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç13|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç13biçimi|}}};width:{{{dikeç13genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç13}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç14|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç14biçimi|}}};width:{{{dikeç14genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç14}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç15|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç15biçimi|}}};width:{{{dikeç15genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç15}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç16|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç16biçimi|}}};width:{{{dikeç16genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç16}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç17|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç17biçimi|}}};width:{{{dikeç17genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç17}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç18|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç18biçimi|}}};width:{{{dikeç18genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç18}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç19|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{tekdikeçbiçimi|}}};{{{dikeç19biçimi|}}};width:{{{dikeç19genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç19}}}
+</div></td>}}<!--
+
+-->{{#if:{{{dikeç20|}}}|<td style="border-left:2px solid #fdfdfd;padding:0px;<!--
+-->{{{dikeçbiçimi|}}};{{{çiftdikeçbiçimi|}}};{{{dikeç20biçimi|}}};width:{{{dikeç20genişliği|{{{dikeçgenişliği|10em}}}}}};"><div>
+{{{dikeç20}}}
+</div></td>}}<!--
+
+
+
+--- Altlık satırı ---
+
+-->{{#if:{{{dikeç1altlığı|}}}|<!--
+-->{{#if:{{{dikeç1|}}}{{{dikeç1başlığı|}}}|<tr style="height:2px"><td></td></tr>}}<tr><!--
+
+--><td class="navbox-abovebelow" colspan={{{dikeç1altlıkdikyay|1}}} style="<!--
+ -->{{{dikeçdikeçbiçimi|}}};{{{dikeç1dikeçbiçimi|}}}">'''{{{dikeç1altlığı}}}'''</td><!--
+
+-->{{#if:{{{dikeç2altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç2altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç2dikeçbiçimi|}}}">'''{{{dikeç2altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç3altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç3altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç3dikeçbiçimi|}}}">'''{{{dikeç3altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç4altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç4altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç4dikeçbiçimi|}}}">'''{{{dikeç4altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç5altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç5altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç5dikeçbiçimi|}}}">'''{{{dikeç5altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç6altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç6altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç6dikeçbiçimi|}}}">'''{{{dikeç6altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç7altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç7altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç7dikeçbiçimi|}}}">'''{{{dikeç7altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç8altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç8altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç8dikeçbiçimi|}}}">'''{{{dikeç8altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç9altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç9altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç9dikeçbiçimi|}}}">'''{{{dikeç9altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç10altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç10altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç10dikeçbiçimi|}}}">'''{{{dikeç10altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç11altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç11altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç11dikeçbiçimi|}}}">'''{{{dikeç11altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç12altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç12altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç12dikeçbiçimi|}}}">'''{{{dikeç12altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç13altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç13altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç13dikeçbiçimi|}}}">'''{{{dikeç13altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç14altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç14altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç14dikeçbiçimi|}}}">'''{{{dikeç14altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç15altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç15altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç15dikeçbiçimi|}}}">'''{{{dikeç15altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç16altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç16altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç16dikeçbiçimi|}}}">'''{{{dikeç16altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç17altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç17altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç17dikeçbiçimi|}}}">'''{{{dikeç17altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç18altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç18altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç18dikeçbiçimi|}}}">'''{{{dikeç18altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç19altlığı|}}}|<td class="navbox-abovebelow" colspan={{{dikeç19altlıkdikyay|1}}} style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç19dikeçbiçimi|}}}">'''{{{dikeç19altlığı}}}'''</td>}}<!--
+
+-->{{#if:{{{dikeç20altlığı|}}}|<td class="navbox-abovebelow" style="<!--
+ -->border-left:2px solid #fdfdfd;{{{dikeçdikeçbiçimi|}}};{{{dikeç20dikeçbiçimi|}}}">'''{{{dikeç20altlığı}}}'''</td>}}<!--
+
+--></tr>}}<!--
+
+--></tr></table>
+
+
+<!--  Dikeçlerden sonra birkaç ek grup ve liste eklemeye izin verir  -->
+|listebiçimi = {{{listebiçimi|}}}
+|liste1biçimi = background:transparent;color:inherit;
+|liste3biçimi = {{{liste1biçimi|}}}
+|liste4biçimi = {{{liste2biçimi|}}}
+|liste5biçimi = {{{liste3biçimi|}}}
+|liste6biçimi = {{{liste3biçimi|}}}
+|liste7biçimi = {{{liste5biçimi|}}}
+|liste8biçimi = {{{liste6biçimi|}}}
+
+|liste3 = {{{liste1|}}}
+|liste4 = {{{liste2|}}}
+|liste5 = {{{liste3|}}}
+|liste6 = {{{liste4|}}}
+|liste7 = {{{liste5|}}}
+|liste8 = {{{liste6|}}}
+
+|grupbiçimi = {{{grupbiçimi|}}}
+|grup3biçimi = {{{grup1biçimi|}}}
+|grup4biçimi = {{{grup2biçimi|}}}
+|grup5biçimi = {{{grup3biçimi|}}}
+|grup6biçimi = {{{grup4biçimi|}}}
+|grup7biçimi = {{{grup5biçimi|}}}
+|grup8biçimi = {{{grup6biçimi|}}}
+
+|grup3 = {{{grup1|}}}
+|grup4 = {{{grup2|}}}
+|grup5 = {{{grup3|}}}
+|grup6 = {{{grup4|}}}
+|grup7 = {{{grup5|}}}
+|grup8 = {{{grup6|}}}
+
+|tekbiçim = {{{tekbiçim|}}}
+|çiftbiçim = {{{çiftbiçim|}}}
+|{{#if:{{{çifttek|}}}|çifttek|void}} = {{{çifttek|}}}
+
+}}<noinclude>{{koruma-şablon}}
+{{belgeleme}}
+
+<!---Kategori ve intervikileri /doc altsayfasına ekleyin--->
+</noinclude>
