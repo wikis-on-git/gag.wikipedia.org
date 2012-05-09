@@ -1,4 +1,4 @@
-<div style="background-color: #{{{yazırengi|ffffff}}}; width: {{{genişlik|100}}}%; border: 0px #{{
+<div style="background-color: #{{{yazırengi|0000ff}}}; width: {{{genişlik|100}}}%; border: 0px #{{
  #switch:{{{tema}}}
  |1=00BFFF
  |2=A9A9A9
