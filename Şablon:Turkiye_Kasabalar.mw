@@ -1,17 +1,8 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Türkiye Kasabaları."
-|
+{{Dolaşım
+|ad=Turkiye Kasabalar
+|başlık=Turkiye Kasabalar
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Türkiye Kasabaları|Türkiye Kasabaları]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" | 
-{|
-<small>
-[[Image:Flag of Turkey.svg|55px|left]]
-[[Image:BlankMapTurkeyProvinces.png|87px|right]]
+|liste1=
 [[Adana|Adana]]&nbsp;•
 [[Adıyaman|Adıyaman]] &nbsp;•
 [[Afyonkarahisar|Afyonkarahisar]] &nbsp;•
@@ -93,16 +84,4 @@
 [[Yalova|Yalova]]&nbsp;•
 [[Yozgat|Yozgat]] &nbsp;•
 [[Zonguldak|Zonguldak]]
-<small>
-
-|-
-|}
-|}
-|}
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<noinclude>
+}}
