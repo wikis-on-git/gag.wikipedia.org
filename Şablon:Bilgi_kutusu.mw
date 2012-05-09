@@ -1,3 +1,4 @@
+<div style="margin:0; border:0px solid #aaa; background-color:NavajoWhite;">
 <table class="infobox {{{gövdesınıfı|}}}" cellspacing="5" style="width:22em; text-align:left; font-size:88%; line-height:1.5em; {{{gövdebiçimi|}}}"><!--
  Başlık
 -->{{#if:{{{anabaşlık|}}}|<caption class="{{{anabaşlıksınıfı|}}}" style="font-size:125%; font-weight:bold; {{{anabaşlıkbiçimi|}}}">{{{anabaşlık}}}</caption>}}<!--
