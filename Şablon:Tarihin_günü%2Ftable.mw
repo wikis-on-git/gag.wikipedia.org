@@ -1,0 +1,11 @@
+<includeonly>{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{{y}}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-1}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-2}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-3}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-4}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-5}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-6}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-7}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-8}}}}
+{{Tarihin günü/row|d={{{d}}}|m={{{m}}}|y={{#expr:{{{y}}}-9}}}}
+</includeonly>
