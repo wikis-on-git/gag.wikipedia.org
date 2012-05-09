@@ -1,4 +1,4 @@
-<includeonly><div style="width:{{{width|70%}}}"><div style="height:8px;border:1px solid #{{#switch:{{{1|}}}|
+<includeonly><div style="width:{{{width|100%}}}"><div style="height:8px;border:1px solid #{{#switch:{{{1|}}}|
 bleu=8898BF|vert=97BF87|jaune=AAAA66|or=777777|orange=AA8833|
 violet=F7F4DD|saumon=AA8866|sable=8484B3|vertmoyen=88BB55|
 bleufoncé=1144AA|rouge=AA8866|#default=AAAAAA
