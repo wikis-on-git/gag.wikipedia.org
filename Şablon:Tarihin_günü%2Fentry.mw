@@ -1,1 +1,1 @@
-<includeonly>[[{{#ifexist:{{{yr&wkd}}}|{{{mon&yr}}}}}]]</includeonly>
+<includeonly>[[{{#ifexist:{{{mon&yr}}}|{{{yr&wkd}}}}}]]</includeonly>
