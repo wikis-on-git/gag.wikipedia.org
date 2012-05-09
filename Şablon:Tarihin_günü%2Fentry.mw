@@ -1,1 +1,1 @@
-<includeonly>[[{{#ifexist:{{{portal}}}|{{{portal}}}|{{{yr&wkd}}}|{{{mon&yr}}}}}]]</includeonly>
+<includeonly>[[{{#ifexist:{{{yr&wkd}}}|{{{mon&yr}}}}}]]</includeonly>
