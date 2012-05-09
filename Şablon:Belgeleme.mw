@@ -1,0 +1,8 @@
+<includeonly>{{Şablon belgeleme başlangıç|{{{1|{{SUBJECTPAGENAME}}/belge}}}|notoc={{{notoc|}}}}}
+{{{{{1|{{SUBJECTPAGENAME}}/belge}}}}}</div>
+{{Şablon belgeleme bitiş}}</includeonly><!--
+
+--><noinclude>
+{{Belgeleme}}
+<!-- Kategori ve intervikileri buraya değil /belge alt sayfasına ekleyin! -->
+</noinclude>
