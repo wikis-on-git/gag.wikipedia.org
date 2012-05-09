@@ -1,0 +1,108 @@
+{{Dolaşım
+|ad       = {{{ad|}}}
+|durum    = {{{durum|}}}
+|dolçub   = {{{dolçub|}}}
+|kenar    = {{#if:{{{kenar|}}}|{{{kenar}}}|child}}
+|başlık   = {{{başlık|}}}
+|üst      = {{{üst|}}}
+|alt      = {{{alt|}}}
+|resim    = {{{resim|}}}
+|resimsol = {{{resimsol|}}}
+|grup1 = {{#if:{{{grup1|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup1}}}</div>}}
+|grup2 = {{#if:{{{grup2|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup2}}}</div>}}
+|grup3 = {{#if:{{{grup3|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup3}}}</div>}}
+|grup4 = {{#if:{{{grup4|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup4}}}</div>}}
+|grup5 = {{#if:{{{grup5|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup5}}}</div>}}
+|grup6 = {{#if:{{{grup6|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup6}}}</div>}}
+|grup7 = {{#if:{{{grup7|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup7}}}</div>}}
+|grup8 = {{#if:{{{grup8|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup8}}}</div>}}
+|grup9 = {{#if:{{{grup9|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup9}}}</div>}}
+|grup10 = {{#if:{{{grup10|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup10}}}</div>}}
+|grup11 = {{#if:{{{grup11|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup11}}}</div>}}
+|grup12 = {{#if:{{{grup12|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup12}}}</div>}}
+|grup13 = {{#if:{{{grup13|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup13}}}</div>}}
+|grup14 = {{#if:{{{grup14|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup14}}}</div>}}
+|grup15 = {{#if:{{{grup15|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup15}}}</div>}}
+|grup16 = {{#if:{{{grup16|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup16}}}</div>}}
+|grup17 = {{#if:{{{grup17|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup17}}}</div>}}
+|grup18 = {{#if:{{{grup18|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup18}}}</div>}}
+|grup19 = {{#if:{{{grup19|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup19}}}</div>}}
+|grup20 = {{#if:{{{grup20|}}}|<div style="padding:{{{grupdolgusu|0em 0.75em;}}}">{{{grup20}}}</div>}}
+|liste1 = {{{liste1|}}}
+|liste2 = {{{liste2|}}}
+|liste3 = {{{liste3|}}}
+|liste4 = {{{liste4|}}}
+|liste5 = {{{liste5|}}}
+|liste6 = {{{liste6|}}}
+|liste7 = {{{liste7|}}}
+|liste8 = {{{liste8|}}}
+|liste9 = {{{liste9|}}}
+|liste10 = {{{liste10|}}}
+|liste11 = {{{liste11|}}}
+|liste12 = {{{liste12|}}}
+|liste13 = {{{liste13|}}}
+|liste14 = {{{liste14|}}}
+|liste15 = {{{liste15|}}}
+|liste16 = {{{liste16|}}}
+|liste17 = {{{liste17|}}}
+|liste18 = {{{liste18|}}}
+|liste19 = {{{liste19|}}}
+|liste20 = {{{liste20|}}}
+|biçim = {{{biçim|}}}{{{gövdebiçimi|}}}
+|resimsolbiçim = {{{resimsolbiçim|}}}
+|resimbiçimi = {{{resimbiçimi|}}}
+|başlıkbiçimi = {{{başlıkbiçimi|}}}
+|temelbiçim = {{{temelbiçim|}}}
+|üstbiçim = {{{üstbiçim|}}}
+|altbiçim = {{{altbiçim|}}}
+|grupbiçimi = padding-left:0em;padding-right:0em;{{{grupbiçimi|}}}
+|listebiçimi = {{{listebiçimi|}}}
+|çiftbiçim = {{{çiftbiçim|}}}
+|tekbiçim = {{{tekbiçim|}}}
+|grup1biçimi = {{{grup1biçimi|}}}
+|grup2biçimi = {{{grup2biçimi|}}}
+|grup3biçimi = {{{grup3biçimi|}}}
+|grup4biçimi = {{{grup4biçimi|}}}
+|grup5biçimi = {{{grup5biçimi|}}}
+|grup6biçimi = {{{grup6biçimi|}}}
+|grup7biçimi = {{{grup7biçimi|}}}
+|grup8biçimi = {{{grup8biçimi|}}}
+|grup9biçimi = {{{grup9biçimi|}}}
+|grup10biçimi = {{{grup10biçimi|}}}
+|grup11biçimi = {{{grup11biçimi|}}}
+|grup12biçimi = {{{grup12biçimi|}}}
+|grup13biçimi = {{{grup13biçimi|}}}
+|grup14biçimi = {{{grup14biçimi|}}}
+|grup15biçimi = {{{grup15biçimi|}}}
+|grup16biçimi = {{{grup16biçimi|}}}
+|grup17biçimi = {{{grup17biçimi|}}}
+|grup18biçimi = {{{grup18biçimi|}}}
+|grup19biçimi = {{{grup19biçimi|}}}
+|grup20biçimi = {{{grup20biçimi|}}}
+|liste1biçimi = {{{liste1biçimi|}}}
+|liste2biçimi = {{{liste2biçimi|}}}
+|liste3biçimi = {{{liste3biçimi|}}}
+|liste4biçimi = {{{liste4biçimi|}}}
+|liste5biçimi = {{{liste5biçimi|}}}
+|liste6biçimi = {{{liste6biçimi|}}}
+|liste7biçimi = {{{liste7biçimi|}}}
+|liste8biçimi = {{{liste8biçimi|}}}
+|liste9biçimi = {{{liste9biçimi|}}}
+|liste10biçimi = {{{liste10biçimi|}}}
+|liste11biçimi = {{{liste11biçimi|}}}
+|liste12biçimi = {{{liste12biçimi|}}}
+|liste13biçimi = {{{liste13biçimi|}}}
+|liste14biçimi = {{{liste14biçimi|}}}
+|liste15biçimi = {{{liste15biçimi|}}}
+|liste16biçimi = {{{liste16biçimi|}}}
+|liste17biçimi = {{{liste17biçimi|}}}
+|liste18biçimi = {{{liste18biçimi|}}}
+|liste19biçimi = {{{liste19biçimi|}}}
+|liste20biçimi = {{{liste20biçimi|}}}
+|{{#if:{{{çifttek|}}}|çifttek|void}} = {{{çifttek|}}}
+|{{#if:{{{listedolgusu|}}}|listedolgusu|void}} = {{{listedolgusu|}}}
+}}<noinclude>
+
+{{şablon belgesi}}
+<!-- Kategori ve intervikileri buraya değil, /doc altsayfasına ekleyin! -->
+</noinclude>
