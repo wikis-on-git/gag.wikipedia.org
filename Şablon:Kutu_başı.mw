@@ -1,0 +1,17 @@
+<includeonly><div style="width:{{{width|70%}}}"><div style="height:8px;border:1px solid #{{#switch:{{{1|}}}|
+bleu=8898BF|vert=97BF87|jaune=AAAA66|or=777777|orange=AA8833|
+violet=F7F4DD|saumon=AA8866|sable=8484B3|vertmoyen=88BB55|
+bleufoncé=1144AA|rouge=AA8866|#default=AAAAAA
+}};-moz-border-radius-topright:8px;-moz-border-radius-topleft:8px;background:#{{#switch:{{{1|}}}|
+bleu=C8D8FF|vert=D7FFC7|jaune=FFFFB9|or=FFE040|orange=FFDD88|
+violet=F7F4DD|saumon=FBDFBE|sable=bbbbff|vertmoyen=99CC66|
+bleufoncé=003399|rouge=FFDAB9|écarlate=FF3333|#default=E0E0E0
+}};font-size:1px;"></div>
+<div style="font-size:small;margin-bottom:1.5em;border:1px solid #{{#switch:{{{1|}}}|
+bleu=8898BF|vert=97BF87|jaune=AAAA66|or=777777|orange=AA8833|
+violet=7755AA|saumon=AA8866|sable=8484B3|vertmoyen=88BB55|
+bleufoncé=1144AA|rouge=AA8866|écarlate=AAAAAA|#default=AAAAAA
+}};border-top:0;background:{{{fond|transparent}}};padding:5px;"></includeonly>
+<noinclude>
+Kullanım için tartışma sayfasına bakınız.
+</noinclude>
