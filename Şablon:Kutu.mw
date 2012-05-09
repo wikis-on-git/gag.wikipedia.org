@@ -19,7 +19,7 @@
  |4=#a7d7f9
  }}; border-style: solid; font: 18pt; font-weight: bolder; position: relative;">
 <div style="padding-center: color:blue;"> {{{başlık}}} </div> 
-<div style="position: absolute; top: 0; right: 0;">[[File:Wikibar2.png|20px|right|]]</div>
+<div style="position: absolute; top: 0; right: 0;">[[File:Wikibar2.png|100px|right|]]</div>
 </div>
 <div style="clear: both; font-size: 120%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
