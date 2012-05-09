@@ -1,0 +1,27 @@
+<div style="background-color: #{{{yazırengi|ffffff}}}; width: {{{genişlik|100}}}%; border: 2px #{{
+ #switch:{{{tema}}}
+ |1=A9A9A9
+ |2=A9A9A9
+ |3=6A5ACD
+ |4=000000
+ }} solid; margin-bottom: 5px;margin-left:5px">
+<div style="height: 15pt; background-color: #{{
+ #switch:{{{tema}}}
+ |1=AFEEEE
+ |2=A9A9A9
+ |3=6A5ACD
+ |4=cef2e0
+ }}; border: 0px; border-bottom: 2px #{{
+ #switch:{{{tema}}}
+ |1=AFEEEE
+ |2=A9A9A9
+ |3=6A5ACD
+ |4=#a7d7f9
+ }}; border-style: solid; font: 18pt; font-weight: bolder; position: relative;">
+<div style="position: absolute; top: 0; left: 0;">[[File:Fairytale konqueror.png|20px|left|]]</div>
+<div style="padding-center: color:#f9f9f9;"> <center>{{{başlık}}} </center></div></div>
+<div style="clear: both; font-size: 120%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
+{{{yazı}}}
+</div>
+
+</div><noinclude>{{Belgeleme}}</noinclude>
