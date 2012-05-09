@@ -9,14 +9,15 @@
 |başlık = Günün yazısı
 |yazı =
 
-{{Nuşte {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+{{Başyaprak/Yazı2}}
 }}
 
 {{Kutu
 |tema = 1
 |genişlik = 100
 |başlık = Seçkin yazı
-|nuşte = {{Vikipediya:Seçkin yazı}}
+|nuşte = 
+{{Vikipediya:Seçkin yazı}}
 }}
 
 
