@@ -18,8 +18,8 @@
  |3=6A5ACD
  |4=#a7d7f9
  }}; border-style: solid; font: 18pt; font-weight: bolder; position: relative;">
-<div style="position: absolute; top: 0; left: 0;">[[File:Pages_Mac.png|30px|left|]]</div>
-<div style="padding-center: color:#f9f9f9;"> <center>{{{başlık}}} </center></div></div>
+<div style="padding-center: color:#f9f9f9;"> {{{başlık}}} </div> <div style="position: absolute; top: 0; left: 0;">[[File:Pages_Mac.png|30px|left|]]</div>
+</div>
 <div style="clear: both; font-size: 120%; margin: {{{margin|1.5em 0.5em 0.5em 0.5em}}}">
 {{{yazı}}}
 </div>
