@@ -1,4 +1,4 @@
-<includeonly><span class="plainlinks nourlexpansion lx">[[{{{1}}}{{{2}}}]] <tt>(</tt>[{{fullurl:{{{1}}}{{{2}}}|action=edit}} diiştir]<tt>&#124;</tt>[[{{{3}}}:{{{2}}}|{{{4}}}]]<tt>&#124;</tt>[{{fullurl:{{{1}}}{{{2}}}|action=history}} İstoriya]<tt>&#124;</tt>[{{fullurl:Special:Whatlinkshere/{{{1}}}{{{2}}}|limit=999}} linkler]<tt>&#124;</tt>[{{fullurl:{{{1}}}{{{2}}}|action=watch}} watch]<tt>&#124;</tt>[{{fullurl:Special:Log|page={{urlencode:{{{1}}}{{{2}}}}}}} günlükler]<tt>)</tt></span></includeonly><noinclude>
+<includeonly><span class="plainlinks nourlexpansion lx">[[{{{1}}}{{{2}}}]] <tt>(</tt>[{{fullurl:{{{1}}}{{{2}}}|action=edit}} diiştir]<tt>&#124;</tt>[[{{{3}}}:{{{2}}}|{{{4}}}]]<tt>&#124;</tt>[{{fullurl:{{{1}}}{{{2}}}|action=history}} İstoriya]<tt>&#124;</tt>[{{fullurl:Special:Whatlinkshere/{{{1}}}{{{2}}}|limit=999}} linkler]<tt>&#124;</tt>[{{fullurl:{{{1}}}{{{2}}}|action=watch}} İzle]<tt>&#124;</tt>[{{fullurl:Special:Log|page={{urlencode:{{{1}}}{{{2}}}}}}} günlükler]<tt>)</tt></span></includeonly><noinclude>
 
 {{Documentation}}
 <!-- Add categories and interwikis to the /doc subpage, not here! -->
