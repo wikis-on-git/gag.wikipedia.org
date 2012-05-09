@@ -1,0 +1,9 @@
+<includeonly>{| class="toccolours" cellpadding="4" cellspacing="0" style="float:{{{float|right}}}; clear:{{{float|right}}}; margin-left:1em; text-align:left;"
+|- class="navbox-title"
+{{Tarihin günü/validate
+|date={{{1|{{PAGENAME}}}}}
+|today={{CURRENTMONTHNAME}} {{CURRENTDAY}}}}
+|}</includeonly><noinclude>
+{{doc}}
+{{Pp-template|small=yes}}
+</noinclude>
