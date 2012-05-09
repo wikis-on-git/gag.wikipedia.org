@@ -4,49 +4,36 @@
 |- valign="top"
 | width="10%"|
 {{Kutu
-|mewzu = 1
-|hirayiye = 100
-|sernuşte = Nuştey ewroy
-|nuşte =
+|tema = 1
+|genişlik = 100
+|başlık = Nuştey ewroy
+|yazı =
 
 {{Nuşte {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
 }}
 
 {{Kutu
-|mewzu = 1
-|hirayiye = 100
-|sernuşte = Procey ena meng
+|tema = 1
+|genişlik = 100
+|başlık = Procey ena meng
 |nuşte = {{Proce {{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}
 }}
 
-{{Kutu
-|mewzu = 1
-|hirayiye = 100
-|sernuşte = Zıwani
-|nuşte =
- 
-}}
+
 | width="5%"|
 
 {{Kutu
-|mewzu = 1
-|hirayiye = 100
-|sernuşte = Fotrafê ewroy
-|nuşte ={{Fotraf {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+|tema = 1
+|genişlik  = 100
+|başlık = Fotrafê ewroy
+|yazı ={{Fotraf {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
 }}
 
 {{Kutu
-|mewzu = 1
-|hirayiye = 100
-|sernuşte = Merdum
-|nuşte ={{Merdum {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+|tema = 1
+|genişlik  = 100
+|başlık = Merdum
+|yazı ={{Merdum {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
 }}
 
-{{Kutu
-|mewzu = 1
-|hirayiye = 100
-|sernuşte = Procey Bıray
-|nuşte = 
-
-}}
 |}
