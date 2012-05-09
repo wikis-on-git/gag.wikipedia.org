@@ -19,17 +19,13 @@
 |yazı = 
 {{Seçkin yazı}}
 }}
-
-
 | width="5%"|
-
 {{Kutu
 |tema = 1
 |genişlik  = 100
 |başlık = günün görünüşü
 |yazı = {{Günün görünüşü}}
 }}
-
 {{Kutu
 |tema = 1
 |genişlik  = 100
@@ -37,7 +33,6 @@
 |yazı = {{Bilirsini}}
 }} 
 |}
-
 {{Kutu
 |tema = 1
 |genişlik  = 100
@@ -45,11 +40,7 @@
 |yazı = {{Seçkin yer}}
 }}
 {{Baş yaprak metakutu}}
-
-
-
 <br />
-
 [[Kategori:Vikipediya]]
 __notoc__
 __noeditsection__
