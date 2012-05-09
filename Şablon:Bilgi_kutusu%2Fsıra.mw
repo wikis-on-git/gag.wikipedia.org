@@ -1,0 +1,10 @@
+{{#if:{{{başlık|}}}
+ |<tr><th colspan="2" class="{{{sınıf|}}}" style="text-align:center; {{{başlıkbiçimi|}}}">{{{başlık}}}</th></tr>
+ |{{#if:{{{veri|}}}
+  |<tr class="{{{sırasınıfı|}}}">{{#if:{{{etiket|}}}
+   |<th style="text-align:left; {{{etiketbiçimi|}}}">{{{etiket}}}</th>
+    <td class="{{{sınıf|}}}" style="{{{veribiçimi|}}}">
+   |<td colspan="2" class="{{{sınıf|}}}" style="text-align:center; {{{veribiçimi|}}}">
+  }}{{{veri}}}</td></tr>
+ }}
+}}
