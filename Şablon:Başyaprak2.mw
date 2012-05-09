@@ -9,7 +9,7 @@
 |başlık = Günün yazısı
 |yazı =
 
-{{Başyaprak/Yazı2}}
+{{Günün Yazısı}}
 }}
 
 {{Kutu
@@ -17,7 +17,7 @@
 |genişlik = 100
 |başlık = Seçkin yazı
 |yazı = 
-{{Vikipediya:Seçkin yazı}}
+{{Seçkin yazı}}
 }}
 
 
@@ -33,8 +33,8 @@
 {{Kutu
 |tema = 1
 |genişlik  = 100
-|başlık = SEÇKİN YER
-|yazı = {{Başyaprak/Yazı1}}
+|başlık = Seçkin yer
+|yazı = {{Seçkin yer}}
 }}
 
 |}
