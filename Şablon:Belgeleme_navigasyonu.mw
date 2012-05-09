@@ -1,0 +1,6 @@
+<includeonly>{{#ifeq: {{#rel2abs: ..}}/belge | {{SUBJECTPAGENAME}} | <div class="toc" style="text-align: center;">
+[[:{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}]] · [[:{{SUBJECTPAGENAME}}|Belgeleme]] · [[{{#rel2abs: .. | {{TALKPAGENAME}}}}|Dartışma]] · [[Special:Whatlinkshere/{{#rel2abs: .. | {{SUBJECTPAGENAME}}}}|Sayfaya bağlantılar]]
+</div>
+}}</includeonly><noinclude>
+{{belgeleme}}
+</noinclude>
