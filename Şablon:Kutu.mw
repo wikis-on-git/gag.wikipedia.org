@@ -1,10 +1,10 @@
-<div style="background-color: #{{{yazırengi|ffffff}}}; width: {{{genişlik|100}}}%; border: 1px #{{
+<div style="background-color: #{{{yazırengi|ffffff}}}; width: {{{genişlik|100}}}%; border: 0px #{{
  #switch:{{{tema}}}
  |1=00BFFF
  |2=A9A9A9
  |3=6A5ACD
  |4=000000
- }} solid; margin-bottom: 5px;margin-left:5px">
+ }} solid; margin-bottom: 5px;margin-left:20px">
 <div style="height: 20pt; background-color: #{{
  #switch:{{{tema}}}
  |1=B0E0E6
