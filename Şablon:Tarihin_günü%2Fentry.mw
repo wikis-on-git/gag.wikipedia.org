@@ -1,1 +1,1 @@
-[[{{#ifexist:{{MONTHNAME}}|{{YEAR}}}}]]
+[[{{MONTHNAME}}|{{YEAR}}]]
