@@ -6,7 +6,7 @@
 {{Kutu
 |tema = 1
 |genişlik = 100
-|başlık = Nuştey ewroy
+|başlık = Günün yazısı
 |yazı =
 
 {{Nuşte {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
@@ -15,8 +15,8 @@
 {{Kutu
 |tema = 1
 |genişlik = 100
-|başlık = Procey ena meng
-|nuşte = Vikipediya:Seçkin yazı
+|başlık = Seçkin yazı
+|nuşte = {{Vikipediya:Seçkin yazı}}
 }}
 
 
@@ -25,15 +25,16 @@
 {{Kutu
 |tema = 1
 |genişlik  = 100
-|başlık = Fotrafê ewroy
-|yazı ={{Fotraf {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+|başlık = günün görünüşü
+|yazı = 
 }}
 
 {{Kutu
 |tema = 1
 |genişlik  = 100
-|başlık = Merdum
-|yazı ={{Merdum {{CURRENTDAY}} {{CURRENTMONTHNAME}}}}
+|başlık = SEÇKİN YER
+|yazı = 
 }}
 
 |}
+{{Baş yaprak metakutu}}
