@@ -2,7 +2,7 @@
 |- class="navbox-title"
 {{Tarihin günü/validate
 |date={{{1|{{PAGENAME}}}}}
-|today={{CURRENTMONTHNAME}} {{CURRENTDAY}}}}
+|today={{CURRENTDAY}}}} {{CURRENTMONTHNAME}} 
 |}</includeonly><noinclude>
 {{doc}}
 {{Pp-template|small=yes}}
