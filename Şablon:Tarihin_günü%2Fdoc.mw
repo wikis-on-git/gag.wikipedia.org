@@ -1,0 +1,42 @@
+{{Tarihin günü}}
+==Description==
+This template is used to display a box on all of the date articles (January 1 ... December 31) listing the date in recent years.  It also shows what day of the week the date was in previous years.
+
+==Usage==
+;No parameter
+:This template can be used on without any parameter.
+::{{<code>ThisDateInRecentYears</code>}}
+:*On date articles the template defaults to the page name.
+:*On other articles the template defaults to the current date.
+
+;Specifying a date
+:A specific date can be input as an unnamed parameter in either day-month or month-day format.
+::{{<code>ThisDateInRecentYears|January 1</code>}}
+::{{<code>ThisDateInRecentYears|1 January</code>}}
+
+;Float left
+:The default of the template is to float right.  The template can be placed on the left using the <code>float</code> parameter.
+::{{<code>Tarihin günü|float=left</code>}}
+::{{<code>Tarihin günü|January 1|float=left</code>}}
+::{{<code>Tarihin günü|1 January|float=left</code>}}
+
+==Technical details==
+This template uses a series of subtemplates. These are listed below.
+
+;next step
+:{{lt|Tarihin günü/validate}}
+;then
+:{{lt|Tarihin günü/title}}
+;29 February split
+::{{lt|Tarihin günü/table}} (for ordinary dates)
+:;or
+::{{lt|Tarihin günü/prevleap}} (for 29 February)
+::{{lt|Tarihin günü/1stleap}} (for 29 February),
+::{{lt|Tarihin günü/2ndleap}} (for 29 February)
+::;and
+::{{lt|Tarihin günü/3rdleap}} (for 29 February)
+::;calling
+::{{lt|Tarihin günü/nextleap}} (for 29 February)
+;then
+:{{lt|Tarihin günü/row}} (for all dates)
+:{{lt|Tarihin günü/entry}}
