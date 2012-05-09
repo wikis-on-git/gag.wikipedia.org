@@ -1,7 +1,6 @@
 {| cellspacing=5 style="border: #ccccff solid; padding: 5px; text-align: center; background-color: white; width: 300px;" 
-| colspan="2" style="font-size:150%" | [[Vikipediya:GÜNÜN GÖRÜNÜŞÜ Dosyali|Görünüşü dosyali]]
-|-
-|[[Dosya:{{{resim}}}|{{{boyut|300}}}px{{#if:{{{thumbtime|}}}| {{!}} thumbtime={{{thumbtime}}} }}|{{{konum|center}}} {{#if:{{{başlık metni|}}}|{{!}}{{{başlık metni}}}|}}]]
+| colspan="2" style="font-size:150%" |
+[[Dosya:{{{resim}}}|{{{boyut|300}}}px{{#if:{{{thumbtime|}}}| {{!}} thumbtime={{{thumbtime}}} }}|{{{konum|center}}} {{#if:{{{başlık metni|}}}|{{!}}{{{başlık metni}}}|}}]]
 |
 {{#ifexpr: {{{boyut|260}}} >= 400 |
 {{!}}-
