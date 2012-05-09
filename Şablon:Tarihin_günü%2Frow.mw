@@ -1,6 +1,5 @@
 <includeonly>|-
 |&nbsp;&nbsp;{{Tarihin günü/entry
-|portal={{{y}}} {{{m}}} {{{d}}}
 |mon&yr={{{m}}} {{{y}}}
 |yr&wkd={{{y}}} ({{#time:l|{{{d}}} {{{m}}} {{{y}}}}})
 }}
