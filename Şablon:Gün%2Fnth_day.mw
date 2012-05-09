@@ -1,0 +1,1 @@
+<includeonly>{{#ifexpr:{{{1}}}<60|{{#ifexpr:{{{1}}}<10|{{numtext|{{{1}}}|ord=on}}|{{ordinal|{{{1}}}}}}} day of the year in the [[Gregorian calendar]]. There are {{#expr:365-{{{1}}}}} days remaining until the end of the year ({{#expr:366-{{{1}}}}} in [[leap year]]s).|{{day/Mar-Dec|{{#expr:{{{1}}}-{{#time:L}}}}}}}}</includeonly>
