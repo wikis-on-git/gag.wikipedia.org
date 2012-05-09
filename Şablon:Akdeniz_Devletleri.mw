@@ -1,15 +1,8 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Akdeniz Devletleri"
-|
+{{Dolaşım
+|ad=Akdeniz Devletleri
+|başlık=Akdeniz Devletleri
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Akdeniz Devletleri|Akdeniz Devletleri]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" | 
-{|
-<small>
+|liste1=
 {{Albaniya}} &nbsp;• 
 {{Bosniya hem Herțegovina}} &nbsp;•
 {{Cebelitarık}} &nbsp;• 
@@ -33,14 +26,7 @@
 {{Tunis}} &nbsp;• 
 {{Türkiye}} &nbsp;• 
 {{Grețiya}}  
-<small>
-
-|-
-|}
-|}
-|}
-</div>
-</div>
+}}
 <noinclude>
 
 [[Kategori:Şablonnar]]
