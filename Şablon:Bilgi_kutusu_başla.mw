@@ -1,0 +1,9 @@
+<includeonly>{| style="width:100%; background:transparent;"
+|- style="vertical-align:top;"
+| <!-----Lefthand side: documentation----->
+{{Belgeleme}}
+| <!-------Righthand side: template-------></includeonly><noinclude><!--
+
+-->{{Belgeleme}}
+<!---Please add metadata to the <includeonly> section on the /doc subpage - thanks!--->
+</noinclude>
