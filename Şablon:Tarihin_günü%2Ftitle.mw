@@ -1,5 +1,5 @@
 <includeonly>|- class="navbox-title"
-| {{{date}}} İstoriya da
+| bu gün İstoriya da <br>[[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]]
 {{Tarihin günü/{{#ifeq:{{#time:j|{{{date}}} 2000}}{{#time:M|{{{date}}} 2000}}|29Feb|prevleap|table}}
 |d={{#time:j|{{{date}}}}}
 |m={{#time:F|{{{date}}}}}
