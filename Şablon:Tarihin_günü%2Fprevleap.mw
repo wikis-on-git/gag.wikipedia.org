@@ -1,0 +1,11 @@
+<includeonly>{{Tarihin günü/1stleap
+|y={{#switch: 1 
+|{{#time:L|{{#expr:{{{y}}}}}}}={{#expr:{{{y}}}}}
+|{{#time:L|{{#expr:{{{y}}}-1}}}}={{#expr:{{{y}}}-1}}
+|{{#time:L|{{#expr:{{{y}}}-2}}}}={{#expr:{{{y}}}-2}}
+|{{#time:L|{{#expr:{{{y}}}-3}}}}={{#expr:{{{y}}}-3}}
+|{{#time:L|{{#expr:{{{y}}}-4}}}}={{#expr:{{{y}}}-4}}
+|{{#time:L|{{#expr:{{{y}}}-5}}}}={{#expr:{{{y}}}-5}}
+|{{#time:L|{{#expr:{{{y}}}-6}}}}={{#expr:{{{y}}}-6}}
+|{{#expr:{{{y}}}-7}}
+}}}}</includeonly>
