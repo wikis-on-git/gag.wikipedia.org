@@ -3,4 +3,4 @@
 |mon&yr={{{m}}} {{{y}}}
 |yr&wkd={{{y}}} ({{#time:l|{{{d}}} {{{m}}} {{{y}}}}})
 }}
-}}</includeonly>
+</includeonly>
