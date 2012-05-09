@@ -1,6 +1,3 @@
-{| id="mp-upper" style="width: 100%; margin:5px 0 0 0; background:none; border-spacing: 0px;"
-| style="width:50%; background:#ddeeff; border:1px solid #f9f9f9; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
-
 <!--
 
 Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karmaşık bir yapıya sahiptir.
@@ -41,7 +38,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  --><tr><td class="navbox-abovebelow" style="{{{temelbiçim|}}};{{{üstbiçim|}}}" <!--
  -->colspan="{{#expr:2{{#if:{{{resimsol|}}}|+1}}{{#if:{{{resim|}}}|+1}}}}">{{{üst}}}</td></tr>}}<!--
 
-| style="width:50%; background:#abc123; border:1px solid #000000; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
+
 
 ---Gövde---
 
@@ -75,7 +72,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
 
 --></tr>}}<!--
 
-| style="width:50%; background:#123abc; border:1px solid #000000; padding:10px; margin-bottom:7px; vertical-align:top; -moz-border-radius:1em; -webkit-border-radius:1em; border-radius:1em;" | 
+
 
 ---Kalan gruplar/listeler---
 
@@ -351,9 +348,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
 
 --></table>{{#switch:{{{kenar|{{{1|}}}}}}|subgroup|child=<div>|none=|#default=</td></tr></table>}}<!--
 
--->
-|}
-<noinclude>
+--><noinclude>
 
 {{koruma-şablon|small=yes}}
 
