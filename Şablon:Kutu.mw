@@ -1,4 +1,4 @@
-<div style="background-color: #{{{yazırengi|ffffff}}}; width: {{{genişlik|100}}}%; border: 2px #{{
+<div style="background-color: #{{{yazırengi|ffffff}}}; width: {{{genişlik|100}}}%; border: 1px #{{
  #switch:{{{tema}}}
  |1=00BFFF
  |2=A9A9A9
@@ -7,13 +7,13 @@
  }} solid; margin-bottom: 5px;margin-left:5px">
 <div style="height: 15pt; background-color: #{{
  #switch:{{{tema}}}
- |1=AFEEEE
+ |1=DAA520
  |2=A9A9A9
  |3=6A5ACD
  |4=cef2e0
  }}; border: 0px; border-bottom: 2px #{{
  #switch:{{{tema}}}
- |1=AFEEEE
+ |1=DAA520
  |2=A9A9A9
  |3=6A5ACD
  |4=#a7d7f9
