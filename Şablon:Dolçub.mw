@@ -1,0 +1,27 @@
+<includeonly><span class="noprint plainlinks navbar" style="{{{biçim|}}}"><!--
+
+-->{{#if:{{{mini|}}}{{{sade|}}}|<!--nothing-->|<!--else:
+--><span style="{{{yazıtipibiçimi|}}}">{{{metin|Bu kutu:}}} </span>}}<!--
+
+-->{{#if:{{{parantez|}}}|<span style="{{{yazıtipibiçimi|}}}">&#91;</span>}}<!--
+
+--><span style="white-space:nowrap;word-spacing:-.12em;"><!--
+-->[[{{görüntüle|{{{1}}}}}|<span style="{{{yazıtipibiçimi|}}}" title="Bu şablonu gör"><!--
+-->{{#if:{{{mini|}}}|g|gör}}</span>]]<!--
+
+--><span style="{{{yazıtipibiçimi|}}}">&#32;<b>&middot;</b>&#32;</span><!--
+-->[[{{TALKPAGENAME:{{görüntüle|{{{1}}}}}}}|<span style="{{{yazıtipibiçimi|}}}" title="Bu şablonu dartış"><!--
+-->{{#if:{{{mini|}}}|d|dartış}}</span>]]<!--
+
+-->{{#if:{{{yazıtipibiçimi|}}}|<!--nothing-->|<!--else:
+--><span style="{{{yazıtipibiçimi|}}}">&#32;<b>&middot;</b>&#32;</span><!--
+-->[{{fullurl:{{görüntüle|{{{1}}}}}|action=edit}} <span style="{{{yazıtipibiçimi|}}}" title="Bu şablonu diiştir"><!--
+-->{{#if:{{{mini|}}}|d|düzenle}}</span>]}}<!--
+--></span><!--
+
+-->{{#if:{{{parantez|}}}|<span style="{{{yazıtipibiçimi|}}}">&#93;</span>}}<!--
+
+--></span></includeonly><noinclude>
+
+{{belgeleme}}
+</noinclude>
