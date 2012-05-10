@@ -1,14 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Evropa Devletleri."
-|
+{{Dolaşım
+|ad=Birleşik Arab Emirlikleri Devletinin Emirlikleri
+|başlık=Birleşik Arab Emirlikleri Devletinin Emirlikleri
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Birleşik Arab Emirlikleri Devletinin Emirlikleri|Emirlikler]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" | 
-{|
+|grup1=
+|liste1=
 {{Abu Dabi}} &nbsp;•
 {{Acman}} &nbsp;• 
 {{Dubayi}} &nbsp;•
@@ -16,13 +11,8 @@
 {{Resü'l-Hayme}} &nbsp;•
 {{Şerce}} &nbsp;•
 {{Ummül-Kayveyn}} &nbsp;•
-
-|-
-|}
-|}
-
-</div>
-</div>
+}}
+<noinclude>
 [[bg:Шаблон:Обединени арабски емирства]]
 [[en:Template:Emirates of the United Arab Emirates]]
 [[et:Mall:UAE]]
@@ -38,3 +28,4 @@
 [[pt:Predefinição:Emirados dos Emirados Árabes Unidos]]
 [[ru:Шаблон:Эмираты ОАЭ]]
 [[tr:Şablon:Birleşik Arap Emirlikleri'nin idarî yapılanması]]
+</noinclude>
