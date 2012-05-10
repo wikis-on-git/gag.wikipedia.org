@@ -1,15 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Birleşik Milletlär Ofițial Dilleri"
-|
+{{Dolaşım
+|ad=Birleşik Milletlär Ofițial Dilleri
+|başlık=Birleşik Milletlär Ofițial Dilleri
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Birleşik Milletlär Ofițial Dilleri|Birleşik Milletlär Ofițial Dilleri]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" | 
-{|
-<small>
+|grup1=
+|liste1=
 [[Image:Flag of the United Nations.svg|left|50px]]
 [[Arap dili|Arap dili]]  &nbsp;•   
 [[Kitay dili|Kitay dili]]  &nbsp;•  
@@ -17,14 +11,7 @@
 [[İngiliz Dili|İngiliz dili]]  &nbsp;•  
 [[İspan dili|İspan dili]]  &nbsp;•  
 [[Rus dili|Rus dili]]
-<small>
-|-
-|}
-|}
-|}
-</div>
-</div>
-
+}}
 <noinclude>
 [[an:Plantilla:Luengas oficials ONU]]
 [[ar:قالب:لغات الأمم المتحدة]]
@@ -40,3 +27,4 @@
 [[sr:Шаблон:Official UN languages]]
 [[th:แม่แบบ:ภาษาราชการในสหประชาชาติ]]
 [[tr:Şablon:Birleşmiş Milletler'in resmî dilleri]]
+</noinclude>
