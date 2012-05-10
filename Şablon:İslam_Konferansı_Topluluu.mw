@@ -1,18 +1,10 @@
-</div>
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[İslam Konferansı Topluluu|İslam Konferansı Topluluu]]'''</div>
-<div class="NavContent" style="text-align:left;">
+{{Dolaşım
 
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" |
-! style="background: #ccf"|
-| style="font-size: 90%;" |
-|-
-</span>
-<div>
-{| class="toccolours" style="clear: both;"  width="100%" align="center"
-! style="background: #ccccff" | '''Aza Respublikalar:'''
+|ad=
+|başlık=
+
+|grup1='''Aza Respublikalar:'''
+|liste1= 
 | style="font-size: 90%;" |
 [[Image:Flag of Afghanistan.svg|26px]] [[Afganistan|Afganistan]]&nbsp;•
 [[Image:Flag of Albania.svg|26px]] [[Albaniya|Albaniya]]&nbsp;•
@@ -71,31 +63,23 @@
 [[Image:Flag of Oman.svg|25px]] [[Oman|Oman]]&nbsp;•
 [[Image:Flag of Jordan.svg|25px]] [[İordaniya|İordaniya]] &nbsp;•
 [[Image:Flag of Yemen.svg|25px]] [[Yemen|Yemen]] 
-|-
-! style="background: #ccccff" | '''Gözlemee Respublikalar:'''
-| style="font-size: 90%;" | 
+
+|grup2 ='''Gözlemee Respublikalar:'''
+|liste2= 
 [[Image:Flag of the Turkish Republic of Northern Cyprus.svg|25px]] [[Poyraz Kipra Türk Respublikası|Poyraz Kipra Türk Respublikası]] 
 [[Image:Flag of Russia.svg|26px]] [[Rusiya|Rusiya]]&nbsp;•
 [[Image:Flag of Bosnia and Herzegovina.svg|26px]] [[Bosniya hem Herțegovina|Bosniya hem Herțegovina]]&nbsp;•
 [[Image:Flag of Thailand.svg|26px]] [[Tailand|Tailand]]&nbsp;•
 [[Image:Flag of the Central African Republic.svg|26px]] [[Merkez Afrika Respublikası|Merkez Afrika Respublikası]]
-|-
-! style="background: #ccccff" | '''Gözlemee Topluluklar:'''
-| style="font-size: 90%;" | 
-[[Afrika Birlii|Afrika Birlii]] &nbsp;•
+
+|grup3='''Gözlemee Topluluklar:'''
+|liste3=[[Afrika Birlii|Afrika Birlii]] &nbsp;•
 [[Image:Flag of the Arab League.svg|26px]] [[Arap Birlii|Arab Birlii]]&nbsp;•
 [[Image:Flag of the United Nations.svg|26px]] [[Birleşik Milletlär|Birleşik Milletlär]]&nbsp;•
 [[Ekonomika İşbirlii Topluluu|Ekonomika İşbirlii Topluluu (ECO)]]&nbsp;•
 [[Image:Flag of OIC.svg|26px]] [[İslam Konferansı Topluluu|İslam Konferansı Topluluu]]&nbsp;•
 [[Tarafsız Respublikalar Topluluu|Tarafsız Respublikalar Topluluu]]
-|}
-</small>
-
-</div>
-|}
-|}
-</div>
-</div>
+}}
 <noinclude>
 [[als:Vorlage:Navigationsleiste Mitgliedstaaten OIC]]
 [[ar:قالب:منظمة التعاون الإسلامي]]
