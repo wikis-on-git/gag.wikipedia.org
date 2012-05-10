@@ -1,19 +1,10 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Lihtenşteyn Kasabalar Listası"
-|- valign="top" 
-|
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Lihtenşteyn Kasabalar Listası|Lihtenşteyn Kasabalar Listası]]'''</div>
-<div class="NavContent" style="text-align:left;">
+{{Dolaşım
 
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" |
-! style="background: #ccf"|
-| style="font-size: 90%;" |
-|-
-</span>
-<div>
-[[Image:Flag of Liechtenstein.svg|50px|left|]][[Image:National Coat of arms of Liechtenstein.svg|20px|right|Norveç arması]]
+|ad=Lihtenşteyn Kasabalar Listası
+|başlık=Lihtenşteyn Kasabalar Listası
+
+|grup1=
+|liste1=
 [[Ruggell|Ruggell]]&nbsp;•
 [[Schellenberg|Schellenberg]]&nbsp;•
 [[Gamprin|Gamprin]]&nbsp;•
@@ -25,13 +16,4 @@
 [[Triesenberg|Triesenberg]]    
 [[Triesen|Triesen]]&nbsp;•
 [[Balzers|Balzers]]   
-</small>
-
-</div>
-|}
-|}
-</div>
-</div>
-</div>
-</div>
-<noinclude>
+}}
