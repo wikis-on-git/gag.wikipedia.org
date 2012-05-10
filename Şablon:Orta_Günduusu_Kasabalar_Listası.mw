@@ -1,15 +1,10 @@
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Orta Günduusu Kasabalar Listası|Orta Günduusu Kasabalar Listası]]'''</div>
-<div class="NavContent" style="text-align:left;">
+{{Dolaşım
 
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" |
-! style="background: #ccf"|
-| style="font-size: 90%;" |
-|-
-</span>
-<div>
+|ad=Orta Günduusu Kasabalar Listası
+|başlık=Orta Günduusu Kasabalar Listası
+
+|grup1=
+|liste1=
 [[Bahreyn Kasabalar Listası|Bahreyn]] •  
 [[Birleşik Arap Emirlii Kasabalar Listası|Birleşik Arap Emirlii]] •  
 [[İrak Kasabalar Listası|İrak]] •  
@@ -26,10 +21,4 @@
 [[Siriya Kasabalar Listası|Siriya]] •
 [[Türkiye Kasabalar Listesi|Türkiyä]] • 
 [[Yemen Kasabalar Listası|Yemen]] 
-</small>
-
-</div>
-|}
-</div>
-</div>
-<noinclude>
+}}
