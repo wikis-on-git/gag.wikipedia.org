@@ -1,18 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Aziya Devletleri"
-|- valign="top" 
-|
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Aziya Kasabalar Listası|Aziya Kasabalar Listası]]'''</div>
-<div class="NavContent" style="text-align:left;">
+{{Dolaşım
+|ad=Aziya Kasabalar Listası
+|başlık=Aziya Kasabalar Listası
 
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" |
-! style="background: #ccf"|
-| style="font-size: 90%;" |
-|-
-</span>
-<div>
+|grup1=
+|liste1=
 [[Abhaziya Kasabalar Listası|Abhaziya]] • 
 [[Acaristan Kasabalar Listası|Acaristan]]  • 
 [[Adige Kasabalar Listası|Adige]] •
@@ -89,10 +80,4 @@
 [[Vyetnam Kasabalar Listası|Vyetnam]]  •
 [[Yaponya Kasabalar Listası|Yaponya]] • 
 [[Yemen Kasabalar Listası|Yemen]]
-</small>
-
-</div>
-|}
-</div>
-</div>
-<noinclude>
+}}
