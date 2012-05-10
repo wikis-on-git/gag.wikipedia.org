@@ -16,12 +16,12 @@
 |-
 |{{Seçkin yazı}}<span style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; padding:0 .5em 0 2em;">
 |}
-|class="MainPageBG" style="width:50%;border:1.5px solid #cedff2;background-color:#FAF5FF;vertical-align:top;color:#000; -moz-border-radius:10px"|<div style="margin: 1px 0px 0px 0px; text-align: left; -moz-border-radius:10px">
+|class="MainPageBG" style="width:30%;border:1.5px solid #cedff2;background-color:#FAF5FF;vertical-align:top;color:#000; -moz-border-radius:10px"|<div style="margin: 1px 0px 0px 0px; text-align: left; -moz-border-radius:10px">
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#FFFFF0; -moz-border-radius:10px;"
 |-
 ! style="background-color:#F5F5DC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid#EEE8AA; text-align: left; padding-left: 7px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Günün seçkin resmi | width=100px | height=24px }}</div>Günün görünüşü
 |-
-|{{Günün görünüşü}}
+|<center>{{Günün görünüşü}}</center>
 |}
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FAF5FF;  -moz-border-radius:10px"
 ! style="background-color:#F2E6FF; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #D8BFD8; text-align: left; padding-left: 7px; -moz-border-radius:10px" | <div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Tarihte bugün | width=100px | height=24px }}</div>Seçkin yer
