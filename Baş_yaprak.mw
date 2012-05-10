@@ -1,41 +1,34 @@
 {{Başyaprak}}
-{| border="0" cellspacing="5"
-|- valign="top"
-| width="15%"|
-{{Kutu
-|tema = 1
-|genişlik = 100
-|başlık = Günün yazısı
-|yazı =
-{{Günün Yazısı}}
-}}
-{{Kutu
-|tema = 1
-|genişlik = 100
-|başlık = Seçkin yazı
-|yazı = 
-{{Seçkin yazı}}
-}}
-| width="5%"|
-{{Kutu
-|tema = 1
-|genişlik  = 100
-|başlık = günün görünüşü
-|yazı = {{Günün görünüşü}}
-}}
-{{Kutu
-|tema = 1
-|genişlik  = 100
-|başlık = Bilirsini
-|yazı = {{Bilirsini}}
-}} 
+{|style="border-spacing:2px;margin:0px -2px"
+|class="MainPageBG" style="width:50%;border:1.5px solid #cedff2;background-color:#F5FFFA;vertical-align:top; -moz-border-radius:10px"|<div style="margin: 0px 0px 0px 0px; text-align: left;">
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FFFAFA; -moz-border-radius:10px"
+! style="background-color:#FFF5EE; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #FAEBD7; text-align: left; padding-left: 7px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Haftanın seçkin maddesi | width=100px | height=24px }}</div>Günün Yazısı
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; -moz-border-radius:10px" |{{Günün Yazısı}}<span style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; padding:0 .5em 0 2em;" id="mp-tfa" title="Haftanın seçkin maddesi">
 |}
-{{Kutu
-|tema = 1
-|genişlik  = 100
-|başlık = Seçkin yer
-|yazı = {{Seçkin yer}}
-}}
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FFFAFA; -moz-border-radius:10px"
+! style="background-color:#FFF5EE; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #FAEBD7; text-align: left; padding-left: 7px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Haftanın seçkin maddesi | width=100px | height=24px }}</div>Bilirsini
+|-
+|{{Bilirsini}}<span style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; padding:0 .5em 0 2em;">
+|}
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FFFAFA; -moz-border-radius:10px"
+! style="background-color:#FFF5EE; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #FAEBD7; text-align: left; padding-left: 7px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Haftanın seçkin maddesi | width=100px | height=24px }}</div>Seçkin yazı
+|-
+|{{Seçkin yazı}}<span style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; padding:0 .5em 0 2em;">
+|}
+|class="MainPageBG" style="width:50%;border:1.5px solid #cedff2;background-color:#FAF5FF;vertical-align:top;color:#000; -moz-border-radius:10px"|<div style="margin: 1px 0px 0px 0px; text-align: left; -moz-border-radius:10px">
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#FFFFF0; -moz-border-radius:10px;"
+|-
+! style="background-color:#F5F5DC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid#EEE8AA; text-align: left; padding-left: 7px; -moz-border-radius:10px" |<div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Günün seçkin resmi | width=100px | height=24px }}</div>Günün görünüşü
+|-
+|{{Günün görünüşü}}
+|}
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#FAF5FF;  -moz-border-radius:10px"
+! style="background-color:#F2E6FF; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #D8BFD8; text-align: left; padding-left: 7px; -moz-border-radius:10px" | <div style="float:right;">{{Tıkla2 || image=Wikibar2.png | link=Vikipedi:Tarihte bugün | width=100px | height=24px }}</div>Seçkin yer
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; -moz-border-radius:10px" | {{Seçkin yer}}
+|}
+|}
 <br />
 {{Baş yaprak metakutu}}
 [[Kategori:Vikipediya]]
