@@ -1,19 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Evropa Birlii Baş kasabalar Listası"
-|- valign="top" 
-|
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Evropa Birlii Baş kasabalar Listası|Evropa Birlii Baş kasabalar Listası]]'''</div>
-<div class="NavContent" style="text-align:left;">
+{{Dolaşım
+|ad=Evropa Birlii Baş kasabalar Listası
+|başlık=Evropa Birlii Baş kasabalar Listası
 
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" |
-! style="background: #ccf"|
-| style="font-size: 90%;" |
-|-
-</span>
-<div>
-[[Image:Flag of Europe.svg|50px|left|]]
+|grup1=
+|liste1=
 [[Amsterdam|Amsterdam]] &nbsp;•
 [[Afina|Afina]] &nbsp;•
 [[Berlin|Berlin]] &nbsp;•
@@ -41,12 +31,4 @@
 [[Vena|Vena]]&nbsp;•
 [[Vilnüs|Vilnüs]]&nbsp;•
 [[Varşava|Varşava]]
-</small>
-
-</div>
-|}
-</div>
-</div>
-</div>
-</div>
-<noinclude>
+}}
