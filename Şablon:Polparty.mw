@@ -1,0 +1,129 @@
+{{#switch: {{ucfirst:{{{1}}}}}
+    | AT | Avusturya | [[Avusturya]] = {{#switch: {{uc:{{{2}}}}}
+	| SPÖ = [[Avusturya Sosyal Demokrat Partisi|SPÖ]]
+	| ÖVP = [[Avusturya Halk Partisi|ÖVP]]
+        | FPÖ = [[Avusturya Özgürlük Partisi|FPÖ]]
+        | BZÖ = [[Avusturya'nın geleceği için Birlik|BZÖ]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+	    | Yeşil | Yeşiller | Grün | Grüne = [[Yeşiller – Yeşil Alternatif|Yeşil]]
+            | Bağımsız | Bağ | Neutral | Parteilos | [[Parteilos]] | [[parteilos]] = [[Independent (politician)|Ind.]]
+	    | #default = {{{2}}} }}
+      }}
+    | AU | Australia | [[Australia]] = {{#switch: {{uc:{{{2}}}}}
+        | ALP = [[Australian Labor Party|ALP]]
+        | CLP = [[Country Liberal Party|CLP]]
+        | LP = [[Liberal Party of Australia|Lib.]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Democrats | Dem = [[Australian Democrats|Dem.]]
+            | Greens | Green = [[Australian Greens|Greens]]
+            | Labor | Lab = [[Australian Labor Party|ALP]]
+            | Liberal | Lib = [[Liberal Party of Australia|Lib.]]
+            | National | Nat = [[National Party of Australia|Nat.]]
+            | Independent | Ind | Neutral = [[Independent (politician)|Ind.]]
+	    | #default = {{{2}}} }}
+     }}
+    | CA | Canada | [[Canada]] = {{#switch: {{uc:{{{2}}}}}
+        | BQ = [[Bloc Québécois|BQ]]
+        | CPC = [[Conservative Party of Canada|CPC]]
+        | LPC = [[Liberal Party of Canada|LPC]]
+        | NDP = [[New Democratic Party|NDP]]
+        | GPC = [[Green Party of Canada|Green]]
+        | FPNP = [[First Peoples National Party of Canada|FPNP]]
+        | CHP = [[Christian Heritage Party of Canada|CHP]]
+        | WBP = [[Western Block Party|WBP]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Independent | Ind | Neutral = [[Independent (politician)|Ind.]]
+	    | #default = {{{2}}} }}
+     }}
+    | CZ | Czechia | [[Czechia]] | [[Czech Republic]] | Czech Republic = {{#switch: {{uc:{{{2}}}}}
+        | ODS = [[Civic Democratic Party|ODS]]
+        | CSSD = [[Czech Social Democratic Party|ČSSD]]
+        | KSCM = [[Communist Party of Bohemia and Moravia|KSČM]]
+        | KDU-CSL = [[Christian and Democratic Union – Czechoslovak People's Party|KDU-ČSL]]
+        | SZ = [[Green Party (Czech Republic)|Greens]]
+        | US-DEU = [[Freedom Union–Democratic Union|US-DEU]]
+        | LIRA = [[Liberal Reform Party|LIRA]]
+        | SNK = [[SNK European Democrats|SNK ED]]
+        | NEZDEM = [[Independent Democrats (Czech Republic)|Ind. Dem.]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Independent | Ind | Neutral = [[Independent (politician)|Ind.]]
+	    | #default = {{{2}}} }}
+     }}
+    | DE | Almanya | [[Almanya]] = {{#switch: {{uc:{{{2}}}}}
+	| CDU = [[Hristiyan Demokrat Birliği (Germany)|CDU]]
+	| CSU = [[Baverya Hristiyan Sosyal Birliği|CSU]]
+	| SPD = [[Almanya Sosyal Demokrat Partisi|SPD]]
+        | FDP = [[Serbest Demokratik Parti (Almanya)|FDP]]
+        | PDS = [[Sol (Almanya)|Sol]]
+        | FW |FWG  = [[Freie Wähler|FW]]
+        | DDP  = [[Alman Demokratik Parti|DDP]]
+        | NS | NSDAP  = [[Nazi Partisi|NSDAP]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Sol | Linke | Sol = [[Sol (Almanya)|Left]]
+            | Yeşil | Yeşiller | Grün | Grüne | Bündnis 90/Die Grünen = [[Birlik 90/Yeşiller|Yeşiller]]
+            | Bağımsız Seçmenler | Freie wähler = [[Freie Wähler|FW]]
+            | Merkez | Zentrum = [[Merkez Parti (Almanya)|Merkez]]
+            | Nazi = [[Nazi Partisi|NSDAP]]
+            | Bağımsız | Bağ | Neutral | Parteilos | [[Parteilos]] | [[parteilos]] = [[Bağımsız (politikacı)|Bağ.]]
+	    | #default = {{{2}}} }}
+      }}
+    | NL | Netherlands | [[Netherlands]] | The Netherlands | [[The Netherlands]] | Holland | NL = {{#switch: {{uc:{{{2}}}}}
+	| CDA = [[Christian Democratic Appeal|CDA]]
+	| CU  = [[ChristianUnion|CU]]
+	| D66 = [[Democrats 66|D66]]
+	| GL  = [[GreenLeft|GL]]
+	| PVV = [[Party for Freedom|PVV]]
+        | SGP = [[Reformed Political Party|SGP]]
+        | SP  = [[Socialist Party (Netherlands)|SP]]
+        | VVD = [[People's Party for Freedom and Democracy|VVD]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Green | Groen = [[GreenLeft|GL]]
+            | PvdA | Pvda = [[Labour Party (Netherlands)|PvdA]]
+            | Independent | Ind | Neutral | Parteilos | [[Parteilos]] | [[parteilos]] = [[Independent (politician)|Ind.]]
+	    | #default = {{{2}}} }}
+      }}
+    | CH | Switzerland | [[Switzerland]] = {{#switch: {{uc:{{{2}}}}}
+        | FDP | PRD | RAD | FDP/PRD = [[Free Democratic Party of Switzerland|FDP/PRD]]
+        | PLR = [[Free Democratic Party of Switzerland|FDP/PRD/PLR]]
+        | PLC = [[Free Democratic Party of Switzerland|FDP/PRD/PLC]]
+        | SPS | PSS | SP | PS | SP/PS | SPS/PSS | SOC = [[Social Democratic Party of Switzerland|SPS/PSS]]
+        | SVP | UDC | SVP/UDC = [[Swiss People's Party|SVP/UDC]]
+        | PPS = [[Swiss People's Party|SVP/UDC/PPS]]
+        | CVP | PDC | CVP/PDC = [[Christian Democratic People's Party of Switzerland|CVP/PDC]]
+        | PPD = [[Christian Democratic People's Party of Switzerland|CVP/PDC/PPD]]
+        | PCD = [[Christian Democratic People's Party of Switzerland|CVP/PDC/PCD]]
+        | GPS | PES = [[Green Party of Switzerland|GPS/PES]]
+        | GLP = [[Green Liberal Party of Switzerland|GLP]]
+        | PLS | LPS | LIB = [[Liberal Party of Switzerland|LPS/PLS]]
+        | EVP | PEV = [[Evangelical People's Party of Switzerland|EVP/PEV]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Green = [[Green Party of Switzerland|GPS]]
+            | Independent | Ind | Neutral = [[Independent (politician)|Ind.]]
+            | #default = [[List of political parties in Switzerland|{{{2}}}]] }}
+      }}
+    | US | United States | [[United States]] | USA | [[USA]] = {{#switch: {{uc:{{{2}}}}}
+        | D = [[Democratic Party (United States)|D]]
+        | R = [[Republican Party (United States)|R]]
+	| #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Democrat = [[Democratic Party (United States)|D]]
+            | Republican = [[Republican Party (United States)|R]]
+            | Independent | Ind | Neutral = [[Independent (politician)|Ind.]]
+            | #default = {{{2}}} }}
+      }}
+    | Independent | [[Independent]] | Ind | Ind. | Neutral = [[Independent (politician)|Ind.]]
+    | #default = {{#switch: {{ucfirst: {{{2}}} }}
+            | Independent | Ind | Neutral = [[Independent (politician)|Ind.]]
+            | #default = {{{2|{{{1|}}}}}} }}
+| TR | Türkiye | [[Türkiye]] = {{#switch: {{uc:{{{2}}}}}
+	| AKP = [[Adalet ve Kalkınma Partisi|AKP]]
+	| AK Parti = [[Adalet ve Kalkınma Partisi|AK Parti]]
+        | AK parti = [[Adalet ve Kalkınma Partisi|AK Parti]]
+        | BBP = [[Büyük Birlik Partisi|BBP]]
+        | BDP = [[Barış ve Demokrasi Partisi|BDP]]
+        | CHP = [[Cumhuriyet Halk Partisi|CHP]]
+        | MHP = [[Milliyetçi Hareket Partisi|MHP]]
+	| #default = {{ucfirst: {{{2}}} }}
+      }}
+}}<noinclude>
+{{Belgeleme}}
+</noinclude>
