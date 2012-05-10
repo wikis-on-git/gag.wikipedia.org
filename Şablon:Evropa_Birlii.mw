@@ -1,19 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Evropa Birlii."
-|
+{{Dolaşım
+|ad=Evropa Birlii
+|başlık=Evropa Birlii
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#85ABFF; ">'''[[Evropa Birlii|Evropa Birlii]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:left;"
-|-
-| colspan="3" | 
-{|
-<small>
-|- 
-<small>
-!  bgcolor=#85ABFF colspan="1" |<font color="white"><small> '''Aza Devletler'''</font><small> 
-| <small>
+|grup1=Aza devletner
+|liste1=
 {{Avstriya}} &nbsp;• 
 {{Belgiya}} &nbsp;•
 {{Bulgariya}} &nbsp;• 
@@ -40,41 +30,12 @@
 {{Sloveniya}} &nbsp;• 
 {{Șvețiya}} &nbsp;• 
 {{Vengriya}} 
-<small>
-|
-| 
-|-
-| 
-|
-|-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Kandidat Devletler'''</font><small>
-| <small>
+
+| grup2=''Kandidat Devletler'''</font><small>
+|liste2=
 {{Horvatiya}} &nbsp;• 
 {{Türkiye}} 
-<small>
-|
-| 
-|-
-| 
-|
-|-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Ayırlanmak Devlet'''</font><small>
-| <small>
-{{Grenlandiya}} 
-<small>
-|}
-
-|-
-|}
-|}
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+}}
 
 <noinclude>
 [[ar:قالب:دول الاتحاد الأوروبي]]
