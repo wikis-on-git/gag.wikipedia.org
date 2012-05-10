@@ -1,19 +1,10 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Franțiya bölgeleri hem avtonom bölgeleri."
-|
+{{Dolaşım
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#85ABFF; ">'''[[Franțiya bölgeleri hem avtonom bölgeleri|Franțiya bölgeleri hem avtonom bölgeleri]]'''</div>
-<div class="NavContent" style="text-align:left;">
+|ad=Franțiya bölgeleri hem avtonom bölgeleri
+|başlık=Franțiya bölgeleri hem avtonom bölgeleri
 
-{|  width=100% style="text-align:left;"
-|-
-| colspan="3" | 
-{|
-<small>
-|- 
-<small>
-!  bgcolor=#85ABFF colspan="1" |<font color="white"><small> '''Franțiya bölgeleri'''</font><small> 
-| <small>
+|grup1='''Franțiya bölgeleri'''
+|liste1= 
 {{Akitanya}} &nbsp;• 
 {{Alsace}} &nbsp;• 
 {{Aşaa Normandiya}} &nbsp;•
@@ -36,16 +27,9 @@
 {{Provence-Alpes-Côte d'Azur}} &nbsp;• 
 {{Rhône-Alpes}} &nbsp;• 
 {{Yukarı Normandiya}} 
-<small>
-|
-| 
-|-
-| 
-|
-|-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Avtonom Bölgeler hem adalar'''</font><small>
-| <small>
+
+| grup2=''Avtonom Bölgeler hem adalar'''</font><small>
+| liste2=
 [[Franțuz Gayanası|Franțuz Gayanası]]&nbsp;• 
 [[Guadeloupe|Guadeloupe]]&nbsp;• 
 [[Martinik|Martinik]]&nbsp;• 
@@ -62,15 +46,7 @@
 [[Krozet Adaları|Krozet Adaları]]&nbsp;• 
 [[Kerguelen Adaları|Kerguelen Adaları]]&nbsp;• 
 [[Sent Paul hem Amsterdam|Sent Paul hem Amsterdam]]
-<small>
-
-|}
-
-|-
-|}
-
-</div>
-</div>
+}}
 
 <noinclude>
 [[an:Plantilla:Rechions de Francia]]
