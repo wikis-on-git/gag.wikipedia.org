@@ -7,16 +7,13 @@
 
 --><span style="white-space:nowrap;word-spacing:-.12em;"><!--
 -->[[{{görüntüle|{{{1}}}}}|<span style="{{{yazıtipibiçimi|}}}" title="Bu şablonu gör"><!--
--->{{#if:{{{mini|}}}|g|gör}}</span>]]<!--
+-->{{#if:{{{mini|}}}|gör|gör}}</span>]]<!--
 
---><span style="{{{yazıtipibiçimi|}}}">&#32;<b>&middot;</b>&#32;</span><!--
--->[[{{TALKPAGENAME:{{görüntüle|{{{1}}}}}}}|<span style="{{{yazıtipibiçimi|}}}" title="Bu şablonu dartış"><!--
--->{{#if:{{{mini|}}}|d|dartış}}</span>]]<!--
 
 -->{{#if:{{{yazıtipibiçimi|}}}|<!--nothing-->|<!--else:
 --><span style="{{{yazıtipibiçimi|}}}">&#32;<b>&middot;</b>&#32;</span><!--
 -->[{{fullurl:{{görüntüle|{{{1}}}}}|action=edit}} <span style="{{{yazıtipibiçimi|}}}" title="Bu şablonu diiştir"><!--
--->{{#if:{{{mini|}}}|d|düzenle}}</span>]}}<!--
+-->{{#if:{{{mini|}}}|diiştir|diiştir}}</span>]}}<!--
 --></span><!--
 
 -->{{#if:{{{parantez|}}}|<span style="{{{yazıtipibiçimi|}}}">&#93;</span>}}<!--
