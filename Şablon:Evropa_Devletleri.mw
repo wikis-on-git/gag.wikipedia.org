@@ -1,20 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Evropa Devletleri."
-|
+{{Dolaşım
+|ad=Evropa Devletleri"
+|başlık=Evropa Devletleri
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Evropa Devletleri|Evropa Devletleri]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" | 
-{|
-|<table class="wikitable" style="margin:0">
- <tr>
-  <td width=15% align=center><small>'''[[Günbatısı Evropa|Günbatısı Evropa]]'''<small><br />[[Image:Western-Europe-map.png|60px]]
-  </td>
-  <td width=35% align=center>
-<small>
+|grup1=
+|liste1=
 {{Andorra}} &nbsp;•
 {{Belgiya}} &nbsp;•
 {{Büük Britaniya}} &nbsp;• 
@@ -24,13 +13,6 @@
 {{İslandiya}} &nbsp;• 
 {{Lüksemburg}} &nbsp;• 
 {{Monako}}
-<small>
-  </td>
-
-  <td width=15% align=center><small>'''[[Günduusu Evrоpa|Günduusu Evrоpa]]'''<small><br />[[Image:Eastern-Europe-map.svg|60px]]
-  </td>
-  <td width=35% align=center> 
-<small>
 {{Armeniya}} &nbsp;•  
 {{Azerbaycan}} &nbsp;• 
 {{Biyaz Rusiya}} &nbsp;•  
@@ -39,15 +21,6 @@
 {{Moldova}} &nbsp;• 
 {{Rusiya}} &nbsp;•  
 {{Ukrayna}} 
-<small>
-  </td>
- </tr>
-
- <tr>
-  <td width=15% align=center><small>'''[[Üülen Evrоpa|Üülen Evropa]]'''<small><br />[[Image:Southern-Europe-map.svg|60px]]
-  </td>
-  <td width=35% align=center>
-<small>
 {{Albaniya}} &nbsp;•  
 {{Bosniya hem Herțegovina}} &nbsp;• 
 {{Bulgariya}} &nbsp;• 
@@ -66,13 +39,6 @@
 {{Sloveniya}} &nbsp;•
 {{Türkiye}} &nbsp;• 
 {{Vatikan}}
-<small>
-  </td>
-
-  <td width=15% align=center><small>'''[[Poyraz Evropa|Poyraz Evropa]]'''<small><br />[[Image:Northern-Europe-map.svg|60px]]
-  </td>
-  <td width=35% align=center>
-<small>
 {{Daniya}} &nbsp;•
 {{Estoniya}} &nbsp;• 
 {{Finlandiya}} &nbsp;• 
@@ -80,15 +46,6 @@
 {{Litva}} &nbsp;• 
 {{Norvegiya}} &nbsp;•
 {{Șvețiya}}
-<small>
-  </td>
- </tr>
-
- <tr>
-  <td width=15% align=center><small>'''[[Orta Evropa|Orta Evropa]]'''<small><br />[[Image:Central-Europe-map.png|60px]]
-  </td>
-  <td width=35% align=center>  
-<small>
 {{Avstriya}} &nbsp;• 
 {{Çehiya}} &nbsp;• 
 {{Germaniya}} &nbsp;•
@@ -97,13 +54,6 @@
 {{Slovakiya}} &nbsp;
 {{Şveyțariya}} &nbsp;• 
 {{Vengriya}}  
-<small>
-  </td>
-
-  <td width=15% align=center><small>'''[[Avtonom Devletler|Avtonom Devletler]]'''<small>
-  </td>
-  <td width=35% align=center>
-<small>
 {{Abhaziya}} &nbsp;• 
 {{Acara}} &nbsp;•
 {{Adige Respublikası}} &nbsp;• 
@@ -127,16 +77,4 @@
 {{Udmurtiya}} &nbsp;•
 {{Üülen Osetiya}} &nbsp;• 
 {{Voyvodina}}
-<small>
-   </td>
- </tr>
-</table>
-
-|-
-|}
-|}
-|}
-</div>
-</div>
-
-<noinclude>
+}}
