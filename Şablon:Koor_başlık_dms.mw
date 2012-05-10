@@ -1,0 +1,10 @@
+<span id="coordinates" class="plainlinksneverexpand">[[Coğrafi koordinat sistemi|Koordinatlar]]: {{koor dms|{{{1}}}|{{{2}}}|{{{3}}}|{{{4}}}|{{{5}}}|{{{6}}}|{{{7}}}|{{{8}}}|{{{9}}}}}</span><noinclude>
+----
+<!--This template places the coordinates in the upper-right of the article, just below the horizontal rule running under the article's title.-->
+
+[[Kategori:Koordinat şablonları|{{PAGENAME}}]]
+
+[[en:Template:Coord]]
+[[fi:Malline:Coor title dms]]
+[[fr:Modèle:Coordonnées]]
+</noinclude>
