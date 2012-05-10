@@ -1,19 +1,9 @@
-{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Baamsız Devletlär Topluluu."
-|
+{{Dolaşım
+|ad=Baamsız Devletlär Topluluu
+|başlık=Baamsız Devletlär Topluluu
 
-<div class="NavFrame">
-<div class="NavHead" style="background:#85ABFF; ">'''[[Baamsız Devletlär Topluluu|Baamsız Devletlär Topluluu]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:left;"
-|-
-| colspan="3" | 
-{|
-<small>
-|- 
-<small>
-!  bgcolor=#85ABFF colspan="1" |<font color="white"><small> '''Aza Devletler'''</font><small> 
-| <small>
+|grup1=
+|liste1=
 {{Armeniya}} &nbsp;• 
 {{Azerbaycan bayrak}} &nbsp;•
 {{Biyaz Rusiya}} &nbsp;• 
@@ -25,26 +15,7 @@
 {{Tacikistan}} &nbsp;•
 {{Türkmenistan}} &nbsp;• 
 {{Ukrayna}}  
-<small>
-|
-| 
-|-
-| 
-|
-|-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Eski Aza Devlet'''</font><small>
-| <small>
-{{Gruziya}} 
-<small>
-
-|}
-
-|-
-|}
-
-</div>
-</div><noinclude>
+}}<noinclude>
 [[az:Şablon:MDB]]
 [[be-x-old:Шаблён:СНД]]
 [[br:Patrom:Kenglad ar Stadoù Dizalc'h]]
