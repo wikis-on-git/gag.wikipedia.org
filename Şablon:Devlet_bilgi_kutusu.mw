@@ -16,7 +16,7 @@
 {{!}} colspan="2" class="maptable"{{!}}
 {{{!}} width=100% style="text-align:center; margin:0 auto; background:none;"
 {{!}}-
-{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{bayrak}}}|125px|border|alt={{{bayrak_açıklaması|Bayrak}}}]]
+{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{bayrak}}}|{{{bayrak_boyutu|85px}}}|alt={{{bayrak_açıklaması|Bayrak}}}]]
 {{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]
 {{!}}- style="font-size: 95%;"
 {{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak|}}}|[[{{{bayrak}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
