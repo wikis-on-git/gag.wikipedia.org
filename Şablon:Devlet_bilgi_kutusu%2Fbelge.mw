@@ -1,10 +1,13 @@
 <pre>
-{{Ülke bilgi kutusu
-| kendi_dilinde_adı                    =
+{{
+
+Devlet bilgi
+
+kendi_dilinde_adı                    =
 | adı                                  =
 | tam_adı                              =
-| bayrak                        =
-| arma                         =
+| bayrak_resmi                         =
+| arma_resmi                           =
 | slogan                               =
 | millî_marş                           =
 | kraliyet_marşı                       =
@@ -15,8 +18,8 @@
 | harita2_resmi                        =
 | harita2_açıklaması                   =
 | başkent                              =
-| latd=  | latm= | latNS = 
-| longd= | longm= | longEW = 
+| latd=  | latm= | latNS =
+| longd= | longm= | longEW =
 | en_büyük_şehir                       =
 | en_büyük_yerleşim                    =
 | en_büyük_yerleşim_tipi               =
