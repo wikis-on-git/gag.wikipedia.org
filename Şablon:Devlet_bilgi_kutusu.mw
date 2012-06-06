@@ -11,17 +11,17 @@
 }}
 {{!}}- 
 <!---------- Bayrak / Arma (veya başka bir sembol) ---------->
-{{#if:{{{bayrak |}}}|{{#if:{{{arma|}}}|
+{{#if:{{{bayrak_resmi|}}}|{{#if:{{{arma_resmi|}}}|
 {{!}}- class="mergedtoprow"
 {{!}} colspan="2" class="maptable"{{!}}
 {{{!}} width=100% style="text-align:center; margin:0 auto; background:none;"
 {{!}}-
-{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{bayrak}}}|{{{bayrak_boyutu|85px}}}|alt={{{bayrak_açıklaması|Bayrak}}}]]
-{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]
+{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{bayrak_resmi}}}|125px|border|alt={{{bayrak_açıklaması|Bayrak}}}]]
+{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]
 {{!}}- style="font-size: 95%;"
-{{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak|}}}|[[{{{bayrak}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
+{{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak_adı|}}}|[[{{{bayrak_adı}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
 </small>
-{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
+{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma_resmi|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
 </small>
 {{!}}} 
 |{{!}}- class="mergedtoprow"
