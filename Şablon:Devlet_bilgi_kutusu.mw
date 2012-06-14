@@ -360,9 +360,9 @@
 }}
 |-
 <!---------- Zaman dilimi ---------->
-{{#if:{{{zaman_dilimi|}}}{{{utc|}}}| 
+{{#if:{{{vakit |}}}{{{utc|}}}| 
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Zaman dilimi]]'''
-{{!!}} {{{zaman_dilimi|}}} {{#if:{{{utc|}}} |{{nowrap|([[Eşgüdümlü Evrensel Zaman|UTC]]{{{utc}}})}} }}
+{{!!}} {{{vakit |}}} {{#if:{{{utc|}}} |{{nowrap|([[Eşgüdümlü Evrensel Zaman|UTC]]{{{utc}}})}} }}
 }}
 {{!}}- | class="mergedrow" | class="mergedbottomrow"}}
 {{#if:{{{yaz_zaman_dilimi|}}}|
