@@ -81,9 +81,9 @@
 }}}}}}
 |-
 <!---------- Resmi veya tanınmış bölgesel diller, etnik gruplar ---------->
-{{#if: {{{resmî_diller|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Resmî dil|Resmî dil(ler)]]'''
-{{!!}} {{{resmî_diller|}}} 
+{{#if: {{{dil |}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''dil '''
+{{!!}} {{{dil |}}} 
 }}
 |-
 {{#if: {{{bölgesel_diller|}}}|
