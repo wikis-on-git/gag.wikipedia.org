@@ -1,4 +1,4 @@
-{| class="infobox geography" style="width:250px; font-size:87%; text-align:left"
+<ref name="">{| class="infobox geography" style="width:250px; font-size:87%; text-align:left"
 |-
 <!---------- İsimleri ---------->
 {{#if: {{{tam_adı|}}}|
@@ -11,26 +11,26 @@
 }}
 {{!}}- 
 <!---------- Bayrak / Arma (veya başka bir sembol) ---------->
-{{#if:{{{bayrak|}}}|{{#if:{{{arma_resmi|}}}|
+{{#if:{{{bayrak|}}}|{{#if:{{{arma|}}}|
 {{!}}- class="mergedtoprow"
 {{!}} colspan="2" class="maptable"{{!}}
 {{{!}} width=100% style="text-align:center; margin:0 auto; background:none;"
 {{!}}-
 {{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{bayrak}}}|125px|border|alt={{{bayrak_açıklaması|Bayrak}}}]]
-{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]
+{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]
 {{!}}- style="font-size: 95%;"
 {{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak_adı|}}}|[[{{{bayrak_adı}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
 </small>
-{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma_resmi|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
+{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
 </small>
 {{!}}} 
 |{{!}}- class="mergedtoprow"
 {{!}} colspan="2" class="maptable" align=center {{!}}
 <p>[[Dosya:{{{bayrak}}}|125px|border|alt={{{bayrak_açıklaması|Bayrak}}}]]<p> <small>{{#if:{{{bayrak_adı|}}}|[[{{{bayrak_adı}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}}}}}}}}}}}</small>
 |-
-{{#if:{{{bayrak|}}}||{{#if:{{{arma_resmi|}}}|
+{{#if:{{{bayrak|}}}||{{#if:{{{arma|}}}|
 {{!}} colspan="2" class="maptable" align=center {{!}}
-<p>[[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]<p> <small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}}}
+<p>[[Dosya:{{{arma|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]<p> <small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}}}
 </small>
 |-
 <!---------- Diğer sembol ---------->
@@ -445,3 +445,4 @@
 {{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>7</sup>}}&nbsp;<small>{{{dipnot7}}}</small>
 {{!}}- }}
 |}<noinclude>{{belgeleme}}</noinclude>
+</ref>
