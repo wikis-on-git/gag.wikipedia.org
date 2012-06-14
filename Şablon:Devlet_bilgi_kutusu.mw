@@ -382,6 +382,12 @@
 {{!!}} {{{trafik_akışı}}} 
 }}
 |-
+<!---------- kuruluş ---------->
+{{#if: {{{kuruluş|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Sağdan ve soldan akan kuruluş|kuruluş]]'''
+{{!!}} {{{kuruluş}}} 
+}}
+|-
 <!---------- ISO 3166 kodu ---------->
 {{#if: {{{ISO_3166_kodu|}}}|
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[ISO 3166|ISO&nbsp;3166&nbsp;kodu]]'''
