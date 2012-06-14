@@ -395,9 +395,9 @@
 }}
 |-
 <!---------- Telefon kodu ---------->
-{{#if: {{{telefon_kodu|}}}|
+{{#if: {{{telefon|}}}|
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Uluslararası telefon kodları listesi|Telefon kodu]]'''
-{{!!}} {{{telefon_kodu}}} 
+{{!!}} {{{telefon}}} 
 }}
 |-
 <!---------- Koruyucu aziz ---------->
