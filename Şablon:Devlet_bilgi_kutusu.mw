@@ -401,14 +401,14 @@
 }}
 |-
 <!---------- Internet TLD ---------->
-{{#if: {{{cctld|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[İnternet üst seviye alan adları listesi|Internet TLD]]'''
-{{!!}} {{{cctld}}} 
+{{#if: {{{internet|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''internet'''
+{{!!}} {{{internet}}} 
 }}
 |-
 <!---------- Telefon kodu ---------->
 {{#if: {{{telefon|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Uluslararası telefon kodları listesi|Telefon kodu]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Telefon kodu'''
 {{!!}} {{{telefon}}} 
 }}
 |-
