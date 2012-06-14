@@ -354,9 +354,9 @@
 }}
 |-
 <!---------- Para birimi ---------->
-{{#if: {{{para_birimi|}}}|
+{{#if: {{{para|}}}|
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Para|Para birimi]]'''
-{{!!}} {{{para_birimi}}} {{#if:{{{para_birimi_kodu|}}}| (<code>[[ISO 4217|{{{para_birimi_kodu}}}]]</code>) }}
+{{!!}} {{{para}}} {{#if:{{{para_kodu|}}}| (<code>[[ISO 4217|{{{para_kodu}}}]]</code>) }}
 }}
 |-
 <!---------- Zaman dilimi ---------->
