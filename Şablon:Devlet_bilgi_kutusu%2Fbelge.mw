@@ -1,10 +1,13 @@
 <pre>
-{{Devlet bilgi
+{{
+
+Devlet bilgi
+
 kendi_dilinde_adı                    =
 | adı                                  =
 | tam_adı                              =
-| bayrak_resmi                         =
-| arma_resmi                           =
+| bayrak                         =
+| arma                           =
 | slogan                               =
 | millî_marş                           =
 | kraliyet_marşı                       =
@@ -116,7 +119,7 @@ kendi_dilinde_adı                    =
 | trafik_akışı                         =
 | cctld                                =
 | ISO_3166_kodu                        =
-| telefon_kodu                         =
+| telefon                         =
 | harita3_resmi                        =
 | harita3_açıklaması                   =
 | dipnotlar                            =
