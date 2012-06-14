@@ -312,13 +312,13 @@
 }} 
 |-
 <!---------- GSYİH-SAGP ---------->
-{{#if: {{{GSYİH_SAGP|}}}{{{kişi_başına_düşen_GSYİH_SAGP|}}}|
+{{#if: {{{gsyih |}}}{{{kişi_başına_düşen_GSYİH_SAGP|}}}|
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Gayri safi yurtiçi hasıla|GSYİH]]'''&nbsp;([[Satın alma gücü paritesi|SAGP]]){{!!}} {{{GSYİH_SAGP_yılı|}}} 
 }}
 {{!}}- | class="mergedrow" | class="mergedbottomrow"}}
-{{#if:{{{GSYİH_SAGP|}}}|
+{{#if:{{{gsyih |}}}|
 {{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- Toplam
-{{!!}} {{{GSYİH_SAGP}}} {{#if:{{{GSYİH_SAGP_sırası|}}} |([[Ülkelerin GSYİH’ya (SAGP) göre sıralanışı|{{{GSYİH_SAGP_sırası}}}]])}}
+{{!!}} {{{gsyih }}} {{#if:{{{GSYİH_SAGP_sırası|}}} |([[Ülkelerin GSYİH’ya (SAGP) göre sıralanışı|{{{GSYİH_SAGP_sırası}}}]])}}
 }} 
 {{!}}- | class="mergedrow" | class="mergedbottomrow"}}
 {{#if:{{{kişi_başına_düşen_GSYİH_SAGP|}}}|
