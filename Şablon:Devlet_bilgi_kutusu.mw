@@ -355,7 +355,7 @@
 |-
 <!---------- Para birimi ---------->
 {{#if: {{{para|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Para|Para birimi]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Para]]'''
 {{!!}} {{{para}}} {{#if:{{{para_kodu|}}}| (<code>[[ISO 4217|{{{para_kodu}}}]]</code>) }}
 }}
 |-
