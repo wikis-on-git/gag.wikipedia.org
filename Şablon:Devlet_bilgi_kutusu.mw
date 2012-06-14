@@ -1,4 +1,4 @@
-<ref name="">{| class="infobox geography" style="width:250px; font-size:87%; text-align:left"
+{| class="infobox geography" style="width:250px; font-size:87%; text-align:left"
 |-
 <!---------- İsimleri ---------->
 {{#if: {{{tam_adı|}}}|
@@ -445,4 +445,3 @@
 {{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>7</sup>}}&nbsp;<small>{{{dipnot7}}}</small>
 {{!}}- }}
 |}<noinclude>{{belgeleme}}</noinclude>
-</ref>
