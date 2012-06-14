@@ -181,7 +181,7 @@
 }} 
 |-
 <!---------- Kuruluş ---------->
-{{#if:{{{olay1|}}}{{{olay2|}}}{{{olay3|}}}{{{olay4|}}}{{{olay5|}}}{{{olay6|}}}{{{olay7|}}}{{{olay8|}}}{{{olay9|}}}|
+{{#if:{{{Kuruluş|}}}{{{olay2|}}}{{{olay3|}}}{{{olay4|}}}{{{olay5|}}}{{{olay6|}}}{{{olay7|}}}{{{olay8|}}}{{{olay9|}}}|
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[:Kategori:Kuruluş yıllarına göre bölgeler ve ülkeler|Kuruluş]]'''
 {{!!}} 
 }}
