@@ -47,8 +47,8 @@
 {{!}}- }}
 |-
 <!---------- Haritalar ---------->
-{{#if:{{{harita_resmi|}}}|
-{{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} [[Dosya:{{{harita_resmi}}} |{{{harita_boyutu|250px}}}|center |alt=Konum]]<small>{{#if:{{{harita_açıklaması|}}}|{{{harita_açıklaması}}}}}</small>}}
+{{#if:{{{harita |}}}|
+{{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} [[Dosye:{{{harita }}} |{{{harita_boyutu|250px}}}|center |alt=Konum]]<small>{{#if:{{{harita_açıklaması|}}}|{{{harita_açıklaması}}}}}</small>}}
 |-
 {{#if:{{{harita2_resmi|}}}|
 {{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} [[Dosya:{{{harita2_resmi}}} |{{{harita2_boyutu|250px}}} |center |alt=Konum]]<small>{{#if:{{{harita2_açıklaması|}}}|{{{harita2_açıklaması}}}}}</small>}}
