@@ -1,0 +1,46 @@
+{{Documentation subpage}}
+{{high-risk|6,600,000+}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This template resolves page names as they would be handled by MediaWiki's template-transclusion process.  It thereby removes ambiguity when doing ''other'' things with template pagenames, e.g. linking.
+
+Key usage is in [[Template:Navbox|navboxes']] gör, tartış, diiştir (g,t,d) menu.
+
+=== Usage ===
+
+*<code><nowiki>{{transclude| Template:Foo }}</nowiki></code> &rarr; '''{{transclude|Template:Foo}}'''
+*<code><nowiki>{{transclude| Category:Foo }}</nowiki></code> &rarr; '''{{transclude|Category:Foo}}'''
+*<code><nowiki>{{transclude| Foo }}</nowiki></code> &rarr; '''{{transclude|Foo}}'''
+*<code><nowiki>{{transclude| :Foo }}</nowiki></code> &rarr; '''{{transclude|:Foo}}'''
+*<code><nowiki>{{transclude| :File:Foo }}</nowiki></code> &rarr; '''{{transclude|:File:Foo}}'''
+
+=== See also ===
+* {{tl|Linked}}
+* {{tl|Category title}}
+* {{tl|File title}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Wikipedia formatting and function templates|Transclude]]
+
+[[ar:قالب:Transclude]]
+[[cs:Šablona:Transclude]]
+[[cu:Обраꙁьць:Transclude]]
+[[cy:Nodyn:Transclude]]
+[[en:Template:Transclude]]
+[[es:Plantilla:Transcluir]]
+[[et:Mall:Transclude]]
+[[eu:Txantiloi:Transclude]]
+[[fa:الگو:Transclude]]
+[[gu:ઢાંચો:Transclude]]
+[[hi:साँचा:Transclude]]
+[[id:Templat:Transclude]]
+[[ja:Template:Transclude]]
+[[km:ទំព័រគំរូ:Transclude]]
+[[map-bms:Cithakan:Transclude]]
+[[pt:Predefinição:Transclude]]
+[[simple:Template:Transclude]]
+[[sl:Predloga:Transclude]]
+[[te:మూస:Transclude]]
+[[th:แม่แบบ:Transclude]]
+</includeonly>
