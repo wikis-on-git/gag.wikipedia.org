@@ -1,0 +1,79 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+===Usage===
+{{tl|Flatlist}} starts a horizontal list, such as:
+{{flatlist}}
+* [[cat]]
+* [[dog]]
+* [[horse]]
+* [[cow]]
+* [[sheep]]
+* [[pig]]
+{{endflatlist}}
+The bottom margin is inherited from the current container. Normally this will be 0.5em. This template can be used in tandem with {{tl|endflatlist}}.
+
+===Parameters===
+Syntax:
+
+<pre><nowiki>
+{{flatlist}}
+* [[cat]]
+* [[dog]]
+* [[horse]]
+* [[cow]]
+* [[sheep]]
+* [[pig]]
+{{endflatlist}}
+</nowiki></pre>
+
+Alternative syntax:
+<pre><nowiki>
+{{flatlist |
+* [[cat]]
+* [[dog]]
+* [[horse]]
+* [[cow]]
+* [[sheep]]
+* [[pig]]
+}}
+</nowiki></pre>
+
+Syntax for ordered lists:
+
+<pre><nowiki>
+{{flatlist}}
+# [[first]]
+# [[second]]
+# [[third]]
+# [[fourth]]
+# [[fifth]]
+# [[sixth]]
+{{endflatlist}}
+</nowiki></pre>
+
+====Optional parameters====
+:* '''indent''' – adds left indent by a number of em-spaces, particularly handy for inclusion in an indented discussion thread.
+:::Example: {{para|<var>indent</var>|<var>2</var>}}
+:* '''style''' – adds CSS style options. Complex styles should not be used in articles but may be acceptable on user, project, and talk pages.
+:::Example: {{para|<var>style</var>|<var>border:solid 1px silver; background:lightyellow</var>}}
+
+===See also===
+* {{tl|endflatlist}}
+* {{tl|multi-column numbered list}}
+* {{tl|nowrap begin}}/{{tl|nowrap end}}
+* {{tl|pagelist}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Typing-aid templates]]
+[[Category:Wikipedia list formatting templates]]
+
+[[fr:Modèle:Liste éléments]]
+[[hi:साँचा:Flatlist]]
+[[id:Templat:Flatlist]]
+[[ja:Template:Flatlist]]
+[[km:ទំព័រគំរូ:Flatlist]]
+[[ko:틀:Flatlist]]
+[[ne:ढाँचा:Endflatlist]]
+</includeonly>
