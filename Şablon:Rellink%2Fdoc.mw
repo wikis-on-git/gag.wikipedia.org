@@ -1,0 +1,44 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This meta-template is used to style section hatnotes which direct users to related articles.
+
+=== Usage ===
+<pre>{{rellink|1=Your text here}}</pre>
+produces
+{{rellink|1=Your text here}}
+
+In most cases one won't need the <code>1=</code>, but if there's an <code>=</code> anywhere in the text provided, it is necessary.
+
+Adding an <code>extraclasses</code> parameter allows extra CSS classes to be specified.
+
+=== See also ===
+* [[Template:Dablink]]
+* [[Template:Hatnote templates documentation|Hatnote templates documentation]]
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Wikipedia page-section templates|{{PAGENAME}}]]
+[[Category:Wikipedia metatemplates|{{PAGENAME}}]]
+[[Category:Hatnote templates|{{PAGENAME}}]]
+
+[[arc:ܩܠܒܐ:Rellink]]
+[[be:Шаблон:Rellink]]
+[[bn:টেমপ্লেট:Rellink]]
+[[en:Template:Rellink]]
+[[eo:Ŝablono:RilataLigilo]]
+[[fr:Modèle:Rellink]]
+[[hi:साँचा:Rellink]]
+[[ja:Template:Rellink]]
+[[ka:თარგი:Rellink]]
+[[kk:Үлгі:Rellink]]
+[[la:Formula:Rellink]]
+[[mn:Загвар:Rellink]]
+[[my:Template:Rellink]]
+[[or:ଛାଞ୍ଚ:Rellink]]
+[[ru:Шаблон:Rellink]]
+[[sd:سانچو:Rellink]]
+[[sv:Mall:Rellink]]
+[[th:แม่แบบ:Rellink]]
+[[ur:سانچہ:Rellink]]
+</includeonly>
