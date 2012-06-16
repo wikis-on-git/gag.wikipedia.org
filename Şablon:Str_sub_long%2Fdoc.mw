@@ -1,0 +1,40 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+<code><nowiki>{{str sub long|</nowiki>''text''|''start''|''length''<nowiki>}}</nowiki></code> = Substring of ''text'' starting at ''start'' and containing ''length'' characters. Base 0: the first character is numbered 0, and so on, e.g. <nowiki>{{str sub long|20090624130510|8|2}}</nowiki> returns the 2 characters starting at the 9th, i.e. "{{str_sub|20090624130510|8|2}}"
+
+''start'' + ''length'' must be less than 100.  Only operates on a limited character set.
+
+=== See also ===
+* {{Tl|Str sub}}
+* {{String templates see also}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:String manipulation templates]]
+
+[[km:ទំព័រគំរូ:Str sub long]]
+[[la:Formula:Str sub long]]
+[[mr:साचा:Str sub long]]
+[[ne:ढाँचा:Str sub long]]
+[[sco:Template:Str sub long]]
+[[si:සැකිල්ල:Str sub long]]
+[[simple:Template:Str sub long]]
+[[sk:Šablóna:Str sub long]]
+[[sl:Predloga:Str sub long]]
+[[tr:Şablon:Str sub long]]
+[[ba:Ҡалып:Str sub long]]
+[[be:Шаблон:Str sub long]]
+[[bn:টেমপ্লেট:Str sub long]]
+[[el:Πρότυπο:Str sub long]]
+[[en:Template:Str sub long]]
+[[es:Plantilla:Str sub long]]
+[[gd:Teamplaid:Str sub long]]
+[[hi:साँचा:Str sub long]]
+[[id:Templat:Str sub long]]
+[[ja:Template:Str sub long]]
+[[jv:Cithakan:Str sub long]]
+[[ka:თარგი:Str sub long]]
+[[sl:Predloga:Str sub long]]
+</includeonly>
