@@ -1,0 +1,15 @@
+<onlyinclude>{{Dolaşım
+|dolçub= off
+|durum= off
+|biçim= width:auto;float:right;margin:0em 0em 0em 1em;
+|başlık= Dolaşım şablon grubu
+|liste1 = {{t1|Dolaşım}}
+|liste2 = {{t1|Dolaşım iç}}
+|liste3 = {{t1|Dolaşım dikeç}}
+|liste4 = {{t1|Navbox with collapsible groups}}
+}}</onlyinclude><!--
+
+NOTE: A template MUST support all of the parameters marked with a cross in Template:Navbox/doc in order to be Navbox suite compliant.  In particular, the name, state, border, and navbar parameters are especially important.  -->
+<noinclude>
+[[Kategori:Vikipedi dolaşım şablonları|{{PAGENAME}}]]
+</noinclude>
