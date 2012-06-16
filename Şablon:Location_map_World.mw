@@ -1,0 +1,33 @@
+{{#switch:{{{1}}}
+| name   = World
+| top   = 90
+| bottom= -90
+| left  = -180
+| right = 180
+| image =World location map (equirectangular 180).svg 
+}}<noinclude>{{Location map/Info}}
+
+[[Category:Location map templates|World]]
+[[cs:Šablona:LocMap Svět]]
+[[de:Vorlage:Positionskarte Welt]]
+[[dsb:Pśedłoga:LocMap swět]]
+[[en:Template:Location map World]]
+[[eo:Ŝablono:Situo sur mapo mondo]]
+[[fi:Malline:Location map World]]
+[[fr:Modèle:Géolocalisation/Monde]]
+[[hsb:Předłoha:LocMap swět]]
+[[hy:Կաղապար:Տեղորոշման քարտեզ Աշխարհ]]
+[[it:Template:Mappa di localizzazione/Mondo]]
+[[ja:Template:Location map World]]
+[[ko:틀:위치 지도 세계]]
+[[ku:Şablon:Nexşeya cihan Erd]]
+[[lv:Veidne:VietasKarte Pasaule]]
+[[nn:Mal:Kartposisjon Verd]]
+[[oc:Modèl:Geolocalizacion/Monde]]
+[[pl:Szablon:Mapa lokalizacyjna/Świat]]
+[[pt:Predefinição:Mapa de localização/Mundo]]
+[[ru:Шаблон:ПозКарта Мир]]
+[[sk:Šablóna:LocMap Svet]]
+[[szl:Szablon:Mapa lokalizacyjno/Świat]]
+[[zh:Template:Location map World]]
+</noinclude>
