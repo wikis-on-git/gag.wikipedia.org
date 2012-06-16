@@ -1,0 +1,54 @@
+<div style="float:{{{float|left}}}; border:{{{border-width|{{{border-s|1}}}}}}px solid {{{border-color|{{{1|{{{border-c|{{{id-c|#999}}}}}}}}}}}}; margin:1px;" class="wikipediauserbox">
+{| cellspacing="0" style="width:238px; background:{{{info-background|{{{2|{{{info-c|#EEE}}}}}}}}};"
+| style="width:{{{logo-width|{{{id-w|45}}}}}}px; height:{{{logo-height|{{{id-h|45}}}}}}px; background:{{{logo-background|{{{1|{{{id-c|#DDD}}}}}}}}}; text-align:center; font-size:{{{logo-size|{{{5|{{{id-s|14}}}}}}}}}pt; color:{{{logo-color|{{{id-fc|black}}}}}}; padding:{{{logo-padding|{{{id-p|1px}}}}}}; line-height:{{{logo-line-height|{{{id-lh|1.25em}}}}}}; {{{logo-other-param|{{{id-op|}}}}}}; vertical-align: middle;" |'''{{{logo|{{{3|{{{id|id}}}}}}}}}'''
+| style="text-align:left; font-size:{{{info-size|{{{info-s|8}}}}}}pt; padding:{{{info-padding|{{{info-p|4px}}}}}}; line-height:{{{info-line-height|{{{info-lh|1.25em}}}}}}; color:{{{info-color|{{{info-fc|black}}}}}}; {{{info-other-param|{{{info-op|}}}}}}; vertical-align: middle;" | {{{info|{{{4|{{{info|''info''}}}}}}}}}
+|}</div>{{#ifeq:{{NAMESPACE}}|{{ns:2}}
+ |{{#if:{{{usercategory|}}}|[[Category:{{{usercategory}}}]]}}{{#if:{{{usercategory2|}}}|[[Category:{{{usercategory2}}}]]}}
+}}<noinclude>
+
+[[Category:Category suppression supporting templates]]
+
+[[als:Vorlage:Userbox]]
+[[az:Şablon:İstifadəçiqutusu]]
+[[ba:Ҡалып:Userbox]]
+[[bar:Vorlage:Userbox]]
+[[be:Шаблон:Userbox]]
+[[be-x-old:Шаблён:Userbox]]
+[[bn:টেমপ্লেট:Userbox]]
+[[cs:Šablona:Nálepka levá]]
+[[cu:Обраꙁьць:Userbox]]
+[[da:Skabelon:Brugerboks]]
+[[de:Vorlage:Userbox]]
+[[dsb:Pśedłoga:Userbox]]
+[[el:Πρότυπο:Userbox]]
+[[en:Template:Userbox]]
+[[eu:Txantiloi:Taulatxo oinarria]]
+[[fi:Malline:Käyttäjälaatikko]]
+[[fr:Modèle:BUtilisateur]]
+[[hr:Predložak:Suradnički okvir]]
+[[hsb:Předłoha:Userbox]]
+[[hu:Sablon:Userbox]]
+[[it:Template:Userbox]]
+[[ka:თარგი:Userbox]]
+[[la:Formula:Userbox]]
+[[lv:Veidne:Uzlīme]]
+[[mk:Шаблон:Корисничка кутија]]
+[[mn:Загвар:Userbox]]
+[[na:Template:Userbox]]
+[[no:Mal:Userbox]]
+[[pl:Szablon:Userbox]]
+[[pt:Predefinição:Userbox]]
+[[ru:Шаблон:Userbox]]
+[[sah:Халыып:Userbox]]
+[[sc:Template:Userbox]]
+[[simple:Template:Userbox]]
+[[sk:Šablóna:Userbox]]
+[[sl:Predloga:Uporabniško polje]]
+[[sv:Mall:Användarbox]]
+[[tg:Шаблон:Userbox]]
+[[uk:Шаблон:Юзербокс]]
+[[uz:Andoza:Userbox]]
+[[zh:Template:Userbox]]
+[[zh-classical:Template:Userbox]]
+
+</noinclude>
