@@ -3,6 +3,7 @@
 Produces '''1''' (equivalent to a true condition) if both ''string1'' and ''string2'' are non-empty; otherwise produces the empty string (false condition).
 [[Kategori:Vikipedi formatlama ve fonksiyon şablonları]]
 
+[[as:সাঁচ:Both]]
 [[be:Шаблон:Both]]
 [[bjn:Citakan:Both]]
 [[cy:Nodyn:Y ddau]]
@@ -21,6 +22,7 @@ Produces '''1''' (equivalent to a true condition) if both ''string1'' and ''stri
 [[nds:Vörlaag:Booland]]
 [[ne:ढाँचा:Both]]
 [[no:Mal:Both]]
+[[or:ଛାଞ୍ଚ:Both]]
 [[sl:Predloga:Both]]
 [[sv:Mall:Both]]
 [[tr:Şablon:Both]]
