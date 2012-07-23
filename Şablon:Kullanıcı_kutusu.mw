@@ -1,0 +1,9 @@
+<div style="float:{{{konum|left}}}; border:{{{kenar-genişlik|{{{kenar-g|1}}}}}}px solid {{{kenar-renk|{{{1|{{{kenar-r|{{{sol-r|#999}}}}}}}}}}}}; margin:1px;" class="wikipediauserbox {{{gövdesınıfı|}}}">
+{| cellspacing="0" style="width:238px; background:{{{sağ-zemin|{{{2|{{{sağ-r|#EEE}}}}}}}}};"
+{{#if:{{{logo|{{{3|{{{sol|sol}}}}}}}}}|
+! style="width:{{{logo-genişlik|{{{sol-g|45}}}}}}px; height:{{{logo-yükseklik|{{{id-h|45}}}}}}px; background:{{{logo-zemin|{{{1|{{{sol-r|#DDD}}}}}}}}}; text-align:{{{id-a|center}}}; font-size:{{{logo-boyut|{{{5|{{{sol-b|14}}}}}}}}}pt; color:{{{logo-renk|{{{sol-mr|black}}}}}}; padding:{{{logo-dolgu|{{{sol-d|0 1px 0 0}}}}}}; line-height:{{{logo-satır-yükseklik|{{{sol-sy|1.25em}}}}}}; vertical-align: middle; {{{logo-diğer-parametre|{{{sol-dp|}}}}}}" {{!}} {{{logo|{{{3|{{{sol|sol}}}}}}}}}
+}}
+| style="direction:{{{yön|ltr}}};text-align:{{{sağ-h|left}}}; font-size:{{{sağ-boyut|{{{sağ-b|8}}}}}}pt; padding:{{{sağ-dolgu|{{{sağ-d|0 4px 0 4px}}}}}}; height:{{{logo-yükseklik|{{{sol-y|45}}}}}}px; line-height:{{{sağ-satır-yükseklik|{{{sağ-sy|1.25em}}}}}}; color:{{{sağ-renk|{{{sağ-mr|black}}}}}}; vertical-align: middle; {{{sağ-diğer-parametre|{{{sağ-dp|}}}}}}" {{#if:{{{sağ-sınıf|}}}|class="{{{sağ-sınıf}}}"}} | {{{sağ|{{{4|''sağ''}}}}}}
+|}</div>{{#if:{{{kullanıcıkategorisi|}}}|[[Kategori:{{{kullanıcıkategorisi}}}]]}}{{#if:{{{kullanıcıkategorisi2|}}}|[[Kategori:{{{kullanıcıkategorisi2}}}]]}}{{#if:{{{kullanıcıkategorisi3|}}}|[[Kategori:{{{kullanıcıkategorisi3}}}]]}}<noinclude>
+{{belgeleme}}
+</noinclude>
