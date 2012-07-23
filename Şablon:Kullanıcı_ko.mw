@@ -1,17 +1,27 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:User ko|ko]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:2.25em;"> 사용자는 '''[[Koreya dili|한국어]]'''가 '''[[:Kategori:user ko|모국어]]'''입니다.<includeonly>
-</td>
-</tr></table></div>
-[[Kategori:user ko|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|ko]]
+{{Kullanıcı kutusu
+|sol-r=#6EF7A7
+|sağ-r=#C5FCDC
+|sol=[[:Kategori:Kullanıcı ko|ko]]
+|sağ=+이 사용자는 '''[[Korece|한국어]]'''가 '''[[:Kategori:Kullanıcı ko-A|모국어]]'''입니다.
+|kullanıcıkategorisi=Kullanıcı ko-A
+|kullanıcıkategorisi2=Kullanıcı ko}}<noinclude>	 
+[[Kategori:Babil şablonnarı]]
+
+[[ab:Ашаблон:User ko]]
+[[ace:Pola:User ko]]
+[[am:መለጠፊያ:User ko]]
 [[ar:قالب:مستخدم ko]]
+[[arc:ܩܠܒܐ:User ko]]
+[[ast:Plantía:Usuarios por idioma (ko)]]
 [[bat-smg:Šabluons:User ko]]
 [[bg:Шаблон:Потребител ko]]
+[[ca:Plantilla:Babel ko]]
 [[de:Vorlage:User ko]]
+[[el:Πρότυπο:Χρήστης ko]]
 [[en:Template:User ko]]
+[[es:Plantilla:·Usuarios por idioma (ko)]]
 [[et:Mall:User ko]]
+[[eu:Txantiloi:·Hizkuntza (ko)]]
 [[fa:الگو:User ko]]
 [[fi:Malline:User ko]]
 [[fr:Modèle:Utilisateur ko]]
@@ -19,6 +29,7 @@
 [[he:תבנית:User ko]]
 [[hi:साँचा:User ko]]
 [[hu:Sablon:User ko]]
+[[ia:Patrono:Usator ko]]
 [[id:Templat:User ko]]
 [[ja:Template:User ko]]
 [[ka:თარგი:User ko]]
@@ -26,18 +37,21 @@
 [[lb:Schabloun:Benotzer ko]]
 [[lt:Šablonas:User ko]]
 [[nl:Sjabloon:Gebruiker ko]]
+[[nv:Bee álnééhí:User ko]]
 [[os:Шаблон:User ko]]
 [[pap:Template:User ko]]
 [[pl:Szablon:User ko]]
 [[pt:Predefinição:User ko]]
+[[ro:Format:Utilizator ko]]
 [[ru:Шаблон:User ko]]
 [[simple:Template:User ko]]
 [[sk:Šablóna:User ko]]
-[[sl:Predloga:User ko]]
+[[sl:Predloga:Uporabnik ko]]
 [[sr:Шаблон:Корисник ko]]
-[[tr:Şablon:Kullanıcı ko]]
+[[th:แม่แบบ:User ko]]
 [[uk:Шаблон:User ko]]
 [[uz:Andoza:User ko]]
 [[vi:Bản mẫu:User ko]]
+[[war:Template:User ko]]
 [[zh:Template:User ko]]
 </noinclude>
