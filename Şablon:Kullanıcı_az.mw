@@ -1,13 +1,14 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:User az|az]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:2.25em;">'''[[Azerbaycan dili|Azərbaycan dili]]''' bu istifadəçinin '''[[:Kategori:User az|ana dilidir]]'''.
+{{Kullanıcı kutusu
+|sol-r=#6EF7A7
+|sağ-r=#C5FCDC
+|sol=[[:Kategori:Kullanıcı az|az]]
+|sağ='''[[Azerice|Azərbaycan dili]]''' bu istifadəçinin '''[[:Kategori:Kullanıcı az-A|ana dilidir]]'''.}}
 <includeonly>
-</td>
-</tr></table></div>
-[[Kategori:user az|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|az]]
-</noinclude><noinclude>
+[[Kategori:Kullanıcı az-A|{{PAGENAME}}]]
+[[Kategori:Kullanıcı az|{{PAGENAME}}]]
+</includeonly>
+<noinclude>
+[[Kategori:Babil şablonları]]
 [[ace:Pola:User az]]
 [[af:Sjabloon:Gebruiker az]]
 [[am:መለጠፊያ:User az]]
@@ -38,6 +39,7 @@
 [[fi:Malline:User az]]
 [[fo:Fyrimynd:User az]]
 [[fr:Modèle:Utilisateur az]]
+[[gag:Şablon:Kullanıcı az]]
 [[gl:Modelo:User az]]
 [[ha:Template:User az]]
 [[he:תבנית:User az]]
@@ -82,7 +84,6 @@
 [[sq:Stampa:User az]]
 [[sv:Mall:Användare az]]
 [[tpi:Template:User az]]
-[[tr:Şablon:Kullanıcı az]]
 [[ts:Template:User az]]
 [[uk:Шаблон:User az]]
 [[ur:سانچہ:User az]]
