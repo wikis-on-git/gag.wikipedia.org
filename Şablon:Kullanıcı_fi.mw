@@ -1,14 +1,17 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:User fi|fi]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:1.25em;">Tämä käyttäjä puhuu '''[[Fin dili|suomea]]''' '''[[:Kategori:User fi|äidinkielenään]]'''.<includeonly>
-</td>
-</tr></table></div>
+{{Kullanıcı kutusu
+|sol-r=#6EF7A7
+|sağ-r=#C5FCDC
+|sol=[[:Kategori:user fi|fi]]
+|sağ=Tämä käyttäjä puhuu '''[[Fince|suomea]]''' '''[[:Kategori:User fi-A|äidinkielenään]]'''.}}<includeonly>
+[[Kategori:user fi-A|{{PAGENAME}}]]
 [[Kategori:user fi|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|fi]]
+[[Kategori:Babil şablonları]]
+[[af:Sjabloon:Gebruiker fi]]
+[[arz:قالب:User fi]]
 [[de:Vorlage:User fi]]
 [[en:Template:User fi]]
 [[et:Mall:User fi]]
+[[fa:الگو:User fi]]
 [[fi:Malline:User fi]]
 [[fr:Modèle:Utilisateur fi]]
 [[gl:Modelo:User fi]]
@@ -18,21 +21,27 @@
 [[hy:Կաղապար:User fi]]
 [[id:Templat:User fi]]
 [[ja:Template:User fi]]
+[[jv:Cithakan:User fi]]
 [[ka:თარგი:User fi]]
 [[ko:틀:User fi]]
+[[lb:Schabloun:Benotzer fi]]
 [[lt:Šablonas:User fi]]
 [[ms:Templat:Pengguna fi]]
 [[nds-nl:Mal:Gebruker fi]]
+[[nl:Sjabloon:Gebruiker fi]]
 [[nn:Mal:Brukar fi]]
+[[no:Mal:Bruker fi]]
+[[nv:Bee álnééhí:User fi]]
 [[os:Шаблон:User fi]]
+[[pdc:Vorlage:User fi]]
 [[pl:Szablon:User fi]]
 [[pt:Predefinição:User fi]]
 [[ru:Шаблон:User fi]]
+[[sc:Template:Usuariu fi]]
 [[simple:Template:User fi]]
 [[sk:Šablóna:User fi]]
-[[sl:Predloga:User fi]]
+[[sl:Predloga:Uporabnik fi]]
 [[sr:Шаблон:Корисник fi]]
-[[tr:Şablon:Kullanıcı fi]]
 [[uk:Шаблон:User fi]]
 [[vo:Samafomot:User fi]]
 [[zh:Template:User fi]]
