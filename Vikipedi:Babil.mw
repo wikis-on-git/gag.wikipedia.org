@@ -1,0 +1,193 @@
+[[Dosya:Pieter Bruegel the Elder - The "Little" Tower of Babel - WGA03432.jpg|thumb|right|[[Babil Kulesi (tablo)|Babil Kulesi]], [[Pieter Brueghel (baba)|Pieter Brueghel]]]]
+'''Babil şablonları''', [[Vikipedi]] kullanıcılarının konuşabildiği dilleri, yaş, burç, zevkler, ideolojiler gibi şahsi bilgilerini belirtmek için oluşturulmuş şablonlardır. 
+
+Başlangıçta sadece kullanıcıların dillerini kapsayan şablonların kullanım alanı zamanla genişlemiş, sigara kullanımından müzik tercihlerine kadar birçok konuyu kapsayan yüzlerce değişik şablon oluşturulmuştur. Bu şablonlar, kullanıcıların birbirlerini daha iyi tanımasına ve esprili şablonlarla günün stresini atmalarına yardımcı olur. Babil şablonlarının kullanımı tamamen tercihe bağlıdır.
+
+== Tarihçe ==
+İlk olarak [http://commons.wikimedia.org/wiki/Commons:Babel Wikimedia Commons] ve [http://meta.wikimedia.org/wiki/Meta:Babel Meta-Wiki] için hazırlanmış, diğer wikilerde de işe yarayacağı anlaşılmış ve aynı sistem oluşturulmuştur.
+
+== Neden Babil? ==
+{{Ana madde|Babil Kulesi}}
+[[Babil Kulesi]] ([[İbranice]]: מגדל בבל‎ Migdal Bavel), [[Tevrat]]'ta, [[Kur'an]]'da ve dünyanın birçok bölgesinde yerel efsanelerde bahsi geçen, tanrıya ulaşmak için inşa edildiğine inanılan bir kuledir. [[Tanah]] ve [[Eski Ahit]] hemen hemen aynı olduğu için Yahudilik'te ve Hristiyanlık'ta Babil bahsi aynıdır. Babil kulesinden [[Tevrat]]'ın Yaratılış (Tekvin) kısmında bahsedilir.
+
+Efsaneye göre tanrı kendisine ulaşmaya çalışan insanların kendini beğenmişliğine kızar ve o zamana kadar aynı dili konuşmakta olan insanların dillerini karıştırarak birbirlerini anlamalarını engeller. Babil Kulesi'nin yıkılışı [[Tevrat]]'ta anlatılmaz ancak Jubilees veya Leptogenesis olarak bilinen Yahudi belgelerinde anlatılır.
+
+İsmi verilmemekle beraber [[Kur'an]]'da Babil Kulesi'ne benzer bir kuleden bahsedilir. Hikaye [[Tevrat]]'taki ile benzer olmasına rağmen [[Babil]]'de değil, [[Musa]]'nın yaşadığı dönemde [[Mısır]]'da geçer. [[Firavun]] [[Haman]]'a, kendisine kilden bir kule inşa etmesini, çıkıp Musa'nın tanrısına bakacağını söyler. <ref>[http://diyanet7.diyanet.gov.tr/kuran/ayet.asp?Kuran_id=28&I3.x=8&I3.y=10&Ayet_No=38 Kasas Suresi, 38. Ayet (Diyanet Meali)]</ref>
+
+Babilden Yakut el-Hamavi'nin yazmalarında ve Lisan el-Arab'da bahsedilir. Öyküye göre tüm insanlar rüzgarın önüne katılarak bir yerde toplanırlar. Buraya sonradan Babil denir. Babil'de insanlara Allah tarafından değişik lisanlar tahsis edilir ve yeniden rüzgarla geldikleri yerlere dağıtılırlar.
+
+Dini bir bakış açısıyla bu öyküler, insanın kusurluluğunu, tanrının kusursuzluğu ile kıyaslamak ve dünyadaki yüzlerce dilin kökenini açıklamak amacıyla kullanılmaktadır.
+
+== Kullanımı ==
+
+* Öncelikle kullanıcı sayfasına {{tl|babil}} yazılarak babil kulesi oluşturulur.
+* Her kutucuk için önceden oluşturulmuş kullanıcı şablonları kullanılır. Bunun için ilgili şablonun adından ''Kullanıcı-'' kısmı atılarak yazılır. 
+* Anadil için sadece (örneğin tr-A), yoksa uzantısız (tr) kullanılmalıdır.
+
+Yanyana yüzlerce şablon eklenebilir. Bunun sonucunda kullanıcının Babil kulesi de metrelerce yükseklikte olacaktır.
+
+== Örnekler ==
+
+=== Örnek 1 ===
+{{babil | tr | en-2 | }}
+Anadili [[Türkçe]]  (tr) olan ve orta seviyede [[İngilizce]] (en-2) bilen bir kullanıcı, kullanıcı sayfasında şu şablonu kullanabilir:
+
+: '''<nowiki>{{babil | tr | en-2 | }}</nowiki>'''
+
+Yukarıdaki şablonun kullanımı sonucu ortaya sağdaki tablo çıkar:
+
+Eğer kullanıcı İngilizce'yi akıcı konuşabilseydi '''<nowiki>{{babil | tr | en-3}}</nowiki>''' şeklinde bir şablonu kullanması gerekirdi.
+
+Eğer kullanıcı İngilizce'yi anadili olan Türkçe'ye yakın bir seviyede kullanabilseydi '''<nowiki>{{babil | tr | en-4}}</nowiki>''' şeklinde bir şablonu kullanması gerekirdi.
+
+=== Örnek 2 ===
+{{babil | 06 | evli | ikizler }}
+[[Ankara]]'da yaşayan, evli ve ikizler burcu olan bir kullanıcı şöyle bir şablon kullanabilir:
+
+:'''<nowiki>{{babil | 06 | evli | ikizler }}</nowiki>'''
+
+Yukarıdaki şablonun kullanımı sonucu ortaya sağdaki tablo çıkar.
+
+== Vikipedi dil şablonları ==
+
+Aşağıda [[Vikipedi]]'de kullanılan dil şablonlarının alfabetik bir listesini bulabilirsiniz. Vikipedi'de henüz bulunmayan dil şablonları, diğer vikipedilerden kopyalanabilir.
+
+* [[Vikipedi:Dil şablonları]]
+
+<!-- interwiki -->
+{{Kullanıcı kutuları}}
+
+* [[Vikipedi:Tüm Kullanıcı Şablonları Önizleme Sayfası]]
+
+== Ayrıca bakınız ==
+* [[Vikipedi:Kullanıcı şablonu oluşturmak]]
+* [[:Kategori:Konuşabildikleri dillere göre Vikipedistler]]
+* [[Meta:Meta:Babel templates|Meta'daki bütün kayıtlı olan dilleri]]
+
+== Kaynakça ==
+<references/>
+
+[[Kategori:Vikipedi çokdilli eşgüdüm|Babil]]
+[[Kategori:Babil şablonları|Babil]]
+
+[[af:Wikipedia:Babel]]
+[[als:Wikipedia:Babel]]
+[[am:ውክፔዲያ:ልሳናት]]
+[[an:Wikipedia:Babel]]
+[[ang:Wikipedia:Babel]]
+[[ar:ويكيبيديا:بابل]]
+[[arz:ويكيبيديا:بابل]]
+[[ast:Uiquipedia:Babel]]
+[[ay:Wikipidiya:Wawil]]
+[[az:Vikipediya:Babil]]
+[[bar:Wikipedia:Babel]]
+[[bat-smg:Vikipedėjė:Babėliuons]]
+[[be:Вікіпедыя:Вавілон]]
+[[be-x-old:Вікіпэдыя:Бабілёнская вежа]]
+[[bg:Уикипедия:Вавилон]]
+[[br:Wikipedia:Babel]]
+[[bs:Wikipedia:Babel]]
+[[ca:Viquipèdia:Babel]]
+[[cr:Wikipedia:Babel]]
+[[cs:Wikipedie:Babylón]]
+[[cu:Википєдїꙗ:Вавѷлѡнъ]]
+[[cv:Википеди:Вавилон]]
+[[cy:Wicipedia:Babel]]
+[[da:Hjælp:Babel]]
+[[de:Wikipedia:Babel]]
+[[dsb:Wikipedija:Babel]]
+[[el:Βικιπαίδεια:Βαβέλ]]
+[[en:Wikipedia:Babel]]
+[[eo:Vikipedio:Babelejo]]
+[[es:Wikipedia:Babel]]
+[[et:Vikipeedia:Babel]]
+[[eu:Wikipedia:Babel]]
+[[fa:ویکی‌پدیا:بابل]]
+[[fi:Wikipedia:Babylon]]
+[[fiu-vro:Wikipedia:Babel]]
+[[fo:Wikipedia:Málkassi]]
+[[fr:Wikipédia:Babel]]
+[[frr:Wikipedia:Babel]]
+[[fur:Vichipedie:Babel]]
+[[fy:Wikipedy:Babel]]
+[[ga:Vicipéid:Baibéal]]
+[[gl:Wikipedia:Babel]]
+[[got:Wikipedia:Babilu]]
+[[he:ויקיפדיה:כישורי שפה]]
+[[hr:Wikipedija:Babilon]]
+[[hsb:Wikipedija:Babel]]
+[[hu:Wikipédia:Bábel]]
+[[id:Wikipedia:Babel]]
+[[io:Wikipedio:Babel]]
+[[is:Wikipedia:Málkassi]]
+[[it:Wikipedia:Babel]]
+[[ja:Wikipedia:バベル]]
+[[jv:Wikipedia:Babel]]
+[[ka:ვიკიპედია:ბაბილონი]]
+[[km:វិគីភីឌា:បាបេល]]
+[[ko:위키백과:바벨]]
+[[krc:Википедия:Вавилон]]
+[[ksh:Wikipedia:Babel]]
+[[ku:Wîkîpediya:Babîl]]
+[[ky:Wikipedia:Babel]]
+[[la:Vicipaedia:Babel]]
+[[lb:Wikipedia:Babel]]
+[[lbe:Википедия:Вавилон]]
+[[li:Wikipedia:Babel]]
+[[ln:Wikipedia:Babel]]
+[[lt:Vikipedija:Babelis]]
+[[lv:Vikipēdija:Babel]]
+[[map-bms:Wikipedia:Babel]]
+[[mg:Wikipedia:Babel]]
+[[mi:Wikipedia:Babel]]
+[[mk:Википедија:Вавилон]]
+[[ms:Wikipedia:Babel]]
+[[mt:Wikipedija:Babel]]
+[[na:Wikipedia:Babel]]
+[[nah:Huiquipedia:Babel]]
+[[nds:Wikipedia:Babel]]
+[[nds-nl:Wikipedie:Babel]]
+[[nl:Wikipedia:Babel]]
+[[nn:Wikipedia:Babel]]
+[[no:Wikipedia:Babel]]
+[[os:Википеди:Вавилон]]
+[[pam:Wikipedia:Babel]]
+[[pdc:Wikipedia:Babel]]
+[[pl:Wikipedia:Wieża Babel]]
+[[pt:Wikipédia:Babel]]
+[[qu:Wikipedia:Babel]]
+[[rmy:Vikipidiya:Babel]]
+[[ro:Wikipedia:Babel]]
+[[ru:Википедия:Вавилон]]
+[[sc:Wikipedia:Babel]]
+[[scn:Wikipedia:Babeli]]
+[[sco:Wikipedia:Babel]]
+[[sh:Wikipedia:Babel]]
+[[simple:Wikipedia:Babel]]
+[[sk:Wikipédia:Babylon]]
+[[sl:Wikipedija:Babilon]]
+[[so:Wikipedia:Babel]]
+[[sq:Wikipedia:Babel]]
+[[sr:Википедија:Шаблони/Језичке кутијице]]
+[[su:Wikipedia:Babel]]
+[[sv:Wikipedia:Babel]]
+[[sw:Wikipedia:Babel]]
+[[szl:Wikipedyjo:Babel]]
+[[th:วิกิพีเดีย:บาเบล]]
+[[tpi:Wikipedia:Babel]]
+[[tw:Wikipedia:Babel]]
+[[udm:Wikipedia:Вавилон]]
+[[uk:Вікіпедія:Вавилон]]
+[[uz:Vikipediya:Bobil]]
+[[vec:Wikipedia:Babel]]
+[[vi:Wikipedia:Ngôn ngữ sử dụng]]
+[[wa:Wikipedia:Babel]]
+[[war:Wikipedia:Babel]]
+[[wuu:Wikipedia:巴别]]
+[[yi:װיקיפּעדיע:באבעל]]
+[[yo:Wikipedia:Babel]]
+[[zh:Wikipedia:巴別]]
+[[zh-classical:維基大典:Babel]]
+[[zh-min-nan:Wikipedia:Babel]]
+[[zh-yue:Wikipedia:Babel]]
+[[zu:Wikipedia:Babel]]
