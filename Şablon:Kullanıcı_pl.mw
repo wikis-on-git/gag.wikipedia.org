@@ -1,11 +1,12 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:User pl|pl]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:2.25em;">'''[[Polek dili|Polski]]''' jest '''[[:Kategori:User pl|językiem ojczystym]]''' tego użytkownika.<includeonly>
-</td>
-</tr></table></div>
-[[Kategori:user pl|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|pl]]
+{{Kullanıcı kutusu
+|sol-r=#6EF7A7
+|sağ-r=#C5FCDC
+|sol=[[:Kategori:Kullanıcı pl|pl]]
+|sağ='''[[Lehçe (dil)|Polski]]''' jest '''[[:Kategori:Kullanıcı pl-A|językiem ojczystym]]''' tego użytkownika.}}<includeonly>
+[[Kategori:Kullanıcı pl-A|{{PAGENAME}}]]
+[[Kategori:Kullanıcı pl|{{PAGENAME}}]]</includeonly><noinclude>
+[[Kategori:Babil şablonları]]
+
 [[ang:Bysen:Brūcend pl]]
 [[ar:قالب:مستخدم pl]]
 [[bat-smg:Šabluons:User pl]]
@@ -36,6 +37,7 @@
 [[nds-nl:Mal:Gebruker pl]]
 [[nl:Sjabloon:Gebruiker pl]]
 [[nn:Mal:Brukar pl]]
+[[nv:Bee álnééhí:User pl]]
 [[pl:Szablon:User pl]]
 [[pnt:Πρότυπον:Χρήστες pl]]
 [[pt:Predefinição:User pl]]
@@ -48,7 +50,6 @@
 [[sv:Mall:Användare pl]]
 [[te:మూస:User pl]]
 [[th:แม่แบบ:User pl]]
-[[tr:Şablon:Kullanıcı pl]]
 [[uk:Шаблон:User pl]]
 [[uz:Andoza:User pl]]
 [[vi:Bản mẫu:User pl]]
