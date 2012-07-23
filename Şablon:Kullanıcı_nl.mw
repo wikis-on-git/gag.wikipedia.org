@@ -1,19 +1,30 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:User nl|nl]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:2.25em;">Deze gebruiker heeft het '''[[Niderland dili|Nederlands]]''' als '''[[:Kategori:User nl|moedertaal]]'''.<includeonly>
-</td>
-</tr></table></div>
-[[Kategori:user nl|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|nl]]
+{{Kullanıcı kutusu
+|sol-r=#6EF7A7
+|sağ-r=#C5FCDC
+|sol=[[:Kategori:Kullanıcı nl|nl]]
+|sağ=Deze gebruiker heeft het '''[[Flemenkçe|Nederlands]]''' als '''[[:Kategori:Kullanıcı nl-A|moedertaal]]'''.}}
+<includeonly>
+[[Kategori:Kullanıcı nl-A|{{PAGENAME}}]]
+[[Kategori:Kullanıcı nl|{{PAGENAME}}]]
+</includeonly>
+<noinclude>
+[[Kategori:Babil şablonnarı]]
+
 [[am:መለጠፊያ:User nl]]
+[[ang:Bysen:Brūcend nl]]
 [[ar:قالب:مستخدم nl]]
+[[arz:قالب:User nl]]
 [[bat-smg:Šabluons:User nl]]
 [[bg:Шаблон:Потребител nl]]
+[[br:Patrom:User nl]]
+[[bug:Templat:Pengguna nl]]
 [[ceb:Plantilya:User nl]]
+[[csb:Szablóna:User nl]]
+[[cu:Обраꙁьць:User nl]]
 [[da:Skabelon:Bruger nl]]
 [[de:Vorlage:User nl]]
 [[en:Template:User nl]]
+[[eo:Ŝablono:Vikipediisto nl]]
 [[es:Plantilla:·Usuarios por idioma (nl)]]
 [[et:Mall:User nl]]
 [[eu:Txantiloi:·Hizkuntza (nl)]]
@@ -26,30 +37,46 @@
 [[ht:Modèl:User nl]]
 [[hu:Sablon:User nl]]
 [[id:Templat:User nl]]
+[[it:Template:Utente nl]]
 [[ja:Template:User nl]]
+[[jv:Cithakan:User nl]]
 [[ka:თარგი:User nl]]
 [[ko:틀:User nl]]
 [[lb:Schabloun:Benotzer nl]]
 [[li:Sjabloon:Gebroeker nl]]
+[[lmo:Mudel:User nl]]
 [[lt:Šablonas:User nl]]
+[[ltg:Taiss:User nl]]
+[[mi:Template:User nl]]
 [[mk:Шаблон:Корисник nl]]
+[[mn:Загвар:User nl]]
+[[ms:Templat:Pengguna nl]]
 [[nds-nl:Mal:Gebruker nl]]
 [[nl:Sjabloon:Gebruiker nl]]
 [[no:Mal:Bruker nl]]
+[[nv:Bee álnééhí:User nl]]
+[[pag:Template:User nl]]
 [[pap:Template:User nl]]
+[[pdc:Moddel:User nl]]
 [[pl:Szablon:User nl]]
 [[pt:Predefinição:User nl]]
 [[ru:Шаблон:User nl]]
+[[sc:Template:Usuariu nl]]
 [[simple:Template:User nl]]
 [[sk:Šablóna:User nl]]
-[[sl:Predloga:User nl]]
+[[sl:Predloga:Uporabnik nl]]
+[[so:Template:User nl]]
 [[sr:Шаблон:Корисник nl]]
+[[su:Citakan:User nl]]
+[[sv:Mall:Användare nl-N]]
 [[sw:Kigezo:User nl]]
+[[szl:Szablon:User nl]]
+[[tet:Template:User nl]]
 [[th:แม่แบบ:User nl]]
 [[tl:Suleras:User nl]]
-[[tr:Şablon:Kullanıcı nl]]
 [[uk:Шаблон:User nl]]
 [[vi:Bản mẫu:User nl]]
 [[vo:Samafomot:User nl]]
+[[yo:Àdàkọ:User nl]]
 [[zh:Template:User nl]]
 </noinclude>
