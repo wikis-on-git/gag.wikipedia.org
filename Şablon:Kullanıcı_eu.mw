@@ -1,11 +1,11 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:User eu|eu]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:2.25em;">Erabiltzaile hau '''[[:Kategori:User eu|euskaldun zaharra]]''' da ('''[[Bask dili|euskara]]''' du ama hizkuntza).<includeonly>
-</td>
-</tr></table></div>
-[[Kategori:user eu|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|eu]]
+{{Kullanıcı kutusu
+|sol-r=#6EF7A7
+|sağ-r=#C5FCDC
+|sol=[[:Kategori:Kullanıcı eu|eu]]
+|sağ=Erabiltzaile hau '''[[:Kategori:Kullanıcı eu-A|euskaldun zaharra]]''' da ('''[[baskça|euskara]]''' du ama hizkuntza).}}<includeonly>
+[[Kategori:Kullanıcı eu-A|{{PAGENAME}}]]
+[[Kategori:Kullanıcı eu|{{PAGENAME}}]]</includeonly><noinclude>
+[[Kategori:Babil şablonnarı]]
 [[arz:قالب:User eu]]
 [[ceb:Plantilya:User eu]]
 [[da:Skabelon:Bruger eu]]
@@ -14,6 +14,7 @@
 [[es:Plantilla:·Usuarios por idioma (eu)]]
 [[et:Mall:User eu]]
 [[eu:Txantiloi:·Hizkuntza (eu)]]
+[[fa:الگو:User eu]]
 [[fi:Malline:User eu]]
 [[fr:Modèle:Utilisateur eu]]
 [[gl:Modelo:User eu]]
@@ -25,13 +26,14 @@
 [[nl:Sjabloon:Gebruiker eu]]
 [[no:Mal:Bruker eu]]
 [[nv:Bee álnééhí:User eu]]
+[[or:ଟେମ୍ପଲେଟ:User eu]]
+[[pdc:Moddel:User eu]]
 [[pl:Szablon:User eu]]
 [[pt:Predefinição:User eu]]
 [[ru:Шаблон:User eu]]
 [[simple:Template:User eu]]
 [[sk:Šablóna:User eu]]
 [[th:แม่แบบ:User eu]]
-[[tr:Şablon:Kullanıcı eu]]
 [[vo:Samafomot:User eu]]
 [[zh:Template:User eu]]
 </noinclude>
