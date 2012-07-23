@@ -1,11 +1,15 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:User es|es]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:2.25em;">La '''[[:Kategori:User es|lengua nativa]]''' de este usuario es el '''[[İspan dili|español]]'''.<includeonly>
-</td>
-</tr></table></div>
-[[Kategori:user es|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|es]]
+{{Kullanıcı kutusu
+|sol-r = #6EF7A7
+|sağ-r = #C5FCDC
+|sol = [[:Kategori:Kullanıcı es|es]]
+|sağ = La '''[[:Kategori:Kullanıcı es-A|lengua nativa]]''' de este usuario es el '''[[İspanyolca|español]]'''.}}
+<includeonly>
+[[Kategori:Kullanıcı es-A|{{PAGENAME}}]]
+[[Kategori:Kullanıcı es|{{PAGENAME}}]]
+</includeonly>
+<noinclude>
+[[Kategori:Babil şablonnarı]]
+
 [[af:Sjabloon:Gebruiker es]]
 [[ar:قالب:مستخدم es]]
 [[arc:ܩܠܒܐ:User es]]
@@ -84,7 +88,6 @@
 [[szl:Szablon:User es]]
 [[te:మూస:User es]]
 [[th:แม่แบบ:User es]]
-[[tr:Şablon:Kullanıcı es]]
 [[ts:Template:User es]]
 [[tt:Калып:User es]]
 [[tum:Template:User es]]
