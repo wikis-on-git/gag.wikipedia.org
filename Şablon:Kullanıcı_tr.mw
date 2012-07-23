@@ -1,11 +1,12 @@
-<div style="float:right;border:solid #C5FCDC 1px;margin:1px">
-<table cellspacing="0" style="margin-left:0px;width:238px;background:#C5FCDC "><tr>
-<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''[[:Kategori:Kullanıcı tr|tr]]'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:4.25em">Bu kullanıcının '''[[:Kategori:Kullanıcı tr|ana dili]]''' '''[[Türk dili|Türkçe]]''''dir.<includeonly>
-</td>
-</tr></table></div>
-[[Kategori:user tr|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı|tr]]
+{{Kullanıcı kutusu
+|sol-r=#6EF7A7
+|sağ-r=#C5FCDC
+|sol=[[:Kategori:Kullanıcı tr|tr]]
+|sağ=Bu kullanıcının '''[[:Kategori:Kullanıcı tr-A|ana dili]]''' '''[[Türkçe]]'''dir.
+|kullanıcıkategorisi=Kullanıcı tr-A
+|kullanıcıkategorisi2=Kullanıcı tr}}<noinclude>	 
+[[Kategori:Babil şablonnarı]]
+
 [[ab:Ашаблон:User tr]]
 [[ace:Pola:User tr]]
 [[am:መለጠፊያ:User tr]]
@@ -107,7 +108,6 @@
 [[szl:Szablon:User tr]]
 [[te:మూస:User tr]]
 [[ti:Template:User tr]]
-[[tr:Şablon:Kullanıcı tr]]
 [[ts:Template:User tr]]
 [[tum:Template:User tr]]
 [[udm:Шаблон:User tr]]
