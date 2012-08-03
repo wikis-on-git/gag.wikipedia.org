@@ -1,0 +1,22 @@
+<includeonly>==<span id={{{1}}} lang={{{1}}}>{{{2}}}</span> ([[{{{3}}}]]) == 
+{| cellspacing="0" cellpadding=2 style="background:#E0E8FF;border:solid #99B3FF 1px;"
+|- align=center
+| '''[[:Kategori:User {{{1}}}|User {{{1}}}]]'''
+| style="background:#F0F8FF; border-left:solid #99B3FF 1px;" | [[:Kategori:User {{{1}}}-1|basit düzey]]
+| style="background:#D0F8FF; border-left:solid #99B3FF 1px;" | [[:Kategori:User {{{1}}}-2|orta düzey]]
+| style="border-left:solid #99B3FF 1px;" | [[:Kategori:User {{{1}}}-3|ileri düzey]]
+| style="background:#C5FCDC; border-left:solid #99B3FF 1px;" | [[:Kategori:User {{{1}}}-A|Anadili]]
+| style="background:#EEEEEE; border-left:solid #99B3FF 1px;" | Önizleme:
+|- align=center
+| style="background:#99B3FF;text-align:center;font-size:14pt" | '''[http://{{{1}}}.wikipedia.org/ {{{1}}}]'''
+| style="background:#F0F8FF; border-left:solid #99B3FF 1px; border-top:solid #99B3FF 1px;" | <nowiki>{{</nowiki>[[Şablon:Kullanıcı {{{1}}}-1|Kullanıcı {{{1}}}-1]]<nowiki>}}</nowiki>
+| style="background:#D0F8FF; border-left:solid #99B3FF 1px; border-top:solid #99B3FF 1px;" | <nowiki>{{</nowiki>[[Şablon:Kullanıcı {{{1}}}-2|Kullanıcı {{{1}}}-2]]<nowiki>}}</nowiki>
+| style="border-left:solid #99B3FF 1px; border-top:solid #99B3FF 1px;" | <nowiki>{{</nowiki>[[Şablon:Kullanıcı {{{1}}}-3|Kullanıcı {{{1}}}-3]]<nowiki>}}</nowiki>
+| style="background:#C5FCDC; border-left:solid #99B3FF 1px; border-top:solid #99B3FF 1px;" | <nowiki>{{</nowiki>[[Şablon:Kullanıcı {{{1}}}|Kullanıcı {{{1}}}]]<nowiki>}}</nowiki>
+| style="background:#EEEEEE; border-left:solid #99B3FF 1px;" |[[/{{{1}}}]]
+|}</includeonly><noinclude>
+;Not:Bu şablon sadece [[Vikipedi:Babil]]de kullanılır.
+;Kullanım:<tt>&#123;{Babilli| ''[[ISO 639]] dil kodu'' | ''dilin o dildeki adı'' | ''dilin Türkçe adı''}}</tt>
+;Örnek:<tt>&#123;{Babilli|de|Deutsch|Almanca}}</tt>
+[[Kategori:Babil şablonu]]
+</noinclude>
