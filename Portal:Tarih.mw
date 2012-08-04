@@ -1,40 +1,57 @@
+{{Browsebar}}
+{{{{PAGENAME}}/Kutunun-Başlığı|{{PAGENAME}}</big>|{{PAGENAME}}/Giriş|}}
+{{{{PAGENAME}}/Giriş}}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
 
-{{Şablon:Browsebar}}
-{{Box-header
-| title= Coğrafya
-| editpage= Şablon:Portal:Tarih/Intro
-| titleforeground= white
-| titlebackground= red
-| background= white
-}}
 
-{{Portal:Tarih/Intro}}
+</div>
+<br />
+<!-- sol taraf -->
 
-{{Box-footer| Portal:Tarih }}
+<div style="float:left; width:55%;">
 
-{{Box-header
-| title= Coğrafya
-| editpage= Şablon:Portal:Tarih/Resim
-| titleforeground= white
-| titlebackground= red
-| background= white
-}}
+{{{{PAGENAME}}/Kutunun-Başlığı|Seçilen Madde|{{PAGENAME}}/Seçilen Madde|}}
+{{{{PAGENAME}}/Seçilen Madde }}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
 
-{{Portal:Tarih/Resim}}
+{{Portal:Coğrafya/Kutunun-Başlığı|Bunları Biliyor Muydunuz?..|Portal:Coğrafya/Biliyor Muydunuz?|}}
+{{Portal:Coğrafya/Biliyor Muydunuz?}}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
 
-{{Box-footer| Portal:Tarih }}
+</div>
 
-{{Box-header
-| title= Coğrafya
-| editpage= Şablon:Portal:Tarih/Kategoriya
-| titleforeground= white
-| titlebackground= red
-| background= white
-}}
+<div style="float:right; width:44%"> <!-- Sağ taraf. -->
 
-{{Portal:Tarih/Kategoriya}}
+{{{{PAGENAME}}/Kutunun-Başlığı|Seçilen Ülke-Bölge-Şehir|{{PAGENAME}}/Seçilen Ülke-Bölge-Şehir ‎|}}
+{{{{PAGENAME}}/Seçilen Ülke-Bölge-Şehir ‎}}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
 
-{{Box-footer| Portal:Tarih }}
+{{Portal:Coğrafya/Kutunun-Başlığı|Seçkin Coğrafya Resmi|Portal:Coğrafya/Seçkin Resim|}}
+{{Portal:Coğrafya/Seçkin Resim}}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
+
+</div>
+
+{{{{PAGENAME}}/Kutunun-Başlığı|Seçilen Yeryüzü Şekli|{{PAGENAME}}/Seçilen Yeryüzü Şekli|}}
+{{{{PAGENAME}}/Seçilen Yeryüzü Şekli}}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
+
+{{{{PAGENAME}}/Kutunun-Başlığı|Okyanuslar|{{PAGENAME}}/Okyanuslar1|}}
+{{{{PAGENAME}}/Okyanuslar1}}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
+
+{{{{PAGENAME}}/Kutunun-Başlığı|Alt Portaller 1|{{PAGENAME}}Portal:Coğrafya/Alt Portaller 1 ‎|}}
+{{{{PAGENAME}}/Alt Portaller 1 ‎}}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
+
+{{{{PAGENAME}}/Kutunun-Başlığı|İlgili Projeler|{{PAGENAME}}/İlgili Projeler |}}
+{{{{PAGENAME}}/İlgili Projeler }}
+{{Vikipedi:Vikiportal/kutunun-kapanışı|}}
+
+</div>
+{{Vikipedi dolaşım/Portal|renk=#01796F |renk2=#FFDB58 |renk3=#ADDFAD}}
+
+[[Kategori:Tüm portaller|{{PAGENAME}}]]
 
 [[ang:Ingang:Stǣr]]
 [[ar:بوابة:تاريخ]]
