@@ -1,88 +1,31 @@
-{{Template:Devlet 
-|native_name =  
-|common_name = 
-|conventional_long_name = 
-|bayrak =Flag of Azerbaijan.svg 
-|arma = 
-|harita = 
-|slogan =
-|marş = 
-|kuruluş =
-|başkent = 
-|dil = 
-|halk =
-|hükümet = 
-|prezident =
-|din =
-|toprak= 
-|tahmini_nüfus =  
-|yoğunluk = 
-|gsyih = 
-|para = 
-|para_kodu = 
-|vakit = 
-|internet = 
-|telefon = 
+{{Test
+|kendi_dilinde_adı=ع
+| tam_adı                              =4
+| bayrak                         =3
+| arma                           =2               
+| yönetim_biçimi                       = [[İslam cumhuriyeti]] ("[[teokratik]] cumhuriyet")<ref name="wfbiran">[https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html CIA World Factbook – Iran]</ref>
+| yönetici_unvanı1                     = Dini Lider
+| yönetici_adı1                        = {{nowrap|[[Ayetullah]] [[Ali Hamaney]]}}
+| yönetici_unvanı2                     = Cumhurbaşkanı
+| yönetici_adı2                        = {{nowrap|[[Mahmud Ahmedinejad]]}}
+| yönetici_unvanı3                     = Başkan Yardımcısı
+| yönetici_adı3                        = {{nowrap|[[Muhammed-Rıza Rahimi]]}}
+| yönetici_unvanı4                     = Parlamento Başkanı
+| yönetici_adı4                        = {{nowrap|[[Ali Laricani]]}}
 }}
-[[Image:Nakhichevan03.png|thumb|250px|right]]
-'''Nahçıvan''' — [[Azerbaycan]]ın Avtonom Territorial Oluşumu.
-
-{{Azerbaycan kasabalar}}
-
-[[Kategoriya:Azerbaycan Kasabalar]]
-
-{{Link FA|az}}
-
-[[af:Nachitsjewan]]
-[[ar:ناخيتشيفان]]
-[[az:Naxçıvan Muxtar Respublikası]]
-[[be:Нахічэванская Аўтаномная Рэспубліка]]
-[[bg:Нахичеванска автономна република]]
-[[ca:Nakhtxivan]]
-[[cs:Nachičevanská autonomní republika]]
-[[cv:Начихевань автономлă республики]]
-[[da:Nakhitjevan]]
-[[de:Autonome Republik Nachitschewan]]
-[[el:Ναχιτσεβάν]]
-[[en:Nakhchivan]]
-[[eo:Naĥiĉevano]]
-[[es:República Autónoma de Najicheván]]
-[[et:Nahhitševan]]
-[[eu:Nakhitxevan]]
-[[fa:نخجوان]]
-[[fi:Nahitševan]]
-[[fr:Nakhitchevan]]
-[[gl:Nakhichevan - Naxçıvan]]
-[[he:נחיצ'יבאן]]
-[[hu:Nahicseván]]
-[[hy:Նախիջևանի Ինքնավար Հանրապետություն]]
-[[id:Nakhichevan]]
-[[it:Repubblica Autonoma di Nakhchivan]]
-[[ja:ナヒチェヴァン自治共和国]]
-[[ka:ნახიჩევანის ავტონომიური რესპუბლიკა]]
-[[kk:Нахшыван]]
-[[ko:나히체반 자치공화국]]
-[[lt:Nachičevanės autonominė respublika]]
-[[ms:Nakhichevan]]
-[[nl:Nachitsjevan]]
-[[nn:Nakhitsjevan]]
-[[no:Nakhitsjevan]]
-[[oc:Naxçıvan]]
-[[os:Нахичеваны Автономон Республикæ]]
-[[pl:Nachiczewańska Republika Autonomiczna]]
-[[pnb:نخچیوان]]
-[[pt:Nakichevan]]
-[[ro:Naxcivan]]
-[[ru:Нахичеванская Автономная Республика]]
-[[sco:Nakhchivan]]
-[[sh:Nahčivan]]
-[[simple:Nakhchivan]]
-[[sl:Nahičevan]]
-[[sr:Нахчиван (република)]]
-[[sv:Nachitjevan]]
-[[th:นาคีชีวัน]]
-[[tr:Nahçıvan Özerk Cumhuriyeti]]
-[[uk:Нахічеванська Автономна Республіка]]
-[[vep:Nahičevan]]
-[[vi:Nakhchivan]]
-[[zh:纳希切万自治共和国]]
+{{Test
+| başlıq         = 
+| arma           = 
+| klubun tam adı = 
+| rəngləri       = 
+| ləqəbi         = 
+| yaranma tarixi = 
+| stadionu       = 
+| tutumu         = 
+| prezidenti     = 
+| baş məşqçisi   = 
+| liqa           = 
+| mövsüm         = 
+| sıra           = 
+| sayt           = 
+}}
