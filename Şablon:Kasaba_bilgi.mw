@@ -1,9 +1,9 @@
 {| cellpadding="2" cellspacing="1" width="250" style="width: 250px; font-size: 95%; margin:1em 0 1em 1em; float:right; border:1px solid gray; padding: 5px; background-color: #ffffff;"
 |-
-! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" | {{{Ad}}
+! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" | {{{Ad}}}
 |-
 ! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" |
-[[File:{{Resim}}|center|260px]]
+[[File:{{{Resim}}}|center|260px]]
 |-
 |- valign=top
 |-
@@ -11,56 +11,67 @@
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[File:Komrat Emblem.jpg]]
+| align=center width=148 | [[File:{{{Harita}}]|260px]
 |-
-| align=center width=148 | Komrat gerbı
+| align=center width=148 | 
 |}
 |-
-! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" | Komrat Kartası 
-|-
-| align=center colspan=2 style="background: #ffffff;" | [[Dosye: Comrat.jpg |230px|center]]
-|-
-! colspan="2" style="background: #e3e3e3;" | <center>Komrat</center>
+! colspan="2" style="background: #e3e3e3;" | <center>{{{Ad}}}</center>
 |-
 |- valign=top
 | '''Devlet:'''
-| [[Dosye:Flag of Gagauzia.svg|25px]] [[Gagauz Yeri]]
+| {{{Devlet}}}
 |- valign=top
 | '''Kurulmuş:'''
-| 1789
+| {{{Kurulmuş}}}
 |- valign=top
 | '''Başkan:'''
-| Nikolai Dudoglo
+| {{{Başkan}}}
 |- valign=top
 | '''Ofiţial dil: '''
-|  [[Gagauz dili]]
+|  {{{Ofiţial dil}}}
 |- valign=top
 | '''Toprak:'''
-| 
+| {{{Toprak}}}
 |- valign=top
 | '''Insan:'''
-| 25000 (2010)
+| {{{Insan}}}
 |- valign=top
 | '''Üüseklik:'''
-| 43 m
+| {{{Üüseklik}}}
 |- valign=top
 | '''Poşta kodu:'''
-| MD-3800
+| {{{Poşta kodu}}}
 |- valign=top
 | '''Telefon kodu:'''
-| +373 298 *****
+| {{{Telefon kodu}}}
 |- valign=top
 | '''Vakıt:'''
-| EET (UTC+2)
-|- valign=top
-| 
-| EEST (UTC+3)
+| {{{Vakıt}}}
 |- valign=top
 | '''Haraba kodu:'''
-| GE ** ***
+| {{{Haraba kodu}}}
 |- valign=top
 | '''Web:'''
-| [http://www.comrat.md/      www.comrat.md]
+| {{{Web}}}
 |-
 |}
-<pre></pre>
+<pre>
+{{Kasaba bilgi
+|Ad=
+|Resim=
+|Harita=
+|Devlet=
+|Kurulmuş=
+|Başkan=
+|Ofiţial dil=
+|Toprak=
+|Insan=
+|Üüseklik=
+|Poşta kodu=
+|Telefon kodu=
+|Vakıt=
+|Haraba kodu=
+|Web=
+}}
+</pre>
