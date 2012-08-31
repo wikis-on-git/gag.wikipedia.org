@@ -3,7 +3,7 @@
 ! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" | {{{Ad}}}
 |-
 ! colspan="5" style="background: #e3e3e3; font-size: 125%; text-align: center;" |
-[[File:{{{Resim}}}|center|260px]]
+[[File:{{{Resim}}}|260px]]
 |-
 |- valign=top
 |-
@@ -11,7 +11,7 @@
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[File:{{{Harita}}}|260px]
+| align=center width=148 | [[File:{{{Harita}}}|260px]]
 |-
 | align=center width=148 | 
 |}
@@ -56,6 +56,7 @@
 | {{{Web}}}
 |-
 |}
+<noinclude>
 <pre>
 {{Kasaba bilgi
 |Ad=
@@ -75,3 +76,4 @@
 |Web=
 }}
 </pre>
+</noinclude>
