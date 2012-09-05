@@ -1,0 +1,98 @@
+{{documentation subpage}}
+{{high-risk| 190,000+ }}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+This is the {{tl|template other}} meta-template.
+
+It helps other templates detect if they are on a "Template:" page or some "other" type of page.
+
+=== Usage ===
+
+This template usually takes two parameters, like this:
+
+<pre>
+{{template other | Template page text | Other pages text }}
+</pre>
+
+If the template is on a "Template:" page, it will return this:
+
+:{{template other | Template page text | Other pages text }}
+
+If the template is on any other page, it will return this:
+
+:{{template other | demospace=other | Template page text | Other pages text }}
+
+A typical usage case could be to make it so that a template only adds a category when not on a template page. Thus not adding the template itself and other templates that are built with it to the category. Like this:
+
+<pre>
+{{template other | | [[Category:Some maintenance category]] }}
+</pre>
+
+Note that in the example above the "template" parameter was left empty.
+
+=== Demospace ===
+
+For testing and demonstration purposes this template can take a parameter named '''demospace'''. 
+
+* If it has the value '''template''' it returns the template page text.
+* It if has the value '''other''' or any other value such as the name of some other namespace it returns the other pages text.
+* If the parameter is empty or undefined, the actual page type determines the result.
+
+Like this:
+
+<pre>
+{{template other 
+| Template page text 
+| Other pages text 
+| demospace = template
+}}
+</pre>
+
+No matter on what kind of page the code above is used it will return this:
+
+:{{template other 
+| Template page text 
+| Other pages text 
+| demospace = template
+}}
+
+You can make it so your template also understands the '''demospace''' parameter. That means you can demonstrate the different appearances of your template in the documentation for your template. Then do like this:
+
+<pre>
+{{template other 
+| Template page text 
+| Other pages text 
+| demospace = {{{demospace|}}}
+}}
+</pre>
+
+=== Technical details ===
+
+This template detects "Template talk:" pages as type '''other'''.
+
+This template works like {{tl|main talk other}}, for more examples and technical details see full documentation there. 
+
+=== See also ===
+
+{{namespace detect see also}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Namespace manipulation templates]]
+[[Category:Template namespace templates]]
+
+[[ar:قالب:قالب أخرى]]
+[[cy:Nodyn:Template other]]
+[[diq:Şablon:Template other]]
+[[en:Template:Template other]]
+[[hi:साँचा:Template other]]
+[[is:Snið:Template other]]
+[[ja:Template:Template other]]
+[[ne:ढाँचा:Template other]]
+[[or:ଛାଞ୍ଚ:Template other]]
+[[ta:வார்ப்புரு:Template other]]
+[[uk:Шаблон:Template other]]
+[[ur:سانچہ:Template other]]
+[[yo:Àdàkọ:Template other]]
+[[zh:Template:Template other]]
+</includeonly>
