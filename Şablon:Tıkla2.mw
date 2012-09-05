@@ -1,4 +1,4 @@
 <div style="position: relative; width: {{{width}}}; height: {{{height}}}; overflow: hidden">
 <div style="position: absolute; top: 0px; left: 0px; font-size: 100px; overflow: hidden; line-height: 100px; z-index: 3">[[{{{link}}}|&nbsp;&nbsp;&nbsp;]]</div>
 <div style="position: absolute; top: 0px; left: 0px; z-index: 2">[[Dosye:{{{image}}}|{{{width}}}|{{{link}}}]]</div>
-</div><noinclude>{{belgeleme}}</noinclude>
+</div><noinclude></noinclude>
