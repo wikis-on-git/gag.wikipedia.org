@@ -1,0 +1,7 @@
+<includeonly>
+Bir şablon diğer şablonlardan daha fazla kullanılıyorsa bu şablonu ekleyin.
+
+<!-- Kategoriler ve interwikiler buraya eklenmelidir -->
+[[Kategori:Şablon isim alanı şablonları|{{PAGENAME}}]]
+
+</includeonly>
