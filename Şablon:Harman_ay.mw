@@ -1,5 +1,8 @@
 <div id="quickbar" style="float: right; margin: 0 0 1em 1em">
-{| cellpadding="2" cellspacing="0" style="border: 1px solid #9866FF; font-size:85%; background-color: #f3f3ff" width="250" |'''[[Harman ay]]''' 
+{| cellpadding="2" cellspacing="0" style="border: 1px solid #9866FF; font-size:85%; background-color: #f3f3ff" width="250" |
+|-
+|'''[[Harman ay]]''' 
+|
 |- style="text-align:center;"
 | [[1 Harman ay|1]]
 | [[2 Harman ay|2]]
@@ -36,4 +39,5 @@
 | [[29 Harman ay|29]]
 | [[30 Harman ay|30]]
 | [[31 Harman ay|31]]
-|}</div><noinclude>[[Kategori:Takvim şablonları|{{PAGENAME}}]]</noinclude>
+|}
+</div><noinclude>[[Kategori:Takvim şablonları|{{PAGENAME}}]]</noinclude>
