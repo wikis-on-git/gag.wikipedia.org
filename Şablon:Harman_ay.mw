@@ -1,6 +1,5 @@
-{|id=toc style="margin-left: 15px; float: right; clear: right;-moz-border-radius-topleft: 1em; -moz-border-radius-topright: 1em; -moz-border-radius-bottomright: 1em; -moz-border-radius-bottomleft: 1em;"
-|- style="background:#ccccff"
-|colspan="7" align="center" bgcolor="#ccccff"| '''[[Harman ay]]''' 
+<div id="quickbar" style="float: right; margin: 0 0 1em 1em">
+{| cellpadding="2" cellspacing="0" style="border: 1px solid #9866FF; font-size:85%; background-color: #f3f3ff" width="250" |'''[[Harman ay]]''' 
 |- style="text-align:center;"
 | [[1 Harman ay|1]]
 | [[2 Harman ay|2]]
@@ -37,4 +36,4 @@
 | [[29 Harman ay|29]]
 | [[30 Harman ay|30]]
 | [[31 Harman ay|31]]
-|}<noinclude>[[Kategori:Takvim şablonları|{{PAGENAME}}]]</noinclude>
+|}</div><noinclude>[[Kategori:Takvim şablonları|{{PAGENAME}}]]</noinclude>
