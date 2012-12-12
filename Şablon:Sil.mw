@@ -1,39 +1,11 @@
+<div name="Deletion notice" class="notice" id="delete" style="margin: 0 5%; padding: .5em; background: #fee; border: 1px solid #999999; text-align: left; font-size: 95%;">'''This page meets Wikipedia's criteria for speedy deletion.  The given reason is: ''{{{1}}}'''''
 
+If you disagree with its speedy deletion, please explain why on [[{{NAMESPACE}} talk:{{PAGENAME}}|its talk page]]. Do not remove this notice from articles that you have created yourself.
 
-{| style="width: 80%; margin: 0 0 0 10%; border-collapse: collapse; background: #FEE; border: 1px solid #aaa; border-left: 10px solid #b22222;"
-|-
-| colspan=2 align=center style="font-size:140%; color:#b22222; background:#FEE" |
-'''Bu sayfanın içeriği uygun değil ya da boş!'''
-----
-|-
-| width=100 align=center valign=top style="padding-top:5px" | [[Image:User-trash-full-4.svg|80px]]
-| align=left style="padding-left:5px" | '''Bu səhifə [[:Vikipediya:Səhifə_silmə_kriteriyaları | Vikipediya səhifə silmə kriteriyalarına]] görə yaxın vaxtda silinəcək.''' Əgər səhifənin silinməsini düzgün hesab etmirsinizsə [[:{{NAMESPACE}}_Talk:{{PAGENAME}}|müzakirə]] səhifəsində bu barədə fikrinizi bildirin, ya da [{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} '''buradan'''] və ya yuxarıdakı <font color=blue>redaktə</font> keçidindən istifadə etməklə məqalədə düzəliş aparın ''(Düzəliş etdikdən sonra <nowiki>{{sil}}</nowiki> şablonunu səhifədən kənarlaşdırmağı unutmayın)
-{{Gizli|Sağdakı "Göstər" bölməsində [[VP:SSK|səhifə silmə kriteriyalarını]] nəzərdən keçirə bilərsiniz|(''Lütfən bu mətni sadəcə lazımi qaydaları xatırlamaq üçün istifadə edin, [[VP:HS]] səhifəsindəki qaydaları bildiyinizdən əmin olun. Əlaqədar kriteriyaların aşağıdakı kriteriyadan əlavə şərtləri ola bilər.'')
+Администраторам: [[Special:Whatlinkshere/{{FULLPAGENAME}}|ссылки сюда]], [{{fullurl:{{FULLPAGENAME}}|action=history}} история] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} последнее изменение]), [{{fullurl:Special:Log|page={{FULLPAGENAMEE}}}} журналы], [{{fullurl:{{FULLPAGENAME}}|action=delete&wpReason={{urlencode:{{{1}}}}}}} удалить].<noinclude>[[Категория:Шаблоны:Административные|*]][[Категория:Википедия:Шаблоны для шаблонов]]</noinclude>
 
-G1: Mənasız; G2: Sınaq; G3: Vandalizm; G4: Əvvəldən silinmiş mətn; G5: Bloklanmış istifadəçi; G6: İstifadəçi tələbi; G7: Silinmiş səhifənin müzakirəsi; G8: Təmizlik məqsədiylə; G9: Müəllif hüququ pozuntusu; G10: Hücum; G11: Reklam; G12: Əlaqədar olmayan müzakirə
+There appear to be no active users on this Wikipedia, and this has been the case since it was set up. Someone needs to clear out the spam or lock the wiki. When a community develops on this wiki, administrative notices such as these should rightfully be translated, but there is currently no one to do this.</div><includeonly>[[Category:Candidates for speedy deletion]]</includeonly>
 
-M1: Yetərsiz məlumat; M2: Azərbaycan dilində olmayan məqalə; M3: Məzmunsuz; M4: Transvikilənmiş; M6: Ensiklopedik deyil; M8: Quruluş ve ensiklopediklik baxımından uyğun deyil
-
-Y1: Boşa istiqamətləndirmə; Y2: Xətalı istiqamətləndirmə; Y3: Fərqli adlar fəzası arasında yönlədirmə 
-
-RM1: Təkrar yüklənmiş şəkil; RM2: Xətalı/boş şəkil; RM4: Lisenziyası uyğun deyil, qaynağı bəlli deyil; RM5: Xətalı və ya istifadə edilməyən şəkil; RM6: Qeyri-ensiklopedik şəkil 
-
-K1: Boş kateqoriya; K2: Yenidən adlandırma kateqoriyası; K3: Şablon kateqoriyası
-
-U2: Mövcud olmayan istifadəçi;  U3: Ədalətli istifadə galeriyası
-
-Ş1: Provakativ/separatist şablon —  Ş2: İstifadəsiz şablon
-
-P1: Məqalə olaraq silinə biləcək portal; P2: Kriteriyaları əhatə etməyən portal
-}}
-<small>'''[[Vikipediya:Önderciler|Önderciler]]: '''Zəhmət olmasa səhifənın [http://gag.wikipedia.org/w/index.php?title={{PAGENAMEE}}&action=history İstoriya] yoxlamadan, xüsusilə də [http://gag.wikipedia.org/w/index.php?title={{PAGENAMEE}}&diff=0 Bitki diişikmäklär] &nbsp; nəzərdən keçirmədən [http://gag.wikipedia.org/w/index.php?title={{PAGENAMEE}}&action=delete səhifəni] &nbsp;silməyin. </small>
-----
-|-
-| align=center style="font-size:130%; |<big> '''Səbəb'''</big>
-| style="font-size:110%; padding-left:5px" | {{{1|Silmək üçün səbəbini yazın!<br>Zəhmət olmasa bu şablonu '''<nowiki>{{sil |silmə səbəbi}}</nowiki>''' şəklində istifadə edin.}}}
-|}<includeonly>[[Kategoriya:Vikipediya Silinacak sahifalar]]</includeonly><noinclude>
-
-{{doc}}
 
 [[Kategoriya:Məqalə şablonları]]
 
