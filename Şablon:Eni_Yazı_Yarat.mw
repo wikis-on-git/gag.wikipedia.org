@@ -1,0 +1,17 @@
+<center>'''Eni bir yazı yazmak istersen burada var nicä yazmaa. '''
+ 
+''' Eni yazı yarat.'''</center>
+
+
+<inputbox>
+ type=create
+ width=50
+ bgcolor=#ffffff
+ preload=Template:Standard content for new page
+ editintro=Template:Instructions
+ default=
+ buttonlabel=Eni yazı yarat
+</inputbox>
+
+<noinclude>
+[[Kategori:Şablonnar]]
