@@ -1,0 +1,4 @@
+<includeonly>{| clear=both style="border:1px solid #a9a9a9; background:#fafafa; margin-top:0.5em; margin-bottom:0.5em"
+| width=25 |  {{#if: {{{3|}}} | [[File:{{{dosya|{{{1}}}}}}|{{{dosyapx|{{{2|100}}}}}}px]] | {{#if: {{{dosya|}}} | [[File:{{{dosya}}}|{{{dosyapx|100}}}px]]}}}} || [[Vikipediya]] Ana yazı bu kategoriya  : [[{{{sayfa|{{{3|{{PAGENAME}}}}}}}}]]
+|}</includeonly><!--
+--><noinclude>{{Documentation}}</noinclude>
