@@ -2,7 +2,7 @@
 |
 
 <div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[Avstriyanın Rayonnarı|Avstriyanın Rayonnarı]]'''</div>
+<div class="NavHead" style="background:#ccf; ">'''[[Avstriya Rayonnarı|Avstriya Rayonnarı]]'''</div>
 <div class="NavContent" style="text-align:left;">
 
 {|  width=100% style="text-align:center;"
@@ -29,6 +29,10 @@
 </div>
 
 <noinclude>
+
+[[Kategoriya:Şablonnar]]
+
+
 [[an:Plantilla:Estatos d'Austria]]
 [[ar:قالب:ولايات النمسا]]
 [[bar:Vorlage:Navigationsleiste Österreichische Bundesländer]]
