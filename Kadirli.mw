@@ -2,7 +2,7 @@
 | ad= {{PAGENAME}}
 | resmi_ad = 
 |Dosye=
-|bayrak =Flag-map of Turkey.svg
+|bayrak =Flag-map of Turkey.sv
 |arma =
 |Devlet =[[Türkiye]]
 |toprak= 
@@ -14,7 +14,7 @@
  |telefon_kodu =328
  |işsizlik =
  |vakit_bölgesi =
- |web    =
+ |web    =http://www.kadirli.bel.tr/
  | slogan                                = 
  | ülke                                  = turkiye
  | görüntü                               = 
@@ -45,7 +45,7 @@
  | altbölüm_türü                         = 
  | altbölüm_adı                          = 
  | kuruluş_sıfatı                        = 
- | kuruluş_tarihi                        = 
+ | kuruluş_tarihi                        =1872 
  | kurucu                                = 
  | named_for                             = 
  | seat                                  = 
@@ -63,8 +63,8 @@
  | toplam_türü                           = 
  | nüfus_as_of                           = 
  | nüfus_not                             = 
- | nüfus_urban                           = 
- | nüfus_toplam                          = 
+ | nüfus_urban                           = 83.618
+ | nüfus_toplam                          = 120.950
  | nüfus_yoğunluğu_km2                   = 
  | nüfus_metro                           = 
  | nüfus_blank1                          = 
@@ -82,7 +82,7 @@
  | utc_offset                            = 
  | zaman_dilimi_DST                      = 
  | utc_offset_DST                        = 
- | rakım_ft                              = 
+ | rakım_ft                              = 96
  | rakım_max_m                           = 
  | rakım_max_ft                          = 
  | rakım_min_m                           = 
