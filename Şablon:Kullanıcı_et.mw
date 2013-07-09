@@ -1,9 +1,12 @@
 {{Kullanıcı kutusu
 |sol-r=#6EF7A7
 |sağ-r=#C5FCDC
-|sol=[[:Kategori:user et|et]]
-|sağ=Selle kasutaja '''[[:Kategori:Kullanıcı et-A|emakeel]]''' on '''[[Estonca|eesti keel]]'''.}}<includeonly>
-[[Kategori:Kullanıcı et-A|{{PAGENAME}}]]
+|sol=[[:Kategori:Kullanıcı et|et]]
+|sağ=Selle kasutaja '''[[:Kategori:Kullanıcı et|emakeel]]''' on '''[[Eston dili|eesti keel]]'''.}}<includeonly>
 [[Kategori:Kullanıcı et|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı]]
+[[Kategori:Babil şablonnarı|et]]
+[[de:Vorlage:User et]]
+[[en:Template:User et]]
+[[ru:Шаблон:User et]]
+[[tr:Şablon:Kullanıcı et]]
 </noinclude>
