@@ -1,11 +1,10 @@
 {{Kullanıcı kutusu
 |sol-r=#6EF7A7
 |sağ-r=#C5FCDC
-|sol=[[:Kategori:user fi|fi]]
-|sağ=Tämä käyttäjä puhuu '''[[Fince|suomea]]''' '''[[:Kategori:User fi-A|äidinkielenään]]'''.}}<includeonly>
-[[Kategori:user fi-A|{{PAGENAME}}]]
-[[Kategori:user fi|{{PAGENAME}}]]</includeonly><noinclude>
-[[Kategori:Babil şablonnarı]]
+|sol=[[:Kategori:Kullanıcı fi|fi]]
+|sağ=Tämä käyttäjä puhuu '''[[Fin dili|suomea]]''' '''[[:Kategori:Kullanıcı fi|äidinkielenään]]'''.}}<includeonly>
+[[Kategori:Kullanıcı fi|{{PAGENAME}}]]</includeonly><noinclude>
+[[Kategori:Babil şablonnarı|fi]]
 [[af:Sjabloon:Gebruiker fi]]
 [[arz:قالب:User fi]]
 [[de:Vorlage:User fi]]
