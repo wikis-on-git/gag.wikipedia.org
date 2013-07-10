@@ -1,11 +1,11 @@
 <div style="float:right;border:solid #C0C8FF 1px;margin:1px">
 <table cellspacing="0" style="width:238px;background:#F0F8FF"><tr>
-<td style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:12pt">'''[[:Kategori:User tr|tr]]-1'''</td>
-<td style="font-size:8pt;padding:4pt;line-height:2.25em;">Bu kullanıcı '''[[Türk dili|Türkçe]]'''yi '''[[:Kategori:User tr-1|düşük düzeyde]]''' anlıyor. <includeonly>
+<td style="width:45px;height:45px;background:#C0C8FF;text-align:center;font-size:12pt">'''[[:Kategori:Kullanıcı tr|tr]]-1'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:2.25em;">Bu kullanıcı '''[[Türk dili|Türkçe]]'''yi '''[[:Kategori:Kullanıcı tr-1|düşük düzeyde]]''' anlıyor. <includeonly>
 </td>
 </tr></table></div>
-[[Kategori:user tr-1|{{PAGENAME}}]]
-[[Kategori:user tr|{{PAGENAME}}]]</includeonly><noinclude>
+[[Kategori:Kullanıcı tr-1|{{PAGENAME}}]]
+[[Kategori:Kullanıcı tr|{{PAGENAME}}]]</includeonly><noinclude>
 [[Kategori:Babil şablonnarı|tr-1]]
 [[kbd:Template:User tr-1]]
 </noinclude>
