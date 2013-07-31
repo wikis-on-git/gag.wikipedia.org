@@ -3,6 +3,4 @@
 Produces '''1''' (equivalent to a true condition) if both ''string1'' and ''string2'' are non-empty; otherwise produces the empty string (false condition).
 [[Kategori:Vikipedi formatlama ve fonksiyon şablonları]]
 
-[[bar:Vorlage:Booland]]
-[[kw:Scantlyn:Both]]
 </noinclude>
