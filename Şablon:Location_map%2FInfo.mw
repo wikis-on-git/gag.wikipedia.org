@@ -22,10 +22,4 @@
 |-
 ! map center
 |colspan="4"| {{coord|{{#expr:({{{{PAGENAME}}|top}}+{{{{PAGENAME}}|bottom}})/2}}|{{#expr:({{{{PAGENAME}}|left}}+{{{{PAGENAME}}|right}})/2}}}}
-|}</includeonly><noinclude>
-[[bar:Vorlage:Positionskarte/Info]]
-[[kbd:Template:Location map/Info]]
-[[os:Шаблон:ПозКартæ/Инфо]]
-[[rm:Template:LocMap/Info]]
-[[tl:Suleras:Location map/Info]]
-</noinclude>
+|}</includeonly>
