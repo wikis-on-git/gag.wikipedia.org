@@ -1,0 +1,42 @@
+{{Documentation subpage}}
+
+This template is intended to be useful for creating links to "[[Help:URL#Old versions of pages|oldid]]s"; that is, links to old versions of a wiki page.
+
+Every historical version of a page has a revision ID, which you can find from the [[Help:Page history|history]] of the page, or from the URL of the old revision.  Given a page name and a revision IDs of it, you can construct a link to that particular version.
+
+== Usage ==
+
+'''&#123;&#123;oldid&#124;1='''''page'''''&#124;2='''''oldid'''''&#124;3='''''label'''''&#125;&#125;'''
+
+;Current default:'''&#123;&#123;oldid&#124;page='''Main Page'''&#125;&#125;''' &rarr; {{oldid|page=Main Page}}
+
+;You can also use the named variables "page", "oldid", and "label".:'''&#123;&#123;oldid&#124;page='''Main Page'''&#124;oldid=&#124;label='''<nowiki>Last revision of '''Main Page'''</nowiki>'''&#125;&#125;''' &rarr; {{oldid|page=Main Page|oldid=|label=Last revision of '''Main Page'''}}
+
+;As long as the values do not contain equals signs, you can skip the variable names/numbers.:'''&#123;&#123;oldid&#124;'''Main Page'''&#124;589841&#124;'''<nowiki>Old version of '''Main Page'''</nowiki>'''&#125;&#125;''' &rarr; {{oldid|Main Page|589841|Old version of '''Main Page'''}}
+
+{| class="wikitable"
+! style="width:33%;" | code !! result
+|-
+| <code><nowiki>{{oldid|Main Page|589841|Link to a 2003 version of a the Main Page}}</nowiki></code>
+| {{oldid|Main Page|589841|Link to a 2003 version of a the Main Page}}
+* The '''label=''' parameter (parameter number 3) should be the link text description (optional).
+|-
+| <code><nowiki>{{oldid|Main Page|589841}}</nowiki></code>
+| {{oldid|Main Page|589841}}
+* The '''oldid=''' parameter (parameter number 2) should be the known revision number.
+|-
+| <code><nowiki>{{oldid|Main Page}}</nowiki></code>
+| {{oldid|Main Page}}(pretty useless)
+* The '''page=''' parameter (parameter number 1) should be the name of the page.
+* The '''oldid=''' parameter (parameter number 2) can be '''cur''' (or leave it empty) for the current version.
+|}
+
+== See also ==
+* {{tl|diff}} uses a similar approach to create links to [[Help:Diff|differences]] between versions. The simplest way is to use the {{tl|oldid2}} template.
+* [[Template:Cross-wiki oldid]]
+* [[Template:Cross-wiki language oldid]]
+
+<includeonly>
+[[Category:Oldid templates|{{PAGENAME}}]]
+[[Category:Internal link templates|{{PAGENAME}}]]
+</includeonly>
