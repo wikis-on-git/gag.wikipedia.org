@@ -1,0 +1,42 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+This template can be used to create navboxes for yearly tournaments.
+
+There is an optional <code>state</code> parameter working as described at [[Template:Navbox#Setup parameters]].
+
+=== Example ===
+<pre>
+{{NavboxYears
+|name = Tennis Channel Open tournaments
+|title = [[Tennis Channel Open|Las Vegas tournaments]]
+|titlestyle = background-color:#FF7F00;
+|list1 = 
+{{NavboxYears|Tennis Channel Open|    |    |    |    |    |    |1986|1987|1988|1989}}
+{{NavboxYears|Tennis Channel Open|NH  |NH  |1992|1993|1994|1995|1996|1997|1998|1999}}
+{{NavboxYears|Tennis Channel Open|2000|2001|2002|2003|2004|2005|2006|2007|2008|    }}
+}}
+</pre>
+{{NavboxYears
+|name = Tennis Channel Open tournaments
+|title = [[Tennis Channel Open|Las Vegas tournaments]]
+|titlestyle = background-color:#FF7F00;
+|list1 = 
+{{NavboxYears|Tennis Channel Open|    |    |    |    |    |    |1986|1987|1988|1989}}
+{{NavboxYears|Tennis Channel Open|NH  |NH  |1992|1993|1994|1995|1996|1997|1998|1999}}
+{{NavboxYears|Tennis Channel Open|2000|2001|2002|2003|2004|2005|2006|2007|2008|    }}
+}}
+
+=== See also ===
+{{Navigation templates}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Navbox (navigational) templates]]
+
+
+
+
+
+</includeonly>
