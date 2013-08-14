@@ -1,0 +1,63 @@
+{{documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+
+Use this template in the body of an article as a request for other editors to clarify text that is difficult to understand. When the problem is not with the wording, but the sourcing, one may use {{tl|specify}} instead. For dealing with dubious information, please use one of the following: {{tl|citation needed}}, {{tl|verify source}}, {{tl|dubious}} or {{tl|disputed-inline}}. This [[Wikipedia:Template|template]] is a [[Wikipedia:Avoid self-references|self-reference]] and so is part of the Wikipedia project rather than the encyclopedic content.
+
+==Usage==
+This is an [[WP:ILT|in-line template]], place the template immediately after the material in question, as one would do with a footnote. For example:
+
+:<code><nowiki>This sentence needs clarification.{{clarify}}</nowiki></code>
+
+The above text will cause the tag {{clarify}} to appear inline. This tag is linked to [[Wikipedia:Please clarify]] for further information. 
+
+===Categorisation===
+Adding this template to an article will automatically place the article into [[:Category:Wikipedia articles needing clarification]].
+
+===Parameters===
+;{{Para|date}}:
+This template allows an optional date parameter that records when the tag was added.
+<!-- The following appears to have no effect or is not implemented: This helps with the categorisation of articles requiring citations.
+If this template is added without the date parameter, the date parameter will be added soon after by a [[WP:BOT|bot]].  Thus, one can just add <code><nowiki>{{clarify}}</nowiki></code> and let the bot handle the date.
+-->
+
+One can specify the date manually. For example, to date the tag in the current month, enter <code><nowiki>{{clarify|date=</nowiki>{{CURRENTMONTHNAME}} {{CURRENTYEAR}}<nowiki>}}</nowiki></code>.  Even more simply, one can simply use <code><nowiki>{{subst:clarify}}</nowiki></code> to get the same result.
+
+;{{Para|reason}}:
+Because it may not be immediately apparent to other editors what about the tagged passage is in need of clarification, it is generally helpful to add a brief reason for the tag: <code><nowiki>{{subst:clarify|reason=</nowiki><var>what the problem is</var><nowiki>}}</nowiki></code> (this is preferable to using an HTML <code>&lt;!--comment--&gt;</code> after the tag, as it is more tidy to keep all of the {{tlx|clarify}}-related code inside the template).  The <code>reason</code> parameter is not displayed or otherwise acted upon by the template; it is simply present in the source code for editors' benefit.  If the explanation would be lengthy, use the article's talk page.
+
+;Other:
+One can specify additional text to appear before and or after the "clarify" tag. For example
+:<code><nowiki>{{clarify|pre-text=?}}</nowiki></code>
+will cause a question mark to appear before "clarify" like this{{clarify|pre-text=?}}, and 
+:<code><nowiki>{{clarify|post-text=(complicated jargon)}}</nowiki></code>
+will cause text to appear after "clarify" like this{{clarify|post-text=(complicated jargon)}}. You can use this feature to link to a discussion on the article's talk page:
+:<code><nowiki>{{clarify|post-text=(see [[Talk:Example#Clarification needed|talk]])}}</nowiki></code>
+
+==Redirects==
+The alternative names {{tl|huh}}, {{tl|what}}, {{tl|how?}}, {{tl|clarify me}} and {{tl|clarifyme}} are all redirects to this template.
+
+==See also==
+*[[Template:Ambiguous]]
+*[[Template:Confusing]]
+*[[Template:Definition]]
+*[[Template:Elucidate]]
+*[[Wikipedia:Citing sources]]
+*[[Wikipedia:Explain jargon]]
+*[[Wikipedia:Please clarify]]
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Coherency templates|{{PAGENAME}}]]
+[[Category:Inline cleanup templates|{{PAGENAME}}]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+
+
+
+
+
+
+
+
+
+</includeonly>
