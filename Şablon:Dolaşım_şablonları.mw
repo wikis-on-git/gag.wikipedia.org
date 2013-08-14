@@ -1,0 +1,54 @@
+{| class="wikitable" style="margin-left:auto; margin-right:auto; width:auto; text-align:center; font-size:90%;"
+|+ <span style="font-size:130%;">Dolaşım şablonlarının karşılaştırması</span>
+|- style="line-height:10pt;"
+!style="text-align:left; padding-left:4px;"| {{Dolçub|Dolaşım şablonları|plain=1}}
+! açılır kapanır !! Başlık rengi
+! Resim !! Gruplar !! Biçim (gövde)<br/>parametreleri !! Örnekler
+|-
+|style="text-align:left;"| {{tl|Dolaşım}}
+| {{evet2}} açılır kapanır ||style="background:#ccccff;"| dolaşım
+| {{evet2}} Gövdenin sol/sağı || {{evet}} || {{evet}}|| {{tl|NATO}}&nbsp;· {{tl|İngiliz Milletler Topluluğu}}
+|-
+|style="text-align:left;"| {{tl|Dolaşım dikeç}}
+| {{evet2}} açılır kapanır ||style="background:#ccccff;"| dolaşım
+| {{evet2}} Dikeçlerin sol/sağı || {{hayır}} || {{evet}} || {{tl|Current U.S. Senators}}&nbsp;· {{tl|Czech lands}}
+|-
+|style="text-align:left;"| {{tl|NavboxYears}}
+| {{evet2}} açılır kapanır ||style="background:#ccccff;"| dolaşım
+| {{hayır}} || {{hayır}} || {{hayır}} || {{tl|Wimbledon tournaments}}
+|-
+|style="text-align:left;"| {{tl|Navbox with collapsible groups}}
+| {{evet2}} açılır kapanır ||style="background:#ccccff;"| dolaşım
+| {{evet2}} Gövdenin ve/veya listelerin sol/sağı|| {{evet}} || {{evet}} || {{tl|University of Michigan}}{{dot}} {{tl|Scouting}}
+|}
+
+{| class="wikitable" style="margin-left:auto; margin-right:auto; width:auto; text-align:center; font-size:90%;"
+|+ <span style="font-size:130%;">Açılır kapanır değerler</span>
+|- style="line-height:10pt;"
+! | Tür !! CSS sınıfları !! Javascript !! Kapanma durumu !! Özel<br/>başlangıç&nbsp;durumu !! İç içelik
+|-
+|align="left"| Açılır kapanır tablo
+| açılır kapanır
+| [[MediaWiki:Common.js|Common.js]]'de tanımlanmıştır
+| Sayfada 2 veya daha fazla otomatik kapanma || {{evet}} || {{evet}}
+|}<noinclude>
+<!--Kategoriler-->
+[[Kategori:Vikipedi dolaşım şablonları|{{PAGENAME}}]]
+
+<!--İntervikiler-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</noinclude>
