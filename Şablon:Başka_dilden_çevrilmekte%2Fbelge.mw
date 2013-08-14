@@ -1,0 +1,13 @@
+==Kullanım==
+Başka dildeki bir Vikipedi'den sayfa çevirisi yaparken, sayfanın en üstüne bu şablonu '''<nowiki>{{Başka dilden çevrilmekte}}</nowiki>''' olarak ekleyebilirsiniz. Çalışmanız bittiğinde, şablonu sayfadan çıkarmayı unutmayınız.
+
+Bu şablonu daha ayrıntılı olarak yerleştirmek istiyorsanız; '''[[Şablon:Çeviri yeri]]''''ne bakınız.
+<includeonly>
+<!-- Şablonun kategorileri -->
+[[Kategori:Vikipedi çeviri şablonları]]
+[[Kategori:Yazdırırken hariç tut]]
+
+<!-- İntervikiler -->
+
+
+</includeonly>
