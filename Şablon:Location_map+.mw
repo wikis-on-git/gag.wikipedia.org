@@ -42,7 +42,4 @@
 </div>{{#ifeq:{{{float|}}}|center|
 </div>}}</includeonly><noinclude>
 {{documentation}}
-[[ar:قالب:خارطة مواقع+]]
-[[ms:Templat:Location map+]]
-[[pl:Szablon:Mapa lokalizacyjna+]]
 </noinclude>
