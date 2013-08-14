@@ -1,0 +1,197 @@
+{{Documentation subpage}}<!--should only display when viewed from /doc page-->
+{{Template sandbox notice}}<!--should only display when viewed from /sandbox page-->
+<!-- 
+    PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE
+    YOU CAN EDIT THE TEMPLATE DOCUMENTATION BELOW THIS COMMENT
+-->
+{{Navbox suite}}
+The {{tl|Navboxes}} template is used to group several [[WP:CLN#Navigation templates|navigation boxes]] together. 
+
+==Parameters==
+'''title''' (optional)
+: Alternate text to be placed in title box, defaults to "'''Links to related articles'''".
+
+'''state''' (optional)
+: ''collapsed'' to show this template in its collapsed (hidden) state, this is the ''default'' state
+: ''expanded'' to show this template in its expanded (fully visible) state
+: ''autocollapse'' to show this template in its collapsed (hidden) state '''only if''' there is another collapsible template on the page
+
+'''list''' (required)
+: list of the templates to be grouped
+
+==Usage==
+;Blank syntax
+<pre>
+{{Navboxes
+|title = <!-- optional, default is "Links to related articles" -->
+ |titlestyle = <!-- optional -->
+|state = <!-- optional, default is collapsed -->
+|list1 = <!-- required, or |list= -->
+}}</pre>
+
+==Examples==
+<pre>
+{{Navboxes
+| title = Giovanni Trapattoni Navigation boxes
+| state = expanded
+| titlestyle = background: lightblue <-- or hexcode-like #AAFFFF, defaults to #CCCCFF (violet) -->
+| list1  = {{Italy Squad 1962 World Cup}}
+{{Italy national football team managers}}
+{{Republic of Ireland national football team managers}}
+{{A.C. Milan managers}}
+{{F.C. Internazionale Milano managers}}
+{{Juventus F.C. managers}}
+{{Bayern Munich managers}}
+{{Cagliari Calcio managers}}
+{{ACF Fiorentina managers}}
+{{Italy Squad 2002 World Cup}}
+{{S.L. Benfica managers}}
+{{VfB Stuttgart managers}}
+{{FC Red Bull Salzburg Squad}}
+}}
+</pre>
+
+which gives:
+{{Navboxes
+| title = Giovanni Trapattoni Navigation boxes
+| state = expanded
+| titlestyle = background: lightblue
+| list1  = {{Italy Squad 1962 World Cup}}
+{{Italy national football team managers}}
+{{Republic of Ireland national football team managers}}
+{{A.C. Milan managers}}
+{{F.C. Internazionale Milano managers}}
+{{Juventus F.C. managers}}
+{{Bayern Munich managers}}
+{{Cagliari Calcio managers}}
+{{ACF Fiorentina managers}}
+{{Italy Squad 2002 World Cup}}
+{{S.L. Benfica managers}}
+{{VfB Stuttgart managers}}
+{{FC Red Bull Salzburg Squad}}
+}}
+
+===Coordinates template===
+The <nowiki>{{</nowiki>[[Template:Coord|coord]]<nowiki>}}</nowiki> template may be included in the template group.  Just remember to set the "display=" parameter equal to "inline" thus:  <nowiki>{{coord|18|25|53|N|64|37|23|W|display=inline}}</nowiki>. This enables the coordinates to appear no matter what [[WP:Skin|skin]] you're in.  The <nowiki>{{</nowiki>[[Template:Coord|coord]]<nowiki>}}</nowiki> template can even be nested in a Navbox titled '''Geographic locale''', which is already found on many country pages.
+
+<pre style="overflow:auto; margin-right:5px">
+{{Navboxes
+|title = Geographic locale
+|list1 = 
+'''[[Geographic coordinate system|Lat. and Long.]] {{coord|18|25|53|N|64|37|23|W|display=inline}} {{color|darkblue|([[Road Town]], [[British Virgin Islands]])}}'''
+}}
+</pre>
+
+{{Navboxes
+|title = Geographic locale
+|list1 = 
+'''[[Geographic coordinate system|Lat. and Long.]] {{coord|18|25|53|N|64|37|23|W|display=inline}} {{color|darkblue|([[Road Town]], [[British Virgin Islands]])}}'''
+}}
+
+===Succession boxes===
+Any instances of <code>|-</code> in a succession box should be replaced with <code><nowiki>{{!}}-</nowiki></code>
+
+<pre style="overflow:auto; margin-right:5px">
+{{Navboxes
+| list1 =
+{{s-start}}
+{{s-par|ie/oi}}
+{{s-bef|before=[[Bernard Cowen]]<br/><small>([[Fianna Fáil]])</small>}}
+{{s-ttl|title=[[Fianna Fáil]] [[Teachta Dála]] for [[Laois–Offaly (Dáil Éireann constituency)|Laois–Offaly]]|years=1984–present}}
+{{s-inc}}
+{{s-off}}
+{{s-bef|before=[[Michael O'Kennedy]]}}
+{{s-ttl|title=[[Minister for Labour (Ireland)|Minister for Labour]]|years=1992–1993}}
+{{s-aft|after=[[Mervyn Taylor]]}}
+{{s-bef|before=[[Albert Reynolds]]}}
+{{s-ttl|title=[[Minister for Tourism, Culture and Sport|Minister for Energy]]|years=1993}}
+{{s-aft|after=[[Charlie McCreevy]]<br/><small>Minister for Tourism and Trade</small>}}
+{{s-bef|before=[[Charlie McCreevy]]<br/><small>Minister for Tourism, Transport and Communications</small>}}
+{{s-ttl|title=[[Minister for Transport (Ireland)|Minister for Transport, Energy and Communications]]|years=1993–1994}}
+{{s-aft|after=[[Michael Lowry]]}}
+{{s-bef|before=[[Michael Noonan]]<br><small>Minister for Health</small>}}
+{{s-ttl|title=[[Minister for Health and Children]]<br><small>Minister for Health (1997)</small>|years=1997–2000}}
+{{s-aft|after=[[Micheál Martin]]}}
+{{s-bef|before=[[David Andrews (Irish politician)|David Andrews]]}}
+{{s-ttl|title=[[Minister for Foreign Affairs (Ireland)|Minister for Foreign Affairs]]|years=2000–2004}}
+{{s-aft|after=[[Dermot Ahern]]}}
+{{s-bef|before=[[Charlie McCreevy]]}}
+{{s-ttl|title=[[Minister for Finance (Ireland)|Minister for Finance]]|years=2004–2008}}
+{{s-aft|after=[[Brian Lenihan, Jnr|Brian Lenihan]]}}
+{{s-bef|before=[[Michael McDowell]]}}
+{{s-ttl|title=[[Tánaiste]]|years=2007–2008}}
+{{s-aft|after=[[Mary Coughlan (politician)|Mary Coughlan]]}}
+{{s-bef|before=[[Bertie Ahern]]}}
+{{s-ttl|title=[[Taoiseach]]|years=2008–}}
+{{s-inc}}
+{{s-ppo}}
+{{s-bef|before=[[Mary O'Rourke]]}}
+{{s-ttl|title=[[Fianna Fáil|Deputy Leader of the Fianna Fáil Party]]|years=2002–2008}}
+{{s-aft|after=TBD}}
+{{s-bef|before=[[Bertie Ahern]]}}
+{{s-ttl|title=[[Fianna Fáil|Leader of the Fianna Fáil Party]]|years=2008–}}
+{{s-inc}}
+{{s-end}}
+{{Prime Ministers of Ireland}}
+{{Deputy Prime Ministers of Ireland}}
+{{Fianna Fáil Leaders}}
+{{European Council}}
+}}
+</pre>
+
+{{Navboxes
+| list1 =
+{{s-start}}
+{{s-par|ie/oi}}
+{{s-bef|before=[[Bernard Cowen]]<br/><small>([[Fianna Fáil]])</small>}}
+{{s-ttl|title=[[Fianna Fáil]] [[Teachta Dála]] for [[Laois–Offaly (Dáil Éireann constituency)|Laois–Offaly]]|years=1984–}}
+{{s-inc}}
+{{s-off}}
+{{s-bef|before=[[Michael O'Kennedy]]}}
+{{s-ttl|title=[[Minister for Labour (Ireland)|Minister for Labour]]|years=1992–1993}}
+{{s-aft|after=[[Mervyn Taylor]]}}
+{{s-bef|before=[[Albert Reynolds]]}}
+{{s-ttl|title=[[Minister for Tourism, Culture and Sport|Minister for Energy]]|years=1993}}
+{{s-aft|after=[[Charlie McCreevy]]<br/><small>Minister for Tourism and Trade</small>}}
+{{s-bef|before=[[Charlie McCreevy]]<br/><small>Minister for Tourism, Transport and Communications</small>}}
+{{s-ttl|title=[[Minister for Transport (Ireland)|Minister for Transport, Energy and Communications]]|years=1993–1994}}
+{{s-aft|after=[[Michael Lowry]]}}
+{{s-bef|before=[[Michael Noonan]]<br><small>Minister for Health</small>}}
+{{s-ttl|title=[[Minister for Health and Children]]<br><small>Minister for Health (1997)</small>|years=1997–2000}}
+{{s-aft|after=[[Micheál Martin]]}}
+{{s-bef|before=[[David Andrews (Irish politician)|David Andrews]]}}
+{{s-ttl|title=[[Minister for Foreign Affairs (Ireland)|Minister for Foreign Affairs]]|years=2000–2004}}
+{{s-aft|after=[[Dermot Ahern]]}}
+{{s-bef|before=[[Charlie McCreevy]]}}
+{{s-ttl|title=[[Minister for Finance (Ireland)|Minister for Finance]]|years=2004–2008}}
+{{s-aft|after=[[Brian Lenihan, Jnr|Brian Lenihan]]}}
+{{s-bef|before=[[Michael McDowell]]}}
+{{s-ttl|title=[[Tánaiste]]|years=2007–2008}}
+{{s-aft|after=[[Mary Coughlan (politician)|Mary Coughlan]]}}
+{{s-bef|before=[[Bertie Ahern]]}}
+{{s-ttl|title=[[Taoiseach]]|years=2008–}}
+{{s-inc}}
+{{s-ppo}}
+{{s-bef|before=[[Mary O'Rourke]]}}
+{{s-ttl|title=[[Fianna Fáil|Deputy Leader of the Fianna Fáil Party]]|years=2002–2008}}
+{{s-aft|after=TBD}}
+{{s-bef|before=[[Bertie Ahern]]}}
+{{s-ttl|title=[[Fianna Fáil|Leader of the Fianna Fáil Party]]|years=2008–}}
+{{s-inc}}
+{{s-end}}
+{{Prime Ministers of Ireland}}
+{{Deputy Prime Ministers of Ireland}}
+{{Fianna Fáil Leaders}}
+{{European Council}}
+}}
+
+==Redirects==
+*{{tl|Related pages}}
+*{{tl|Template group}}
+
+==See also==
+* [[WP:Related information]] - an optional heading for navigation boxes
+
+<includeonly>
+[[Category:Navbox (navigational) templates|{{PAGENAME}}]]
+</includeonly>
