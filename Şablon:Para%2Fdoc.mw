@@ -1,0 +1,49 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+== Usage ==
+This template is for giving examples of [[Wikipedia:Template messages|template]] parameter source code (useful in template documentation and talk page discussions of template code).  It must have one or two parameters itself. The first is the name of the example parameter to display (this may be ''empty'', but it '''must''' be ''present''), and the second (optional) one is a value for the first example parameter, or (if the first {{tlx|para}} parameter is empty) an unnamed example parameter.
+
+===Examples===
+#&nbsp;&nbsp;{{tlx|para|name}}
+#:renders as
+#:{{para|name}}
+#&nbsp;&nbsp;{{tlx|para|title|&lt;var&gt;book title&lt;/var&gt;}}
+#:renders as
+#:{{para|title|<var>book title</var>}}
+#&nbsp;&nbsp;{{tlx|para|3=section|2=<span style="font-size: 1pt;">&nbsp;</span>}}
+#:renders as
+#:{{para||section}}
+#:(for unnamed parameters in the example code; note the empty first parameter in the {{tlx|para}} template)
+#&nbsp;&nbsp;{{tlx|para|&lt;var&gt;parameter&lt;/var&gt;|&lt;var&gt;value&lt;/var&gt;}}
+#:renders as
+#:{{para|<var>parameter</var>|<var>value</var>}}
+
+When using literal, pre-specified values, simply provide the value (appearance as in example 3). When illustrating hypothetical, variable or user-definable values, use <tt><nowiki><var>value</var></nowiki></tt> (appearance as in example 2), and the same should be done for non-literal, example parameters (as in example 4).
+
+== See also ==
+* [[Template:Tlx]] &ndash; for providing examples of entire-template code with included parameters
+
+{{Tl-nav}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+{{DEFAULTSORT:{{PAGENAME}}}}
+[[Category:Typing-aid templates]]
+[[Category:Wikipedia formatting and function templates]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</includeonly>
