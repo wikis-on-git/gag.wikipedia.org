@@ -1,0 +1,109 @@
+<noinclude>{{template doc page viewed directly}}</noinclude>
+<!-- Şablon Belgelemesi -->
+Bu şablon '''mikutusu''' yani '''madde ileti kutusu''' şablonudur.
+
+Bu şablon ''madde ileti kutuları'' oluşturmak için kullanılır. Yani maddelerle ilgili birkaç uyarı/bilgiyi belirtmek için kullanılır. Bu şablon birçok değişik renk seçmenize olanak sağlar, ayrıca eğer hiç bir resim belirtmemişseniz, seçtiğiniz temanın varsayılan resmini kabul eder.
+
+=== Kullanım ===
+
+Basit bir kullanım örneği:
+
+<pre>
+{{mikutusu | yazı = Metin.}}
+</pre>
+
+{{mikutusu | yazı = Metin.}}
+
+
+Karışık örnekler:
+
+<pre>
+{{mikutusu
+| tür  = biçim
+| resim = [[Resim:Icon apps query.svg|38px]]
+| yazı  = Mesaj metni.
+}}
+</pre>
+
+{{mikutusu
+| tür  = biçim
+| resim = [[Resim:Icon apps query.svg|38px]]
+| yazı  = Mesaj metni.
+}}
+
+==== Varsayılan resimler ====
+
+Aşağıdaki örneklerde, farklı "tür"lerde kullanılmışlardır; fakat herhangi bir resim belirtilmediği için varsayılan resim görntülenmektedir.
+
+{{mikutusu
+| tür   = sil
+| yazı  = tür=<u>sil</u> – Sil şablonlarında
+}}
+{{mikutusu
+| tür   = hızlı sil
+| yazı  =tür=<u>hızlı</u>- Hızlı sil şablonlarında}}
+{{mikutusu
+| tür   = içerik
+| yazı  = tür=<u>içerik</u> – İçerik konuları.
+}}
+{{mikutusu
+| tür  = biçim
+| yazı  = tür=<u>biçim</u> – Biçim konuları, içerik temizlenmesi gibi. 
+}}
+{{mikutusu
+| tür   = birleştirme
+| yazı  = tür=<u>birleştirme</u> – Birleştirme, taşıma vb. konularda kullanılır 
+}}
+{{mikutusu
+| tür  = bildirim
+| yazı  = tür=<u>bildirim</u> – Madde notları ile  ilgili
+}}
+{{mikutusu
+| tür  = koruma
+| yazı  = tür=<u>koruma</u> – Koruma notları ile ilgili. 
+}}
+
+=== Parametreler ===
+
+Tüm parametrelerin listesi:
+
+<pre>
+{{mikutusu
+| tür  = sil / hızlı / içerik / biçim / birleştirme / taşıma / bildirim / koruma
+| resim = yok / boşluk / [[Image:Herhangi bir resim.svg|40px]]
+| resimsağ = [[Image:Bir resim.svg|40px]]
+| yazı  = Mesaj ileti metni. 
+}}
+</pre>
+
+'''tür'''
+:Eğer '''tür''' parametresi için hiç bir değer verilmemişse, varsayılan olarak '''bildirim''' türü etkin olacaktır. '''Bildirim''' türü '''madde bildirimlerinde''' kullanılır
+
+'''resim'''
+:'''Boş parametre''' = Eğer '''resim''' parametresi için hiçbir değer verilmemişse, seçilen türün varsayılan resmi kullanılır. 
+:'''Bir resim''' = Koyacağınız resim 40 - 50px boyutlarında ve konuyla alakalı olmalıdır. Örnek kullanım: 
+::<code><nowiki>[[Resim:Unbalanced scales.svg|40px]]</nowiki></code>
+:'''yok''' = Hiçbir resmin kullanılmaması anlamına gelir.
+:'''boşluk''' = Bu seçim ise hiçbir resim kullanılmaması anlamına gelir; fakat öncekinden farklı olarak resim yeri boş kalır.
+'''resimsağ'''
+:'''No parameter''' = Sağ resmin parametresi yok anlamındadır.
+:'''Bir resim''' =  Koyacağınız resim 40 - 50px boyutlarında ve konuyla alakalı olmalıdır. Örnek kullanım: 
+::<code><nowiki>[[Resim:Nuvola apps bookcase.png|40px]]</nowiki></code>
+:'''Hiçbir şey''' = Hiç bir şey gösterilmez.
+
+'''yazı'''
+:İleti metni.
+
+=== Ayrıca bakınız===
+
+* [[Vikipedi:İleti kutuları]] - Daha fazla bilgi
+
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Kategori:Mesaj şablonları|Mikutusu]]
+
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+
+
+</includeonly>
