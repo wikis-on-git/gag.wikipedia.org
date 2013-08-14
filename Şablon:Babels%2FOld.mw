@@ -9,16 +9,10 @@ Category: '''[[:Category:user {{{1}}}|user {{{1}}}]]''', Template Category: '''[
 * {{tl|user {{{1}}}-5}} &mdash; [[:Category:user {{{1}}}-5|professional]]
 
 <noinclude>
-
 ----
 '''Note:''' If a 4th parameter is used, the 3rd will be the link (without "language" at the end of it) and the 4th parameter will be the displayed text for the link. If the 3rd parameter is left blank and the 4th parameter is filled, the 4th parameter will be used for both the text and the link.
 
 * See also: {{tl|Babels}}
 
 [[Category:Language user templates]]
-
-[[en:Template:Babels/Old]]
-[[fa:الگو:Babels/Old]]
-[[is:Snið:Málsnið/Fornmál]]
-[[mg:Endrika:Babels/Old]]
 </noinclude>
