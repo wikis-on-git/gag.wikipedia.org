@@ -1,0 +1,369 @@
+{{documentation subpage}}
+<includeonly>{{high-risk| 47,000+ }}</includeonly>
+{{Navbox suite}}
+This template produces a [[Wikipedia:Navigational templates|navigational template]] that has groups of relevant articles on a certain topic. All groups are hidden by default. However, with a parameter call, an individual group can be shown that has the other articles in the same group.
+
+== Usage ==
+Please remove the parameters that are left blank. The template currently supports up to 20 groups/lists but more can be added if needed.  You should use a minimum of two groups/lists; otherwise, use {{t1|Navbox}} instead.
+
+<pre>{{Navbox with collapsible groups
+|name = {{subst:PAGENAME}}
+|state = 
+|selected = {{{1|}}}
+
+|title = 
+|titlestyle = 
+|groupstyle = 
+|image = 
+
+|group1 = 
+|abbr1 = 
+|list1 =
+
+|group2 = 
+|abbr2 = 
+|list2 = 
+
+ ...
+
+|group20 = 
+|abbr20 = 
+|list20 = 
+}}</pre>
+
+== Parameters ==
+This template shares many common parameters with its sister templates {{t1|Navbox}} and {{t1|Navbox with columns}}.  The common parameters are marked with a cross<sup>'''†'''</sup>.  Please refer to the documentation of {{t1|Navbox}} for more in depth descriptions and examples of those parameters.
+
+===Setup parameters===
+:;name<sup>†</sup>
+::The name of the template. The name of this template, for example, is "Navbox with collapsible groups".
+
+:; ''state''<sup>†</sup> <span style="font-weight:normal;">[<code>autocollapse, uncollapsed, collapsed, plain, off</code>]</span>
+::The initial state of the show/hide feature for the main title.  See {{t1|Navbox}} for more information.  Does not affect display or hiding of group items, see ''state<sub>n</sub>'', below.
+
+:;''navbar''<sup>†</sup>
+::Possible values are <code>plain</code>, <code>off</code>, and the default value of blank.  See {{t1|Navbox}} for more information.
+
+:;''border''<sup>†</sup>
+::Possible values are <code>child</code>, <code>none</code>, and the default value of blank.  Set to <code>child</code> if you wish to use the navbox inside of another navbox; with this option, the child navbox is borderless and fits snuggly inside of its parent navbox.  The parent navbox may be the list area of {{t1|Navbox}}, the columns of a {{t1|Navbox with columns}}, or a list area of {{t1|Navbox with collapsible groups}}.  See {{t1|Navbox}} for more information and examples.
+
+===Basic data parameters===
+:;'''''title'''''<sup>†</sup>
+::The title of the template, displayed centered in the titlebar at the top of the template.
+
+:;''above''<sup>†</sup>
+::Text or other elements to appear above groups/lists.
+
+:;''image''<sup>†</sup>
+::Image to the right of all of the groups/lists.
+
+:;''imageleft''<sup>†</sup>
+::Image to the left of all of the groups/lists.
+
+:;''below''<sup>†</sup>
+::Text or other elements to appear below the groups/lists.
+
+===Group/list parameters===
+:; ''group<sub>n</sub>''<sup>†</sup>
+:: The title of each section.
+
+:; ''list<sub>n</sub>''<sup>†</sup>
+:: The content/wikilinks that will be shown in the group. Use dots or bullets as separators (see the [[#See also|See also]] section).  A {{t1|Navbox}} or {{t1|Navbox with columns}} can optionally be used here with its <code>border = child</code> parameter set.  If this is done, leave the corresponding group<sub>n</sub> blank, as the child navbox will already provide the collapsible feature.
+
+:; ''abbr<sub>n</sub>''
+:: This is the abbreviation of the group.  See <code>selected</code> parameter immediately below to see how to use this parameter.  This parameter is optional, but recommended.
+
+:; ''selected''
+:: If the value of <code>selected</code> equals the value of <code>abbr<sub>n</sub></code>, then list<sub>n</sub> is uncollapsed and all other lists are collapsed.  If <code>selected</code> is left blank, or if it does not match any <code>abbr<sub>n</sub></code>, then all groups are collapsed.  Usually this parameter should be set to <tt><nowiki>{{{1|}}}</nowiki></tt>. Since this template is a base template for others, there has to be a way to pass the group parameter from the article, to the secondary template to this one.
+
+:: The collapsed/uncollapsed options can be listed on the template's page by using the {{tl|Collapsible sections option}} template in the <nowiki><noinclude></nowiki> part of the page.
+
+:; ''state<sub>n</sub>'' <span style="font-weight:normal;">[<code>autocollapse, uncollapsed, collapsed, plain, off</code>]</span>
+:: The initial collapsible state of list<sub>n</sub>.  Set to collapsed by default.  Overridden to uncollapsed if <code>selected</code> equals <code>abbr<sub>n</sub></code>.
+
+:; ''image<sub>n</sub>''
+:: An image to appear in the list<sub>n</sub> content area on the right side.
+
+:; ''imageleft<sub>n</sub>''
+:: An image to appear in the list<sub>n</sub> content area on the left side.
+
+===Style parameters===
+:;''bodystyle''<sup>†</sup>
+::CSS style/s to apply to the entire template
+
+:;''titlestyle''<sup>†</sup>
+::[[Wikipedia:CSS|CSS]] style/s to apply to titlebar; usually <code>background:''color''</code>.  The color of wikilink text must be manually changed using span tags.  For example use <code><nowiki>title = [[Scouting|<span style="color:ivory;">Scouting</span>]]</nowiki></code> to change the color of the link to ivory.  The [show]/[hide] button and the vde link button use the color set in the titlestyle parameter.  Here is an example of setting the titlestyle:
+:::<code>titlestyle = background:darkgreen;color:ivory;</code>
+
+:;''abovestyle''<sup>†</sup>
+:;''belowstyle''<sup>†</sup>
+::CSS style/s to apply to the ''above'' and ''below'' parameters, respectively.
+
+:;''basestyle''<sup>†</sup>
+::CSS style/s to apply to the ''title'', ''above'', ''below'', and ''group<sub>n</sub>'' parameters, all at the same time.
+
+:;''imagestyle''<sup>†</sup>
+::CSS style/s to apply to the ''image'' parameter.  Does not get applied to the image<sub>n</sub> parameters.
+
+:;''imageleftstyle''<sup>†</sup>
+::CSS style/s to apply to the ''imageleft'' parameter.  Does not get applied to the imageleft<sub>n</sub> parameters.
+
+:; ''groupstyle''<sup>†</sup>
+:: CSS style/s to apply to all group heading parameters.  Visit [http://meyerweb.com/eric/tools/color-blend/ this website] to get a lighter color similar to the title background color. Example:
+:::<code>groupstyle = background:lightgreen;</code>
+
+:; ''group<sub>n</sub>''style<sup>†</sup>
+:: CSS style/s to apply to a specific group heading; overrides any CSS styles set in ''groupstyle''.
+
+:; ''liststyle''<sup>†</sup>
+:: CSS style/s to apply to all list content parameters.
+
+:; ''list<sub>n</sub>''style<sup>†</sup>
+:: CSS style/s to apply to specific list content parameters; overrides any CSS styles set in ''liststyle''.
+
+:; ''listpadding''<sup>†</sup>
+:: Padding to have in each list cell; defaults to 0.25em on the left/right and 0em on the top/bottom.
+
+===Microformat parameters===
+:; ''bodyclass''<sup>†</sup>
+:: This parameter is inserted into the "class" attribute for the infobox as a whole.
+
+:; ''titleclass''<sup>†</sup>
+:: This parameter is inserted into the "class" attribute for the infobox's title caption.
+
+:See [[Wikipedia:WikiProject Microformats]] for more information on adding microformat information to Wikipedia, and [[microformat]] for more information on microformats in general.
+
+== Examples ==
+===Basic example===
+<pre style="overflow:scroll;">
+{{Navbox with collapsible groups
+|name = University of Michigan
+|state = uncollapsed
+|title = [[University of Michigan|<span style="color:#FFD700;">The University of Michigan, Ann Arbor</span>]]
+|titlestyle = background:#00008B;color:#FFD700;
+|groupstyle = background:#FFD700;color:#00008B;
+|image = 
+|selected = {{{1|}}}
+
+|group1 = [[University of Michigan#Academic profile|<span style="color:#00008B;">Academics</span>]]
+|abbr1 = academics
+|list1 = [[University of Michigan College of Engineering|College of Engineering]]{{·}} [[University of Michigan College of Literature, Science, and the Arts|College of Literature, Science and the Arts]]{{·}} [[Gerald R. Ford School of Public Policy]]{{·}} [[University of Michigan Law School|Law School]]{{·}} [[University of Michigan Health System|Medical School]]{{·}} [[Ross School of Business]]{{·}} [[University of Michigan School of Education|School of Education]]{{·}} [[University of Michigan School of Information|School of Information]]{{·}} [[University of Michigan School of Music, Theatre & Dance|School of Music, Theatre & Dance]]{{·}}[[University of Michigan School of Natural Resources and Environment|School of Natural Resources and Environment]]{{·}} [[University of Michigan School of Public Health|School of Public Health]]{{·}} [[Taubman College of Architecture and Urban Planning]]
+
+|group2 = [[Michigan Wolverines|<span style="color:#00008B;">Athletics</span>]]
+|abbr2 = athletics
+|list2 = [[Michigan Stadium]]{{·}} [[Crisler Arena]]{{·}} [[Yost Ice Arena]]{{·}} [[Michigan Wolverines]]{{·}} [[Michigan Wolverines football|Football]]{{·}} [[Michigan – Ohio State football rivalry|UM-OSU Rivalry]]{{·}} [[Little Brown Jug (American football)|Little Brown Jug]]{{·}} [[Paul Bunyan Trophy]]{{·}} [[Cold War (ice hockey)|Cold War]]
+
+|group3 = Campus
+|abbr3 = campus
+|list3 = [[Angell Hall Observatory]]{{·}} [[Burton Memorial Tower|Burton Tower]]{{·}} [[The Diag]]{{·}} [[David M. Dennison Building|Dennison Building]]{{·}} [[Gerald R. Ford Presidential Library]]{{·}} [[Hill Auditorium]]{{·}} [[Lurie Tower]]{{·}} [[Matthaei Botanical Gardens]]{{·}} [[Michigan Union]]{{·}} [[Museums at the University of Michigan|Museums]]{{·}} [[Nichols Arboretum]]{{·}} [[University of Michigan Health System|UM Health System]]{{·}} [[University of Michigan Library|University Library]]
+}}
+</pre>
+{{Navbox with collapsible groups
+|name = University of Michigan
+|state = uncollapsed
+|title = [[University of Michigan|<span style="color:#FFD700;">The University of Michigan, Ann Arbor</span>]]
+|titlestyle = background:#00008B;color:#FFD700;
+|groupstyle = background:#FFD700;color:#00008B;
+|image = 
+|selected = {{{1|}}}
+
+|group1 = [[University of Michigan#Academic profile|<span style="color:#00008B;">Academics</span>]]
+|abbr1 = academics
+|list1 = [[University of Michigan College of Engineering|College of Engineering]]{{·}} [[University of Michigan College of Literature, Science, and the Arts|College of Literature, Science and the Arts]]{{·}} [[Gerald R. Ford School of Public Policy]]{{·}} [[University of Michigan Law School|Law School]]{{·}} [[University of Michigan Health System|Medical School]]{{·}} [[Ross School of Business]]{{·}} [[University of Michigan School of Education|School of Education]]{{·}} [[University of Michigan School of Information|School of Information]]{{·}} [[University of Michigan School of Music, Theatre & Dance|School of Music, Theatre & Dance]]{{·}}[[University of Michigan School of Natural Resources and Environment|School of Natural Resources and Environment]]{{·}} [[University of Michigan School of Public Health|School of Public Health]]{{·}} [[Taubman College of Architecture and Urban Planning]]
+
+|group2 = [[Michigan Wolverines|<span style="color:#00008B;">Athletics</span>]]
+|abbr2 = athletics
+|list2 = [[Michigan Stadium]]{{·}} [[Crisler Arena]]{{·}} [[Yost Ice Arena]]{{·}} [[Michigan Wolverines]]{{·}} [[Michigan Wolverines football|Football]]{{·}} [[Michigan – Ohio State football rivalry|UM-OSU Rivalry]]{{·}} [[Little Brown Jug (American football)|Little Brown Jug]]{{·}} [[Paul Bunyan Trophy]]{{·}} [[Cold War (ice hockey)|Cold War]]
+
+|group3 = Campus
+|abbr3 = campus
+|list3 = [[Angell Hall Observatory]]{{·}} [[Burton Memorial Tower|Burton Tower]]{{·}} [[The Diag]]{{·}} [[David M. Dennison Building|Dennison Building]]{{·}} [[Gerald R. Ford Presidential Library]]{{·}} [[Hill Auditorium]]{{·}} [[Lurie Tower]]{{·}} [[Matthaei Botanical Gardens]]{{·}} [[Michigan Union]]{{·}} [[Museums at the University of Michigan|Museums]]{{·}} [[Nichols Arboretum]]{{·}} [[University of Michigan Health System|UM Health System]]{{·}} [[University of Michigan Library|University Library]]
+}}
+
+===Nesting other Navbox forms===
+This example shows {{t1|Navbox}}, {{t1|Navbox with collapsible groups}} and {{t1|Navbox with columns}} all working together.  Press the edit button for the section to view the code.  Note that each of the child navboxes has the first parameter set to <code>child</code>
+{{Navbox with collapsible groups
+|name = Navbox with collapsible groups
+|title = Navbox, Navbox with columns, and Navbox with collapsible groups together
+|selected = {{{1|}}}
+
+|group1 = [[:Category:Scouting|The Scouting Movement]]
+|abbr1 = movement
+|list1 = [[Scouting]]{{·}}''[[Scouting for Boys]]''{{·}}[[Scout method]]{{·}}[[Scout Law]]{{·}}[[Scout Promise]]{{·}}[[Scout Motto]]{{·}}[[Wood Badge]]{{·}}[[Age groups in Scouting and Guiding]]{{·}}[[Cub Scout]]{{·}}[[Scout (Scouting)|Boy Scout]]{{·}}[[Rover Scout]]{{·}}[[Brownie (Girl Guides)|Brownie]]{{·}}[[Girl Guiding and Girl Scouting]]{{·}}[[Ranger (Girl Guide)]]{{·}}[[Jamboree (Scouting)|Jamboree]]{{·}}[[Scout Leader]]{{·}}[[World Organization of the Scout Movement|WOSM]]{{·}}[[World Association of Girl Guides and Girl Scouts|WAGGGS]]{{·}}[[Non-aligned Scouting and Scout-like organisations|Non-aligned organisations]]{{·}}[[Scouting controversy and conflict]]{{·}}[[Scouting in popular culture]]{{·}}[[List of Scouts]]{{·}}[[List of highest awards in Scouting]]
+
+|list2 = {{Navbox|child
+|title      = [[French colonial empire|Former French colonies]] in [[Africa]] and the [[Indian Ocean]]
+|state      = {{#ifeq:{{{1|}}}|french|uncollapsed|collapsed}}
+|titlestyle = background#
+|groupstyle = background:lavender;
+
+|group1 = [[Maghreb|Mahgreb]]
+|list1  = [[French Algeria|Algeria]]{{·}} [[French protectorate of Morocco|Morocco]]&nbsp;<small>([[Arguin|Arguin Island]])</small>{{·}} [[History of Tunisia|Tunisia]]
+
+|group2 = [[French West Africa]]
+|list2  = [[History of Côte d'Ivoire#French Period|Côte d'Ivoire]]{{·}} [[French Dahomey|Dahomey]]{{·}} [[French Sudan]]{{·}} [[French Guinea|Guinea]]{{·}} [[History of Mauritania#French colonization and post-colonial history|Mauritania]]{{·}} [[History of Niger#Colonization|Niger]]{{·}} [[History of Senegal|Senegal]]{{·}} [[French Upper Volta|Upper Volta]]
+
+|group3 = &nbsp;
+|list3  = [[French Togoland]]{{·}} [[James Island (Gambia)|James Island]]
+
+|group4 = [[French Equatorial Africa]]
+|list4  = [[Colonial Chad|Chad]]{{·}} [[History of Gabon|Gabon]]{{·}} [[History of the Republic of the Congo|Middle Congo]]{{·}} [[Ubangi-Shari|Oubangui-Chari]]
+
+|group5 = [[Comoros]]
+|list5  = [[Anjouan]]{{·}} [[Grande Comore]]{{·}} [[Mohéli]]
+
+|group6 = &nbsp;
+|list6  = [[History of Djibouti#French interest|French Somaliland (Djibouti)]]{{·}} [[History of Madagascar#French control|Madagascar]]{{·}} [[Mauritius|Ile de France]]{{·}} [[Seychelles]]
+}}
+
+|group3 = [[:Category:Scouting in the United Kingdom|Scouting in the United Kingdom]]
+|abbr3 = Scouting
+|list3 = [[The Scout Association]]{{·}}[[Girlguiding UK]]{{·}}[[Beaver Scouts]]{{·}}[[Cub Scouts (The Scout Association)|Cub Section (UK)]]{{·}}[[Venture Scout]]{{·}}[[Explorer Scouts (The Scout Association)|Explorer Scouts]]{{·}}[[Brownie (Girl Guides)]]{{·}}[[Ranger (Girl Guide)]]{{·}}[[Rainbow (Girl Guides)]]{{·}}[[Scout Network]]{{·}}[[Chief Scout (The Scout Association)|Chief Scout (United Kingdom)]]{{·}}[[Scout Counties (The Scout Association)|Scout Counties]]{{·}}[[Scout District]]{{·}}[[Scouts (The Scout Association)|Scout Section (UK)]]{{·}}[[Scout Activity Centre (The Scout Association)|Scout Activity Centre]]{{·}}[[Young Leaders (The Scout Association)|Young Leaders]]
+
+|list4 = {{Navbox with columns|child
+|state = {{#ifeq:{{{1|}}}|coltest|uncollapsed|collapsed}}
+|title = Navbox with columns nested in itself
+|colstyle = text-align:center;
+
+|col1width = 33%
+|col2width = 17%
+|col3width = 33%
+|col4width = 17%
+
+|col1header = Col1Header
+|col2header = Col2Header
+|col3header = Col3Header
+|col4header = Col4Header
+
+|col1 = {{Navbox with columns|child
+  |colwidth = 50%
+  |colstyle = text-align:center;
+
+  |col1header = Col1.1Header
+  |col2header = Col1.2Header
+
+  |col1 = Col1.1
+  |col2 = Col1.2
+ }}
+
+|col2 = Col2
+
+|col3 = {{Navbox with columns|child
+  |colwidth = 33%
+  |colstyle = text-align:center;
+
+  |col1header = Col3.1Header
+  |col2header = Col3.2Header
+  |col3header = Col3.3Header
+
+  |col1 = Col3.1
+  |col2 = Col3.2
+  |col3 = Col3.3
+ }}
+
+|col4 = Col4
+}}
+}}
+
+===Nesting Navboxes to get more groups/lists===
+You can conveniently nest Navboxes, including {{t1|Navbox with collapsible groups}}, to get an unlimited number of groups/lists.  The following example uses one instance of {{t1|Navbox with collapsible groups}} to get the first 10 collapsible groups, a nested instance to get the next 10, and another nested instance to get the last 6.  See the code to learn how it works.  It is fairly simple to extend this to as many groups/lists as you like:
+
+{{Navbox with collapsible groups
+|name = {{PAGENAME}}
+|state = collapsed
+|title = Title
+|selected = {{{1|}}}
+
+|group1 = A
+|list1 = List A
+|group2 = B
+|list2 = List B
+|group3 = C
+|list3 = List C
+|group4 = D
+|list4 = List D
+|group5 = E
+|list5 = List E
+|group6 = F
+|list6 = List F
+|group7 = G
+|list7 = List G
+|group8 = H
+|list8 = List H
+|group9 = I
+|list9 = List I
+
+|list10 = {{Navbox with collapsible groups|child
+  |selected = {{{1|}}}
+
+  |group1 = J
+  |list1 = List J
+  |group2 = K
+  |list2 = List K
+  |group3 = L
+  |list3 = List L
+  |group4 = M
+  |list4 = List M
+  |group5 = N
+  |list5 = List N
+  |group6 = O
+  |list6 = List O
+  |group7 = P
+  |list7 = List P
+  |group8 = Q
+  |list8 = List Q
+  |group9 = R
+  |list9 = List R
+
+|list10 = {{Navbox with collapsible groups|child
+  |selected = {{{1|}}}
+
+  |group1 = S
+  |list1 = List S
+  |group2 = T
+  |list2 = List T
+  |group3 = U
+  |list3 = List U
+  |group4 = V
+  |list4 = List V
+  |group5 = W
+  |list5 = List W
+  |group6 = X
+  |list6 = List X
+  |group7 = Y
+  |list7 = List Y
+  |group8 = Z
+  |list8 = List Z
+}}
+}}
+}}
+
+== See also ==
+* {{t1|Nowrap begin}} - Provides an explanation of the preferred method of using bullets or pipes to delimit list items
+
+{{Navigational templates}}
+
+<includeonly>
+<!--Categories-->
+[[Category:Navbox (navigational) templates| ]]
+[[Category:Wikipedia metatemplates]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</includeonly>
