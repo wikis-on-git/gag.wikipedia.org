@@ -1,0 +1,53 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+{{high-use| 30,000+ }}
+
+This is the {{Tl|Tlp}} or '''template link with parameters''' template.
+
+It can be used in documentation and talk page discussions to show how a template name would be used in code.
+
+Here is how this template looks. Code to the left and actual rendering to the right:
+
+:{{Tlc|Tlp|name|parameters}} = {{Tlp|name|parameters}}
+
+Features of {{Tlp|Tlp}}:
+* It shows a template name with a link to that template.
+* It shows up to eight parameters.
+* It also shows empty parameters. (See examples below.)
+* It prevents [[line wrap]]s in its output.
+* It uses normal text style. (While for instance {{Tlx|Tlx}} uses <tt>teletype</tt> text style.)
+
+This template belongs to a whole family of similar templates. See the [[#See also|see also]] section below for some of them. For instance, when writing documentation you might want to avoid a lot of unnecessary links, since it decreases readability. Then on the first occurrence of a template name use {{Tl|Tl}}, {{Tlp|Tlp}} or {{Tlx|Tlx}}, and then use {{Tlf|Tlf}}, {{Tld|Tld}} or {{Tlc|Tlc}}.
+
+=== Examples ===
+
+<table class="wikitable">
+<tr><th>Code<th>Result<th>Comment
+<tr><td>{{tlc|tlp}} <td>{{tlp}} <td>Shows its own syntax.
+<tr><td>{{tlc|tlp|name}} <td>{{tlp|name}} <td>
+<tr><td>{{tlc|tlp|name|one}} <td>{{tlp|name|one}} <td>
+<tr><td>{{tlc|tlp|name|one|two}} <td>{{tlp|name|one|two}} <td>
+<tr><td><code><nowiki>{{tlp|name|a|b|c|d|e|f|g|h|i|j}}</nowiki></code> <td>{{tlp|name|a|b|c|d|e|f|g|h|i}} <td>Shows up to eight parameters. The rest are dropped.
+<tr><td>{{tlc|tlp|name|||three|four}} <td>{{tlp|name|||three|four}} <td>Also shows empty parameters.
+<tr><td>{{tlc|tlp|name|||three||}} <td>{{tlp|name|||three||}} <td>Even shows empty parameters that come in the end.
+<tr><td>{{tlc|tlp|name|3=one=a|4=two=b}} <td>{{tlp|name|one=a|two=b}} <td>Equal signs is a problem, but there is a fix.
+<tr><td>{{tlc|tlp|name|3=2=one=a|4=3=two=b}} <td>{{tlp|name|2=one=a|3=two=b}} <td>Use numbered parameters to fix it. Remember to start from 2, since the "name" is number 1.
+</table>
+
+If you have equal signs in your template parameters then some find it simpler to code it using <code>&lt;nowiki></code> tags, or the <code>&amp;#61;</code> or <code>&amp;#x3D;</code> character references. Here's how to do that. Code to the left and actual rendering to the right:
+
+:<code><nowiki>{{tlp|name|&lt;nowiki>one=a|two=b&lt;/nowiki>}}</nowiki></code> = {{tlp|name|<nowiki>one=a|two=b</nowiki>}}
+:{{tlc|tlp|name|one&amp;#61;a|two&amp;#61;b}} = {{tlp|name|one&#61;a|two&#61;b}}
+
+=== See also ===
+{{Tl-nav}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Typing-aid templates]]
+[[Category:Internal link templates]]
+
+
+
+
+</includeonly>
