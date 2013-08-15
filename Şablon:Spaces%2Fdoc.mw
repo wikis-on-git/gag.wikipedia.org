@@ -1,0 +1,14 @@
+{{documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+Template to produce single or multiple [[non-breaking space]]s ("<code><big>&amp;nbsp;</big></code>"s). Uses {{tl|loop15}}.
+
+; Syntax : <code><big><nowiki>{{spaces|</nowiki>''N''}}</big></code><br />where the optional parameter ''N'' is the desired number of consecutive non-breaking spaces (numeric, with a range of 1 to 15).
+
+:<code><big><nowiki>{{spaces}}</nowiki></big></code><br />produces a single non-breaking space. You may also use {{tl|nbsp}} (which redirects to this template) as a shortcut for a single non-breaking space.
+
+==See also==
+* {{tl|pad}}; add spacing in px, em or ex
+
+<includeonly>
+[[Category:Wikipedia formatting and function templates|{{PAGENAME}}]]
+</includeonly>
