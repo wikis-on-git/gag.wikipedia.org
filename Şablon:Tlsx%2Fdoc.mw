@@ -1,0 +1,39 @@
+{{documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+
+{{tlx|tlsx|template|first parameter|second|third|fourth|fifth|sixth|seventh|eight|ninth}} → {{tlsx|template|first parameter|second|third|fourth|fifth|sixth|seventh|eight|ninth}}
+;Purpose: Similar to {{tlx|tlx}} but for templates which should be [[Wikipedia:Template substitution|substituted]] instead.
+
+Up to six parameters for the specified template are displayed as placeholders, more parameters are shown as "<tt>|</tt>''...''".
+
+== Usage ==
+ <nowiki>{{Tlsx|template name|</nowiki>''params ...''<nowiki>}}</nowiki>
+
+== Example ==
+{| class="wikitable"
+! Code
+! Result
+|-
+| {{Tlx|Tlsx|x4|value1|4=3=name=value2}}
+| {{Tlsx|x4|value1|3=name=value2}}
+|}
+
+== See also ==
+* {{lts|tlsx}} this template
+* {{lts|tlsp}} version with normal font
+* {{lts|tls}} version without parameters, with normal font
+* {{lts|tlx}} unsubstituted version
+* {{lts|tl}} without parameters, unsubstituted, normal font
+* {{lts|tlsu}} for outside of the Template space, substituted, monospace font
+* {{lts|tlu}} for outside of the Template space, unsubstituted, monospace font
+* [[:Category:Internal link templates]]
+{{-}}
+
+<includeonly>
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Internal link templates|{{PAGENAME}}]]
+[[Category:Typing-aid templates|{{PAGENAME}}]]
+ 
+<!-- ADD INTERWIKIS BELOW THIS LINE -->
+
+</includeonly>
