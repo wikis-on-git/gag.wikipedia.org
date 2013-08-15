@@ -1,0 +1,43 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+
+: <code>{{Tlx|Str right|<string>|<offset>}}</code>
+
+Gives the characters from <offset> to the end of the string.
+
+A negative <offset> is treated the same as zero, which simply returns the original string.
+
+If <offset> is longer than <string> then this returns an empty string.
+
+If <offset> is invalid, empty or undefined, this template goes berserk, so don't do that.
+
+=== Limitations === 
+* Up to 100 chararacters in the input string. If possible, first check length of input string using {{Tl|Str len|<string>}}. Using strings longer than 100 characters may result in the error '''''"<font color=#CC1100>max index is 100 for str_sub</font>"'''''.
+* Limited set of characters.
+* Expensive.
+
+=== Examples ===
+
+*<tt><nowiki>{{Str right| lorem ipsum dolor sit amet | 10 }}</nowiki></tt> &rarr; {{Str right| lorem ipsum dolor sit amet | 10 }}
+*<tt><nowiki>{{Str right| lorem ipsum dolor sit amet | 1 }}</nowiki></tt> &rarr; {{Str right| lorem ipsum dolor sit amet | 1 }}
+*<tt><nowiki>{{Str right| lorem ipsum dolor sit amet | 0 }}</nowiki></tt> &rarr; {{Str right| lorem ipsum dolor sit amet | 0 }}
+*<tt><nowiki>{{Str right |123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.1 | 99}}</nowiki></tt> &rarr; {{Str rightc |nocategory=true |123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.123456789.1 | 99}}
+
+=== See also ===
+{{String templates see also}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:String manipulation templates]]
+
+
+
+
+
+
+
+
+
+</includeonly>
