@@ -1,0 +1,20 @@
+==Kullanım==
+Başka dildeki bir Vikipedi'den sayfa çevirisi yaparken, sayfanın en üstüne bu şablonu '''<nowiki>{{Çeviri yeri|Çevirdiğiniz maddenin adı|Çevirdiğiniz dil|Çevirdiğiniz dilin kısaltması}}</nowiki>''' olarak ekleyebilirsiniz. Çalışmanız bittiğinde, şablonu sayfadan çıkarmayı unutmayınız.
+
+Örneğin Fransızca Vikipedi'deki Miel (Türkçesi:Bal) maddesini çevirmek istiyorsak; kullanacağımız şablon '''<nowiki>{{Çeviri yeri|Miel|Fransızca|fr}}</nowiki>''' olmalıdır. Böyle yazdığımız şablonun görünümü şu şeilde olacaktır:
+{| style="width: 80%; margin: 0 0 0 10%; border-collapse: collapse; background: #FBFBFB; border: 1px solid #aaa; border-left: 10px solid #1e90ff;"
+|- 
+| style="width: 52px; padding: 2px 1px 2px 0.5em; text-align: center;" | [[Image:Translation arrow.svg|55px|Başka dilden çevrilmekte]]
+| style="padding: 0.5em 0.5em;" | '''Bu sayfa, Fransızca [[:fr:Miel|Miel]] maddesinden çevrilmektedir.'''<br/>Siz de yardım etmek istiyorsanız ya da çeviri yarıda kalmışsa, çalışmaya katılan kişilerle iletişime geçip, sayfanın durumunu onlara sorabilirsiniz.<br /><small>[http://tr.wikipedia.org/w/index.php?title={{PAGENAMEE}}&action=history Sayfanın geçmişine] baktığınızda, sayfa üzerinde çalışma yapanları görebilirsiniz.</small>
+|}
+
+'''Dikkat:''' Çevirdiğiniz maddenin adını ve çevirdiğiniz dilin kısaltmasını mutlaka yazınız. Aksi takdirde, şablon hatalı olacaktır. Şablonu yazdığınızda kırmızı bağlantı çıkıyorsa, bu iki değişkende hata yapmışsınız demektir.
+
+Bu şablonu daha basit olarak yerleştirmek istiyorsanız; '''[[Şablon:Başka dilden çevrilmekte]]''''ye bakınız.
+<includeonly>
+<!-- Şablonun kategorileri -->
+[[Kategori:Vikipedi çeviri şablonları]]
+
+<!-- İntervikiler -->
+
+</includeonly>
