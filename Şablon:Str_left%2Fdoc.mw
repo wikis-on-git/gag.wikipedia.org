@@ -1,0 +1,78 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+
+: <code>{{Tlx|Str left|<string>|<count>}}</code>
+
+Gives the <count> substring of characters from the start of the [[Trim (programming)|trimmed]] string (the substring has length <count>).
+
+If <count> is invalid, empty or zero, an empty string is returned. If undefined, it defaults to 1.
+
+=== Limitations ===
+* Length to 500: The maximum substring stops at 500 long, yet gives no error message. Only 500 characters can be extracted even if the <string> is longer.
+* Inexpensive (uses no other templates).
+
+=== Examples ===
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 10 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 10 }}
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 1 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 1 }}
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 0 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 0 }}
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | }}
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | Lorem ipsum dolor sit amet <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | Lorem ipsum dolor sit amet }}
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 40 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | Lorem ipsum dolor sit amet | 40 }}
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | àçé | 2 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | àçé | 2 }}
+:*: This example is demonstrating the safety of this template with the UTF-8 encoding (this should work now) :
+
+=== Examples of limitations ===
+All the limitations of use for this template and shown below are caused by the current implementation of the <nowiki>{{padleft:}}</nowiki> parser function used in this template, which does not filter its third parameter containing the characters used for padding a string to the specified length (it currently counts incorrectly the characters to extract from the padding string, and incorrectly measures its effective length; in addition this parameter is limited to 500 bytes).
+
+The following examples are demonstrating that this template is not safe with character entity references found in its string parameter :
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&amp;nbsp;c | 3 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a&nbsp;c | 3 }}
+:*: This should display "a&nbsp;c", but the named character entity was partially truncated, leaving no length available for the final "c".
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&amp;#66;c | 3 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a&#66;c | 3 }}
+:*: This should display "abc", but the named character entity was partially truncated, leaving no length available for the final "c".
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a c | 3 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a c | 3 }}
+:*: The result is correct, as expected.
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&amp;#32;c | 3 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a&#32;c | 3 }}
+:*: This last example should be equivalent to the previous one, but it is not.
+
+The following example shows that the presence of some wiki markup that should be transparent and ignored, does not allow this template to work as expected (the nowiki section is replaced by a unique index string in the effective runtime value of the parameter ; this unique (43-bytes long) string starts by a control character (which will be finally filtered out from the generated HTML page if it remains in the result of this template), followed by "UNIQ" and some unique sequence and terminated by "QINU" and a final control character ; it is partially visible below, because the unique string is not complete after truncation, and then cannot be eliminated from the output in the first two lines):
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&lt;nowiki/&gt;bc | 3 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a<nowiki/>bc | 3 }}
+:*: It effectively returns 3 bytes, but the \x07 (BELL) control in the second position is stripped out when generating the HTML displayed here.
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&lt;nowiki/&gt;bc | 43 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a<nowiki/>bc | 43 }}
+:*: It effectively returns 43 bytes, but the \x07 (BELL) control in the second position is stripped out when generating the HTML displayed here, and the final \x07 was truncated
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&lt;nowiki/&gt;bc | 44 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a<nowiki/>bc | 44 }}
+:*: It effectively returns 44 bytes, but the complete 43-bytes sequence is filtered out from the output wiki code when generating the final HTML, so there just remains the first leading "a" character .
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&lt;nowiki/&gt;bc | 45 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a<nowiki/>bc | 45 }}
+
+On the opposite, the HTML comments, and the "noinclude", "includeonly" and "onlyinclude" wiki markup tags are safe, because they are preprocessed in template parameters, before including it and substituing parameters:
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&lt;noinclude/&gt;bc | 3 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a<noinclude/>bc | 3 }}
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | a&lt;!-- comment --&gt;bc | 3 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | a<!-- comment -->bc | 3 }}
+
+Note also that the specified length will cause the input string to be padded by repeating it, it this length is larger than the input string length:
+:* <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} | Abc. | 10 <nowiki>}}</nowiki></tt> &rarr; {{ {{BASEPAGENAME}} | Abc. | 10 }}
+
+=== See also ===
+{{String templates see also}}
+* [[Bugzilla:22555]] - need for correcting padleft and padright functions, and to provide better string handling parser functions.
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:String manipulation templates]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</includeonly>
