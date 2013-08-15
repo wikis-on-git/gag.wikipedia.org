@@ -1,0 +1,40 @@
+{{Belgeleme navigasyonu}}
+<!-- LÜTFEN KATEGORİ VE İNTERVİKİLERİ BU SAYFANIN EN ALTINA EKLEYİN. -->
+==Kullanım==
+
+Şablon, otomatik olarak sayfadaki koruma düzeyini (yarı veya tam) tespit edecek, kategori ve görünümünü buna göre belirleyecektir.
+
+* Normal şablon (tepede bir simge) için {{tlx|{{lc:{{PAGENAME}}}}}} şeklinde kullanın.
+* Büyük şablon için ise {{tlx|{{lc:{{PAGENAME}}}}|küçük&#61;hayır}} şeklinde kullanın
+
+Bu şablon, koruma altında olmayan sayfalarda gösterilmeyecektir. Lütfen sayfaları sadece [[Vikipedi:Hizmetliler|hizmetlilerin]] koruma altına alabileceğini unutmayın.
+
+=== Kontrol etiketleri ===
+
+* {{tlx|{{lc:{{PAGENAME}}}}}} kodunu direkt olarak koruma altındaki sayfalara ekleyeceğiniz zaman {{tag|noinclude}} etiketlerinin arasına yerleştirmeniz gerekecektir. Aksi takdirde şablonun kullanıldığı tüm sayfalarda koruma uyarısı görüntülenecek, bu da bir hata mesajına neden olacaktır.
+* {{tlx|{{lc:{{PAGENAME}}}}}} kodunu bir şablon belgeleme altsayfasına yerleştireceğiniz zaman da {{tag|includeonly}} etiketlerinin arasına yerleştirmeniz gerekecektir. Aksi takdirde belgeleme sayfasında koruma uyarısı görüntülenecek, bu da bir hata mesajına neden olacaktır.
+: Bazen birden fazla şablon aynı belgeleme sayfasını kullanabilmektedir. Eğer bunların tamamı koruma altında değilse, koruma şablonunun direkt olarak korunan şablonun sayfasına eklenmesi gerekecektir.
+
+== Ayrıca bakınız ==
+
+{{koruma şablonları}}
+
+<includeonly><!--
+++++ LÜTFEN KATEGORİ VE İNTERVİKİLERİ BU SATIRIN ALTINA EKLEYİN, TEŞEKKÜRLER! -->
+
+[[Kategori:Koruma şablonları|Şablon]]
+
+[[bg:Шаблон:Защитена страница]]
+[[cs:Šablona:Dlouhodobě_zamčeno]]
+[[dsb:Pśedłoga:Šćitana pśedłoga]]
+[[en:Template:Pp-template]]
+[[eo:Ŝablono:Pp-ŝablono]]
+[[hsb:Předłoha:Škitana předłoha]]
+[[ja:Template:Pp-template]]
+[[no:Mal:Pp-mal]]
+[[ro:Format:Pp-template]]
+[[sl:Predloga:Zaščitena predloga]]
+[[zh:Template:Pp-template]]
+</includeonly>
+<noinclude>
+</noinclude>
