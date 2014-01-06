@@ -1,4 +1,4 @@
-== Kullanımdaki kodlar ==
+۰== Kullanımdaki kodlar ==
 Resmi ISO 4217 para birimleri kodları.
 {| class="wikitable"
 |+align="bottom"|
@@ -79,11 +79,9 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | CRC || 188 || 2 || [[Kosta rika colonu]] || [[Kosta Rika]]
 |-
-| CUP || 192 || 2 || [[Kuba pesosu]] || [[Kuba]]
+| CUC || 931 || 2 || [[Kuba pesosu]] || [[Kuba]]
 |-
 | CVE || 132 || 2 || [[Kabo Verde eskudosu]] || [[Kabo Verde]]
-|-
-| CYP || 196 || 2 || [[Kipra lirası]] || [[Kipra Respublikası]]
 |-
 | CZK || 203 || 2 || [[Çeh Korunası]] || [[Çehiya]]
 |-
@@ -94,8 +92,6 @@ Resmi ISO 4217 para birimleri kodları.
 | DOP || 214 || 2 || [[Dominikan respublikası pesosu]] || [[Dominikan Respublikası]]
 |-
 | DZD || 012 || 2 || [[Aljir dinarı]] || [[Aljir]]
-|-
-| EEK || 233 || 2 || [[Estoniya kronu]] || [[Estoniya]]
 |-
 | EGP || 818 || 2 || [[Egipet poundu]]  || [[Egipet]]
 |-
@@ -113,7 +109,7 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | GEL || 981 || 2 || [[Gruziya larisi]] || [[Gruziya]]
 |-
-| GHC || 288 || 2 || [[Gana cedi]] || [[Gana]]
+| GHS || 936 || 2 || [[Gana cedi]] || [[Gana]]
 |-
 | GIP || 292 || 2 || [[Cebelitarık poundu]] || [[Cebelitarık]]
 |-
@@ -183,8 +179,6 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | LTL || 440 || 2 || [[Litvanya Litası]] || [[Litvanya]]
 |-
-| LVL || 428 || 2 || [[Letonya Latsı]] || [[Letonya]]
-|-
 | LYD || 434 || 3 || [[Dinar (para)|Libya Dinarı]] || [[Libya]]
 |-
 | MAD || 504 || 2 || [[Fas dirhemi|Fas Dirhemı]] || [[Fas]], [[Batı Sahra]]
@@ -202,8 +196,6 @@ Resmi ISO 4217 para birimleri kodları.
 | MOP || 446 || 2 || [[Macau Patakası]] || [[Macau]] [[Özel İdare Bölgesi (Çin Halk Cumhuriyeti)|Özel İdare Bölgesi]]
 |-
 | MRO || 478 || 2 || [[Ouguiya]] || [[Moritanya]]
-|-
-| MTL || 470 || 2 || [[Malta Lirası]] || [[Malta]]
 |-
 | MUR || 480 || 2 || [[Mauritius Rupisi]] || [[Mauritius]]
 |-
@@ -249,8 +241,6 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | QAR || 634 || 2 || [[Katar Riyali]] || [[Katar]]
 |-
-| ROL || 642 || 2 || Eski Romanya Leyi || [[Romanya]]
-|-
 | RON || 946 || 2 || [[Rumen leyi|Yeni Ley]] || [[Romanya]]
 |-
 | RSD || 941 || 2 || [[Dinar (para)|Serbiya Dinarı]] || [[Serbiya]]
@@ -265,7 +255,7 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | SCR || 690 || 2 || [[Seyşeller Rupisi]] || [[Seyşeller]]
 |-
-| SDD || 736 || 2 || [[Dinar (para)|Sudan Dinar'ı]] || [[Sudan]]
+| SDG || 938 || 2 || [[Sudan Lira]] || [[Sudan]]
 |-
 | SEK || 752 || 2 || [[İsveç Kronu]] || [[İsveç]]
 |-
@@ -273,15 +263,13 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | SHP || 654 || 2 || [[Saint Helena Lira]] || [[Saint Helena]]
 |-
-| SIT || 705 || 2 || [[Tolar]] || [[Slovenya]]
-|-
-| SKK || 703 || 2 || [[Slovak Korunası]] || [[Slovakya]]
-|-
 | SLL || 694 || 2 || [[Leone]] || [[Sierra Leone]]
 |-
 | SOS || 706 || 2 || [[Somali Şilini]] || [[Somali]]
 |-
 | SRD || 968 || 2 || [[Surinam Doları]] || [[Surinam]]
+|-
+| SSP || 225 || 2 || [[Sudan Lira]] || [[Sudan]]
 |-
 | STD || 678 || 2 || [[Dobra]] || [[Sao Tome ve Principe]]
 |-
@@ -299,7 +287,7 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | TOP || 776 || 2 || [[Pa'anga]] || [[Tonga]]
 |-
-| TRL || 949 || 2 || [[Türk Lirası]] || [[Türkiye]] ve Kuzey Kıbrıs Türk Cumhuriyeti
+| TRY || 949 || 2 || [[Türk Lirası]] || [[Türkiye]] ve Kuzey Kıbrıs Türk Cumhuriyeti
 |-
 | TTD || 780 || 2 || [[Trinidad ve Tobago Doları]] || [[Trinidad Tobago]]
 |-
@@ -321,7 +309,7 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | UZS || 860 || 2 || [[Özbekistan Somu]] || [[Özbekistan]]
 |-
-| VEB || 862 || 2 || [[Venesuela bolivarı]] || [[Venesuela]]
+| VEF || 937 || 2 || [[Venesuela bolivarı]] || [[Venesuela]]
 |-
 | VND || 704 || 2 || [[Dong]] || [[Vyetnam]]
 |-
@@ -367,7 +355,7 @@ Resmi ISO 4217 para birimleri kodları.
 |-
 | ZAR || 710 || 2 || [[Üülen afrika respublikası randı]] || [[Üülen Afrika Respublikası]]
 |-
-| ZMK || 894 || 2 || [[Zambiya kwachası]] || [[Zambiya]]
+| ZMW || 967 || 2 || [[Zambiya kwachası]] || [[Zambiya]]
 |-
-| ZWD || 716 || 2 || [[Zimbabve doları]] || [[Zimbabve]]
+| ZWL || 932 || 2 || [[Zimbabve doları]] || [[Zimbabve]]
 |}
