@@ -22,7 +22,6 @@ Aeroportlar
 |
 | Ağstafa aeroportu
 | 41 07 24 N 45 25 17 E 
-
 |- valign=top
 | [[Baku]]
 | UBBB
@@ -30,7 +29,6 @@ Aeroportlar
 | GYD
 | Haydar Aliyev aeroportu
 | 40 28 03 N 50 02 48 E 
-
 |- valign=top
 | [[Balakən]] 
 | UB0G
@@ -39,20 +37,12 @@ Aeroportlar
 | Balakən aeroportu
 | 41 45 12 N 46 21 19 E 
 |- valign=top
-| [[Qəbələ]] 
-| UBBQ
-|
-| GBB
-| Qəbələ aeroportu
-| 40 49 36 N 47 42 45 E
-|- valign=top
 | [[Gäncä]]
 | UBBG
 |
 | KVD
 | Gäncä aeroportu
 | 40 44 15 N 46 19 03 E 
-
 |- valign=top
 | [[Lənkəran]]
 | UBBL
@@ -60,7 +50,6 @@ Aeroportlar
 | LLK
 | Lenkeran aeroportu
 | 38 44 47 N 48 49 04 E 
-
 |- valign=top
 | [[Nahçıvan]]
 | UBBN
@@ -68,7 +57,13 @@ Aeroportlar
 | NAJ
 | Nahçıvan aeroportu 
 | 39 11 19 N 45 27 30 E 
-
+|- valign=top
+| [[Qəbələ]] 
+| UBBQ
+|
+| GBB
+| Qəbələ aeroportu
+| 40 49 36 N 47 42 45 E
 |- valign=top
 | [[Yevlax]]
 | UBEE
