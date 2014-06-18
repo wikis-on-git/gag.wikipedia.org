@@ -1,553 +1,650 @@
-{{Şablon:Devlet bilgi
-| tam_adı                 = Türkiye Cumhuriyeti
-| slogan                  = <br />''Yurtta Barış, Cihanda Barış''<ref>{{Web kaynağı|url=http://www.tbmm.gov.tr/kultursanat/milli_egemenlik.htm|başlık=Milli Egemenlik|erişimtarihi=09 Mayıs 2013|yayımcı=Türkiye Büyük Millet Meclisi|tarih= }}</ref>
-                          = <br />''[[Egemenlik , Kayıtsız Şartsız Milletindir.]]''<ref>{{Web kaynağı|url=http://www.tbmm.gov.tr/kultursanat/milli_egemenlik.htm|başlık=Milli Egemenlik|erişimtarihi=09 Mayıs 2013|yayımcı=Türkiye Büyük Millet Meclisi|tarih= }}</ref>
-
-| ulusal_marş             = <br />''[[İstiklâl Marşı]]''                 [[Dosya:Istiklâl Marsi instrumetal.ogg|noicon|center]] 
-| bayrak                  = Flag of Turkey.svg
-| arma_resmi              = <!-- Türkiye'nin resmî arması yoktur. Bu bölüm boş bırakılmalıdır. -->
-| harita                  = Turkey (orthographic projection).svg
-| harita_açıklaması       = Türkiye'nin Dünya üzerindeki konumu
-| başkent                 = [[Ankara]]
-| latd=39 | latm=55 | latNS=N | longd=32 | longm=50 | longEW=E
-| en_büyük_şehir          = [[İstanbul]]
-| resmî_diller            = [[Türkçe]]
-| ulus                    = [[Türkler|Türk]]
-| yönetim_biçimi          = [[Üniter devlet|Üniter]] [[Parlamenter Cumhuriyet|parlamenter cumhuriyet]]
-| yönetici_unvanı1        = [[Türkiye Cumhurbaşkanı|Cumhurbaşkanı]]
-| yönetici_adı1           = [[Abdullah Gül]]
-| yönetici_unvanı2        = [[Türkiye Başbakanı|Başbakan]]
-| yönetici_adı2           = [[Recep Tayyip Erdoğan]]
-| yönetici_unvanı3        = [[Türkiye Büyük Millet Meclisi Başkanı|Meclis Başkanı]]
-| yönetici_adı3           = [[Cemil Çiçek]]
-| yönetici_unvanı4        = [[Türkiye Anayasa Mahkemesi başkanları listesi|Anayasa Mahkemesi Başkanı]]
-| yönetici_adı4           = [[Haşim Kılıç]]
-| yasama_organı           = [[Türkiye Büyük Millet Meclisi]]
-| egemenlik_tipi          = [[Osmanlı İmparatorluğu]]'nun {{nobold|[[Osmanlı İmparatorluğu dağılma dönemi|yıkılışı]]}}
-| olay1                   = {{nowrap|[[Lozan Antlaşması]]}}
-| olay1_tarihi            = 24 Temmuz 1923
-| olay2                   = {{nowrap|[[Türkiye Cumhuriyeti'nin ilanı|Cumhuriyetin ilanı]]}}
-| olay2_tarihi            = 29 Ekim 1923
-| yüzölçümü               = 783.562 <!--http://unstats.un.org/unsd/demographic/products/dyb/DYB2003/Table03.pdf Birleşmiş Milletler istatistikleri, sayfa 7 (PDF formatında) -->
-| yüzölçümü_milkare       = 302.535
-| yüzölçümü_sırası        = 37.
-| area_magnitude          = 1 E11
-| su_yüzdesi              = 1.3
-| sayım_nüfusu            = 75,627,384<ref name=tuiksayim>{{Web kaynağı|url=http://www.tuik.gov.tr/PreHaberBultenleri.do?id=13425|başlık=Türkiye İstatistik Kurumu, Adrese Dayalı Nüfus Kayıt Sistemi Sonuçları, 2012|yayımcı=[[TÜİK]]|erişimtarihi=1 Mayıs 2013|tarih=28 Ocak 2013}}</ref>
-| sayım_nüfusu_tarihi     = 2012
-| sayım_nüfusu_sırası     = 18.
-| nüfus_yoğunluğu         = 98<ref name=tuiksayim/>
-| nüfus_yoğunluğu_milkare = 239,8
-| nüfus_yoğunluğu_sırası  = 108.
-| GSYİH_SAGP_yılı         = 2012
-| GSYİH_SAGP              = {{nowrap|1.123 trilyon $<ref name="IMF GDP">{{Web kaynağı|title=Report for Selected Countries and Subjects|url=http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?pr.x=63&pr.y=6&sy=2012&ey=2012&scsm=1&ssd=1&sort=country&ds=.&br=1&c=186&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|work=World Economic Outlook Database, April 2013|publisher=[[International Monetary Fund]]|accessdate=16 Nisan 2013|location=Washington, D.C.|date=16 Nisan 2013}}</ref><!--end nowrap:-->}}
-| GSYİH_SAGP_sırası       = 16.
-| kişi_başına_düşen_GSYİH_SAGP        = 15,001 $<ref name="IMF GDP" />
-| kişi_başına_düşen_GSYİH_SAGP_sırası = 64.
-| GSYİH_düşük             = {{nowrap|794.468 milyon $<ref name="IMF GDP"/><!--end nowrap:-->}}
-| GSYİH_düşük_sırası      = 17.
-| GSYİH_düşük_yılı        = 2012
-| kişi_başına_düşen_GSYİH_düşük        = $10,609<ref name="IMF GDP"/>
-| kişi_başına_düşen_GSYİH_düşük_sırası = 62.
-| İGE_yılı                = 2013
-| İGE                     = {{artış}} 0,722<br /><span style="color:#090;">yüksek</span>{{·}} [[İnsani Gelişme Endeksi'ne göre ülkeler listesi|90.]]
-| Gini                    = 39,0<ref>{{Web kaynağı|url=http://data.worldbank.org/indicator/SI.POV.GINI/|başlık=Gini Index|yayımcı=World Bank|erişimtarihi=2 Mart 2011}}</ref><br /><span style="color:orange;">orta</span>{{·}} [[Gelir dağılımına göre ülkeler listesi|58.]]
-| Gini_yılı               = 2011
-| para_birimi             = [[Türk lirası]] {{TL}}
-| para_birimi_kodu        = TRY
-| zaman_dilimi            = [[Doğu Avrupa Zaman Dilimi|Doğu Avrupa]]
-| utc                     = +2
-| zaman_dilimi_DST        = [[Doğu Avrupa Yaz Saati|Doğu Avrupa]]
-| utc_DST                 = +3
-| zaman_formatı           = gg/aa/yy
-| trafik_akışı            = sağ
-| cctld                   = [[.tr]]
-| telefon_kodu            = [[Türkiye'deki telefon numaraları|+90]]
-}}
-
-'''Türkiye''' veya resmi adıyla '''Türkiye Cumhuriyeti'''<ref>{{Web kaynağı|url=http://www.tbmm.gov.tr/anayasa/anayasa_2011.pdf |başlık=Türkiye Cumhuriyeti anayasası |erişimtarihi=14 Ocak 2011 |yayımcı=[[Türkiye Büyük Millet Meclisi|tbmm.gov.tr]] |dil=[[Türkçe]]}}</ref> başkenti [[Ankara]] olan ve [[Avrupa]] ile [[Asya]] kıtalarının her ikisinde de toprağı bulunan ülkedir. Ülke topraklarının bir bölümü [[Anadolu Yarımadası]]'nda, bir bölümü ise [[Balkan Yarımadası]]'nın uzantısı olan [[Trakya]]'da bulunur. Ülkenin üç yanı [[Akdeniz]], [[Karadeniz]] ve bu iki denizi birbirine bağlayan [[Marmara Denizi]] ve [[Ege Denizi]] ile çevrilidir. Komşuları; [[Yunanistan]], [[Bulgaristan]], [[Gürcistan]], [[Ermenistan]], [[Azerbaycan]] ([[Nahçıvan Özerk Cumhuriyeti]]), [[İran]], [[Irak]] ve [[Suriye]]'dir.
-
-Türkiye, günümüzde bağımsız yedi [[Türk devletleri listesi|Türk devletinden]] biridir. Devletin resmi bir dini yoktur.<ref name="KONDA Research and Consultancy">{{Web kaynağı|url=http://www.konda.com.tr/html/dosyalar/ghdl&t_en.pdf |format=PDF|başlık=Religion, Secularism and the Veil in daily life |yazar=KONDA Research and Consultancy |yayımcı=Milliyet |tarih=2007-09-08}}</ref> Ülkenin resmi dili [[Türkçe]]'dir. Ülkedeki en yaygın din ise [[İslâm]]'dır.
-
-[[Oğuzlar]], bugün Türkiye ([[Halk Latincesi]]'nde "Türklerin Yurdu" anlamına gelen ''Turchia'' sözcüğünden türemiştir) olarak bilinen alana [[11. yüzyıl]]da [[göç]] etmeye başlamıştır. [[Göç]], [[Selçuklular]]ın [[Doğu Roma İmparatorluğu|Bizanslılar]] karşısında elde ettikleri [[Malazgirt Meydan Savaşı|Malazgirt Zaferi]]'yle hızlanmıştır.<ref>{{Web kaynağı|url=http://countrystudies.us/turkey/5.htm |başlık=Turkey – Turkish Origins |yayımcı=Countrystudies.us |date= |erişimtarihi=2011-05-16}}</ref> Birçok küçük [[Anadolu beylikleri|beylik]] ve [[Anadolu Selçuklu Devleti]], [[Anadolu]]'yu [[Moğol İstilası]]na kadar yönetmiş ve 13. yüzyılda [[Osmanlı Devleti kuruluş dönemi|Osmanlı Beyliği]] Anadolu'yu birleştirerek Doğu Avrupa, Yakın Doğu ve Kuzey Afrika'yı yöneten bir devlet hâline gelmiştir. [[I. Dünya Savaşı]]'ndaki yenilgisinin ardından çöken Osmanlı Devlet'nin birçok bölgesi [[İtilaf Devletleri]]'nce işgal edilmiştir. [[Mustafa Kemal Atatürk]] önderliğindeki genç bir subay kadrosunun örgütlediği [[Türk Kurtuluş Savaşı|başarılı direnişin]] ardından [[1923]] yılında nihayet [[Türkiye cumhurbaşkanları listesi|ilk cumhurbaşkanı]] Mustafa Kemal Atatürk olan Türkiye Cumhuriyeti kurulmuştur.
-
-Türkiye, kadim ekinsel mirasıyla [[Demokrasi|demokratik]], [[Seküler devlet|lâik]], [[Üniter devlet|merkeziyetçi]] ve [[Anayasal cumhuriyet|anayasal bir cumhuriyettir]]. Türkiye, [[Avrupa Konseyi]]'ne, [[NATO]]'ya, [[OECD]]'ye, [[Avrupa Güvenlik ve İşbirliği Teşkilatı|AGİT]]'e ve [[G20|G-20]]'ye üye olarak [[Batı Dünyası]]yla bütünleşmiştir. 1963 yılından beri [[Avrupa Topluluğu|Avrupa Ekonomik Topluluğu]]'nun [[Ankara Antlaşması (1963)|imtiyazlı ortağı]] ve 1995 yılından beri [[:en:European Union–Turkey Customs Union|Gümrük Birliği]]'nin üyesi olan Türkiye, 2005 yılında [[Avrupa Birliği]] ile [[Türkiye'nin Avrupa Birliği üyeliği süreci|tam üyelik görüşmelerine]] başlamıştır. Türkiye aynı zamanda [[Türk Konseyi]], [[Türk Kültür ve Sanatları Ortak Yönetimi]], [[İslam İşbirliği Teşkilatı]] ve [[Ekonomik İşbirliği Örgütü]] gibi örgütlere üye olarak Orta Doğu ile, Orta Asya'daki [[Türk devletleri listesi|Türk devletleri]] ile ve Afrika ülkeleri ile yakın ekinsel, politik, ekonomik ve endüstriyel ilişkiler geliştirmiştir.
-
-[[Avrupa]] ve [[Asya]] kıtaları arasındaki geçiş yolları üzerindeki konumu Türkiye'ye anlamlı bir güç ve önem kazandırmaktadır. Türkiye, siyaset bilimciler ve ekonomistlere göre stratejik konumu, büyük ekonomisi ve askeri kabiliyetiyle bir [[bölgesel güç]]tür.<ref>Stratfor: "Turkey and Russia on the Rise", by Reva Bhalla, Lauren Goodrich and Peter Zeihan. March 17, 2009.</ref><ref>Stratfor: "The Geopolitics of Turkey", by George Friedman. July 31, 2007.</ref>
-
-== Köken ==
-Tarihçi [[İlber Ortaylı]] bir makalesinde [[Ceneviz]]li ve [[Venedik]]li tüccar ve diplomatların, 12. yüzyılda, Türkiye'yi ''Turchia'' ve ''[[Türkiye Türkmenleri|Turkmenia]]'' olarak tanımladıklarını belirtir.<ref>{{Web kaynağı|url=http://www.tarihportali.net/tarih/index.php?topic=842.0;wap2|başlık=Tarihportalı.net- Türkiye Kelimesi|erişimtarihi=8 Kasım 2008}}</ref> Ayrıca, Türkiye adı ilk defa 1190'da bir yazılı kaynakta, [[Haçlı Seferleri|Haçlı Seferi]] vak'ayinamesinde geçmektedir.{{kaynak göster}} [[Abdulhaluk Mehmet Çay|Abdulhaluk Çay]] ise ''Turchia'' tanımını çok daha gerilere götürür ve ''Turchia'' tabirine ilk defa 6. yüzyılda [[Bizans İmparatorluğu|Bizans]] kaynaklarında rastlandığını belirtir ve şöyle der "Bu tabir 9. ve 10. yüzyıllarda [[İdil]]/[[Volga]] Nehri'nden [[Orta Avrupa]]'ya kadar uzanan saha için kullanılmıştır. Bu kullanımın [[Kafkasya]] bölgesinde [[Hazar Kağanlığı]] için Doğu Türkiye’si, [[Arpad Hanedanı]]'nın kurduğu [[Macaristan Krallığı|Macar]] Devleti için Batı Türkiyesi şeklinde olduğunu ve aynı tabirin 12. yüzyıldan itibaren [[Anadolu]] için kullanıldığını belirtir. Tarihte 13-14. yüzyıllarda [[Memlûk Devleti|Mısır Memlûkleri]] de Türkiye adını kullanmışlardı: ''"ed-devlet üt Türkiya"'' (1250-1387). Türkçedeki kelime anlamı ise Türk ve İye (ait) kelimelerinin birleşmesi ile oluşan Türkiye kelimesidir.
-
-[[Osmanlı Devleti]]'nde, 19. yüzyıla kadar Türkiye adı kullanılmadı; ''Devlet-i Âliyye'', ''Devlet-i Osmaniye'', ''Memalik-i Şahane'', ''Diyar-ı Rum'' adları kullanıldı. Fakat dış dünyanın zaman zaman Osmanlı İmparatorluğu adını kullanmak yerine Türkiye adını kullandığı bilinmektedir. O dönemde yabancı dillerle çizilmiş haritalara bakıldığında bu durum açıkça ortadadır. Daha sonra, [[Jön Türkler]] arasında Osmaniye yerine Türkistan, Türkeli, Türkili gibi adlar önerildiyse de, [[Orta Asya]]'da [[Türkistan]] adlı bir devlet olduğundan bu benimsenmedi. [[Anayasa]]da (1921) "Türkiye"<ref>{{Web kaynağı|url=http://www.tbmm.gov.tr/anayasa/anayasa21.htm|başlık=tbmm.gov.tr - 1921 anayasası|erişimtarihi=8 Kasım 2008}}</ref> adı yazıldı ve 1923'de devletin resmi adı Türkiye olarak kabul edildi.
-
-== Tarihçe ==
-=== Tarih öncesi Anadolu ve Doğu Trakya ===
-[[Dosya:Troy1.jpg|thumb|upright=0.85|sol|Kazılar sonucu ortaya çıkan [[Troya]] antik kentinin duvarları.]]
-Türkiye sınırları içinde kalan [[Anadolu Yarımadası]], dünyanın en eski kalıcı yerleşim bölgelerinden biridir. Çeşitli eski [[Anadolu]] milletleri bölgede, [[Cilalı Taş Devri]]'nin başlangıcına ve [[III. Aleksandros|Büyük İskender]]'in fethine kadar varlığını sürdürdü.<ref name="SteadmanMcMahon2011">{{Kitap kaynağı|author1=Sharon R. Steadman|author2=Gregory McMahon|title=The Oxford Handbook of Ancient Anatolia: (10,000-323 BCE)|url=http://books.google.com/books?id=7ND_CE9If3kC|accessdate=23 Mart 2013|date=15 Eylül 2011|publisher=Oxford University Press|isbn=978-0-19-537614-2|dil=İngilizce}}</ref> Bu halkların çoğu [[Hint-Avrupa dil ailesi]]nin bir kolu olarak kabul edilen [[Anadolu dilleri]]ni konuştu.<ref name="Yeditepe">{{Web kaynağı|url=http://www.yeditepe.edu.tr/dotAsset/74057.pdf|format=PDF|başlık=Anatolian Civilizations|yayımcı=[[Yeditepe Üniversitesi]]|ilk=Erdal|son=Yavuz|dil=İngilizce}}</ref> Bazı bilim insanları Hint-Avrupa dillerinin, yine eski Anadolu dillerinden olan [[Hitit dili]] ve [[Luvi dili]]nden yayıldığını öne sürdü.<ref name="UCLA">{{Web kaynağı|url=http://www.linguistics.ucla.edu/people/Melchert/The%20Position%20of%20Anatolian.pdf|format=PDF|başlık=The Position of Anatolian|yayımcı=linguistics.ucla.edu|dil=İngilizce}}</ref> Ayrıca Türkiye'nin Avrupa kıtasında kalan bölümünü oluşturan [[Doğu Trakya]] ise kırk bin yıl öncesine dayanan bir yerleşim tarihine sahiptir ve bölgenin sakinleri tarıma başlayarak milattan 6000 yıl önce Cilalı Taş Devri'ne geçmiştir.<ref name="MET">{{Web kaynağı|url=http://www.metmuseum.org/pubs/bulletins/1/pdf/3258667.pdf.bannered.pdf|başlık=The Thracians|format=PDF|yayımcı=metmuseum.org|dil=İngilizce|ilk=Lionel|son=Casson}}</ref>
-
-[[Dosya:Hattusa.liongate.jpg|thumb|upright=0.85|Geçmişi MÖ 2000'e uzanan [[Hititler|Hitit]] başkenti [[Hattuşaş]]'daki Aslanlı Kapı.]]
-[[Göbekli Tepe]], bilinen en eski dini yapının bulunduğu yerdir ve geçmişi MÖ 10.000 tarihine kadar uzanır.<ref name="ArchMag">{{Web kaynağı|url=http://www.archaeology.org/0811/abstracts/turkey.html|title=The World's First Temple|work=Archaeology magazine|date=Kas/Ara 2008|page=23}}</ref> Orta Anadolu'nun güneyinde kalan [[Çatalhöyük]], Cilalı Taş Devri ile [[Bakır Çağı]]'na ait çok büyük bir yerleşim yeridir ve Temmuz 2012'de [[Dünya Mirasları|UNESCO Dünya Mirasları Listesi]]'ne dahil edilmiştir.<ref>{{Web kaynağı|url=http://www.ntvmsnbc.com/id/25363080/|başlık=Çatalhöyük de artık 'Dünya Mirası' - Arkeoloji|yayımcı=[[NTVMSNBC]]|tarih=2 Temmuz 2012|erişimtarihi=4 Mayıs 2013}}</ref> [[Biga Yarımadası]]'nda yer alan [[Troya]] antik kentinde Cilalı Taş Devri'nde başlayan yerleşmeler ise [[Demir Çağı]]'na kadar devam etmiştir.
-
-Anadolu'nun bilinen ilk sakinleri, [[Hatti]] ve [[Hurriler|Hurri]] toplumlarıdır. Hint-Avrupa milletlerinden olmayan bu iki toplum, yaklaşık olarak MÖ 2300'lü yıllarda Orta ve Doğu Anadolu'da yaşadı. Hatti ve Hurriler, Hint-Avrupa milletlerinden olan [[Hititler]]in MÖ 2000–1700 yıllarında Anadolu'ya gelmesiyle yerini Hititler'e bıraktı. Hititler, bölgedeki ilk büyük krallığı MÖ 13. yüzyılda kurdular ve tarihteki ilk yazılı antlaşma olarak bilinen [[Kadeş Antlaşması]]'nı Mısırlılar ile yaptılar. [[Asurlular]], MÖ 1950 ve MÖ 612 yılları arasında günümüz Türkiye'sinin güneydoğu topraklarını fethetti ve yerleşti.<ref>{{Web kaynağı|url=http://www3.uakron.edu/ziyaret/timeline_3period.html|title=Ziyaret Tepe – Turkey Archaeological Dig Site|publisher=uakron.edu|accessdate=4 Eylül 2010|dil=İngilizce}}</ref><ref>{{Web kaynağı|url=http://www.aina.org/articles/assyrianidentity.pdf|title=Assyrian Identity In Ancient Times And Today'|format=PDF|accessdate=4 Eylül 2010|dil=İngilizce}}</ref>
-
-Hitit İmparatorluğu'nun MÖ 1180'li yıllarda çöküşünü takiben, Hint-Avrupa milletlerinden olan [[Frigler]]in kurdukları [[Frigya]], MÖ 7. yüzyılda [[Kimmerler]] tarafından tahrip edilmesine kadar Anadolu'da üstünlük elde etti.<ref name="TroyHittiteEmpirePhrygians">{{Web kaynağı|url=http://www.metmuseum.org/toah/ht/03/waa/ht03waa.htm|archiveurl=http://web.archive.org/web/20060910042040/http://www.metmuseum.org/toah/ht/03/waa/ht03waa.htm|archivedate=2006-09-10|title=Anatolia and the Caucasus, 2000–1000 B.C. in ''Timeline of Art History.''|author=The Metropolitan Museum of Art, New York|authorlink=Metropolitan Museum of Art|publisher=New York: The Metropolitan Museum of Art|accessdate=21 Aralık 2006|month=Ekim|year=2000}}</ref> Frigya'dan sonra [[Lidya]], [[Karya]] ve [[Likya]] yönetimleri bölgede hüküm sürdü.
-
-=== Antik çağ ve Bizans dönemi ===
-{{Ana madde|Klasik Anadolu|Bizans Anadolusu}}
-{{Ayrıca bakınız|Bizans İmparatorluğu|Konstantinopolis}}
-[[Dosya:Ephesus Celsus Library Façade .jpg|thumb|sol|upright=0.85|MS 135 yılından kalma [[Efes Celsus Kütüphanesi]], günümüzde [[İzmir (il)|İzmir ili]] sınırları içinde yer alır.]][[Dosya:Turkey-3019 - Hagia Sophia (2216460729).jpg|thumb|upright=0.85|6. yüzyılda kilise olarak Bizans'ın inşa ettiği [[Ayasofya]], daha sonra camiiye çevrildi, şu anda ise müzedir.]]
-Anadolu'nun sahil şeridinde MÖ 1200 yıllarında büyük ölçüde [[Aiol]], [[İyonya|İyon]] ve [[Yunan]] yerleşimleri başladı. [[Milet]], [[Efes]], [[Smyrna]] (şu anki [[İzmir (il)|İzmir]]) ve [[Byzantion]] (daha sonra [[Konstantinopolis]] ve [[İstanbul (il)|İstanbul]]) gibi çok sayıda şehir, bu koloniciler tarafından kuruldu.
-
-Anadolu, MÖ 6. ve 5. yüzyıllarda [[Antik İran]]'da kurulan ilk Pers devleti olma özelliği taşıyan [[Ahameniş İmparatorluğu]] tarafından fethedildi ancak [[Büyük İskender]] tarafından imparatorluğun ortadan kaldırılmasıyla bölgenin sahibi [[Makedonya (antik krallık)|Makedon Krallığı]] oldu. Büyük İskender döneminde kültürel homojenlik ve [[Helenleşme]] hareketi başlatıldı<ref name="SteadmanMcMahon2011"/> ancak MÖ 323 yılında İskender'in ölümüyle Makedon Krallığı bölündü ve Anadolu'da küçük [[Helenistik Dönem|Helenistik krallıklar]] ([[Bitinya]], [[Kapadokya]], [[Pergamon]] ve [[Pontus]] dahil olmak üzere) ortaya çıktı.<ref name="AlexanderToRome">{{Web kaynağı|url=http://www.metmuseum.org/toah/ht/04/waa/ht04waa.htm|archiveurl=http://web.archive.org/web/20061214003932/http://www.metmuseum.org/toah/ht/04/waa/ht04waa.htm|archivedate=2006-12-14|title=Anatolia and the Caucasus (Asia Minor), 1000 B.C. – 1 A.D. in ''Timeline of Art History.''|author=The Metropolitan Museum of Art, New York|authorlink=Metropolitan Museum of Art|publisher=New York: The Metropolitan Museum of Art|accessdate=21 Aralık 2006|month=Ekim|year=2000}}</ref> Daha sonra, MÖ 1. yüzyılda bu krallıklar [[Roma Cumhuriyeti]]'nin bir parçası haline geldi.<ref name="AlexanderToRome"/> Büyük İskender'in fetihleriyle başlattığı Helenleşme hareketi ise Roma döneminde hızlandırıldı, bu nedenle daha önceki yüzyıllarda var olan Anadolu dilleri ve kültürlerinin nesli tükendi; yerini Yunan dil ve kültürü aldı.<ref name="FreedmanMyers2000">{{Kitap kaynağı|author1=David Noel Freedman|author2=Allen C. Myers|author3=Astrid Biles Beck|title=Eerdmans Dictionary of the Bible|url=http://books.google.com/books?id=P9sYIRXZZ2MC&pg=PA61|accessdate=24 March 2013|year=2000|publisher=Wm. B. Eerdmans Publishing|isbn=978-0-8028-2400-4|page=61}}</ref><ref name="Hout2011">{{Kitap kaynağı|author=Theo van den Hout|title=The Elements of Hittite|url=http://books.google.com/books?id=QDJNg5Nyef0C&pg=PA1|accessdate=24 Mart 2013|date=27 Ekim 2011|publisher=Cambridge University Press|isbn=978-1-139-50178-1|page=1}}</ref>
-
-324 yılında Roma İmparatoru [[I. Konstantin]], imparatorluğun başkentini [[Byzantion]]'a taşıdı ve şehrin adını [[Nova Roma|Yeni Roma]] (daha sonra [[Konstantinopolis]] ve günümüzde [[İstanbul (il)|İstanbul]]) olarak değiştirdi.<ref>{{Kitap kaynağı|url=http://books.google.com.tr/books?id=Cm65AAAAIAAJ&q=roma+imparatorlu%C4%9Fu'nun+ba%C5%9Fkenti+330&dq=roma+imparatorlu%C4%9Fu'nun+ba%C5%9Fkenti+330&hl=tr&sa=X&ei=s8yEUbWBGIyXhQfV8oD4Bw&ved=0CCwQ6AEwADgK|ilk=Özge|son=Öztekin|tarih=2006|yayımcı=Ürün Yayınları|sayfa=67|isbn=975608328X|başlık=Divanlardan yansıyan görüntüler}}</ref> [[Roma İmparatorluğu]], [[Hunlar|Hun Türkleri]]'nin doğudan batıya doğru göç etmesiyle Avrupa'da başlayan [[Kavimler Göçü]]'nün (375) sonucunda çıkan karışıkların etkisiyle 395 yılında [[Batı Roma İmparatorluğu|Batı Roma]] ve [[Doğu Roma İmparatorluğu|Doğu Roma]] olmak üzere ikiye ayrıldı. Daha sonralarda Bizans olarak da anılmaya başlanan Doğu Roma, 1453 yılına kadar varlığını devam ettirdi.
-
-=== Selçuklular ve Osmanlı İmparatorluğu ===
-{{Ana madde|Selçuklular|Osmanlı İmparatorluğu}}
-{{Ayrıca bakınız|Türkleştirme|Büyük Selçuklu Devleti|Anadolu Selçuklu Devleti}}
-
-[[İslamiyet]] dinini kabul eden [[Oğuz Türkleri]]'nin [[Kınık boyu|''Kınık'']] boyuna mensup olan [[Selçuklular]], 9. yüzyılda [[Hazar Denizi]] ve [[Aral Gölü]]'nün kuzeyine yerleştiler.<ref>{{Kitap kaynağı|son=Wink|ilk=Andre|başlık=Al Hind the Making of the Indo Islamic World|yayımcı=Brill Academic Publishers|tarih=1 Ocak 1996|isbn=90-04-09249-8|sayfa=9}}</ref> 1040 yılında [[Gazneliler]] ile yaptıkları [[Dandanakan Muharebesi]]'nin kazandılar ve ardından bölgede [[Büyük Selçuklu Devleti]]'ni kurdular.
-
-[[Dosya:Ottoman empire.svg|thumb|upright=0.95|sol|1481 ve 1683 yılları arasında [[Osmanlı İmparatorluğu|Osmanlı]] topraklarının genişlemesi.]]
-11. yüzyılın ikinci yarısında Selçuklular, Anadolu'nun doğu bölgelerine yerleşmeye ve akınlar yapmaya başladı. Bizans ile yaptıkları ilk büyük muharebe olan [[Pasinler Muharebesi]]'ni (1048) kazandılar. 1071'de gerçekleşen [[Malazgirt Meydan Muharebesi]]'nin de galibi oldular, böylece "Anadolu'nun kapıları Türklere açıldı", Anadolu'da [[Türkleştirme]] hareketi başladı. Bölgede yaygın olan [[Hıristiyanlık]] ile ağırlıklı olarak konuşulan [[Yunanca]], Türklerin Anadolu'ya girişi ile birlikte yerini İslam dini ve Türk diline bıraktı.
-
-13. yüzyılda, özellikle [[Kösedağ Muharebesi]]'nden (1243) sonra Anadolu'daki Selçuklu otoritesi son bulmaya başladı. Otorite boşluğunda ortaya [[Anadolu beylikleri|Anadolu Türk beylikleri]] ortaya çıktı. Bu beyliklerden, [[Osman Gazi]] tarafından kurulan [[Osmanlı İmparatorluğu|Osmanlı]], iki yüzyıl içinde Anadolu, [[Balkanlar]], [[Kuzey Afrika]] ve [[Levant]]'ı hakimiyeti altına aldı. Osmanlı padişahı [[II. Mehmed]], 1453'te [[İstanbul'un Fethi|İstanbul'u fethetti]] ve [[Doğu Roma İmparatorluğu|Bizans İmparatorluğu]]'nu yıktı. Bu olay tarihçiler tarafından [[Orta Çağ]]'ın sonu, [[Yeni Çağ]]'ın başlangıcı olarak kabul edildi.
-
-1514 yılında [[I. Selim]] (1512–1520), [[Çaldıran Muharebesi]]'nde [[Safevî Devleti|Safevî]] hükümdarı [[Şah İsmail]]'i yenerek imparatorluğun sınırlarını doğu yönünde genişletti; 1517'de [[Mısır]]'da hüküm süren [[Memlûk Sultanlığı]]'nı yıkarak [[Halifelik|halifeliğin]] [[Osmanlı Hanedanı]]'na geçmesini sağladı. Kanuni Sultan Süleyman olarak da bilinen I. Selim'in oğlu [[I. Süleyman]], saltanatının ilk yıllarında [[Belgrad]]'ı ele geçirerek [[Orta Avrupa]] içlerine ilerlemeye başladı; [[Macaristan]]'ı egemenliği altına altı. Ayrıca Kanuni döneminde ve sonrasında [[Hint Okyanusu]]'nda hakimiyet kurmak için [[Portekiz İmparatorluğu]]'na karşı [[Hint seferleri|seferler]] düzenlendi.
-
-[[Dosya:Edirne 7333 Nevit.JPG|thumb|upright=0.95|sağ|[[Edirne (il)|Edirne]]'deki [[Selimiye Camii]], Osmanlı'nın en bilinen [[Osmanlı mimarisi|mimari miras]]larından biridir.]]
-Osmanlı, 16. ve 17. yüzyılda, özellikle Kanuni Sultan Süleyman döneminde tarihinin zirvesine ulaştı. Bu dönemde batıda [[Kutsal Roma Cermen İmparatorluğu]] ve [[Lehistan-Litvanya Birliği|Lehistan]] ile çeşitli anlaşmazlıklar yaşadı.<ref name="Ottoman_Turkey">{{Kitap kaynağı|title=History of the Ottoman Empire and Modern Turkey; Vol.1, Empire of the Gazis. the rise and decline of the Ottoman Empire, 1280–1808|first=Stanford Jay|last=Shaw|coauthors=Shaw, Ezel Kural|publisher=Cambridge University Press|year=1977|isbn=0-521-29163-1}}</ref> [[Osmanlı Donanması]], denizde çeşitli başarılar kazandı. 1538'de yapılan [[Preveze Deniz Muharebesi]]'nde [[Barbaros Hayreddin Paşa]]'nın Haçlılar'ı mağlup etmesinden sonra imparatorluğun Akdeniz'deki kontrolü arttı. Doğuda ise, Safevîler ile dinsel farklılıklardan ve toprak anlaşmazlıklarından kaynaklanan bazı çatışmalar zaman zaman savaşa dönüşmekteydi.<ref>{{Kitap kaynağı|title=A Short History of the Middle East|first=George E.|last=Kirk|publisher=Brill Academic Publishers|year=2008|page=58|isbn=1-4437-2568-4}}</ref>
-
-Osmanlı, zirvesine ulaştıktan sonra [[Osmanlı İmparatorluğu duraklama dönemi|duraklama dönemini]] yaşadı ve 19. yüzyıl başlarından itibaren [[Osmanlı İmparatorluğu gerileme dönemi|gerilemeye başladı]]. Bozulan iç huzur ve sık sık çıkan isyanlarla birlikte toprak kayıpları arttı; askeri güç, ekonomik denge bozuldu. [[Osmanlı-Rus Savaşları|Rus Çarlığı ile yapılan savaşlar]]ın birçoğu başarısızlıkla sonuçlandı. 1911'de [[İtalya Krallığı]] ile yapılan [[Trablusgarp Savaşı]] sonucunda Trablusgarp kaybedildi, aynı dönemde [[Balkan Birliği]]'ne karşı yapılan [[Birinci Balkan Savaşı]] sonucunda Balkan topraklarının neredeyse tamamı kaybedildi.<ref>{{Kitap kaynağı|url=http://books.google.com.tr/books?id=AXZtAAAAMAAJ&q=Osmanl%C4%B1,+Balkan+Sava%C5%9Flar%C4%B1'nda+Balkan+topraklar%C4%B1n%C4%B1n+%C3%A7o%C4%9Funu+kaybetti&dq=Osmanl%C4%B1,+Balkan+Sava%C5%9Flar%C4%B1'nda+Balkan+topraklar%C4%B1n%C4%B1n+%C3%A7o%C4%9Funu+kaybetti&hl=tr&sa=X&ei=RdKEUeSJLIaMswaSqIC4Aw&ved=0CEcQ6AEwBQ|başlık=Adalılar: İmroz'dan Gökçeada'ya|sayfa=244|yazar=Güliz Beşe Erginsoy|sayfa=244|yayımcı=İstanbul Bilgi Üniversitesi|tarih=2006|isbn=9789756176542}}</ref> [[II. Abdülhamid]]'in tahttan inmesine sebep olan [[31 Mart Olayı]]'ndan sonra [[İttihat ve Terakki|İttihat ve Terakki Fırkası]] yönetimde etkin bir biçimde söz sahibi oldu. İmparatorluk, [[I. Dünya Savaşı]]'na [[İttifak Devletleri]] yanında girdi. İttifak grubu savaştan yenik çıktı, 30 Ekim 1918'de [[İtilaf Devletleri]] ile Osmanlı arasında [[Mondros Ateşkes Anlaşması]] imzalandı. 10 Ağustos 1920'de imzalanan [[Sevr Antlaşması]], Osmanlı topraklarını İtilaf grubu arasında paylaştırdı; ancak yürürlüğe konulamadı.<ref>{{Kitap kaynağı|url=http://books.google.com.tr/books?id=Fo9pAAAAMAAJ&q=Sevr+y%C3%BCr%C3%BCrl%C3%BC%C4%9Fe+giremedi&dq=Sevr+y%C3%BCr%C3%BCrl%C3%BC%C4%9Fe+giremedi&hl=tr&sa=X&ei=ONGEUevtEYnotQbFwICwBg&ved=0CDEQ6AEwAQ|başlık=Kurtuluş Savaşı sözlüğü|ilk=Fahrettin|son=Çiloğlu|yayımcı=Doğan Kitap|tarih=1999|sayfa=35|isbn=975624201-9}}</ref>
-
-=== Türkiye Cumhuriyeti ===
-{{Ana madde|Türkiye Cumhuriyeti siyasi tarihi{{!}}Türkiye Cumhuriyeti tarihi|Atatürk'ün Devrimleri{{!}}Atatürk İnkılapları}}
-[[Dosya:MustafaKemalAtaturk.jpg|thumb|sol|upright=0.85|[[Mustafa Kemal Atatürk]], Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanıdır.]]
-
-I. Dünya Savaşı bitiminde imzalanan Mondros'tan sonra İtilaf Devletleri tarafından [[İstanbul'un işgali|İstanbul]], [[İzmir'in işgali|İzmir]] ve diğer Osmanlı topraklarının işgali, [[Türk Ulusal Hareketi]]'ni ortaya çıkardı.<ref name="Ottoman_Turkey"/> [[Çanakkale Savaşı]]'nın (1918) öne çıkan isimlerinden biri olan [[Mustafa Kemal Atatürk|Mustafa Kemal]] [[Paşa]]'nın, 19 Mayıs 1919'da [[Mustafa Kemal'in Samsun'a çıkışı|Samsun'a çıkışı]] ile [[Misak-ı Millî]] sınırları içinde kalan ülke topraklarının bütünlüğünü korumayı amaçlayan  [[Türk Kurtuluş Savaşı]] başlatıldı.
-
-23 Nisan 1920'de [[Türkiye Büyük Millet Meclisi|Büyük Millet Meclisi]]'nin Ankara'da açılmasıyla [[Ankara Hükûmeti]], ülke topraklarındaki ikinci hükûmet olarak ortaya çıktı. Kurtuluş Savaşı'nda cephelerde kazanılan başarıların sonuncusu, [[Türk Kurtuluş Savaşı Batı Cephesi|Batı Cephesi]]'nde [[Yunanistan Krallığı]]'na karşı kazanıldı; cephedeki Türk kuvvetleri 9 Eylül 1922'de zafer elde etti. 11 Ekim 1922'de imzalanan [[Mudanya Mütarekesi]] ile  Kurtuluş Savaşı'nın sonuna gelindi. Büyük Millet Meclisi, 1 Kasım 1922'de [[Saltanatın kaldırılması|saltanatı kaldırdı]] ve altı asırdan fazla varlığını devam ettiren Osmanlı İmparatorluğu tarih sahnesinden silindi. 24 Temmuz 1923'te imzalanan [[Lozan Antlaşması]] ile Misak-ı Millî'nin büyük bölümü gerçekleştirildi; yeni hükûmet uluslararası anlamda tanındı ve 29 Ekim 1923'te cumhuriyetin ilan edilmesi ile "Türkiye Cumhuriyeti" resmen kuruldu. Yeni devletin başkenti Ankara oldu. Lozan gereğince yapılan [[Türkiye-Yunanistan nüfus mübadelesi]] ile, Türkiye'deki 1.1 milyon [[Rumlar|Rum-Ortodoks]] ile Yunanistan'daki 380.000 [[Türkler|Türk-Müslüman]] yer değiştirdi.<ref name="Clogg">{{Kitap kaynağı|last=Clogg|first=Richard|title=A Concise History of Greece|url=http://books.google.com/books?id=H5pyUIY4THYC|accessdate=9 Şubat 2013|date=20 Haziran 2002|publisher=Cambridge University Press|isbn=978-0-521-00479-4|page=101|dil=İngilizce}}</ref>
-
-Türkiye Cumhuriyeti'nin kurucusu ve ilk [[Türkiye Cumhurbaşkanı|cumhurbaşkanı]] olan Mustafa Kemal, birçok [[Atatürk'ün Devrimleri|inkılap]] yaptı. Türkiye Büyük Millet Meclisi, 1934 yılında çıkan [[Soyadı Kanunu]] ile kendisine "Atatürk" soyadını verdi.<ref>{{Web kaynağı|url=http://www.nvi.gov.tr/Files/File/Mevzuat/Nufus_Mevzuati/Kanun/pdf/kemal_oz_kanun.pdf|başlık=Kemal Öz Adlı Cumhur Reisimize Verilen Soyadı Hakkında Kanun|format=PDF|erişimtarihi=4 Mayıs 2013|yayımcı=[[Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü]]}}</ref>
-
-[[Dosya:Roosevelt Inonu Churchill.jpg|thumb|upright=0.90|[[Franklin D. Roosevelt|Roosevelt]], [[İsmet İnönü|İnönü]] ve [[Winston Churchill|Churchill]], 1943'teki [[İkinci Kahire Konferansı]]'nda.]]
-[[II. Dünya Savaşı]]'nda Türkiye, uzun süre tarafsızlığını korudu ancak savaşın son aylarında, 23 Şubat 1945'te [[Müttefik Devletler]]'in yanında yer aldı.<ref>{{Kitap kaynağı|url=http://books.google.com.tr/books?id=dqQLAQAAMAAJ&q=t%C3%BCrkiye+23+%C5%9Fubat+1945'te+ikinci+d%C3%BCnya+sava%C5%9F%C4%B1na+kat%C4%B1ld%C4%B1&dq=t%C3%BCrkiye+23+%C5%9Fubat+1945'te+ikinci+d%C3%BCnya+sava%C5%9F%C4%B1na+kat%C4%B1ld%C4%B1&hl=tr&sa=X&ei=7cmEUY_KIoiItQaQqID4Cg&ved=0CDYQ6AEwAg|başlık=Anadolu Ajansı ve İkinci Dünya Savaşı|erişimtarihi=4 Mayıs 2013|tarih=2008|yayımcı=[[Gazi Üniversitesi İletişim Fakültesi]]|sayfa=29|ilk=Ayşe Gülçin|son=Manka|isbn=9789755071657}}</ref> 26 Haziran 1945'te ise [[Birleşmiş Milletler]]'in kurucu üyelerinden biri oldu. II. Dünya Savaşı'ndan sonra Yunanistan'da çıkan [[Yunan İç Savaşı|komünist isyanı]]nın bastırılmasında karşılaşılan zorluklar ve [[Sovyetler Birliği]]'nin [[Türk Boğazları]]'nda askeri üs talep etmesi, [[Amerika Birleşik Devletleri]]'nin 1947'de [[Truman Doktrini]]'ni ilanıyla sonuçlandı. Doktrin, Türkiye ve Yunanistan güvenliğini sağlamayı amaçladı, askeri ve ekonomik destek sağlandı.<ref name="Truman Doctrine">{{Kitap kaynağı|title=Outposts and Allies: U.S. Army Logistics in the Cold War, 1945–1953|first=James A.|last=Huston|publisher=Susquehanna University Press|year=1988|isbn=0-941664-84-8|url=http://books.google.com/?id=ID4E3Lm8TsgC&pg=PA198&lpg=PA198&dq=turkey+cold+war|page=134|dil=İngilizce}}</ref> Her iki ülke de 1948 yılında Avrupa ekonomisinin yeniden inşası için [[Marshall Planı]] ve [[OECD]]'ye dahil edildi, daha sonra 1961 yılında OECD'nin kurucu üyesi haline geldi.
-
-[[Kore Savaşı]]'na (1950–53) Birleşmiş Milletler kuvvetleri ile birlikte katılan Türkiye, 1952 yılında [[NATO]]'ya üye oldu. [[15 Temmuz 1974 Darbesi|15 Temmuz 1974'te Kıbrıs'ta gerçekleşen darbe]] ve yaşanan toplumlar arası çatışma, Türkiye'nin [[Zürih ve Londra Antlaşmaları|Garanti Antlaşması]]'nda kendisine verilen hakları kullanarak 20 Temmuz 1974'te [[Kıbrıs Harekâtı|adaya asker çıkarması]]yla sonuçlandı.<ref>{{Web kaynağı|url=http://crc.atilim.edu.tr/sorun/55-kbrs-tarihi|başlık=Kıbrıs Tarihi ve Kıbrıs Sorunu-II|yayımcı=crc.atilim.edu.tr|erişimtarihi=4 Mayıs 2013}}</ref> 15 Kasım 1983'te adanın kuzeyinde [[Kuzey Kıbrıs Türk Cumhuriyeti]] kuruldu; ancak yalnızca Türkiye tarafından tanındı.<ref>{{Web kaynağı|url=http://news.bbc.co.uk/2/hi/europe/country_profiles/1016541.stm|başlık=Cyprus country profile|yayımcı=[[BBC News]]|erişimtarihi=4 Mayıs 2013|tarih=23 Aralık 2011|dil=İngilizce}}</ref>
-
-[[Türkiye Cumhuriyeti'nin tek partili dönemi]], 1946'da son buldu ve [[Türkiye Cumhuriyeti'nin çok partili dönemi|çok partili dönem]] başladı. Ancak ilerleyen zamanlarda, [[1960 Darbesi|1960]], [[1971 Muhtırası|1971]], [[1980 Darbesi|1980]] ve [[28 Şubat süreci|1997]] yıllarında çeşitli [[Askerî darbe|askerî müdahale]]ler yapıldı. 1980'li yıllarda ekonominin serbestleştirilmesinden bu yana ülke, güçlü bir ekonomik büyüme ve daha fazla siyasi istikrar kazanmıştır.<ref name="80sLiberalization">{{Kitap kaynağı|title=Economics and Politics of Turkish Liberalization|son=Nas|ilk=Tevfik F.|publisher=Lehigh University Press|year=1992|isbn=0-934223-19-X|dil=İngilizce}}</ref>
-
-== Politika ==
-{{Ana madde|Türkiye'de siyaset|Türkiye Cumhuriyeti Anayasası (1982){{!}}Türkiye Cumhuriyeti Anayasası|Türkiye'de seçimler}}
-[[Dosya:Tayyip Erdoğan.JPG|thumb|upright=0.75|[[Recep Tayyip Erdoğan]], 2003 yılından beri Türkiye Cumhuriyeti'nin başbakanıdır.]]
-Türkiye, [[Parlamenter sistem|parlamenter]] [[temsilî demokrasi]]nin uygulandığı bir ülkedir. 1923 yılında cumhuriyetin ilanından bu yana ülkedeki laiklik güçlü bir şekilde gelişmiştir.<ref name="TR_Secularism">{{Kitap kaynağı|title=Religion and Politics in Turkey|first=Ali|last=Çarkoğlu|publisher=Routledge, UK|year=2004|isbn=0-415-34831-5|url=http://books.google.com/?id=t5G_zw9exMQC&pg=PP1&lpg=PP1&dq=Religion+in+Turkey}}</ref> [[Türkiye Cumhuriyeti Anayasası (1982)|Türkiye Cumhuriyeti Anayasası]], ülkenin yasal çerçevesini çizer, hükûmetin temel ilkelerini ortaya koyar ve üniter bir merkezi devlet olarak Türkiye'yi belirler.
-
-[[Türkiye cumhurbaşkanları listesi|Cumhurbaşkanı]], [[Devlet başkanı|ülkenin başkanı]]dır ve büyük ölçüde törensel bir role sahiptir, beş yıllık aralıklarla yapılan doğrudan seçimler aracılığıyla seçilir. [[Abdullah Gül]], 28 Ağustos 2007'den bu yana cumhurbaşkanıdır ve meclis tarafından, görev süresi biten [[Ahmet Necdet Sezer]]'in yerine seçilmiştir.<ref>{{Haber kaynağı|url=http://hurarsiv.hurriyet.com.tr/goster/ShowNew.aspx?id=7173734|başlık=Çankaya Köşkü'nde devir-teslim|tarih=28 Ağustos 2007|erişimtarihi=4 Mayıs 2013|yayımcı=''[[Hürriyet (gazete)|Hürriyet]]''}}</ref>
-
-Ülkede [[Kuvvetler ayrılığı]] ilkesi benimsenmiştir. [[Yürütme erki|Yürütme]], başbakan ve hükûmeti oluşturan [[Bakanlar Kurulu]] tarafından; [[Yasama organı|yasama]], [[Türkiye Büyük Millet Meclisi]] tarafından; [[yargı]], bağımsız mahkemeler tarafından yönetilmektedir. [[Anayasa Mahkemesi]], yapılan kanunların anayasa ile uygunluğunu denetlemekle yükümlüdür. [[Danıştay (Türkiye)|Danıştay]], idari davalar için başvurulabilecek en son mahkemedir;  [[Yargıtay (Türkiye)|Yargıtay]] karar ve hükümlerin son inceleme merciidir.
-
-Başbakan, çoğunlukla parlamentoda en fazla sandalyeye sahip olan partinin başkanıdır ve ülkenin hükûmetini oluşturmakla görevlidir, bu hükûmet ise [[güvenoyu]] toplamak zorundadır. Türkiye'nin şu anki başbakanı, İstanbul'un eski belediye başkanlarından olan [[Recep Tayyip Erdoğan]]'dır. Erdoğan'ın kurduğu muhafazakar [[Adalet ve Kalkınma Partisi]], 2001'de yaşanan ekonomik krizin ardından düzenlenen [[2002 Türkiye genel seçimleri|2002 genel seçimleri]]'nde %34 oy alarak parlamentoda sandalye çoğunluğu elde etti.<ref name=2002genelsecim>{{Haber kaynağı|url=http://hurarsiv.hurriyet.com.tr/goster/ShowNew.aspx?id=107589|başlık=Parlamentonun yüzde 90'ı yenilendi|tarih=4 Kasım 2002|erişimtarihi=4 Mayıs 2013|yayımcı=''[[Hürriyet (gazete)|Hürriyet]]''}}</ref>
-
-[[Dosya:Barack Obama addresses Turkish Parliament 4-6-09 2.JPG|thumb|upright=0.95|sol|[[ABD Başkanı]] [[Barack Obama]], 6 Nisan 2009'da [[Türkiye Büyük Millet Meclisi]]'nde.]]
-Bakanların milletvekili olmasının zorunlu olmadığı ancak yinede bakanların milletvekillerinin arasından seçilmesinin yaygın olduğu ülkede AKP, [[2007 Türkiye genel seçimleri|2007 genel seçimleri]]'nde %46.6, [[2011 Türkiye genel seçimleri|2011 genel seçimleri]]'nde %49 oy toplayarak  oy toplayarak sandalye çoğunluğu olan parti olma özelliğini korudu.<ref name=2007genelsecim>{{Haber kaynağı|url=http://hurarsiv.hurriyet.com.tr/goster/ShowNew.aspx?id=6944573|başlık=Seçim dünya basınında|tarih=23 Temmuz 2007|erişimtarihi=4 Mayıs 2013|yayımcı=''[[Hürriyet (gazete)|Hürriyet]]''}}</ref><ref>{{Haber kaynağı|url=http://hurarsiv.hurriyet.com.tr/goster/ShowNew.aspx?id=18018422|başlık=Bu kez % 49.9|tarih=13 Haziran 2011|erişimtarihi=4 Mayıs 2013|yayımcı=''[[Hürriyet (gazete)|Hürriyet]]''|ilk=Nuray|son=Babacan|yer=Ankara}}</ref> 2007'de, [[Abdullah Gül]]'ün tartışmalı cumhurbaşkanlık seçimi de dahil olmak üzere devletin yasama organında laiklik ve yargının rolü ile ilgili bir dizi olay oluştu. 2008 yılında hükûmetin, üniversitelerde sürmekte olan [[Türkiye'de türban sorunu|türban yasağı]]nı kaldırmak için verdiği öneri Anayasa Mahkemesi tarafından reddedildi.<ref>{{Haber kaynağı|url=http://ntvmsnbc.com/news/449024.asp|başlık=Türban düzenlemesi reddedildi|erişimtarihi=5 Haziran 2008|yayımcı=[[NTVMSNBC]]|tarih=5 Haziran 2008}}</ref>
-
-Her iki cinsiyet için [[genel oy hakkı]] 1933 yılından bu yana Türkiye genelinde uygulanmaktadır ve 18 yaşına girmiş her Türk vatandaşı seçme hakkına sahiptir. 2004 yılı itibariyle ülkede kayıtlı 50 siyasi parti bulunmaktadır.<ref name="BYEGM_TrPolSys">{{Web kaynağı|url=http://www.byegm.gov.tr/REFERENCES/Structure.htm|archiveurl=http://web.archive.org/web/20070203025134/http://www.byegm.gov.tr/REFERENCES/Structure.htm|archivedate=3 Şubat 2007|title=Political Structure of Turkey|author=Turkish Directorate General of Press and Information|publisher=Turkish Prime Minister's Office|accessdate=14 Aralık 2006|date=24 Ağustos 2004}}</ref> Anayasa Mahkemesi, laiklik karşıtı veya ayrılıkçı gördüğü siyasi partilerin kamu finansmanını veya tamamen varlıklarını ortadan kaldırma hakkına sahiptir.<ref>{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/europe/1466160.stm|title=Euro court backs Turkey Islamist ban|work=[[BBC]]|accessdate=14 Aralık 2006|date=31 Temmuz 2001|dil=İngilizce}}</ref><ref>{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/europe/2850601.stm|title=Turkey's Kurd party ban criticised|work=[[BBC]]|accessdate=14 Aralık 2006|date=14 Mart 2003|dil=İngilizce}}</ref>
-
-[[Türkiye Büyük Millet Meclisi]], 550 milletvekilinden oluşur ve milletvekilleri dört yıllık aralıklarla seçilir. [[Türkiye'nin illeri|Ülkede 81 il]] bulunmaktadır fakat Ankara ve İzmir'in iki, İstanbul'un üç seçim bölgesine ayrılması sebebiyle toplam 85 seçim bölgesi vardır. Aşırı siyasi parçalanmayı önlemek amacıyla var olan [[seçim barajı]] uygulaması gereğince bir partinin meclise girebilmesi için en az %10 oy toplaması gerekmektedir.<ref name="BYEGM_TrPolSys" /> Bu nedenle 2002 genel seçimlerinde sadece iki, 2007 genel seçimlerinde sadece üç parti resmen meclise girme hakkı kazandı.<ref name=2002genelsecim/><ref name=2007genelsecim/>
-
-=== Dış ilişkiler ===
-{{Ana madde|Türkiye'nin dış ilişkileri|Türkiye'nin Avrupa Birliği üyeliği süreci}}
-[[Dosya:2010 G-20 Seoul summit.jpg|thumb|upright=0.99|Türkiye, [[OECD]] ve [[G20]] gibi uluslararası kuruluşların kurucu üyelerinden birisidir.]]
-[[Dosya:EU and Turkey Locator Map.png|thumb|upright=0.99|1949 yılında [[Avrupa Konseyi]]'ne üye olan Türkiye, 2005 yılında [[Avrupa Birliği]] ile [[Türkiye'nin Avrupa Birliği üyeliği süreci|tam üyelik müzakerelerine]] başladı.]]
-
-Türkiye'nin dış politikasının temelinde Mustafa Kemal Atatürk'ün "[[Yurtta sulh, cihanda sulh]]" ilkesi yatmaktadır.<ref>{{Web kaynağı|url=http://www.mfa.gov.tr/genel-gorunum.tr.mfa|başlık=Genel Görünüm / T.C. Dışişleri Bakanlığı|erişimtarihi=15 Mayıs 2013|yayımcı=[[Türkiye Cumhuriyeti Dışişleri Bakanlığı]]}}</ref> Ülke, [[Birleşmiş Milletler]] (1945), [[OECD]] (1961), [[İslam İşbirliği Teşkilatı]] (1969), [[Avrupa Güvenlik ve İşbirliği Teşkilatı]] (1973), [[Ekonomik İşbirliği Teşkilatı]] (1985), [[Karadeniz Ekonomik İşbirliği]] (1992), [[D-8]] (1997) ve [[G20]] (1999) gibi uluslararası kuruluşların kurucu üyelerinden birisidir.<ref>{{Web kaynağı|url=http://www.cia.gov/library/publications/the-world-factbook/fields/2107.html#tu|başlık=International Organization Participation - Turkey|erişimtarihi=15 Mayıs 2013|yayımcı=[[The World Factbook]]|dil=İngilizce}}</ref> 1951–1952, 1954–1955, 1961 ve son olarak 2009–2010 yıllarında [[Birleşmiş Milletler Güvenlik Konseyi|BM Güvenlik Konseyi]]'nde geçici üye olarak görev yapmıştır.<ref>{{Web kaynağı|url=http://www.un.org/en/sc/members/elected.shtml|başlık=Countries Elected Members of the Security Council|dil=İngilizce|erişimtarihi=15 Mayıs 2013|yayımcı=[[Birleşmiş Milletler Güvenlik Konseyi]]}}</ref><ref name=BMkonsey>{{Haber kaynağı|url=http://hurarsiv.hurriyet.com.tr/goster/ShowNew.aspx?id=10149253|başlık=Türkiye'nin üyeliği kabul edildi|tarih=17 Ekim 2008|erişimtarihi=5 Mayıs 2013|yayımcı=''[[Hürriyet (gazete)|Hürriyet]]''}}</ref>
-
-Geleneksel Batı yönelimi doğrultusunda, Avrupa ile ilişkiler her zaman Türk dış politikasının merkezî bir parçası olmuştur ve günümüzde Türkiye için stratejik bir hedef ve devlet politikası olarak kabul edilmektedir.<ref>{{Web kaynağı|url=http://www.zaman.com.tr/gundem_erdogan-abye-tam-uyelik-turkiyenin-stratejik-hedefidir_1015339.html|başlık=Erdoğan: AB'ye tam üyelik, Türkiye'nin stratejik hedefidir|erişimtarihi=15 Mayıs 2013|yayımcı=''[[Zaman (gazete)|Zaman]]''|tarih= 12 Ağustos 2010}}</ref> Ülke, 1949 yılında [[Avrupa Konseyi]]'nin kurucu üyesi olarak yer aldı, 1963 yılında [[Avrupa Ekonomik Topluluğu]]'nun ortaklarından biri olarak kabul edildi. Uzun yıllar devam eden siyasi görüşmelerin ardından, 1987 yılında AET'ye tam üyelik için başvurdu, 1992 yılında [[Batı Avrupa Birliği]]'nin ortak üyesi oldu, 1996'da [[Avrupa Birliği Gümrük Birliği|AB Gümrük Birliği]] uygulamasını başlattı ve 2005 yılında [[Avrupa Birliği]] ile [[Türkiye'nin Avrupa Birliği üyeliği süreci|tam üyelik müzakerelerine]] başladı.<ref>{{Web kaynağı|arşivurl=http://web.archive.org/web/20070515022203/http://www.abgs.gov.tr/en/tur-eu_relations_dosyalar/chronology.htm|url=http://www.abgs.gov.tr/en/tur-eu_relations_dosyalar/chronology.htm|arşivtarihi=15 Mayıs 2007|başlık=Chronology of Turkey-EU relations|erişimtarihi=15 Mayıs 2013|yayımcı=Turkish Secretariat of European Union Affairs|dil=İngilizce}}</ref>
-
-1974'ten bu yana Türkiye, [[Kıbrıs Cumhuriyeti]]'ni tanımamaktadır ancak adanın kuzeyinde 1983 yılında kurulan [[Kuzey Kıbrıs Türk Cumhuriyeti]]'ni tanımakta ve [[Kıbrıs Türkleri|Kıbrıs Türk]] toplumunu desteklemektedir.<ref name="Mardell">{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/europe/6170749.stm |title=Turkey's EU membership bid stalls|first=Mark|last=Mardell|dil=İngilizce|work=[[BBC]]|accessdate=17 Aralık 2006|date=11 Aralık 2006}}</ref> KKTC, Türkiye dışındaki ülkeler tarafından tanınmamakla birlikte adanın kuzeyinde kurulmuş ''[[de facto]]'' bir yönetim olarak kabul edilmektedir. Halen daha çözülemeyen [[Kıbrıs Sorunu]], ülkenin NATO ve AB ile olan ilişkilerini zorlaştırmaktadır ve AB'ye üyelik hedefinin önünde engel olarak görülmektedir.<ref name="Mardell"/>
-
-Türkiye'nin dış ilişkilerinin bir diğer belirleyici unsuru Amerika Birleşik Devletleri ile ilişkiler olmuştur. [[Sovyetler Birliği]]'nin oluşturduğu ortak tehdit sebebiyle Türkiye, 1952'de [[NATO]]'ya üye oldu ve [[Soğuk Savaş]] boyunca [[Washington, DC|Washington]] hükûmetleri ile yakın ikili ilişkiler içinde oldu. Türkiye, Amerika Birleşik Devletleri'nin Avrupa Birliği'ne katılım teklifi gibi önemli konularda dahil olmak üzere siyasi, ekonomik ve diplomatik desteğinden yararlanmıştır.
-
-1991 yılında [[Sovyetler Birliği'nin dağılması]]nın üzerine [[Türk Cumhuriyetleri]] bağımsızlıklarını elde ettiler. Türkiye, Ön ve Orta Asya'da bulunan bu cumhuriyetler ile ikili ilişkilerini, aralarında bulunan derin kültürel ve dilsel bağ sebebiyle ilerletme çabası içine girdi.<ref>{{Kitap kaynağı|title=Turkish Foreign Policy In Post Cold War Era|first=İdris|last=Bal|publisher=Universal Publishers|year=2004|isbn=1-58112-423-6|url=http://books.google.com/?id=vDzjkrTDKjYC&pg=PP1&lpg=PP1&dq=turkey+cold+war}}</ref> Özellikle [[Azerbaycan]], Türkiye ile ilişkilerinin önemini vurguladı.<ref>{{Web kaynağı|last=Kardas|first=Saban|title=Turkey Develops Special Relationship with Azerbaijan|url=http://www.jamestown.org/single/?no_cache=1&tx_ttnews%5Btt_news%5D=34116|publisher=Eurasia Daily Monitor Volume|accessdate=23 Aralık 2010}}</ref><ref>{{Web kaynağı|last=Katik|first=Mevlut|title=Azerbaijan and Turkey Coordinate Nagorno-Karabakh Negotiation Position|url=http://www.eurasianet.org/departments/insight/articles/eav042304.shtml|publisher=EurasiaNet|accessdate=23 Aralık 2010}}</ref> Mayıs 2006'da faaliyete başlayan 1.774 kilometre uzunluğundaki, [[Bakü]]'den [[Ceyhan]]'a uzanan [[Bakü-Tiflis-Ceyhan Petrol Boru Hattı]] (BTC), [[Hazar Denizi]]'ndeki petrolü küresel pazara aktarmayı sağlamakta ve Türkiye'nin dış politika stratejisinin bir bölümünü oluşturmaktadır.<ref>{{Dergi kaynağı|publisher=The Central Asia-Caucasus Institute, Silk Road Studies Program|yazarlink=Zeyno Baran|ilk=Zeyno|son=Baran|title=The Baku-Tbilisi-Ceyhan Pipeline: Implications for Turkey | url= http://www.silkroadstudies.org/BTC_6.pdf|journal=The Baku-Tbilisi-Ceyhan Pipeline: Oil Window to the West|pages=103–118|format=PDF|year=2005|accessdate=30 Aralık 2007}}</ref> Bunların dışında Türkiye'nin doğu komşularından olan [[Ermenistan]] ile var olan sınır kapıları, Ermenilerin Azerbaycan'da bulunan [[Dağlık Karabağ]] bölgesini işgal ettiği [[Karabağ Savaşı]]'ndan bu yana kapalıdır.<ref>{{Haber kaynağı|url=http://haber.gazetevatan.com/agri-daginin-otesi/457164/1/gundem|başlık=Ağrı Dağı’nın ötesi!|yayımcı=''[[Vatan (gazete)|Vatan]]''|tarih=11 Haziran 2012|erişimtarihi=5 Mayıs 2013|son=Koçbaş|ilk=Uğur|arşivurl=http://web.archive.org/web/20120615235401/http://haber.gazetevatan.com/agri-daginin-otesi/457164/1/Gundem|arşivtarihi=15 Haziran 2012}}</ref>
-
-=== Ordu ===
-{{Ana madde|Türk Silahlı Kuvvetleri}}
-{{Çoklu resim|align=left|direction=vertical|width=200|image1=Turkish troops.jpg|image2=Ay class submarines.JPG|image3=Three F-16 of the Turkish Air Force.jpg|caption3=[[Türk Silahlı Kuvvetleri]] bünyesindeki; [[Türk Kara Kuvvetleri|Kara]], [[Türk Deniz Kuvvetleri|Deniz]] ve [[Türk Hava Kuvvetleri|Hava]] kuvvetleri.}}
-[[Türk Silahlı Kuvvetleri]]; [[Türk Kara Kuvvetleri|Kara]], [[Türk Deniz Kuvvetleri|Deniz]] ve [[Türk Hava Kuvvetleri|Hava]] kuvvetleri olmak üzere üç bölümden oluşur. İç emniyeti sağlama ve askeri işlevleri olan [[Jandarma (Türkiye)|Jandarma]] ile [[Sahil Güvenlik Teşkilatı (Türkiye)|Sahil Güvenlik]], barış zamanında [[İçişleri Bakanlığı (Türkiye)|İçişleri Bakanlığı]]'na, savaş zamanında Kara ve Deniz kuvvetlerine bağlıdır. Cumhurbaşkanı tarafından atanan ve görevlerinden dolayı başbakana karşı sorumlu olan [[Türkiye Cumhuriyeti Genelkurmay Başkanlığı|Genelkurmay Başkanı]], Türk Silahlı Kuvvetleri'ni komuta edip yönlendiren en üst düzey birimdir.<ref name="TSK_Organisation"/> Bakanlar Kurulu, millî güvenlik ve ülke savunması için yeterli silahlı kuvvetlerin hazırlanması konularında meclise karşı sorumludur.<ref name="TSK_Organisation">{{Web kaynağı|url=http://www.tsk.mil.tr/genel_konular/savunmaorganizasyonu.htm|arşivurl=http://web.archive.org/web/20060210185838/http://www.tsk.mil.tr/genel_konular/savunmaorganizasyonu.htm|archivedate=10 Şubat 2006|title=Genelkurmay Başkanlığı-Savunma Politikası|author=Genelkurmay Başkanlığı|publisher=Türk Silahlı Kuvvetleri|accessdate=15 Aralık 2006|year=2006}}</ref>  Ancak savaş ilan etme, yabancı ülkelere asker gönderme veya yabancı ülke askerlerinin Türkiye'ye konuşlanmasına izin verme yetkileri yalnızca meclise aittir. [[Necdet Özel|General Necdet Özel]], 4 Ağustos 2011'den bu yana Genelkurmay Başkanlığı görevini sürdürmektedir.<ref>{{Web kaynağı|url=http://www.hurriyet.com.tr/gundem/18411141.asp|yayımcı=''[[Hürriyet (gazete)|Hürriyet]]''|tarih=4 Ağustos 2011|erişimtarihi=5 Mayıs 2013|başlık=İşte TSK'nın yeni komuta kademesi}}</ref>
-
-Sağlık sorunu olmayan her erkek Türk vatandaşının eğitim durumu ve iş yerine bağımlı olarak üç hafta veya on beş ay arasında değişen bir süre için askerî hizmet yapması gerekmektedir.<ref>{{Web kaynağı|dil=İngilizce|url=http://www.unhcr.org/home/RSDCOI/3c1622484.pdf|archiveurl=http://web.archive.org/web/20061018034150/http://www.unhcr.org/home/RSDCOI/3c1622484.pdf|archivedate=2006-10-18|arşivurl=http://classic-web.archive.org/web/20061122042609/http://www.unhcr.org/home/RSDCOI/3c1622484.pdf|archivedate=2006-11-22|title=Turkey/Military service|author=United Nations High Commissioner for Refugees (UNHCR), Directorate for Movements of Persons, Migration and Consular Affairs – Asylum and Migration Division|publisher=UNHCR|format=PDF|accessdate=27 Aralık 2006|month=Temmuz|year=2001}}</ref> Türkiye'de [[vicdanî ret]] uygulaması bulunmamaktadır ve askerlik yerine sivil bir alternatif sunulmamaktadır.<ref>{{Web kaynağı|url=http://www.ebco-beoc.eu/|title=EBCO – European Bureau for Conscientious Objection|publisher=Ebco-beoc.eu|accessdate=4 Eylül 2010}}</ref>
-
-Türk Silahlı Kuvvetleri, beş bölümde hizmet veren ve sadece bir milyondan fazla üniformalı personeli bulunan [[Amerika Birleşik Devletleri Silahlı Kuvvetleri]]'nin ardından [[NATO]]'nun ikinci büyük silahlı gücüdür.<ref name="Economist">Economist Intelligence Unit:Turkey, p.23 (2005)</ref> Türkiye, 2003 yılından bu yana [[Eurocorps]] için askeri personel katkısı yapmaktadır ve [[Avrupa Birliği Savaş Grupları]] içinde yer almaktadır.<ref name="Enter the EU Battle Groups">{{Web kaynağı|title=Enter the EU Battle Groups|url=http://www.iss.europa.eu/uploads/media/cp097.pdf|work=Chaillot Paper no.97|publisher=European Union Institute for Security Studies|page=88|month=Şubat|year=2007}}</ref> Ayrıca; [[Almanya]], [[Belçika]], [[Hollanda]] ve [[İtalya]] ile birlikte, [[nükleer paylaşım]] politikasına dahil olan beş NATO üyesi ülkeden bir tanesidir.<ref>{{Web kaynağı|url=http://www.spiegel.de/international/germany/0,1518,618550,00.html|title=Der Spiegel: '&#39;Foreign Minister Wants US Nukes out of Germany'&#39; (2009-04-10)|work=Der Spiegel|date=30 Mart 2009|accessdate=1 Kasım 2010}}</ref>
-
-1998 yılında yapılan açıklamada Türkiye; tanklar, avcı uçakları, helikopterler, denizaltıları, savaş gemileri ve saldırı tüfeklerini kapsayan ve 160 milyar ABD dolarına mâl olan bir modernizasyon programına başladı.<ref>Economist Intelligence Unit:Turkey, p.22 (2005)</ref> Diğer taraftan ülke, [[Müşterek Saldırı Uçağı]] programının üçüncü seviye katılımcısıdır.<ref>{{Web kaynağı|url=http://www.defenselink.mil/Releases/Release.aspx?ReleaseID=3417|archiveurl=http://web.archive.org/web/20060826215816/http://www.defenselink.mil/Releases/Release.aspx?ReleaseID=3417|archivedate=2006-08-26|title=DoD, Turkey sign Joint Strike Fighter Agreement|author=US Department of Defense|publisher=US Department of Defense|accessdate=27 Aralık 2006|date=11 Temmuz 2002}}</ref>
-
-Türk Ordusu, 1950'li yıllardan bu yana bu yana Birleşmiş Milletler ve NATO üyesi olarak uluslararası ortamda çeşitli ülkelerde yer almıştır. [[Somali]]'de ve eski [[Yugoslavya]]'da barış görevlerinde, [[Birinci Körfez Savaşı]]'nda koalisyon güçlerine destek olmak amacıyla bulunmuştur. Türk Askeri, birçok yerde [[Mehmetçik]] adıyla da anılmaktadır. 36.000 Mehmetçik, uluslararası arenada ''de facto'' bir yönetim olarak kabul edilen [[Kuzey Kıbrıs Türk Cumhuriyeti]]'ni korumaktadır ancak bu askeri varlık, [[Kıbrıs Cumhuriyeti]] ile uluslararası toplum tarafından yasadışı işgal gücü olarak kabul edilmektedir ve birkaç Birleşmiş Milletler Güvenlik Konseyi kararıyla kınanmıştır.<ref name="Richmond1998">{{Kitap kaynağı|last=Richmond|first=Oliver P.|title=Mediating in Cyprus: The Cypriot Communities and the United Nations|url=http://books.google.com/books?id=_6wRdE2ZH4gC&pg=PA260|accessdate=9 Şubat 2013|year=1998|publisher=Psychology Press|isbn=978-0-7146-4877-4|page=260|dil=İngilizce}}</ref> Türkiye, Amerika Birleşik Devletleri'nin [[Afganistan]]'da istikrar sağlamak amacıyla başlattığı [[Afganistan Savaşı]]'nda da bir NATO üyesi olarak 2001 yılından bu yana asker bulundurmaktadır.<ref name="Economist"/><ref>{{Web kaynağı|yayımcı=Türk Silahlı Kuvvetleri|url=http://www.tsk.tr/4_uluslararasi_iliskiler/4_1_turkiyenin_barisi_destekleme_harekatina_katkilari/konular/turk_silahli_%20kuvvetlerinin_barisi_destekleme_harekatina_katkilari.htm|başlık=Genelkurmay Başkanlığı Resmi Kurumsal İnternet Sitesidir|arşivurl=http://web.archive.org/web/20130117040152/http://www.tsk.tr/4_uluslararasi_iliskiler/4_1_turkiyenin_barisi_destekleme_harekatina_katkilari/konular/turk_silahli_%20kuvvetlerinin_barisi_destekleme_harekatina_katkilari.htm|arşivtarihi=17 Ocak 2013|erişimtarihi=5 Mayıs 2013}}</ref> Türkiye Büyük Millet Meclisi, 2006 yılında ülkenin [[Birleşmiş Milletler Geçici Görev Gücü]] (UNIFIL) harekâtına katkı sağlamasını onayladı ve böylece Türk Askeri, [[Lübnan]]'da da yer almaya başladı.<ref>{{Haber kaynağı|url=http://siyaset.milliyet.com.tr/turk-askeri-1-yil-daha-lubnan-da/siyaset/siyasetdetay/04.07.2012/1562571/default.htm|yayımcı=''[[Milliyet (gazete)|Milliyet]]''|tarih=4 Temmuz 2012|erişimtarihi=5 Mayıs 2013|başlık=Türk askeri 1 yıl daha Lübnan'da}}</ref>
-
-=== İdari yapılanma ===
-{{Ana madde|Türkiye'nin idari bölünüşü}}
-{{Daha fazla|Türkiye'nin coğrafi bölgeleri|Türkiye'nin illeri|Türkiye'nin ilçeleri|Türkiye'nin köyleri}}
-Türkiye'nin başkenti [[Ankara (il)|Ankara]]'dır. Ülkedeki en büyük idari bölümler illerdir ve 81 il vardır.  Bir il; il merkezi, ilçe merkezleri ve ilçelere bağlı bütün köyleri kapsar. İllerde yönetme ve yürütme görevini, devletin atadığı valiler yerine getirir. Türkiye, [[Türkiye'nin coğrafi bölgeleri|7 coğrafi bölge]]ye ayrılmıştır ancak bu bölgeler herhangi bir idari yapıyı temsil etmemektedir.
-
-İllerin merkezlerine verilen ad genellikle aynıdır ancak [[Hatay (il)|Hatay]] ilinin merkezi [[Antakya]], [[Kocaeli (il)|Kocaeli]] ilinin merkezi [[İzmit]] ve [[Sakarya (il)|Sakarya]] ilinin merkezi [[Adapazarı]] adlarıyla bilinmektedir. [[İstanbul (il)|İstanbul]] (13 milyon), [[Ankara (il)|Ankara]] (5 milyon), [[İzmir (il)|İzmir]] (4 milyon), [[Bursa (il)|Bursa]] (3 milyon) ve [[Adana (il)|Adana]] (2 milyon) Türkiye'nin en kalabalık nüfusa sahip beş ilidir.<ref name=tuiknufus>{{Web kaynağı|url=http://www.tuik.gov.tr/HbGetir.do?id=13425&tb_id=2|format=XLS|başlık=İl ve cinsiyete göre il/ilçe merkezi, belde/ köy nüfusu ve nüfus yoğunluğu|yayımcı=[[TÜİK]]|erişimtarihi=31 Mart 2013|tarih=28 Ocak 2013}} (NOT:Eğer kaynak açılmaz ise [http://www.tuik.gov.tr/PreHaberBultenleri.do?id=13425 bu sayfaya] gidin ve "Tablo-2" seçeneğine tıklayın.)</ref>
-
-Ülkenin ekonomik, finansal ve kültürel kalbi olan [[İstanbul]], aynı zamanda en gelişmiş şehirdir.<ref name="USLC_TRGeo" /> Son nüfus sayımına göre nüfusun %77,3'ü il ve ilçe merkezlerinde yaşamaktadır.<ref name=tuiksayim /> 20 ilin nüfusu 1 milyonun üzerindedir ve yine 20 ilin nüfusu 1 milyon ile 500.000 arasındadır.<ref name=tuiknufus/> Yalnızca iki ilin nüfusu ise 100.000 rakamının altındadır.<ref name=tuiknufus/>
-
-{{Türkiye etiketli iller haritası|width=720|float=none}}
-
-== Coğrafya ==
-{{Ana madde|Türkiye coğrafyası}}
-{{Daha fazla|Türkiye'deki dağlar|Türkiye'deki akarsular|Türkiye'deki göller}}
-[[Dosya:Turkey topo.jpg|thumb|upright=1.32|Türkiye'nin topoğrafik haritası.]][[Dosya:Cappadocia Chimneys - DWiW.jpg|thumb|upright=1.32|[[Kapadokya]]'daki [[Peri bacası|peri bacaları]]nın panoromik görünümü.]]
-Türkiye, [[36. kuzey enlemi|36.]] ve [[42. kuzey enlemi|42.]] kuzey enlemleri ile [[26. doğu meridyeni|26.]] ve [[45. doğu meridyeni|45.]] doğu meridyenleri arasına yerleşmiştir; şekli kabaca bir dikdörtgeni andırmaktadır ve doğusuyla batısı arasında 75 dakikalık bir zaman farkı vardır, genişliği 1.660 kilometredir. İzdüşüm alanı 783,562&nbsp;km²'dir ve kapladığı yüzölçümü bakımından Dünya'nın [[Yüzölçümlerine göre ülkeler listesi|37.]] sırasında yer almaktadır. Üç tarafı denizlerle çevrilmiştir; batısında [[Ege Denizi]], kuzeyinde [[Karadeniz]] ve güneyinde [[Akdeniz]] bulunmaktadır. Kuzeybatısında ise [[Marmara Denizi]] yer alır.
-
-Türkiye, iki kıtada da toprağı bulunan bir Avrasya ülkesidir. %97 kadarlık bir bölümü Asya kıtasında yer alır, bu bölüm Anadolu adıyla da anılır. Geriye kalan %3 kadarlık bir bölümü ise Avrupa kıtasında yer alır, bu bölüm ise [[Doğu Trakya]] veya [[Rumeli Yakası]] adlarıyla da anılır.<ref>{{Web kaynağı|dil=İngilizce|url=http://www.turkishodyssey.com/turkey/turkey.htm|title=Turkey|publisher=Turkish Odyssey|date=2 Şubat 2000|accessdate=1 Kasım 2010}}</ref> Ülkedeki Marmara Denizi'nde bulunan [[Çanakkale Boğazı]] ve [[İstanbul Boğazı]], Asya ile Avrupa topraklarını ayırır; bu boğazlar Marmara Denizi'nin Karadeniz ve Ege Denizi ile olan bağlantısını da sağlar. Ayrıca [[Bozcaada]] ve [[Gökçeada]], [[Ege Adaları|Ege Denizi'ndeki birçok ada]]dan Türkiye'ye ait olanlarıdır.
-
-[[Dosya:Great Ararat.jpg|thumb|upright=0.95|sol|5,137 m (16,854 ft) yüksekliğindeki [[Ağrı Dağı]], Türkiye'nin en yüksek dağıdır.]]
-Türkiye'nin Doğu Trakya bölümünde [[Bulgaristan]] ve [[Yunanistan]] ile sınırı bulunmaktadır. Kuzeydoğuda [[Gürcistan]]; doğuda [[Ermenistan]], [[Azerbaycan]] ([[Nahçivan Özerk Cumhuriyeti]]) ve [[İran]]; güneydoğuda [[Irak]] ve [[Suriye]] ile sınır komşusudur. Ülkenin ortalama yüksekliği 1132 metre'dir; Anadolu topraklarının kuzey kesiminde [[Kuzey Anadolu Dağları|Kuzey Anadolu]]; güney, güneydoğu ve doğu kesiminde [[Toros Dağları|Toros]] sıradağları yer alır. Yaklaşık üçte biri orta yükseklikteki ovalar, yaylalar ve dağlarla kaplıdır, genel olarak yüksekliği, batıdan doğuya doğru gidildikçe artar, en yüksek alanları doğu kesiminde yer alır. [[Ağrı (il)|Ağrı]] ilinde yer alan [[Ağrı Dağı]], 5,137 m (16,854&nbsp;ft) yüksekliğindedir ve ülkenin en yüksek dağı olma özelliğini taşır.<ref name="TRGeo_TRMinistryTourism" /> Ülkenin en büyük doğal gölü [[Van Gölü]]'dür. [[Fırat]], [[Dicle Nehri|Dicle]], [[Aras Nehri|Aras]] ve [[Kura Nehri|Kura]] nehirleri, Türkiye topraklarında doğmaktadır ancak Türkiye dışındaki ülkelere ait olan su bölgelerine dökülmektedir. Ayrıca ülke sınırlarında doğup, ülke sınırları içinde denize dökülen en büyük akarsu ise [[Kızılırmak]]'tır.
-
-Türkiye, yedi [[Türkiye'nin coğrafi bölgeleri|coğrafi bölge]]ye bölünmüştür. Bunlar [[Akdeniz Bölgesi|Akdeniz]], [[Doğu Anadolu Bölgesi|Doğu Anadolu]], [[Ege Bölgesi|Ege]], [[Güneydoğu Anadolu Bölgesi|Güneydoğu Anadolu]], [[İç Anadolu Bölgesi|İç Anadolu]], [[Karadeniz Bölgesi|Karadeniz]] ve [[Marmara Bölgesi|Marmara]] bölgeleridir. Karadeniz Bölgesi, Kuzey Anadolu boyunca uzanır ve ülkenin toplam yüzölçümünün altıda birini oluşturur.<ref name="TRGeo_TRMinistryTourism">{{Web kaynağı|url=http://www.turizm.net/turkey/info/geography.html|title=Geography of Turkey|publisher=Turkish Ministry of Tourism|accessdate=13 Aralık 2006|year=2005|dil=İngilizce}}</ref> Ülke, çeşitli fay hatlarının üzerinde yer alır ve çeşitli sönmüş volkanları barındırır; [[Kuzey Anadolu Fay Hattı]] üzerinde tarih boyunca birçok deprem olmuştur. Bu fay hattı üzerinde gerçekleşen [[1939 Erzincan Depremi]], [[1943 Tosya-Ladik depremi]], [[1999 Gölcük depremi]] ve [[Ekim 2011 Van depremi]] birçok insanın hayatını kaybetmesiyle sonuçlanmıştır.
-
-=== İklim ===
-{{Ayrıca bakınız|Türkiye'deki iklim çeşitleri}}
-[[Dosya:Ölüdeniz on the Turquoise Coast, Turkey.jpg|thumb|upright=0.95|sol|[[Türk Rivierası]]'ndaki [[Ölüdeniz, Fethiye|Ölüdeniz]], [[Mavi Yolculuk]] seferleri ile bilinir.]]
-Türkiye'de üç farklı iklim tipine rastlanmaktadır. Genel anlamda Ege Denizi ile Akdeniz kıyılarında görülen [[Akdeniz iklimi]]nde yazlar sıcak ve kurak, kışları ılık ve yağışlıdır. Bitki örtüsü [[maki]]dir. Karadeniz kıyılarında görülen bir [[Ilıman okyanusal iklim|ılıman okyanus iklim]] tipi olan [[Türkiye'de Karadeniz iklimi|Karadeniz iklimi]]nde her mevsim yağış görülmektedir, doğal bitki örtüsü [[orman]]dır. Karadeniz kıyıları, Türkiye'nin yıl boyunca yüksek yağış alan tek bölgesidir ve [[Doğu Karadeniz]] bölümü yıllık 2000-2500 milimetre yağış almaktadır.
-
-[[Dosya:Uzungöl.jpg|thumb|upright=0.95|[[Trabzon (il)|Trabzon]]'daki [[Uzungöl, Çaykara|Uzungöl]].]]
-Ege Denizi ile Karadeniz'i birbirine bağlayan Marmara Denizi'nin kıyılarında geçiş iklimi görülmektedir; denizin güneyinde Akdeniz, kuzeyinde Karadeniz ve kuzeybatısında Karasal iklime rastlanmaktadır. Marmara ve Karadeniz bölgelerinde hemen hemen her yıl kar yağışı gözükse de kar ancak birkaç gün yerde kalır. Ülkede, Karadeniz ve Akdeniz'de kıyıya paralel uzanan dağlar, denizlerden gelen ılıman hava kütlelerinin iç kesimlere ulaşmasını engeller.
-
-İç Anadolu, Doğu Anadolu ve Güneydoğu Anadolu bölgelerinde yani iç kesimlerde [[Karasal iklim]]e rastlanır. Bu iklimde yıllık ve günlük sıcaklık farkları yüksektir; yazlar sıcak ve kurak, kışlar soğuk ve kar yağışlıdır. Doğu bölgelerde, kışlar oldukça sert geçer. Doğu Anadolu'da sıcaklıklar −30 °C ve −40 °C'ye (−22 °F to −40 °F) kadar düşebilir ve kar yılın en az 120 günü yerde kalır. Batıda ise kış sıcaklıkları ortalama 1 °C (34 °F) olarak gözlemlenmektedir. Yazları sıcak ve kurak, Ülke genelinde genellikle Temmuz ve Ağustos en kurak ay iken Mayıs en çok yağışın alındığı aydır, sıcaklıklar gün içinde 30 °C (86 °F) üzerine çıkabilmektedir.
-
-=== Biyoçeşitlilik ===
-{{ana madde|Türkiye direyi|Türkiye biteyi}}
-{{Daha fazla|Türkiye'deki endemik bitkiler listesi}}
-Türkiye, birçok farklı bitki ve hayvan türünü barındırmaktadır. Yaklaşık 10 milyon kilometre karelik bir alanı kaplayan Avrupa Kıtası'nda 12 bin bitki türü bulunurken, bu rakam yalnızca Türkiye'de 9000'i aşmaktadır. Yine Avrupa'da 2750 olan [[endemik]] bitki türü sayısı, Türkiye'de 3000'i bulmaktadır. Farklı iklim özellikleri taşıyan coğrafi bölgelerin varlığı, bitki örtüsünün diğer Orta Doğu ülkelerine göre daha zengin olmasının önemli etkenidir. Ayrıca ülke sınırları içinde yaşayan 160 memeli, 418 kuş, 120 sürüngen, 22 kurbağa, 127 tatlı su balığı ve 384 deniz balığı olmak üzere toplam 1230 civarında omurgalı tür tespit edilmiştir. Anadolu'nun Asya ile Avrupa arasındaki konumu ise bunda başlıca etkendir.
-
-== Ekonomi ==
-{{Ana madde|Türkiye ekonomisi}}
-[[Dosya:Istanbul Skyline.jpg|upright=1.6|thumb|[[İstanbul]], Türkiye'nin ekonomik kalbi ve en gelişmiş şehridir. Solda [[Şişli]]'deki kuleler, sağda [[Levent, Beşiktaş|Levent iş merkezleri]] görülmektedir.]]
-Türkiye, [[Ülkelerin GSYİH’ya (SAGP) göre sıralanışı|GSYİH (SAGP) sıralamasında]] 16. sırada, [[Ülkelerin GSYİH'ya (nominal) göre sıralanışı|GSYİH (nominal) sıralamasında]] 17.sırada yer almaktadır.<ref name=WB-GDP>{{Web kaynağı|url=http://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP.pdf|title=Gross Domestic Product 2010 |publisher=The World Bank: World Development Indicators Database|format=PDF|accessdate=9 Şubat 2013}}</ref> [[OECD]] ile [[G20|G-20 büyük ekonomileri]] topluluklarının kurucularından bir tanesidir. I. Dünya Savaşı ile Türk Kurtuluş Savaşı sonrası ortaya çıkan cumhuriyetin, ilk altmış yılında, 1923 ve 1983 yılları arasında devlet, sıkı bir yarı-[[Atatürk İlkeleri#Devletçilik|devletçi]] yaklaşımın içinde bulundu; özel sektör katılımı, dış ticaret, döviz akışı ve doğrudan yabancı yatırım tutarı gibi konularda çeşitli sınırlamalar konuldu, çeşitli bütçe planlamaları yapıldı. Ancak 1983 yılına gelindiğinde Başbakan [[Turgut Özal]], özel sektörü daha ön plana çıkaran bir dizi reform başlattı.<ref name="80sLiberalization"/>
-
-Büyük miktarlarda alınan dış kredilerle birlikte reformlar, hızlı bir ekonomik büyümenin önünü açtı fakat bu büyüme özellikle  1994, 1999 (o yıl gerçekleşen [[1999 Gölcük depremi|Gölcük depremi]] sonrası)<ref>{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/business/422653.stm|title=Turkish quake hits shaky economy|work=BBC|accessdate=12 Aralık 2006|date=17 Ağustos 1999|dil=İngilizce}}</ref> ve 2001<ref>{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/business/1800869.stm|title='Worst over' for Turkey|work=BBC|accessdate=12 Aralık 2006|date=4 Şubat 2002|dil=İngilizce}}</ref> yıllarında yaşanan finansal krizler ve durgunluklar sebebiyle sürekli kesintiye uğradı. 1981 ile 2003 yılları arasında ülkenin yıllık GSYİH büyüme ortalaması %4 olarak belirlendi.<ref>{{Web kaynağı|url=http://siteresources.worldbank.org/INTTURKEY/Resources/361616-1144320150009/Labor_C2.pdf|title=Turkey Labor Market Study|author=World Bank|authorlink=World Bank|publisher=World Bank|format=PDF|accessdate=10 Aralık 2006|year=2005|dil=İngilizce}}</ref> Büyüyen kamu açıkları ve yaygın yolsuzluk ile birlikte ek mali reformların eksikliği, yüksek enflasyon ve zayıf bankacılık sektörü, [[makroekonomi]] dalgalanmasının artmasına sebep oldu.<ref>{{Kitap kaynağı|title=OECD Reviews of Regulatory Reform – Turkey: crucial support for economic recovery : 2002|publisher=Organisation for Economic Co-operation and Development|year=2002|isbn=92-64-19808-3|url=http://books.google.com/?id=ufYU_fR7mLgC&pg=PP1&lpg=PP1&dq=Turkey|dil=İngilizce}}</ref> 2001 yılındaki kriz sonrası dönemin maliye bakanı [[Kemal Derviş]] tarafından başlatılan reformlardan bu yana, enflasyon tek haneli rakamlara düştü, yatırımcı güveni ile yabancı yatırım arttı, işsizlik oranı geriledi.
-
-[[Dosya:TCDD HT65000 high-speed train.jpg|upright=0.95|thumb|sol|[[Türkiye Cumhuriyeti Devlet Demiryolları|Devlet Demiryolları]] tarafından kullanılan [[TCDD HT65000]] modeli bir [[yüksek hızlı tren]].]]
-Türkiye, dış ticaret üzerindeki devlet kontrolünü yavaş yavaş azaltarak ekonomik düzenlemeler yoluyla çeşitli pazarlar açtı, kamuya ait çeşitli kurumları [[özelleştirme]] yoluna gitti, birçok sektörün liberalleştirilmesi ile yabancı katılımı ise çeşitli siyasi tartışmalar arasında devam etti.<ref name="TR_Eco">{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/business/6103008.stm|title=Robust economy raises Turkey's hopes|first=Jorn|last=Madslien|work=BBC|accessdate=12 Aralık 2006|date=2 Kasım 2006}}</ref> Kamu borçlarının GSYİH'ye oranı, 2001 yılındaki durgunlukta seviyenin altına düşse de, 2010 yılının üçüncü yarısında %46'ya yükseldi. 2002 ve 2007 yılları arasındaki yıllık GSYİH büyüme oranı ise ortalama %6.8 olarak belirlendi; bu rakam Türkiye'yi o yılların en hızlı büyüyen ekonomilerinden biri haline getirdi.<ref>{{Web kaynağı|title=Growth and economic crises in Turkey: leaving behind a turbulent past?|url=http://ec.europa.eu/economy_finance/publications/publication16004_en.pdf|work=Economic Papers 386|publisher=Directorate-General for Economic and Financial Affairs of the European Commission|page=10|month=Ekim|year=2009|dil=İngilizce}}</ref> Ancak büyüme, 2008 yılında %1 oranında yavaşladı ve ekonomi, 2009 yılında yaşanan küresel ekonomik krizden %5 kadarlık bir oranla durgunluktan etkilendi. 2010 yılında ise ülkenin ekonomisinin %8 büyüdüğü tahmin edildi.<ref name="cia"/>
-
-2000'lerin ilk yıllarında ülkedeki yüksek enflasyon kontrol altına alındı ve bu yeni bir para biriminin piyasaya sunulmasına yol açtı; [[Türk Lirası#Sekizinci emisyon|Yeni Türk Lirası]], 1 Ocak 2005 tarihinde yürürlüğe girdi.<ref>{{Haber kaynağı|url=http://news.bbc.co.uk/2/hi/business/4137469.stm |title=Turkey knocks six zeros off lira|work=BBC|accessdate=20 Temmuz 2008|date=31 Aralık 2004}}</ref> 1 Ocak 2009'da Yeni Türk Lirası yerini yeni banknot ve madeni paraların tanıtılmasıyla [[Türk Lirası#Dokuzuncu emisyon|Türk Lirası]]'na bıraktı. 2012 yılında ülkedeki enflasyon rakamı %6.16 olarak, işsizlik oranı %9.2 olarak belirlendi.<ref>{{Web kaynağı|url=http://www.posta.com.tr/ekonomi/HaberDetay/2012-yili-enflasyonu-yuzde-6-16.htm?ArticleID=155531|başlık=2012 yılı enflasyonu yüzde 6,16|erişimtarihi=17 Mayıs 2013|tarih=3 Ocak 2013|yayımcı=''[[Posta (gazete)|Posta]]''}}</ref><ref>{{Web kaynağı|url=http://www.cnnturk.com/2013/ekonomi/03/06/issizlik.2012.yilinda.yuzde.9.2.oldu/698991.0/index.html|başlık=İşsizlik 2012 yılında yüzde 9 oldu|yayımcı=[[CNN Türk]]|erişimtarihi=17 Mayıs 2013|tarih=6 Mart 2013}}</ref>
-
-[[Türkiye'de turizm]], ekonominin büyük bölümünü oluşturmaktadır ve son yirmi yılda hızlı bir büyüme yakalamıştır. 2011 yılında ülke, 33.3 milyon turist tarafından ziyaret edilerek [[Dünya turizm sıralaması|dünya turizm sıralamasında altıncı sırada]] yer aldı ve misafirlerden 23 milyon dolar gelir elde etti.<ref>{{Web kaynağı|url=http://mkt.unwto.org/sites/all/files/docpdf/unwtohighlights12enlr_1.pdf|başlık=UNWTO Tourism Highlights, 2012 Edition|tarih=2012|yayımcı=UNWTO|erişimtarihi=8 Mayıs 2013|format}}</ref> Türk ekonomisinin diğer önemli bölümlerini ise bankacılık, inşaat, beyaz eşya, elektronik, tekstil, petrol arıtma, petrokimya ürünleri, gıda, madencilik, demir-çelik, makine sanayi ve otomotiv sektörleri oluşturmaktadır. Dünya'nın [[Türk otomotiv sanayisi|16. büyük otomotiv üreticisi olan ülkede]], 2012 yılı içinde 1.072.339 motorlu araç üretildi.<ref name=oica>{{Web kaynağı|title=2012 Production Statistics|url=http://oica.net/category/production-statistics/|publisher=Organisation Internationale des Constructeurs d’Automobiles|accessdate=7 Mart 2013}}</ref> 2011 yılında Türk gemi yapım sektörü, 1.2 milyon ABD doları kadarlık bir gelir elde etti.<ref name=gemiinsa/> Malta, Marshall Adaları, Virjin Adaları ve Norveç, Türkiye'nin gemi sektöründeki ihracatını yaptığı ülkelerden bazılarıdır.<ref name=gemiinsa>{{Web kaynağı|arşivurl=http://web.archive.org/web/20130518052647/http://www.ibp.gov.tr/pg/sektorpdf/sanayi/gemi_insa_sanayi_2012.pdf|arşivtarihi=18 Mayıs 2013|başlık=Gemi İnşa Sektörü|url=http://www.ibp.gov.tr/pg/sektorpdf/sanayi/gemi_insa_sanayi_2012.pdf|yayımcı=İhracat Bilgi Platformu|erişimtarihi=18 Mayıs 2013|tarih=2012}}</ref> Akdeniz, Karadeniz, Marmara bölgelerinde yer alan Türk tersanelerinde, farklı boyutlarda 15 yüzer iskele ve bir kuru havuz bulunmaktadır.<ref name=gemiinsa/> 2012 verilerine göre Türkiye'de aktif olarak çalışan 87 tersane vardır.<ref name=gemiinsa/>
-
-Türk ekonomisi, büyük şehirlerde sanayiye daha çok bağlıdır ve daha çok batı illerinde yoğunlaşmıştır, bu kesimde tarım daha az yapılmaktadır. Yine de geleneksel tarım Türk ekonomisinin hala önemli bir bölümünü oluşturmaktadır. 2010 yılında, tarım sektörü, GSYİH'nin %9'unu, sanayi sektörü %26'sını, hizmet sektörü %65'ini kapsadı.<ref name="cia"/> Ancak tarım, hâlâ istihdamın %24.7'lik bir kısmını oluşturmaktaydı.<ref>{{Web kaynağı|url=http://ec.europa.eu/agriculture/enlargement/countries/turkey/profile_en.pdf|title=Turkey – Agriculture and Enlargement|format=PDF|accessdate=9 Aralık 2012}}</ref>
-
-== Demografi ==
-{{Ana madde|Türkiye demografisi|Türkler|Türkiye'deki azınlıklar}}
-{{Tarihî nüfus
-|title       = Nüfus sayımları<ref name=nufusrak>{{Web kaynağı|url=http://www.tuik.gov.tr/PreIstatistikTablo.do?istab_id=202|başlık=Şehir ve Köy Nüfusu|yayımcı=[[Türkiye İstatistik Kurumu]]|erişimtarihi=17 Mayıs 2013|format=xls|arşivurl=http://web.archive.org/web/20120719172948/http://www.tuik.gov.tr/PreIstatistikTablo.do?istab_id=202|arşivtarihi=19 Temmuz 2012}}</ref>
-|1927 |14874387
-|1935 |16158567 
-|1940 |17821543
-|1945 |18790987
-|1950 |20947155
-|1955 |24065544
-|1960 |27755532
-|1965 |31391651
-|1970 |35605653
-|1975 |40348789
-|1980 |44737321
-|1985 |50664654
-|1990 |56473653
-|2000 |67804543
-|2007 |70586256
-|2008 |71517100
-|2009 |72561312
-|2010 |73722988
-|2011 |74862000
-|2012 |75627384
-}}
-[[Dosya:Istiklal busy afternoon.JPG|thumb|upright=1|sol|[[İstiklal Caddesi]], Mayıs 2010.]][[Dosya:Grand-Bazaar Shop.jpg|thumb|upright=1|sol|[[Kapalıçarşı]], Temmuz 2010.]]
-Türkiye'nin nüfusu, kurulduğu ilk yıllardan bu yana artış göstermektedir. 1927 yılında yapılan ilk resmî nüfus sayımıyla 13.648.987 olarak belirlenen nüfus, 1940'da 17.821.543'e, 1960'da 27.755.532'ye, 1980'de 44.737.321'e ve 2000'de 67.804.54'e yükseldi.<ref name=nufusrak/> Ülkenin nüfus rakamı, 2007 yılından bu yana [[Adrese Dayalı Nüfus Kayıt Sistemi]] ile belirlenmektedir. 2012 yılında nüfus, 75.627.384 rakamına ulaşmıştır; km² başına düşen insan sayısı ise 98 olarak saptanmıştır.<ref name=tuiksayim/> Yine aynı yılın verilerine göre nüfusun %67.6'sı 15–64 yaş grubunda, %24.9'u 0–14 yaş grubunda, %7.5'i 65 üstü yaş grubunda yer alır ve erkek nüfus ile kadın nüfus oranı birbirine oldukça yakındır.<ref name=tuiksayim/> Nüfusun %77.3'lük bir kesimi il ve ilçe merkezlerinde yaşamaktadır.<ref name=tuiksayim/> Ayrıca ortanca yaş 30.1 ve [[beklenen yaşam süresi]] 74.6'dır.<ref name=tuiktahmin/> [[Türkiye İstatistik Kurumu]]'na göre, ülkenin nüfusunun 2050 yılında 94 milyon 585 bin olacağı tahmin edilmektedir.<ref name=tuiktahmin>{{Web kaynağı|url=http://www.tuik.gov.tr/PreHaberBultenleri.do?id=13140|başlık=Türkiye İstatistik Kurumu, Türkiye'nin Demografik Yapısı Ve Geleceği, 2010-2050|yayımcı=[[Türkiye İstatistik Kurumu]]|erişimtarihi=18 Mayıs 2013|tarih=11 Temmuz 2012}}</ref> Bunların yanı sıra, ülkede 6–15 yaş aralığında eğitim zorunlu ve ücretsizdir; okur yazar nüfus oranı 2010 itibarıyla %94.1'dir.<ref>{{Web kaynağı|url=http://rapor.tuik.gov.tr/reports/rwservlet?adnksdb2&ENVID=adnksdb2Env&report=wa_turkiye_cinsiyet_yas_egitim_top.RDF&p_xkod=okuryazar_kod&p_yas=15&p_yil=2011&p_dil=1&desformat=html|title=Adrese Dayalı Nüfus Kayıt Sistemi (adnks) Veri Tabanı|publisher=Türkiye Istatistik Kurumu|accessdate=9 Şubat 2013}}</ref>
-
-[[Türkiye Cumhuriyeti Anayasası (1982)|Türkiye Anayasası]]'nın 66. maddesi, "Türk Devletine vatandaşlık bağı ile bağlı olan" herkesi, bir "Türk" olarak tanımlar. Türkiye nüfusunun büyük kısmının etnik kökeni Türk'tür. [[CIA World Factbook]]'a göre bu rakam %70–75 arasında değişir.<ref name="cia"/> Ülkedeki Ermeniler, Rumlar ve Yahudiler, resmi olarak tanınan azınlıklardır (Ülkenin çoğunluğunu oluşturan Müslümanlar [[Lozan Antlaşması]]'nda tek bir etnik-dini grup olarak kabul edildi). 30 Ocak 1923'te [[Türkiye-Yunanistan nüfus mübadelesi|Türkiye ile Yunanistan arasında nüfus mübadelesi]] yapılmasını öngören bir sözleşme imzalandı. Daha sonralarda yapılan mübadele sonucunda, Anadolu'daki 1.1 milyon Rum-Ortodoks nüfus ile Yunanistan'daki 380.000 Türk-Müslüman yer değiştirdi.<ref name=Clogg-30/> Mübadele yıllarında İstanbul'da bulunan 110.000 kişilik Rum nüfusu, şimdilerde yaklaşık 3.000'e kadar geriledi.<ref name="minorities">{{Kitap kaynağı|author1=Victor Roudometof|author2=Roland Robertson|title=Nationalism, Globalization, and Orthodoxy: The Social Origins of Ethnic Conflict in the Balkans|url=http://books.google.com/books?id=I9p_m7oXQ00C&pg=PA186|accessdate=9 February 2013|year=2001|publisher=Greenwood Publishing Group|isbn=978-0-313-31949-5|page=186}}</ref><ref name="Alexandris">{{Kitap kaynağı|author=Renée Hirschon|title=Crossing the Aegean: An Appraisal of the 1923 Compulsory Population Exchange Between Greece and Turkey|url=http://books.google.com/books?id=8jJTge-_444C&pg=PA120|accessdate=9 Şubat 2013|date=1 Kasım 2003|publisher=Berghahn Books|isbn=978-1-57181-562-0|page=120}}</ref> [[Abazalar]], [[Arnavutlar]], [[Araplar]], [[Boşnaklar]], [[Çerkezler]], [[Çingeneler]], [[Gürcüler]], [[Hemşinliler]], [[Lazlar]], [[Pomaklar]] ve [[Süryaniler]], Türkiye'de yaşayan etnik gruplardan bazılarıdır.
-{{Türkiye'nin en büyük şehirleri}}
-=== İnanç ===
-
-Türkiye Cumhuriyeti [[vatandaş]]larının çoğunluğu [[Müslüman]]'dır. Müslüman vatandaşların çoğunluğu Sünni mezhebindendir, Sünnilerin çoğu [[Hanefi mezhebi|Hanefi]]'dir. Türkiye'de Sünni mezhebinden sonra, [[Alevilik]] mezhebi ikincil çoğunluğu kapsar. Türkiye'deki Alevilerin büyük bir kısmı [[Sivas]], [[Çorum]], [[Tokat]], [[Erzincan]], [[Malatya]] ve [[Tunceli]] kökenlidir.<ref>[http://europa.eu/rapid/pressReleasesAction.do?reference=SPEECH/06/536&format=HTML&aged=1&language=EN&guiLanguage=en AB Basın Açıklamaları (İngilizce)]</ref><ref>[http://en.wikipedia.org/wiki/Alevî İngilizce Vikipedi, ''Alevî'' maddesi]</ref> Bunların haricinde [[Şafii]] ve [[Caferi]] gibi diğer mezheplere dahil vatandaşlar da mevcuttur. Türkiye Caferilerinin büyük bir bölümü [[Iğdır]] kökenlidir.<ref>http://www.minorityrights.org/4408/turkey/caferis.html</ref>
-
-Toplam nüfusun geri kalanını diğer dini gruplar oluşturur. Bunlar 60.000 [[Ermeniler|Ermeni]] Ortodoks <ref>{{Web kaynağı|url= http://www.hurriyet.com.tr/planet/23329787.asp| başlık = Büyüyen Türkiye’de yeni dini azınlıklar oluşuyor|erişimtarihi =15 Haziran 2013}}</ref>, 20.000 [[Süryaniler|Süryani]],  2.270 [[Rum]] Ortodoks, 15.000 [[Rus]] Ortodoks, 7.000 [[Protestan]], 25.000 [[Katolik]], 5.000 [[Yehova Şahidi]], 3.000 [[Keldani]] <ref>{{Web kaynağı|url= http://t24.com.tr/haber/din-ozgurlugu-raporuna-gore-turkiyede-yeni-azinliklar-olusuyor/230733| başlık = Din Özgürlüğü Raporu'na göre, Türkiye'de yeni azınlıklar oluşuyor|erişimtarihi =15 Haziran 2013}}</ref>, 850 <ref>{{Web kaynağı|url= http://eskidergi.cumhuriyet.edu.tr/makale/1291.pdf| başlık = mormonluk ve mormon kilisesi üzerine bir araştırma|erişimtarihi =15 Haziran 2013}}</ref> [[Mormon]],  5.000 [[Yezidi]], 25.114 [[Yahudilik|Musevi]], 40.000 [[Budist]],<ref name="features.pewforum.org">{{Web kaynağı|url= http://features.pewforum.org/grl/population-number.php | başlık = Global Religious Landscape | erişimtarihi =15 Haziran 2013}}</ref> 21,259 [[Bahai]]  <ref>{{Web kaynağı|url= http://www.thearda.com/QL2010/QuickList_40.asp | başlık = Most Baha'i Nations (2010) | erişimtarihi =19 Haziran 2013}}</ref> ve 728 [[Hindu]]'dur.<ref>{{Web kaynağı|url= http://www.thearda.com/QL2010/QuickList_44.asp | başlık = Most Hindu Nations (2010) | erişimtarihi =19 Haziran 2013}}</ref>  Ayrıca 153.611 kişi yeni dinlere ( Yeni dinler Neo-Konfüçyüsçülük ve [[Neopaganizm]]i kapsar) mensupdur.<ref>{{Web kaynağı|url= http://chartsbin.com/view/kzn | başlık = Neo-religions Adherents by Country | erişimtarihi =19 Haziran 2013}}</ref>
-
-Türkiye'de toplam Hristiyan nüfus 320.000'dir.<ref name="features.pewforum.org"/>
-
-'''Ateist, Agnostik, Nonteist ve Seküler'''
-
-Türkiye nüfusunun %2'sini [[Ateist]]ler,<ref name="wingia.com">{{Web kaynağı|url= http://www.wingia.com/web/files/news/14/file/14.pdf | başlık = RELIGIOSITY AND ATHEISM | erişimtarihi =23 Temmuz 2013}}</ref>
-%2 ile %4 gibi bir oranla [[Agnostik]]ler <ref name="wingia.com"/><ref>{{Web kaynağı|url= http://chartsbin.com/view/omz | başlık = Agnosticism Adherents by Country | erişimtarihi =23 Temmuz 2013}}</ref><ref name="ec.europa.eu">{{Web kaynağı|url= http://ec.europa.eu/public_opinion/archives/ebs/ebs_341_en.pdf | başlık = Biotechnology | erişimtarihi =23 Temmuz 2013}}</ref>  ve %1'ini [[Deist]]ler <ref name="ec.europa.eu"/> oluşturmaktadır. Nüfusun %15'i [[seküler]]dir.<ref>[https://worldview.gallup.com/default.aspx GALLUP WorldView] - veri erişimi 23 Temmuz 2013</ref>
-
-'''Devlet Yapısı ve Tarihçesi'''
-
-Türkiye [[laiklik|laik]] bir ülkedir. Dinsel veya etnik özelliğe sahip bir [[siyasi parti]] kurulması anayasaya aykırıdır. Cumhuriyetin ilk yıllarında dinin devlet denetimi dışında yürütülemeyeceği kanaatine varılarak, devlet tarafından denetlenmesi gerektiği kararlaştırılmıştır. Buna dayanarak 3 Mart 1924 tarihinde Başbakanlığa bağlı bir teşkilat olarak [[Diyanet İşleri Başkanlığı]] kurulmuştur.
-
-Dini inanç veya inanmama, dini kuralları şahıs olarak uygulama veya uygulamama özgürlüğü [[Türkiye Cumhuriyeti Anayasası (1982)|Anayasa]]'nın korumasındadır. 1923'ten önce geçerli olan dini kanunlar tamamen geçerlilikten kaldırılmıştır.
-
-[[Osmanlı Devleti]]'nde resmî aidiyet unsuru olan '[[Müslüman]]' kavramı 1923'ten beri kullanılmaz. Bu aidiyetin (iyelik) yerine, milli aidiyet (iyelik) olan 'Türk' kavramı getirilmiştir.
-
-Türkiye'deki Rum Ortodoks, gayrimüslim nüfusun büyük bir kısmı, [[Lozan Antlaşması]] gereği Yunanistan'a göç etmiştir. [[Batı Trakya]]'da yaşayan Müslümanlar ile [[İstanbul]], [[Gökçeada]] ve [[Bozcaada]]'da yaşayan Rumlar mübadele dışında bırakılmıştır. [[Trabzon]] ve [[Rize]] bölgesinde Müslüman Rumlar'da mübadeleye dahil edilmemiştir. [[Balkanlar]]'da ve [[Kafkasya]]'da yaşayan [[Müslüman]] topluluklar da [[Slav]] - [[Ortodoks]] güçleri tarafından Türkiye'ye sürülmüş ya da Türkiye'ye kaçmak zorunda bırakılmıştır.
-
-=== Dil ===
-{{Ana madde|Türkiye'de konuşulan diller}}
-{{bar box
-|title=Türkiye'de En Çok Konuşulan 5 Dil (2007)<ref>[http://www.milliyet.com.tr/default.aspx?aType=SonDakika&ArticleID=873452&Date=06.06.2008&Kategori=yasam 6 Haziran 2008 tarihli Milliyet gazetesi]</ref>
-|titlebar=#ddd
-|left1=Dil
-|right1=Yüzde
-|float=left
-|bars=
-{{bar percent|[[Türkçe|66.693.065 kişi '''Türkçe''']]|Red|95.54}}
-{{bar percent|[[Kürtçe|1.937.108 kişi '''Kürtçe''']]|Blue|2.50}}
-{{bar percent|[[Arapça|1.000.706 kişi '''Arapça''']]|Green|1.38}}
-{{bar percent|[[Zazaca|730.705 kişi '''Zazaca''']]|Yellow|1.01}}
-{{bar percent|[[Lazca|86.600 kişi '''Lazca''']]|Yellow|0.12}}
-}}
-
-Türkiye'nin resmî dili [[Türkçe]]dir. Bugün Türkiye Türkçesi nüfusun büyük bir çoğunluğu tarafından konuşulmaktadır. Bölgelere göre birçok farklı şiveler kullanılmaktadır. Eğitimde ve basın kuruluşlarında ise İstanbul ağzı tercih edilmektedir.
-
-Tüm halkının iletişimini sağlayan ve hem resmi dil hem de eğitim dili olan Türkçenin yanında gündelik hayatta başka diller de konuşulmaktadır. Bunlar [[Abazaca]], [[Arnavutça]], [[Boşnakça]] ve [[Kabardeyce|Çerkezce]] Marmara bölgesi'nde ve İç Anadolu'da; [[Lazca]], [[Gürcüce]],[[Hemşince]] ve [[Rumca]] Karadeniz'de; [[Arapça]], [[Azerice]], [[Kürtçe]], [[Zazaca]] ve [[Süryanice]] gibi diller [[Doğu Anadolu bölgesi|Doğu]] ve [[Güney Doğu Anadolu Bölgesi|Güney Doğu]] bölgelerinde kullanılmaktadır. Çok az sayıda olmalarına rağmen resmen azınlık durumunda bulunan [[Rumlar]]'ın bir kısmı ile [[Museviler]] ve [[Ermeniler]]'in küçük bir kısmı gündelik hayatta kendi dillerini konuşmaktadırlar.
-
-Diğer yaygın olarak konuşulan dillerle karşılaştırıldığında, daha az sayıda sözcük ve harf ile daha çok bilgi aktarmak olanaklıdır. Diğer pek çok dilde olmayan bir özelliğe göre, bir sözcük köküne ekler ekleyerek, tek sözcüklü tümceler oluşturulabilir.<ref>{{Web kaynağı|url=http://www.yazim.sitesi.ws/|başlık=Yazım sitesi |erişimtarihi=9 Kasım 2008}}</ref>
-
-== Eğitim ==
-{{ana madde|Türkiye'de eğitim ve öğretim sistemi}}
-[[Dosya:Istanbul University cropped.JPG|thumb|150px|right|<center>İstanbul Üniversitesi, Beyazıt Yerleşkesi girişi]]
-
-Kuruluş yıllarında toplam 12 milyonluk nüfusun büyük çoğunluğu cumhuriyetin ilk yıllarında, alfabenin değiştirilmiş olmasından dolayı okur-yazar değildi. Arap alfabesi ile okur yazar oranı ise %2 ler civarındaydı. Günümüzde de Osmanlıca popülerliğini sürdürmekte ve özel çabalarla öğrenilmektedir. Ayrıca üniversitelerde ders olarak verilmektedir. Osmanlıca basılan kitaplar günümüzde de mevcuttur.
-Günümüz alfabesi ile okuma yazma oranı ise son rakamlarla %95'tir. Türkiye eğitim sistemi; 12 yıllık temel eğitime dayanır. İlk 4 yıl ilkokul + 4 yıl ortaokul +4 yıl lise öğrenim dönemi vardır. Üniversiteye geçiş [[Yükseköğretime Geçiş Sınavı]] ile gerçekleştirilir. Yaygın eğitim kurumları bazında halkeğitimler bulunmaktadır. Açıköğretim sistemi de pek çok öğrenci tarafından kullanılmaktadır.
-
-1930'lara kadar [[İstanbul Teknik Üniversitesi]] ile birlikte [[İstanbul Üniversitesi]] ülkedeki sadece iki üniversite iken, günümüzde [[üniversite]] sayısı [[Türkiye'deki üniversiteler listesi|174'dür]]. Üniversitesi olmayan il yoktur. 2011 yılında [[Times Higher Education]] ve [[Thomson Reuters]] tarafından eğitim, atıflar, araştırma, endüstri geliri ve uluslararası çeşitlilik kriterlerine dayanarak yapılan araştırmada, Dünya üniversiteleri sıralamasında 204. olarak [[Bilkent Üniversitesi]], 285. olarak [[İstanbul Teknik Üniversitesi]], 289. olarak [[Orta Doğu Teknik Üniversitesi]], ve 307. olarak [[Boğaziçi Üniversitesi]] dünyanın en iyi 400 üniversitesi arasında gösterilmektedir.<ref>http://www.timeshighereducation.co.uk/world-university-rankings/2011-2012/top-400.html</ref>
-
-Türkiye'nin en eski üniversitesi olan [[İstanbul Üniversitesi]]'nin kuruluş tarihi 1453 yılına, en eski teknik üniversitesi olan [[İstanbul Teknik Üniversitesi]]'nin kuruluş tarihi ise 1773 yılına dayanır. 1946 yılında daha eski tarihlere dayanan köklü fakültelerin aynı çatı altında birleştirilmesiyle kurulan [[Ankara Üniversitesi]] Üniversite Kanunu ile kurulan ve Cumhuriyetin ilk üniversitesi niteliğini taşıyan bir eğitim kurumu olarak ön plana çıkmıştır. Ankara Üniversitesi'nin en eski ve köklü fakültesi 1859 yılında kurulmuş olan Siyasal Bilgiler Fakültesi (Mekteb-i Mülkiye)'dir. Mülkiye, Türkiye'nin sivil yöneticilerini yetiştirmek üzere kurulmuş ilk eğitim kurumudur.
-
-1961 Anayasasının 120. maddesinde üniversiteler özerk kuruluşlar olarak yer alırken, 27 Ekim 1960 tarihli 115 sayılı yasa, 1946 tarihli 4936 sayılı yasanın bazı maddelerini değiştirip yeni maddeler eklemiştir. Bu yasayla [[Milli Eğitim Bakanlığı]]'nın Üniversite üzerindeki yetkileri azalmış, fakülte kurullarına daha geniş katılım sağlanmış ve kadro tıkanıklıklarını aşmak üzere yeni düzenlemeler getirilmiştir. Kısaca yönetim, teşkilat, öğretim üyelği ve yardımcılığı konularında daha geniş özerklik koşullarında yeni esaslar konmuştur.<ref>[http://www.meb.gov.tr/ Milli Eğitim Bakanlığı]</ref>
-
-2002 MEB istatistiklerine göre; toplam 6065 lise (ortaoğretim) bulunmaktadır. Bunların 2637'si genel(düz) lise (özel liseler dahil), 3428 tanesi ise mesleki lisedir. <sup>[http://www.meb.gov.tr/Stats/Apk2002/61.htm]</sup>
-
-== Kültür ==
-{{ana madde|Türk kültürü}}
-
-=== Felsefe ===
-[[Dosya:Kemalbey-cropped.jpg|thumb|left|200px|<center>Türk şair, yazar ve düşünür [[Namık Kemal]]]]
-{{ana madde|Türk felsefesi}}
-[[Tanzimat]] dönemiyle [[Batılılaşma]]ya başlayan Türklerde modern felsefe ilk olarak askeri ve teknik alanlarda, medrese dışında kurulan yeni okullarda yerleşti. [[Yanyalı Esat Efendi]] yeni [[Aristoteles|Aristocu]] çeviriler yaptı.
-
-19. yüzyıldaki yenileşme hareketlerinde [[Münif Paşa]]’yla başlayan Batı etkisi, Osmanlı aydınlarını üstün Batı siyaset ve bilimini memlekete uyarlamaya sevketmiştir. [[Yeni Osmanlılar]] derneğinde toplanan [[Şinasi]], [[Namık Kemal]], [[Ziya Paşa]], [[Ali Suavi]], [[Agah Efendi]], [[Ahmet Mithat Efendi]], [[Ahmet Vefik Paşa]] Fransız düşünürlerinin etkisinde kaldılar, laik felsefenin ilk başlatıcıları oldular, bu aydınlar geç kalmış Osmanlı aydınlanmacıları ve ansiklopedistleriydi.
-
-Cumhuriyetten sonra yayımlanan ilk felsefe dergisi ''Felsefe ve İçtimaiyat Mecmuası''’dır (1927). Kurucuları Mehmet Servet ile [[Hilmi Ziya Ülken]]'dir. [[Kadrocular]] bir siyaset felsefesi geliştirmeye çalıştılar.
-
-=== Edebiyat ===
-{{ana madde|Türk edebiyatı}}
-[[Dosya:Ozan.jpg|left|thumb|18.yüzyılda Anadolu'da diyar diyar gezen bir ''aşık''.]]
-[[Dosya:Nasreddin.jpg|thumb|[[Nasreddin Hoca]]]]
-[[Dosya:Edib Halide.jpg|left|thumb|150px|[[Halide Edip Adıvar]]]]
-
-[[Türkçe]], [[Ural-Altay dil ailesi]] [[Altay dilleri|Altay]] koluna dahil bir [[Dil (lisan)|dildir]].
-
-Türklerin tarihine paralel olarak Türkçenin yayıldığı coğrafi alan çok geniştir. Bugünkü [[Moğolistan]]'dan [[Doğu Avrupa]]'ya kadar konuşulan Türkçe pek çok lehçe ve şiveye ayrılmaktadır. Tarihi gelişimi içinde Türkçe, VIII-XIII. Asırlar arasında Eski Türkçe, XIII-XX. Asırlar arasında Orta Türkçe, XX asırda yeni Türk Yazı Dilleri ana başlıkları altında üç grupta incelenmektedir. [[Türkiye Türkçesi]], Orta Türkçenin, Batı Türkçesi kolunun günümüzde kullanılan bölümüdür.
-
-Bugün Türkçe, yaklaşık 250 milyon insan tarafından; Türkiye Türkçesi dünyada 80 milyon insan tarafından konuşulmaktadır.
-
-Batı Türkçesinin ikinci devri olan [[Osmanlıca]] (Osmanlı Yazı Dili) [[İstanbul]]'un fethinden [[Osmanlı İmparatorluğu]]'nun sonuna kadar XV-XX. asırlar arasında devam eden yazı dilidir. [[İngiltere]], [[Fransa]], [[İspanya]] gibi memleketler gittikleri yerlere dillerini de götürdükleri halde Türkler bu dil sömürgeciliğinden uzak durmuştur.Eğer Osmanlı Devleti'de gittiği her yere Türkçeyi de götürseydi bugün Türkçe dünyada en çok konuşulan dillerden biri olacaktı.
-[[Dosya:Orhanpamuk2.jpg|thumb|right|130px|<center>2006 [[Nobel Edebiyat Ödülü]] sahibi Türk yazar [[Orhan Pamuk]].]]
-[[Cumhuriyet]]ten sonra 1928'de yapılan [[Harf İnkılabı]] ile [[Arap harfleri]] terk edilip [[Latin harfleri]]nin kabulü Türkçenin yabancı unsurlardan arındırılmıştır. [[Türk dili]]'ni araştırmak ve tabii mecrasında gelişmesine katkıda bulunmak üzere 1932 yılında [[Türk Dil Kurumu]] kurulmuştur.
-
-[[Türk Edebiyatı]], Türklerin dahil oldukları üç medeniyet ve kültür dairesine paralel olarak üç safhada incelenmektedir:
-
-* '''İslamiyet öncesi Türk Edebiyatı'''
-* '''İslamî dönem Türk Edebiyatı''' 
-* '''Batı etkisindeki Türk Edebiyatı'''
-
-Türk dilinin ve edebiyatının tespit edilebilen en eski yazılı metinleri VII. Asrın sonlarına ve VIII. Asrın ilk yarısına ait olan dikili taşlardır. Bunlar arasında yer alan 732'de [[Kültigin]], 735'de [[Bilge Kağan]], 720'de [[Tonyukuk]] adına dikilen [[Orhun Yazıtları]] gerek muhtevaları, gerekse mükemmel dil ve üsluplarıyla [[Türk dili]] ve edebiyatının ve tarihinin şahaserleri arasında yer almaktadır. Bu dönemden günümüze ulaşan [[Türk destanları]] arasında Yaratılış, Saka, Oğuz Kağan, Göktürk, Uygur, Manas destanları sayılabilir. XIV. asırda yazıya geçirilen "[[Dede Korkut]] Kitabı" destan döneminin hatıralarını saklayan, gerek muhteva gerekse dil ve üslup mükemmeliyeti bakımından önem arz eder.
-
-Türk edebiyatının bir yazarı olan [[Orhan Pamuk]], 2006 yılında [[Nobel Edebiyat Ödülü]] 'ne layık görülmüştür.
-
-=== Halk Bilimi ===
-Halkıyat karşılığı vererek bilimi ilk olarak [[Ziya Gökalp]] ile [[Mehmet Fuad Köprülü|Fuad Köprülü]] 1913’te dile getirdiler. Halkbilimi veya yaygın kullanımıyla folklorun ilk Türk kaynakları [[Orhun Abideleri]]’dir. Bilimsel döneme kadar çeşitli kaynaklarda atasözleri, efsaneler, hikâyeler, masallar, türküler, seyahatnameler bulunmaktadır.
-
-Türkiye’de folklor araştırmalarında [[halk edebiyatı]], [[etnoloji]] ve [[Türkiyat]] ile halk kültürünün belli başlıkları ortaya çıkarılmıştır. Gelenekler ve töreler doğum, düğün, ölüm kültürleriyle yaygın bir folklor ağıdır.
-
-=== Mutfak ===
-[[Türk mutfağı]], [[Çin mutfağı|Çin]] ve [[Fransa|Fransız]] mutfaklarıyla beraber dünyanın en zengin mutfaklarındandır. Coğrafyası ve tarihi gereği, Türk mutfağı çok büyük bir çeşitlilik oluşturur. Türk mutfağı, [[Mezopotamya]] ve [[Balkanlar|Balkan]] mutfaklarıyla etkileşime girmiştir, [[İstanbul]] [[Osmanlı]] Saray mutfağı da Türk mutfağının önemli bir kısmını oluşturur.
-
-[[Dosya:Beypazarı Sofrası.jpg|thumb|[[Beypazarı]] yöresine ait, geleneksel bir [[Türk mutfağı|Türk sofrası]].]]
-[[Osmanlı Saray Mutfağı]]'ında çok çeşitli çorba, zeytinyağlı sebze, etli yemek, balık, börek, tatlı mönüleri mevcuttur. Saray mutfağı, [[Bizans İmparatorluğu]]'dan [[Osmanlı]]'ya yüzyılların saray zevki ve tecrübesiyle oluşan elit bir mutfaktır. O dönemlerde, Halk ve köy mutfağı ise sade ve basittir.
-
-Her yörenin ve köyün kendine özgü yemekleri bulunmaktadır.
-
-Günümüzde, Saray kültürü ile halk kültürünün karışımı bir "Türk mutfağı" ortaya çıkmıştır. Birçok saray yemeği, halk tarafından benimsenmiştir.
-
-Türk mutfağı;
-
-* Akdeniz kültürü
-* Doğu kültürü
-* Saray kültürü
-* Bozkır kültürü olarak sınıflandırılmıştır.
-
-=== Basın - yayın === 
-Türkiye'de Radyo ve Televizyonculuk basın özgürlüğüne göre yürütülmektedir. [[Türkiye Radyo Televizyon Kurumu]] kamu yayıncılığı yapmakta olup Türkiye'nin ilk televizyon kanalıdır.<ref>{{Web kaynağı|url=http://www.trt.net.tr/wwwtrt/tarihce.aspx|başlık=trt.net.tr - Tarihçe |erişimtarihi=9 Kasım 2008}}</ref>
-
-Türkiye'de 21 ulusal, 14 bölgesel ve de 229 yerel televizyon kanalı yayın yapmaktadır. 3984 sayılı Kanuna göre, Türkiye'de özel yayıncılığı [[RTÜK]] denetlemektedir.<ref>[http://www.rtuk.org.tr/sayfalar/IcerikGoster.aspx?icerik_id=f0c9239c-b841-4129-8069-d7ad023874d9 Radyo ve Televizyon Üst Kurulu]</ref>
-
-=== Sinema ===
-İlk Türk filmi [[Fuat Uzkınay]] tarafından çekilen '[[Ayastefanos'daki Rus Abidesinin Yıkılışı]]'<ref>[http://www.telifhaklari.gov.tr/BelgeGoster.aspx?F6E10F8892433CFF71BE64510F6C8BC9ADDAA4620FEED757 telifhaklari.gov.tr]</ref> (1914) oldu. Metin Erksan'ın yönettiği siyah beyaz film ''Susuz Yaz'' 1964 Berlin Uluslararası Film Festivali'nde Altın Ayı ödülünü kazanmıştır.<ref>[http://www.berlinale.de/en/archiv/jahresarchive/1964/01_jahresblatt_1964/01_Jahresblatt_1964.html Berlin International Filmfestspiale-Annual Ardhives-1964]</ref> 1970'li yıllarda [[Yeşilçam]] film sektörü Türkiye'ye sayısız film kazandırdı ve önemi bugün de her zaman belirtilmektedir. [[Türkân Şoray]], [[Filiz Akın]], [[Hülya Koçyiğit]], [[Yılmaz Güney]], [[Kadir İnanır]], [[Cüneyt Arkın]], [[Ediz Hun]], [[Kartal Tibet]], [[Kemal Sunal]], [[Şener Şen]], [[Münir Özkul]], [[Adile Naşit]] gibi daha birçok sanatçının profesyonel oyunculukları bugün bile bir örnek teşkil etmektedir. Fakat 1970'li yılların sonlarına doğru pornografik içerikli filmlere ağırlık verilmesiyle, film sektöründe bir yozlaşma süreci başladı. Bunun sonucunda eskisi gibi önemli filmler çekilememeye ve de Türkiye genelinde önceden dolup taşan sinemalar bir bir kapanmaya başladı.
-
-Politik yaşamın durduğu 80'li yıllarda cezaevinden kaçarak Fransa'ya yerleşen [[Yılmaz Güney]]'in ''[[Yol (film)|Yol]]'' filmi Yılmaz Güney ve Şerif Gören'e Altın Palmiye ödülünü getirmiştir.<ref>[http://www.festival-cannes.org/archives/prix.php?langue=6002&edition=1982 Cannes Film Festivali resmi sitesi, 1982 Yılı sonuçları]</ref>
-
-1990'lı yıllarda sinemanın canlanmasında "[[Eşkıya (film)|Eşkiya]]" filmi bu bağlamda adeta ön rol oynamıştır. 2000'li yıllara girilmesiyle Türkiye'de birçok film çekilmeye başlanmıştır. Her ne kadar [[Yeşilçam]]'da olduğu gibi henüz bir sektör haline gelmese de, bazı yönetmenlerin çabalarıyla iyi işler çıkartılabilmektedir. Örneğin [[Nuri Bilge Ceylan]] yönetmenliğindeki "[[Uzak]]" adlı film 2003 [[Cannes Film Festivali]]'nde "Jüri Büyük Ödülü"nü kazanmıştır. Aynı şekilde [[Fatih Akın]]'ın yönetmenliğinde çekilen "Gegen die Wand" (Duvara Karşı) adlı film, [[Berlin Film Festivali]]'nde "Altın Ayı" ödülünü kazanmıştır.<ref>[http://www.berlinale.de/en/archiv/jahresarchive/2004/01_jahresblatt_2004/01_Jahresblatt_2004.html Berlin International Filmfestspiale-Annual Ardhives-2004]</ref>
-
-[[Fetih 1453]], [[İstanbul'un Fethi]]'ni konu alan ve [[Ulubatlı Hasan]]'ın hayat hikayesi çevresinde kurgulanan Türk yapımı geniş bütçeli [[Film|sinema filmidir]].
-
-17.000.000[[ABD doları|$]] olarak duyurulan bütçesiyle en pahalı [[Türk sineması|Türk filmi]] olma özelliğini taşıyan<ref>{{Web kaynağı| url         = http://www.dipnot.tv/23940/17-milyon-dolarlik-Osmanli-filmi-vizyonda.aspx | başlık      = 17 milyon dolarlık Osmanlı filmi vizyonda | erişimtarihi= 10 Mart 2012 | tarih       = 16 Şubat 2012 | yayımcı     = dipnot.tv | dil         = [[Türkçe]] }}</ref> filmin yapımcı şirketi [[Aksoy Film]]dir.
-
-"[[Kurtlar Vadisi Irak]]" adlı 10 Milyon dolar bütçeyle Türkiye'nin [[Fetih 1453]]' ten sonra en masraflı yapımı unvanını taşıyan film, Anti-Amerikanizm içerdiği iddialarıyla Türkiye'de olduğu kadar yurt dışında da çok tartışılmaktadır.
-
-=== Müzik ===
-{{ana madde|Türk müziği}}
-
-Geleneksel Türk müziğinin kökleri iki ana kol olarak; [[Selçuklu]] dönemine değin uzanır. Bunlar; halk çevresinde gelişen [[halk müziği]] ve aristokrasi çevresinde gelişen [[klasik türk müziği]]dir. Zira; [[Osmanlı]] döneminde; şehirlerde, saray çevresinde ve konaklarda "kâr, beste, semai, şarkı" adı verilen ezgilere rastlanırken; halk arasında ve köylerde "türkü, bozlak, uzun hava, zeybek, oyun havası" adı verilen ezgilere rastlanmaktadır. Bu yüzden, şehir ve saray çevresinde gelişen müzik bugünkü [[Türk Sanat Müziği]]nin temelini; halk arasında gelişen müzik ise [[Türk Halk Müziği]]nin dayanağını oluşturmuştur. Cumhuriyet döneminde köy türküleri üzerine yapılan araştırmalar yoğunlaşmış ve pek çoğu derlenerek korunmaya çalışılmıştır.
-
-[[Klasik Batı Müziği]] ise, cumhuriyet dönemi devrimler sonrası Türkiye'de gelişmiş ve Klasik Batı müziğine oldukça önem verilmiştir. 1924'de Ankara'da Musiki Muallim Mektebi kurulmuş ve
-yetenekli gençlerin Avrupa ülkelerine gönderilip yetiştirilmesi hareketi başlamıştır. İstanbul'da çalışmalarını sürdüren Darrültalimi Musiki adlı okul yeni bir yönetmelikle konservatuvar haline getirilmiştir. Çok sesli sanat müziğinde sesini Batı'da ilk duyuran Türk sanatçı [[Cemal Reşit Rey]] olmuştur.
-
- 
-1970'lerden sonra popüler kültürle birlikte gelişmeye başlayan [[popüler müzik]] ise, farklı kesimlerce farklı biçimlerde algılanmıştır. Önce [[Türk pop müziği]] ve [[Anadolu rock]] doğmuştur. 1980lerde gettolarda Türkiye'ye özgü [[arabesk müzik]] türemiştir; protest ve özgün müzik türleri ortaya çıkmıştır. 90lı yılların sonlarında alternatif rock, karadeniz rock, Türkçe rap, Türkçe jazz gibi türler doğmuştur. Türk Sanat Müziğinin klasik kalıplarından oldukça uzaklaşılmasıyla [[fantezi müzik]] ortaya çıkmıştır. Daha sonraları pop müzik sırasıyla arabesk ve fantezi ile karışmış; Türkiye'ye özgü arabesk-pop ve fantezi-pop türleri popüler müziğin büyük kısmını kaplamıştır.2003 yılında [[Eurovision Şarkı Yarışması]]nda [[Sertab Erener]], [[Everyway That I Can]] adlı şarkıyla birinci olmuştur. Ayrıca, Tarkan, Mustafa Sandal, Ajda Pekkan, Sezen Aksu, İbrahim Tatlıses gibi, uluslararası alanda da kabul görmüş Türk sanatçılar da vardır.
-
-=== Spor ===
-{{ana madde|Türkiye'de spor}}
-
-Türkiye’de spor kulübü sayısı, 2010 verilerine göre 9.979’dur. Bunun 6.828’i [[futbol]] branşında, 3.151’i ise diğer spor branşlarında faaliyet göstermektedir. Yani, her 7.275 kişiye bir spor kulübü düşmekte, futbol branşı baz alındığında ise her 10.632 kişiye bir futbol spor kulübü düşmektedir. İl bazında ise, [[Uşak]]'ta 3874 kişiye bir spor kulübü düşerken, [[Ankara]]’da 14.004 kişiye, [[İstanbul]]’da 14.474 kişiye bir spor kulübü düşmektedir. Böylece, Ankara, İstanbul gibi büyük iller Türkiye ortalamasının altında kalmaktadır. Nüfusa göre spor kulübü başına düşen en fazla insan sayısı ise [[Kilis]]'te bulunmaktadır (36.681). Yine özellikle [[Güneydoğu Anadolu Bölgesi]] illerinden [[Mardin]], [[Şırnak]], [[Van]], [[Şanlıurfa]] ve [[Diyarbakır]]'da da kulüp başına düşen insan sayısı oranları açısından iyi durumda değillerdir.<ref name="gg">[http://www.gsgm.gov.tr Gençlik ve Spor Genel Müdürlüğü]</ref>
-
-Türkiye'de spor yapan insanların toplam nüfusa oranı % 1-2 kadardır. Mevcut spor federasyonlarının lisanslı sporcu sayısı 122.939'dur. Spor federasyonları şu dallarda kurulmuştur: [[Atletizm]], [[avcılık]] ve [[atıcılık]], [[badminton]], [[beyzbol]], [[basketbol]], [[bedensel engelliler]], [[bilardo]], [[binicilik]], [[bisiklet]], [[bocce]], [[boks]], [[briç]], [[buz pateni]], [[cimnastik]], [[dağcılık]], [[eskrim]], [[futbol]], [[geleneksel spor]], [[golf]], [[güreş]], [[halk oyunları]], [[halter]], [[hapkido]], [[hentbol]], [[izcilik]], [[judo]], [[kano ve rafting]], [[karate]], [[kayak]], [[kikboks]], [[kürek]], [[masa tenisi]], [[modern pentatlon]], [[motosiklet]], [[muay tay]], [[okçuluk]], [[otomobil ve motor]], [[oryantiring]], [[satranç]], [[sayokan]], [[sualtı ve cankurtarma]], [[sutopu]], [[tekvando]], [[tenis]], [[triatlon]], [[üniversite sporları]], [[voleybol]], [[vücut geliştirme]], [[yelken]], [[yüzme]].
-
-[[Dosya:Türk Telekom Arena view.jpg|thumb|left|250px|Türk Telekom Arena]]
-
-Nüfusa göre sporcu oranı 509 iken bu oran futbol branşında 148’dir. [[Gençlik ve Spor Genel Müdürlüğü]] ve [[TFF|Futbol Federasyonu]]'na kayıtlı toplam lisanslı sporcu sayısı 544.572’dir. Türkiye nüfusuna göre oranı ise 115’dir. Bu orana göre her 115 kişiden biri spor yapmaktadır.
-
-Nüfus başına düşen sporcu oranı en iyi durumdaki il [[Yalova]]’dır (37). İkinci olarak [[Kırklareli]] gelmektedir (55). Sayısal açıdan en kötü durumda olan illerimiz ise [[Diyarbakır]] (375) ve [[Şırnak]] (383) gözükmektedir. Bu arada [[İzmir (il)|İzmir]] ili nüfusu başına düşen sporcu sayısı 99, [[İstanbul (il)|İstanbul]] ilinde 107, [[Ankara (il)|Ankara]] ilinde ise 153’tür. Bu verilere göre başkent [[Ankara]] dahi Türkiye ortalamasının altında kalmaktadır.
-
-==== Halter ====
-Cep Herkülü olarak bilinen [[Naim Süleymanoğlu]] halter dalında 45 olimpiyat ve dünya rekoru kırmış, Seul Barcelona ve Atalanta olimpiyatlarında altın madalya almıştır. 1992 yılında Uluslararası Halter Basın Komisyonu tarafından "Dünyanın En İyi Sporcusu" seçilmiştir.
-
-[[Halil Mutlu]] olimpiyat tarihinde üst üste 3 kez madalya alan 4. sporcu olarak halter dalında tarihe geçmiştir.
-
-==== Güreş ====
-Geleneksel bir Türk sporu olan [[güreş]]in en önemli karşılaşması [[Kırkpınar Yağlı Güreşleri]]'dir. Türklerin MÖ 4. yy.dan beri güreş yaptıkları bilinmektedir. İlkbahar aylarında doğanın canlanışı için yapılan kutlamalarda, evlenme merasimlerinde, zafer şölenlerinde hep güreş müsabakalari yapılırdı. 1996 yılında Geleneksel Spor Dalları Federasyonu kurulmuş ve yağlı güreş için önemli bir adım atılmıştır.
-
-==== Futbol ====
-<!--  Dışarıda bırakıldı: [[Dosya:Uefa kupasi galatasaray.jpg|250px|thumb|<center>[[Galatasaray SK]] Avrupa Kupası alan İlk Türk futbol takımı olarak tarihe geçmiştir.]] -->
-Türkiye'de en çok sevilen sporlardan biri de [[futbol]]dur. Futbol ligler halinde oynanmakta ve bunların en büyüğü [[Spor Toto Süper Lig]]'dir. Lig şampiyonu olabilmiş olan takımların üçü ([[Beşiktaş Jimnastik Kulübü|Beşiktaş]], [[Fenerbahçe Spor Kulübü|Fenerbahçe]] ve [[Galatasaray Spor Kulübü|Galatasaray]]) İstanbul takımı, iki tanesi ([[Trabzonspor]]) ve ([[Bursaspor]]) ise Anadolu takımıdır. Futbol kulüpleri [[TFF|Türkiye Futbol Federasyonu]] çatısı altında toplanmıştır.<ref>[http://www.tff.org.tr/ Türkiye Futbol Federasyonu resmi internet sitesi]</ref>
-
-[[Galatasaray Spor Kulübü|Galatasaray]] Avrupa'da kupa kazanan ilk ve tek Türk futbol takımıdır. 2000 yılında [[UEFA Kupası]] ve [[UEFA Süper Kupa]]'yı kazanmıştır. 
-
-[[Türkiye Millî Futbol Takımı]] [[Euro 2000]]'de 6., [[2002 FIFA Dünya Kupası]]'nda 3., [[Euro 2008]]'de ise 3. olmuştur.
-
-==== Basketbol ====
-[[Dosya:La selección turca de baloncesto tras recibir la medalla de plata.jpg|250px|thumb|<center>[[2010 FIBA Dünya Basketbol Şampiyonası]]'nda [[Türkiye Millî Basketbol Takımı]] 2. olmuştur.]] 
-Basketbol Türkiye'de en çok ilgi gören sporlardan biridir. Basketbol'un en büyük ligi [[Beko Basketbol Ligi]]'dir.
-
-[[Anadolu Efes Spor Kulübü]], [[Galatasaray Medical Park]], [[Fenerbahçe Ülker]], [[Beşiktaş Erkek Basketbol Takımı]] gibi takımlar [[Euroleague]]'de ve diğer özel turnuvalarda çok büyük başarılar göstermişlerdir. Ayrıca Anadolu Efes 1996 yılında [[Koraç Kupası]]'nı kazanarak, Avrupa Kupası kazanan ilk Türk takımı olma unvanını elde etmiştir.<ref>{{Web kaynağı|url=http://tr.wikipedia.org/wiki/Anadolu_Efes_Spor_Kul%C3%BCb%C3%BC|başlık=Anadolu Efes Spor Kulübü! |yayımcı=Wikipedia|erişimtarihi=02.01.2011}}</ref>
-
-2012 yılında FIBA EuroChallenge Şampiyonluğu kupasını kazanan Beşiktaş Milangaz Avrupa'da kupa kazanabilen 2. Türk takımı'dır.
-
-[[Türkiye Millî Basketbol Takımı]]'da turnuvalarda büyük başarı elde etmiştir. Örneğin [[2001 Avrupa Basketbol Şampiyonası]] gümüş madalya ve [[2010 FIBA Dünya Basketbol Şampiyonası]] gümüş gibi.
-
-2010 FIBA Dünya Basketbol Şampiyonası, 28 Ağustos ve 12 Eylül tarihleri arasında Türkiye'de gerçekleştirilmiştir. Şampiyonayı FIBA, Türkiye Basketbol Federasyonu ve 2010 Organizasyon Komitesi ortaklaşa organize etmiştir ve 2. olmuştur.
-
-1986'dan beri üçüncü defa 24 ülkenin katıldığı turnuvanın takım karşılaşmaları İstanbul, Ankara, İzmir ve Kayseri'de, bitiş aşaması İstanbul Sinan Erdem Spor Salonu'nda oynanmış, kazanan ise bitişte Türkiye'yi 64-81 mağlup eden Amerika Birleşik Devletleri olmuştur. Kadın Milli Basketbol Takımı 2011 Avrupa Kadınlar Şampiyonası'nda ikinci olmuştur. Ayrıca 2013 Akdeniz Oyunlarında Erkek Milli Basketbol Takımı altın madalya almıştır.
-
-== Ulaşım ve taşımacılık ==
-{{ana|Türkiye'de ulaşım}}
-Türkiye'de 8779 kilometresi elektrikli, 3167 kilometresi elektriksiz ve 888 kilometresi yüksek hızlı tren hattı olmak üzere toplam 11.940&nbsp;km demiryolu<ref>{{Web kaynağı|url=http://www.tuik.gov.tr/PreIstatistikTablo.do?istab_id=371|başlık=tuik.gov.tr - Demiryolu hat uzunluğu (xls belgesi)|erişimtarihi=12 Ocak 2013}}</ref>, 450.000&nbsp;km karayolu, 1.200&nbsp;km suyolu, 12.528&nbsp;km doğalgaz<ref>{{web kaynağı|başlık=tuik.gov.tr - xls belgesi|url=http://www.tuik.gov.tr/PreIstatistikTablo.do?istab_id=351|erişimtarihi=12 Ocak 2013}}</ref> , 3038&nbsp;km ham petrol borusu<ref name="tuik.gov.tr (xls belgesi)">{{web kaynağı|url=http://www.tuik.gov.tr/PreIstatistikTablo.do?istab_id=350|başlık=tuik.gov.tr (xls belgesi)|erişimtarihi=12 Ocak 2013}}</ref> bulunmaktadır.
-Ayrıca Türkiye'de 120 havalimanı<ref>{{Web kaynağı|url=http://www.dhmi.gov.tr/dosyalar/limanvemeydanlar/limanvemeydanlar.asp|başlık= DHMİ.gov.tr - Havalimanı ve bedestenler|erişimtarihi=2 Kasım 2008}}</ref>, 850 helikopter alanı bulunmaktadır.
-
-{{geocompass
-|hub = Türkiye
-|type= den
-|NW = [[Dosya:Flag of Bulgaria.svg|30px|border]]&nbsp;[[Bulgaristan]] ve [[Dosya:Flag of Greece.svg|30px|border]]&nbsp;[[Yunanistan]]
-|NN = [[Dosya:Black Sea Nasa May 25 2004.jpg|30px|border]]&nbsp;[[Karadeniz]]
-|NE = [[Dosya:Flag of Georgia.svg|30px|border]]&nbsp;[[Gürcistan]]
-|WW = [[Dosya:Aegeansea.jpg|30px|border]]&nbsp;[[Ege Denizi]]
-|EE = [[Dosya:Flag of Armenia.svg|30px|border]]&nbsp;[[Ermenistan]]<br />
-[[Dosya:Flag of Iran.svg|30px|border]]&nbsp;[[İran]] ve [[Dosya:Flag of Azerbaijan.svg|30px|border]]&nbsp;[[Nahçıvan|Nahçıvan (Azerbaycan)]]
-|SW = [[Dosya:Mediterranian Sea 16.61811E 38.99124N.jpg|30px|border]]&nbsp;[[Akdeniz]]
-|SS = [[Dosya:Flag of Syria.svg|30px|border]]&nbsp;[[Suriye]] ve 
-[[Dosya:Mediterranian Sea 16.61811E 38.99124N.jpg|30px|border]]&nbsp;[[Akdeniz]]
-|SE = [[Dosya:Flag of Iraq.svg|30px|border]]&nbsp;[[Irak]]
-}}
-
-== Kaynakça ==
-{{Vikiler |commons=Turkey |wikispecies=Turkey |wikt=:en:Special:Search/Turkey |b=:en:Diplomacy/Turkey |s=Özel:Ara/Türkiye |q=Türkiye|n=Portal:Türkiye |v=Turkey |m=:en:Category:Turkey}}
-===== Genel =====
-* Atatürk, Mustafa Kemal (1927). '[[Nutuk (eser)|Nutuk]]'', Cilt 1-2-3, Türk Devrim Tarihi Enstitüsü, İstanbul 1970.
-* De Lamartine, Alphonse. ''Osmanlı Tarihi'', Cilt 1, Sabah Yayıncılık, İstanbul 1991.
-* Öztürk, Kazım (1992). ''Atatürk'ün TBMM Açık ve Gizli Oturumlarındaki Konuşmaları'', Cilt 1-2, Kültür Bakanlığı-Atatürk Dizisi. ISBN 975-17-0635-1
-* Akay, Oğuz (2006). ''Atatürk'ün Sofrası''. Truva Yayınları. ISBN 975-6237-54-6
-* ''Meydan Larousse'', Meydan Yayıncılık, 1988, Cilt 12, Sh. 357-388, Türkiye Cumhuriyeti.
-* ''Temel Britannica'', Ana Yayıncılık-Encyclopaedia Britannica, 1992, Cilt 18, Sh. 41-96; Türkiye. ISBN 975-7760-02-1
-* ''Türklerin ve Türkiye'nin Tarihi Ansiklopedisi'', Milliyet Yayınları, 1982.
-
-===== Atıflar =====
-{{kaynakça|30em}}
-
-== Dış bağlantılar ==
-* {{Wikiatlas|Turkey}}
-{{Portal|Türkiye}}
-* [http://www.cankaya.gov.tr/ Türkiye Cumhuriyeti Cumhurbaşkanlığı]
-* [http://www.basbakanlik.gov.tr/ Türkiye Cumhuriyeti Başbakanlık]
-* [http://www.tsk.tr Türkiye Cumhuriyeti Genelkurmay Başkanlığı]
-* [http://www.tbmm.gov.tr/ Türkiye Büyük Millet Meclisi]
-* [http://www.icisleri.gov.tr/ Türkiye Cumhuriyeti İçişleri Bakanlığı]
-* [http://www.mfa.gov.tr/mfa_tr/default.htm Türkiye Cumhuriyeti Dışişleri Bakanlığı]
-* [http://www.meb.gov.tr/ Türkiye Cumhuriyeti Milli Eğitim Bakanlığı]
-* [http://www.kultur.gov.tr/ Türkiye Cumhuriyeti Kültür ve Turizm Bakanlığı]
-* [http://www.turkiye-rehberi.net/ Türkiye Rehberi]
-* [http://www.tcmb.gov.tr/ Türkiye Cumhuriyet Merkez Bankası]
-* [https://www.turkiye.gov.tr/ E-devlet resmi portalı]
-* [https://giris.turkiye.gov.tr/ E-devlet resmi girişi]
-
-{{Türkiye konuları}}
-{{Dolaşım grubu
-|title=Coğrafî konum
-|list=
-{{Avrupa ülkeleri}}
-{{Asya ülkeleri}}
-{{Balkanlar}}
-{{Akdeniz'e kıyısı olan ülkeler}}
-{{Karadeniz'e kıyısı olan ülkeler}}
-{{Türk halklarının bulunduğu ülke ve bölgeler}}
-{{İranî halkların bulunduğu ülke ve bölgeler}}
-}}
-{{Dolaşım grubu
-|title=Uluslararası örgütler
-|list=
-{{Avrupa Birliği}}
-{{Avrupa Konseyi}}
-{{NATO}}
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big>'''Türkiye'''<br />
+Türkiye </br>
+</big></big>
+|-
+| style="background:#ffffff;" align=center colspan=2 |
+{| border=0 cellpadding=2 cellspacing=0
+| align=center width=148 | [[Dosye:Flag of Turkey.svg|125px]]
+| align=center width=148 | [[Dosye:Presidential_Seal_of_the_Republic_of_Turkey.svg|85x85px]]
+|-
+| align=center width=148 | Türkiye bayraı
+| align=center width=148 | Türkiye gerbi
+|}
+|-
+| '''Milli Deviz'''
+| Yurtta Barış, Dünyada Barış
+|-
+| '''Milli Gimna'''
+| İstiklal Marşı
+|-
+| align=center colspan=2 style="background: #ffffff;" | [[Dosye:Turkey (orthographic projection).svg|260px|center]]
+|-
+| '''Geografik koordinatnarı'''
+| 39° 55′ 0″ N, 32° 50′ 0″ E
+|-
+| '''Adı'''
+| {{TUR}} 
+|-
+| '''Baş kasaba'''
+| [[Ankara]]
+|-
+| '''Ofiţial dil'''
+| [[Türk dili]]
+|-
+| '''Halk'''
+| Türk
+|-
+| '''En büük kasaba'''
+| [[İstanbul]]
+|-
+| '''Devlet kurumu'''
+| Parlamenta demokratiye 
+|-
+| '''Prezident'''
+| Abdullah Gül
+|-
+| '''Primyer ministru'''
+| Recep Tayyip Erdoğan
+|-
+| '''Kurucu'''
+| Mustafa Kemal Atatürk
+|-
+| '''Parlament başkanı'''
+| Mehmet Ali Şahin
+|-
+| '''Zakon sud başkanı'''
+| Haşim Kılıç
+|-
+| '''Baamsızlık'''
+| {{Osmannı Devleti}} 29 Canavar ay 1923
+|-
+| '''Toprak'''
+| 783,562 km² (37-cü)
+|-
+| '''Su'''
+| % 1,3 
+|-
+| '''İnsannar'''
+| 72,561,312 (18-cü)
+|-
+| İnsannar sıklıı
+| 93 /km² (108-cü) 
+|-
+| '''Para'''
+| Türk Lirası
+|-
+| '''BİMG'''
+| 2008
+|-
+| '''Hepsi'''
+| 744,2 milyard Dollar (19-cü)
+|-
+| '''Kişi başına'''
+| 10,745 Dollar (21-cü)
+|-
+| '''Saat Kuşaı'''
+| EET (UTC+2)
+|-
+| '''Yaz'''
+| EEST (UTC+3)
+|-
+| '''Telefon kodu'''
+| +90
+|-
+| '''Internet Domeni'''
+| .tr
+|}
+[[Dosye:MustafaKemalAtaturk.jpg|220px|right|thumb|Mustafa Kemal Atatürk]]
+[[Dosye:Aya sofya.jpg|220px|right|thumb|Türkiye]]
+[[Dosye:Kocatepe Mosque Ankara.jpg|220px|right|thumb|Türkiye]]
+[[Dosye:067 Etnografya.05.2006 resize.JPG|220px|right|thumb|Türkiye]]
+[[Dosye:DolmabahceMainGate.JPG|220px|right|thumb|Türkiye]]
+[[Dosye:İzmir clock tower.jpg|220px|right|thumb|Türkiye]]
+[[Dosye:Pamukkale00.JPG|thumb|right|220px|Türkiye]]
+[[Dosye:Eskişehir-Aycan.jpg|thumb|right|220px|Türkiye]]
+[[Dosye:Antalya falezler.jpg|220px|right|thumb|Türkiye]]
+[[Dosye:Alanya.jpg|220px|right|thumb|Türkiye]]
+[[Dosye:Bluemosquefront.jpg|thumb|right|220px|Türkiye]]
+[[Dosye:Diyarbakir P1050751 20080427135832.JPG|thumb|right|220px|Türkiye]]
+'''Türkiye''' (''Türkiye Respublikası''; [[Türk dili|Türk]]: ''Türkiye'') — [[Evropa]] hem [[Aziya]] da bir devlet. 
+
+* Kumsal: 8,333 km
+* Trakiya: 24.370 km² dir. 
+
+* Klimat: 
+** Kara klimatı
+** Kara deniz klimatı
+** Akdeniz klimatı
+** Suuk klimat
+
+* En alçak noktası: Akdeniz 0 m
+* En üüsek noktası: Aarı Tepe 5,165 m
+* Madeemler: Demir, Bakır, Kurşun, Kömür, Bor, Ak şufa, Krom, Uranyum, Neft, linyit
+* Sulu toprak: 52,150 km² (2003)
+* Tabiat olayları, sel, teprem
+* İnsannar artmaa: % 1,06 (2006)
+* Uşak ölüm: 39.69 ölüm/1,000 duun uşak (2006)
+* Ömür Hepsi insannar: 72.62 yıl
+* Erkekler: 70.18 yıl
+* Kadınnar: 75.18 yıl (2006)
+* Uşak sayısı: 1.92 uşak/kadın (2006)
+* HIV/AIDS (hepsi): 1325 kişi (2001)
+
+* Dinner: İslam % 99.8, Başka dinner: % 0.2 (Hristian, Çıfıt başka)
+
+* Okumaa: 15 yaş üstü
+* İnsannar hepsi: %86.5
+* Erkekler: % 94.3
+* Kadınnar: % 78.7 (2003)
+* Kanon (Zakon): 7 Kasım ay 1982
+* İş gücü: 25 056 milion (2006)
+* İşsizlik: % 9,6 (2006)
+* Üniversitet: 120
+* İndüstri: Tekstil, imek, avtomobil, maadem, çelik, neft, yapı, ekincilik, turizma
+* İndüstri büüme: %5.5 (2006)
+* Telefon hatları: 18.978 milion (2005)
+
+* Telefon kodu: +90
+* Radio istasionnarı: AM 16, FM 107, kısa dalga 6 (2001)
+* Radiolar: 11.3 milion (1997)
+* Televizor istasionnar: 635 (1995)
+* Televizyonlar: 20.9 milyon (1997)
+* İnternet servis saalayıcıları: 22 (2000)
+* İnternet kullanıcıları: 16 milyon (2005) 
+* Demiryolu: 8,697 (2005)
+* Karayolu: 450.000 km (2004 )
+* Su yolu: 1,200 km (2005)
+* Boru gz yolu: 4,621 km; 
+* Neft yolu: 3,543 km (2006)
+* Aeroport: 120 (2006)
+
+== Türkiye bölgeleri ==
+* Marmara Bölgesi % 8,5,
+* Ege Bölgesi % 12, 
+* Akdeniz Bölgesi % 16, 
+* İç Anatoliya Bölgesi % 18,
+* Karadeniz Bölgesi % 18,
+* Günduusu Anatoliya Bölgesi % 21,
+* Üülen günduusu Anatoliya Bölgesi % 7,5 
+
+== Türkiye 81 Rayon ==
+* [[Adana]] 
+* [[Adıyaman]] 
+* [[Afyonkarahisar]] 
+* [[Aarı]] 
+* [[Aksaray]] 
+* [[Amasya]] 
+* [[Ankara]]
+* [[Antalya]] 
+* [[Ardahan]] 
+* [[Artvin]] 
+* [[Aydın]] 
+* [[Balıkesir]] 
+* [[Bartın]] 
+* [[Batman]] 
+* [[Bayburt]] 
+* [[Bilecik]] 
+* [[Bingöl]] 
+* [[Bitlis]] 
+* [[Bolu]] 
+* [[Burdur]] 
+* [[Bursa]] 
+* [[Çanakkale]] 
+* [[Çankırı]] 
+* [[Çorum]] 
+* [[Denizli]] 
+* [[Diyarbakır]] 
+* [[Düzce]] 
+* [[Edirnä]] 
+* [[Elazıı]] 
+* [[Erzincan]] 
+* [[Erzurum]] 
+* [[Eskişehir]] 
+* [[Gaziantep]] 
+* [[Giresun]] 
+* [[Gümüşhane]] 
+* [[Hakkari]] 
+* [[Hatay]] 
+* [[Iıdır]] 
+* [[Isparta]] 
+* [[İstanbul]] 
+* [[İzmir]]
+* [[Kahramanmaraş]] 
+* [[Karabük]] 
+* [[Karaman]] 
+* [[Kars]] 
+* [[Kastamonu]] 
+* [[Kayseri]] 
+* [[Kırıkkale]] 
+* [[Kırklareli]] 
+* [[Kırşehir]] 
+* [[Kilis]] 
+* [[Kocaeli]] 
+* [[Konya]] 
+* [[Kütahiya]] 
+* [[Malatya]] 
+* [[Manisa]] 
+* [[Mardin]] 
+* [[Mersin]] 
+* [[Muula]] 
+* [[Muş]] 
+* [[Nevşehir]] 
+* [[Niide]] 
+* [[Ordu]] 
+* [[Osmaniye]] 
+* [[Rize]] 
+* [[Sakarya]] 
+* [[Samsun]] 
+* [[Siirt]] 
+* [[Sinop]] 
+* [[Sivas]] 
+* [[Şırnak]] 
+* [[Tekirdaa]] 
+* [[Tokat]] 
+* [[Trabzon]] 
+* [[Tunceli]] 
+* [[Şannıurfa]] 
+* [[Uşak]] 
+* [[Van]] 
+* [[Yalova]] 
+* [[Yozgat]] 
+* [[Zonguldak]]
+
+== Komşuları ==
+
+Türkiye kara sınırları hepsi: 2.875 km 
+
+* {{Armeniya}} 268 km 
+* {{Azerbaycan}} 9 km
+* {{İran}} 499 km,
+* {{Siriya}} 822 km
+* {{İrak}} 352 km
+* {{Bulgariya}} 280 km 
+* {{Grețiya}} 206 km, 
+* {{Gruziya}} 252 km
+
+== Türkiye Gölleri ==
+* Van Gölü 3.713 km² 
+* Tuz Gölü 1.500 km² 
+* Beyşehir Gölü 656 km² 
+* Eğridir Gölü 468 km² 
+* Akşehir Gölü 353 km² 
+* İznik Gölü 298 km²
+* Sapanca Gölü 46.9 km²
+
+== Türkiye Limannarı ==
+* Gemlik, Hopa, İskenderun, İstanbul, İzmir, Kocaeli (İzmit), İçel (Mersin), Samsun, Trabzon, Sinop, Güllük
+
+== Türkiye Adaları ==
+* Gökçeada 279 km² 
+* Marmara Adası 117 km² 
+* Bozcaada 36 km² 
+* Uzunada 25 km² 
+* Alibey 23 km² 
+* Paşalimanı 21 km² 
+* Avşar 21 km²
+* Heybeliada 2.3 km²
+
+== Türkiye Literaturası ==
+* Nasreddin Hoca
+* Abdullah Bosnevi
+* Yunus Emre
+* Hacı Bektaşi Veli
+* Pir Sultan Abdal
+* Abdi
+* Karacaoğlan
+* Tatavlalı Mahremi
+* Edirneli Nazmi
+* Dadaloglu
+* Gevheri
+* Seyrani
+* İmadeddin Nesîmî
+* Fuzûlî
+* Erzurumlu Emrah
+* Bâkî
+* Hoca Dehhani
+* Nef‘î
+* İmadeddin Nesîmî
+* Nedîm
+* Şeyh Gâlib
+* Adem Dede
+* Evliya Çelebi
+* Kâtip Çelebi
+* Yirmisekiz Mehmed Çelebi
+* Aşık Çelebi
+* Ziya Paşa
+* Şemsettin Sami
+* Namık Kemal
+* Ahmed Midhat Efendi
+* Tevfik Fikret
+* Cenap Şahabettin
+* Halid Ziya Uşaklıgil
+* Ahmet Haşim
+* Yakup Kadri Karaosmanoglu
+* Ömer Seyfettin
+* Ali Canip Yöntem
+* Mehmet Emin Yurdakul
+* Halide Edip Adıvar
+* Reşat Nuri Güntekin
+* Faruk Nafiz Çamlıbel
+* Mehmet Fuad Köprülü
+* Cevat Şakir Kabaağaçlı
+* Ahmet Hamdi Tanpınar
+* Orhan Kemal
+* Murathan Mungan
+* Orhan Hançerlioğlu
+* Samim Kocagöz
+* Samiha Ayverdi
+* Tarık Buğra
+* Yusuf Atılgan
+* Yaşar Kemal
+* Fakir Baykurt
+* Bilge Karasu
+* Oğuz Atay
+* Tomris Uyar
+* Ahmet Altan
+* Kemalettin Tuğcu
+* Elif Şafak
+* Memduh Şevket Esendal
+* Kenan Hulusi Koray
+* Sait Faik Abasıyanık
+* Kemal Tahir
+* Haldun Taner
+* Aziz Nesin
+* Suut Kemal Yetkin
+* Sabahattin Ali
+* Kemal Bilbaşar
+* Cemil Meriç
+* Ruşen Eşref Ünaydın
+* Nurullah Ataç
+* Behçet Necatigil
+* Necati Cumalı
+* Ahmet Kutsi Tecer
+* Şevket Süreyya Aydemir
+* Mehmet Emin Yurdakul
+* Ziya Gökalp
+* Orhan Veli Kanık
+* Oktay Rıfat Horozcu
+* Melih Cevdet Anday
+* Nazım Hikmet
+* Rıfat Ilgaz
+* Cemal Süreya
+* İlhan Berk
+* Turgut Uyar
+* Edip Cansever
+* Ece Ayhan Çağlar
+* Sezai Karakoç
+* Tevfik Akdağ
+* Ülkü Tamer
+* Neyzen Tevfik
+* Ahmet Haşim
+* Yahya Kemal Beyatlı
+* Abdülhak Şinasi Hisar
+* Orhan Seyfi Orhon
+* Enis Behiç Koryürek
+* Halit Fahri Ozansoy
+* Yusuf Ziya Ortaç
+* Muammer Lütfi
+* Necip Fazıl Kısakürek
+* Ayfer Tunç
+* Vasfi Mahir Kocatürk
+* Sabri Esat Siyavuşgil
+* Cevdet Kudret
+* Yaşar Nabi Nayır
+* Ahmet Muhip Dıranas
+* Cahit Sıtkı Tarancı
+* Ziya Osman Saba
+* Faik Baysal
+* Salah Birsel
+* Özdemir Asaf
+* Abbas Sayar
+* Can Yücel
+* Attilâ İlhan
+* Güven Turan
+* İsmet Özel
+* Yekta Kopan
+* Cem Uzungüneş
+* Mehmet Altun
+* Mehmet Erte
+* Küçük İskender
+* Murat Gülsoy
+* Ali Püsküllüoğlu
+* Aşık Veysel Şatıroğlu
+* Aşık Mahzuni Şerif
+
+{| class="sortable wikitable" style="text-align:right;" 
+|-----
+| align="center" bgcolor="#98FB98" | '''Sıra''' || align="center" bgcolor="#98FB98" | '''Kasaba''' || align="center" bgcolor="#98FB98" | '''2000''' || align="center" bgcolor="#98FB98" | '''2007 ''' || align="center" bgcolor="#98FB98" | '''2009 '''|| align="center" bgcolor="#98FB98"| '''Yıllık insannar artmaa (%)''' 
+|-
+| 1|| align="left" | [[İstanbul]] || 10.033.478 || 12.573.836 || 12.915.158 || +1.71 
+|-
+| 2|| align="left" |  [[Ankara]] || 4.007.860 || 4.466.756 || 4.650.802 || +2.23 
+|-
+| 3|| align="left" | [[İzmir]] || 3.387.908 || 3.739.353 || 3.868.308 || +1.90 
+|-
+| 4|| align="left" | [[Bursa]] || 2.106.687 || 2.439.876 || 2.550.645 || +1.70 
+|-
+| 5|| align="left" | [[Adana]] || 1.854.270 || 2.006.650  || 2.062.226 || +1.77 
+|-
+| 6|| align="left" | [[Konya]] || 2.217.969 || 1.959.082 || 1.992.675 || +1.15
+|-
+| 7|| align="left" | [[Antalya]] || 1.726.205 || 1.789.295 || 1.919.729 || +3.25  
+|-
+| 8|| align="left" | [[Gaziantep]] || 1.293.849 || 1.560.023 || 1.653.670 || +2.57 
+|-
+| 9|| align="left" | [[Mersin]] || 1.668.007 || 1.595.938 || 1.640.888 || +2.36 
+|-
+| 10|| align="left" | [[Şannıurfa]] || 1.439.956 || 1.523.099 || 1.613.737 || +2.50
+|-
+| 11|| align="left" | [[Kocaeli]] || 1.203.335 || 1.437.926 || 1.522.408 || +2.15
+|-
+| 12|| align="left" | [[Diyarbakır]] || 1.364.209 || 1.460.714 || 1.515.011 || +1.48 
+|-
+| 13|| align="left" | [[Hatay]] || 1.232.910 || 1.386.224 || 1.448.418 || +2.48 
+|-
+| 14|| align="left" | [[Manisa]]|| 1.260.169 || 1.319.920 || 1.331.957 || +1.15
+|-
+| 15|| align="left" | [[Samsun]]  || 1.203.681 || 1.228.959 || 1.250.076 || +1.32
+|-
+| 16|| align="left" | [[Kayseri]] || 1.049.659 || 1.165.088 || 1.205.872 || +1.81
+|-
+| 17|| align="left" | [[Balıkesir]]  || 1.076.347 || 1.118.313 || 1.140.085 || +0.86
+|-
+| 18|| align="left" | [[Kahramanmaraş]] || 1.008.069 || 1.004.414 || 1.037.491 || +0.79
+|-
+| 19|| align="left" | [[Van]]  || 877.524 || 979.671 || 1.022.310 || +1.78
+|-
+| 20|| align="left" | [[Aydın]] || 953.006 || 946.971 || 979.155 || +1.41
+|-
+| 21|| align="left" | [[Denizli]] || 843.122 || 907.325 || 926.362 || +0.92
+|-
+| 22|| align="left" | [[Sakarya]] || 746.060 || 835.222 || 861.570 || +1.20
+|-
+| 23|| align="left" | [[Muula]]  || 717.384 || 766.156 || 802.381 || +1.38
+|-
+| 24|| align="left" | [[Tekirdaa]] || 626.549 || 728.396 || 783.310 || +1.62
+|-
+| 25|| align="left" | [[Erzurum]]  || 942.340  || 784.941 || 774.207 || -0.09
+|-
+| 26|| align="left" | [[Trabzon]] || 979.295 || 740.569 || 765.127 || +2.15
+|-
+| 27|| align="left" | [[Eskişehir]]  || 706.009 || 724.849 || 755.427 || +1.84
+|-
+| 28|| align="left" | [[Mardin]]|| 705.098 || 745.778 || 737.852 || -1.71 
+|-
+| 29|| align="left" | [[Malatya]]|| 853.658 || 722.065 || 736.884 || +0.42
+|-
+| 30|| align="left" | [[Ordu]] || 887.765 || 715.409 || 723.507 || +0.58
+|-
+| 31|| align="left" | [[Afyonkarahisar]]|| 812.416 || 701.572 || 701.326 || +0.56
+|-
+| 32|| align="left" | [[Sivas]] || 752.828 || 638.464 || 633.347 || +0.35
+|-
+| 33|| align="left" |  [[Tokat]] || 828.027 || 620.722 || 624.439 || +1.17
+|-
+| 34|| align="left" | [[Zonguldak]]|| 615.299 || 615.890 || 619.812 || +0.10
+|-
+| 35|| align="left" | [[Adıyaman]] || 623.811 || 582.762 || 588.475 || +0.58
+|-
+| 36|| align="left" | [[Kütahiya]]|| 656.716 || 583.910 || 571.804 || +1.04
+|-
+| 37|| align="left" | [[Elazıı]]  || 572.993 || 541.258 || 550.667 || +0.56
+|-
+| 38|| align="left" | [[Çorum]] || 597.065 || 549.828 || 540.704 || -0.86
+|-
+| 39|| align="left" | [[Aarı]]|| 528.744 || 530.879 || 537.665 || +1.03 
+|-
+| 40|| align="left" | [[Batman]]  || 446.719 || 472.487 || 497.998 || +2.54
+|-
+| 41|| align="left" | [[Yozgat]]  || 682.919 || 492.127 || 487.365 || +0.65
+|-
+| 42|| align="left" | [[Çanakkale]] || 464.975 || 476.128 || 477.735 || +0.62
+|-
+| 43|| align="left" | [[Osmaniye]]  || 463.196 || 452.880 || 471.804 || +1.52 
+|-
+| 44|| align="left" | [[Şırnak]] || 354.061 || 416.001 || 430.424 || +0.26
+|-
+| 45|| align="left" | [[Giresun]]|| 524.010 || 417.505 || 421.860 || +0.02
+|-
+| 46|| align="left" | [[Isparta]] || 514.379 || 419.845 || 420.796 || +3.27
+|-
+| 47|| align="left" | [[Muş]] || 453.654 || 405.509 || 404.484 ||  +0.04
+|-
+| 48|| align="left" | [[Edirnä]] || 402.606 || 396.462 || 395.463 || +0.20
+|-
+| 49|| align="left" | [[Aksaray]]|| 400.145 || 366.109 || 376.907|| +1.70
+|-
+| 50|| align="left" |  [[Kastamonu]] || 376.725 || 360.366 || 359.823 || -0.16
+|-
+| 51|| align="left" | [[Niide]] || 348.081 || 331.667 || 339.921 || +0.43
+|-
+| 52|| align="left" | [[Uşak]] || 322.654 || 334.115 || 335.860 || +0.52
+|-
+| 53|| align="left" | [[Düzce]]|| 289.442 || 323.328 || 335.156 || +1.99 
+|-
+| 54|| align="left" | [[Kırklareli]]  || 328.461 || 333.256 || 333.179 || -1.11 
+|-
+| 55|| align="left" | [[Bitlis]] || 388.678 || 327.886 || 328.489 || +0.48 
+|-
+| 56|| align="left" | [[Amasya]] || 365.231 || 328.674 || 324.268 || +0.18
+|-
+| 57|| align="left" | [[Rize]] || 365.938 || 316.252 || 319.569 || +0.04
+|-
+| 58|| align="left" | [[Kars]] || 327.056 || 312.205 || 306.536 || -1.79
+|-
+| 59|| align="left" | [[Siirt]] || 264.778 || 291.528 || 303.622 || +1.26
+|-
+| 60|| align="left" | [[Nevşehir]] || 309.914 || 280.058 || 284.025 || +0.82
+|-
+| 61|| align="left" | [[Kırıkkale]] || 383.508 || 280.234 || 280.834 || +0.54 
+|-
+| 62|| align="left" | [[Bolu]] || 270.654 || 270.417 || 271.454 || +0.95
+|-
+| 63|| align="left" |  [[Hakkari]] || 235.841 || 246.469 || 256.761 || -0.70
+|-
+| 64|| align="left" | [[Bingöl]]  || 255.395 || 251.552 || 255.745 || -0.13
+|-
+| 65|| align="left" | [[Burdur]]|| 256.803 || 251.181 || 251.550 || +1.66
+|-
+| 66|| align="left" | [[Karaman]] || 243.399 || 226.049 || 231.872|| +0.75
+|-
+| 67|| align="left" | [[Kırşehir]]|| 253.239 || 223.170 || 223.102 || +0.16
+|-
+| 68|| align="left" | [[Karabük]] || 225.102 || 218.463 || 218.564 || +1.07
+|-
+| 69|| align="left" | [[Erzincan]] || 315.806 || 213.538 || 213.288 || +1.25
+|-
+| 70|| align="left" |  [[Yalova]] || 168.593 || 181.758 || 202.531 || +2.59
+|-
+| 71|| align="left" | [[Bilecik]] || 194.326 || 203.777 || 202.061 || +4.60
+|-
+| 72|| align="left" | [[Sinop]] || 225.574 || 198.412 || 201.134 || +0.17
+|-
+| 73|| align="left" | [[Çankırı]] || 269.579 || 174.012 || 185.019 || +5.06
+|-
+| 74|| align="left" | [[Bartın]]  || 184.178 || 182.131 || 188.449 || +1.66
+|-
+| 75|| align="left" | [[Iıdır]] || 168.634 || 181.866 || 183.486 ||  -0.29
+|-
+| 76|| align="left" |[[Artvin]] || 191.934 || 168.092 || 165.580 || -0.60
+|-
+| 77|| align="left" | [[Gümüşhane]] || 186.953 || 130.825 || 130.976 || -0.29 
+|-
+| 78|| align="left" | [[Kilis]] || 114.724 || 118.457 || 122.104 || +0.91 
+|-
+| 79|| align="left" | [[Ardahan]] || 133.756 || 112.721 || 108.569 || -3.27 
+|-
+| 80|| align="left" | [[Tunceli]] || 93.584 || 84.022 || 83.061 || -3.91  
+|-
+| 81|| align="left" | [[Bayburt]] || 97.358 || 76.609 || 74.710 || -1.27 
+|-
+| || align="left" | '''Türkiye''' || '''67.803.927''' || '''70.586.256''' || '''72.561.312''' || '''+1.46'''
+|}
+
+<div style="float: left; margin-left: 15px;">
+{| class="wikitable" style="font-size:90%;width:60;text-align:center;"
+! colspan=3; style="background-color:#ccccff;" | Türkiye
+|-
+! colspan=3 | İnsannar
+|-
+| '''Yıl''' || '''Nüfus'''||<small>'''Yıllık artmaa(%)'''</small>
+|-
+| 1927 || 13.648.987 || -
+|-
+| 1935 || 16.158.567 || 2,13
+|-
+| 1940 || 17.821.543 || 1,98
+|-
+| 1945 || 18.790.987 || 1,07
+|-
+| 1950 || 20.947.155 || 2,20
+|-
+| 1955 || 24.065.543 || 2,81
+|-
+| 1960 || 27.755.532 || 2,89
+|-
+| 1965 || 31.391.651 || 2,49
+|-
+| 1970 || 35.605.653 || 2,55
+|-
+| 1975 || 40.348.789 || 2,53
+|-
+| 1980 || 44.737.321 || 2,09
+|-
+| 1985 || 50.664.654 || 2,52
+|-
+| 1990 || 56.473.653 || 2,19
+|-
+| 2000 || 67.804.543 || 1,85
+|-
+| 2007 || 70.586.256 || 0,58
+|-
+| 2008 || 73.517.100 || 1,32
+|-
+| colspan=3 | 
+|}
+</div>
+
+<!--
+{{Türk Devletläri}}
+-->
+{{TUR}}hakkında yazıdır.
+{{Türkiye Kasabalar}}
+{{Evropa Devletleri}}
+{{Aziya Devletleri}}
+{{Akdeniz Devletleri}}
 {{Türk Konseyi}}
-{{İslam İşbirliği Teşkilatı}}
-{{OECD}}
-{{Karadeniz Ekonomik İşbirliği}}
-{{KDİBGG}}
-{{Ekonomik İşbirliği Örgütü}}
-{{D8 ülkeleri}}
-{{G20}}
-{{AGİT}}
-}}
+{{Evropa Birlii}}
+{{Ekonomika Kalkınma hem İşbirlii Topluluu}}
+{{Merkez Günduusu Aziya Devletleri}}
+{{İslam Lektsiya Topluluu}}
+{{D - 8}}
+{{Poyraz Atlantika Annaşması Topluluu}}
+{{Karadeniz Devletläri}}
+{{Akdeniz İçin Birlik}}
 
-[[Kategori:Türkiye| ]]
-
-{{Link KM|ar}}
-{{Link KM|fi}}
-{{Link SM|hr}}
-{{Link SM|hu}}
-{{Link SM|ja}}
-{{Link SM|ka}}
-{{Link SM|lv}}
-{{Link SM|mk}}
-{{Link SM|pt}}
-{{Link SM|tt}}
+[[Kategoriya:Türkiye| ]]
+[[Kategoriya:Devletlär]]
+[[Kategoriya:Evropa Devletläri]]
+[[Kategoriya:Aziya Devletläri]]
