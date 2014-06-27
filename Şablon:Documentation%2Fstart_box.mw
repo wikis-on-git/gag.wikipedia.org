@@ -28,7 +28,7 @@
   | <!--Add the [view][edit][history][purge] or [create] links-->
     <span class="mw-editsection-like plainlinks" id="doc_editlinks">{{
     #if: {{{doc exist|yes}}}
-    | <noinclude>&#91;[[{{{docpage|{{FULLPAGENAME}}/doc}}}|view]]&#93;</noinclude> [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/doc}}}|action=edit}} diiştir]] <noinclude>[[{{fullurl:{{{docpage|{{FULLPAGENAME}}/doc}}}|action=history}} history]]</noinclude> [{{purge|yenile}}] 
+    | &#91;[[{{{docpage|{{FULLPAGENAME}}/doc}}}|gör]]&#93; [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/doc}}}|action=edit}} diiştir]] [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/doc}}}|action=history}} İstoriya]] [{{purge|yenile}}] 
     | <!--/doc doesn't exist-->
       [[{{fullurl:{{{docpage|{{FULLPAGENAME}}/doc}}}| action=edit&preload={{
         #if: {{{preload|}}} 
