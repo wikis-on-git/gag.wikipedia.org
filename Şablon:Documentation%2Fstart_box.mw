@@ -41,6 +41,5 @@
   }}</div>
 }}<noinclude><!-- close the div --></div>
 
-{{pp-template}}
 <!-- Add categories and interwikis to the /doc subpage, not here! -->
 </noinclude>
