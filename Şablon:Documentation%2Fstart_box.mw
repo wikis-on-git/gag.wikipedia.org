@@ -14,7 +14,7 @@
   | ¬ =   
     <!--"heading" not defined in this or previous level-->
     {{#switch: {{SUBJECTSPACE}} 
-    | {{ns:Template}} = [[File:Template-info.png|50px|link=|alt=Documentation icon]] {{{Documentation alt text|Template documentation}}}
+    | {{ns:Template}} = [[File:Template-info.png|50px|link=|alt=Documentation icon]] {{{Documentation alt text|Şablon documentation}}}
     | {{ns:Module}} = [[File:Template-info.png|50px|link=|alt=Documentation icon]] Module documentation
     | {{ns:File}} = Summary
     | #default = Documentation
