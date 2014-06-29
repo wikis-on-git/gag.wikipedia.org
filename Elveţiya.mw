@@ -1,12 +1,9 @@
-[[Dosye:Coat of Arms of Switzerland (Pantone).svg|right|150px]]
-[[Dosye:Flag of Switzerland (Pantone).svg|right|200px]]
-{{Template:Devlet 
-|native_name =  
-|common_name = 
-|conventional_long_name = 
-|bayrak = 
-|arma = 
-|harita = 
+{{Şablon:Devlet bilgi
+|kendi_dilinde_adı = Schweiz<br>Suisse<br>Svizzera<br>Svizra
+|tam_adı = Şveyțariya
+|bayrak = Flag of Switzerland (Pantone).svg
+|arma = Coat of Arms of Switzerland (Pantone).svg
+|harita = Europe-Switzerland.svg
 |slogan =
 |marş = 
 |kuruluş =
@@ -14,7 +11,7 @@
 |dil = 
 |halk =
 |hükümet = 
-|prezident =
+|prezident = 
 |din =
 |toprak= 
 |tahmini_nüfus =  
