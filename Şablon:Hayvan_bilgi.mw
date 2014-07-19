@@ -1,0 +1,87 @@
+<div style="float: right; margin: 0 0 1em 1em; width: auto; text-align: center; font-size: 90%; line-height: 1.4em; font-family: lucida grande, sans-serif;">
+
+<!-- start of floated right section -->
+<div style="border: 1px solid #ccd2d9; width: 23.5em; background:#f9f9f9; text-align: center; padding: 0.5em 1em 0.5em 1em; text-align: center;">
+
+<!-- start of slate grey box -->
+{| style="background: transparent; text-align: cener; table-layout: auto; border-collapse: collapse; padding: 0; font-size: 100%;" cellspacing="2" cellpadding="2"
+|+ style="margin-center: inherit; font-size: 135%; padding-bottom: 0.5em; line-height: 1.1em;" |   
+|-
+|colspan=2 align=center bgcolor="#BFDFFF"|'''Görünüş'''
+|-
+<!----- Resim ----->
+| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{resim}}}|260px|center]]
+|-
+|colspan=2 align=center bgcolor="#BFDFFF"|'''{{PAGENAME}}'''
+|-
+<!----- ayle ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Ayle'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{ayle}}}
+|-
+<!----- branşa ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Branşa'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{branşa}}}
+|-
+<!----- klas ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Klas'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{klas}}}
+|-
+<!----- takım ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Takım'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{takım}}}
+|-
+<!----- bölek ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Bölek'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{bölek}}}
+|-
+<!----- alt bölek ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Alt Bölek'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{alt_bölek}}}
+|-
+<!----- soy ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Soy'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{soy}}}
+|-
+<!----- Sort ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Sort'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{sort}}}
+|-
+|colspan=2 align=center bgcolor="#BFDFFF"|'''Vatannarı'''
+|-
+<!----- Devlet ----->
+|
+| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{harita}}}|260px|center]]
+|-
+|colspan=2 align=center bgcolor="#BFDFFF"|'''Alt Sortları'''
+|-
+<!----- Devlet ----->
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top; text-align: left;" | '''Alt Sortları'''
+| style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0 0; vertical-align: top;" | {{{alt_sortları}}}
+|-
+'''{{PAGENAME}}'''
+<!----- footnotes ----->
+{{#if: {{{footnotes|}}} |
+{{!}} colspan="2" style="border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0; vertical-align: top" {{!}} <small>{{{footnotes|}}}</small> }}
+|}
+</div></div>
+
+<!-- end of slate grey box -->
+<noinclude>
+
+==Kullanım==
+<pre>
+{{Hayvan bilgi
+|resim = 
+|ayle = 
+|branşa = 
+|klas = 
+|takım = 
+|bölek = 
+|alt_bölek= 
+|soy = 
+|sort = 
+|harita = 
+|alt_sortları = 
+}}
+</pre>
+<noinclude>
