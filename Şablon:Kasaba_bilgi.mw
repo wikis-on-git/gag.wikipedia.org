@@ -151,7 +151,7 @@
 </tr>
 }}<!-- ***** telefon_kodu***** -->
 {{#if:{{{telefon_kodu|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''telefon_kodu:''' {{{telefon_kodu}}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''telefon kodu:''' {{{telefon_kodu}}}
 </tr>
 }}<!-- ***** yoğunluk***** -->
 {{#if:{{{yoğunluk|}}}|
