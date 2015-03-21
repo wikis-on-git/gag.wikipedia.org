@@ -185,7 +185,7 @@
  | rakım_min_m                           = 
  | rakım_min_ft                          = 
  | rakım_dipnotlar                       = 
- | posta_kodu_türü                       = Poşta kodu 1
+ | posta_kodu_türü                       = Poşta kodu
  | posta_kodu                            = 3801, 3802, 3805
  | posta2_kodu_türü                      = 
  | posta2_kodu                           = 
