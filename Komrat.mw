@@ -178,7 +178,7 @@
  | utc_offset_DST                        = +3
   | latd  = | latm  = | lats  = | latNS  = 
   | longd = | longm = | longs = | longEW = 
- | rakım_m                               = 43
+ | rakım_m                               = 64
  | rakım_ft                              = 
  | rakım_max_m                           = 
  | rakım_max_ft                          = 
