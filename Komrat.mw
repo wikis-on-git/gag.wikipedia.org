@@ -186,9 +186,9 @@
  | rakım_min_ft                          = 
  | rakım_dipnotlar                       = 
  | posta_kodu_türü                       = Poşta kodu 1
- | posta_kodu                            = MD-3801
- | posta2_kodu_türü                      = Poşta kodu 2
- | posta2_kodu                           = MD-3802
+ | posta_kodu                            = 3801, 3802, 3805
+ | posta2_kodu_türü                      = 
+ | posta2_kodu                           = 
  | alan_kodu                             = 
  | iso_kodu                              = 
  | kardeş1                               = 
