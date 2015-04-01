@@ -638,7 +638,7 @@
 | align="center" style="background:#FFDEAD"  colspan="5" |  
 |-
 <!----- Dosye----->
-| colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{resim}}}|260px|center]]
+|resim = {{{resim|}}}
 |-
 <!----- bayrak ve arma ----->
 |colspan="2" style="border-top: solid 1px #ccd2d9; vertical-align: top; text-align: center; font-size: 100%;" | <br>[[Image:{{{bayrak}}}|120px|left]][[Image:{{{arma}}}|60px|right]]
