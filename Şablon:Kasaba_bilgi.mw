@@ -139,19 +139,19 @@
 </tr>
 }}<!-- ***** toprak***** -->
 {{#if:{{{toprak|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''toprak:''' {{{toprak}}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Toprak:''' {{{toprak}}}
 </tr>
 }}<!-- ***** nüfus ***** -->
 {{#if:{{{nüfus |}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''nüfus :''' {{{nüfus }}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Nüfus :''' {{{nüfus }}}
 </tr>
 }}<!-- ***** araba_kodu***** -->
 {{#if:{{{araba_kodu|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''araba_kodu:''' {{{araba_kodu}}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Araba kodu:''' {{{araba_kodu}}}
 </tr>
 }}<!-- ***** telefon_kodu***** -->
 {{#if:{{{telefon_kodu|}}}|
-{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''telefon kodu:''' {{{telefon_kodu}}}
+{{!}} colspan="2" class="mergedtoprow" style="text-align:center;" {{!}} '''Telefon kodu:''' {{{telefon_kodu}}}
 </tr>
 }}<!-- ***** yoğunluk***** -->
 {{#if:{{{yoğunluk|}}}|
