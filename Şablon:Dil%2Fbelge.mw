@@ -1,0 +1,163 @@
+{{Şablon belge sayfası}}
+Bu şablon, bir kelimenin farklı dillerdeki metin yazılışlarını belirtmek amacıyla kullanılır.
+
+== Kullanımı ==
+=== Varsayılan sözdizimi ===
+*<nowiki>{{Dil|dil kodu|metin}}</nowiki>
+*<nowiki>{{Dil|yön|dil kodu|metin}}</nowiki>
+*<nowiki>{{Dil-en|Stadium}}</nowiki>
+
+== Açık sözdizimi ==
+*<nowiki>{{Dil|dil kodu|yazı=yazı}}</nowiki>
+*<nowiki>{{Dil|dil kodu|yön=metin yönü|yazı=metin|çeviri=çevirisi}}</nowiki>
+
+== Parametreler ==
+<templatedata>
+{
+        "description": "Şablonu kullanmanızda yardımcı olacak sözcükler ve açıklamaları",
+        "params": {
+                "dil kodu": {
+                        "label": "Dil kodu",
+                        "description": "Türkçe için ''tr'', İngilizce için ''en'' gibi...",
+                        "type": "string",
+                        "required": true
+                },
+                "yön": {
+                        "label": "Yön",
+                        "description": "Dil Yönü : Arapça gibi bazı dillerin yönünü belirlemek için bu parametreden yararlanabilirsiniz. rtl (sağdan sola) veya ltr (soldan sağa)",
+                        "type": "string",
+                        "required": false
+                },
+                "yazı": {
+                        "label": "Yazı",
+                        "description": "Yabancı dildeki metni girin.",
+                        "type": "string",
+                        "required": true
+                },
+                "çeviri": {
+                        "label": "Çevirisi",
+                        "description": "Çince, Japonca gibi alfabedeki kelimelerin, latin alfabesiyle açıklanışını göstermektedir. Bu kısma latin alfabedeki yazılışını giriniz.",
+                        "type": "string",
+                        "required": false
+                }
+        }
+}
+</templatedata>
+
+== Örnekler ==
+Aşağıda şablonun kodu ve hemen altında madde içerisindeki görünümü verilmiştir.
+
+* <code><nowiki>{{Dil|de|yazı=Die {{II}}. Republik}}</nowiki></code> <br />{{Dil|de|yazı=Die II. Republik}}
+* <code><nowiki>{{Dil|ar|yön=rtl|yazı=العربية...}}</nowiki></code> <br />{{Dil|ar|yön=rtl|yazı=العربية...}}
+* <code><nowiki>{{Dil|de|Die ewige Wiederkehr des Gleichen}}</nowiki></code> <br />{{Dil|de|Die ewige Wiederkehr des Gleichen}}
+* <code><nowiki>{{Dil|es|¿Qué tal güey?}}</nowiki></code> <br />{{Dil|es|¿Qué tal güey?}}
+* <code><nowiki>{{Dil|rtl|ar|العربية...}}</nowiki></code> <br />{{Dil|rtl|ar|العربية...}}
+* <code><nowiki>{{Dil|el|yazı=ἡμέρα|çeviri=êméra}}</nowiki></code> <br />{{Dil|el|yazı=ἡμέρα|çeviri=êméra}}
+* <code><nowiki>{{Dil|ja|yazı=クレヨンしんちゃん|çeviri=Crayon Shin-chan}}</nowiki></code> <br />{{Dil|ja|yazı=クレヨンしんちゃん|çeviri=Crayon Shin-chan}}
+<br>
+;Başka bir kullanım şekli ise;
+<br>
+<pre>{{Dil-en|Stadium}}</pre>
+
+{{Dil-en|Stadium}}
+
+<br>
+<pre>Tacikçe ({{rtl-lang|tg-Arab|تاجیکی}}, {{transl|tg|''tojikī''}}, {{lang|tg-Cyrl|тоҷикӣ}})</pre><br>
+*Tacikçe ({{rtl-lang|tg-Arab|تاجیکی}}, {{transl|tg|''tojikī''}}, {{lang|tg-Cyrl|тоҷикӣ}})
+
+
+== Dil kodları ==
+{|class="sortable wikitable"
+|-
+!scope="col"| Dil
+!scope="col"| Kod
+!scope="col"| Notlar
+|-
+| almanca || '''de''' ||
+|-
+| ingilizce || '''en''' ||
+|-
+| arapça || '''ar''' || yön='''rtl'''
+|-
+| ermenice || '''hy''' || [[Ermeni alfabesi]]
+|-
+| azerice || '''az''' ||
+|-
+| baskça || '''eu''' ||
+|-
+| bengalce || '''bn''' ||
+|-
+| bulgarca || '''bg''' ||
+|-
+| katalanca || '''ca''' ||
+|-
+| korece|| '''ko''' || geleneksel grafik alfabesi
+|-
+| korsikaca|| '''co''' ||
+|-
+| hırvatça || '''hr''' ||
+|-
+| danca || '''da''' ||
+|-
+| ispanyolca || '''es''' ||
+|-
+| fransızca || '''fr''' ||
+|-
+| fince || '''fi''' ||
+|-
+| eski yunanca <ref>[http://www.iana.org IANA], [http://www.iana.org/assignments/language-subtag-registry www.iana.org/assignments/language-subtag-registry].</ref> || '''grc''' || orthographe traditionnelle : polytonique (avec esprits, iota souscrits…) et anciennes lettres supplémentaires <ref>IANA, [http://www.iana.org/assignments/language-subtag-registry www.iana.org/assignments/language-subtag-registry].</ref>
+|-
+| yunanca <ref>[http://www.iana.org IANA], [http://www.iana.org/assignments/language-subtag-registry www.iana.org/assignments/language-subtag-registry].</ref> || '''el''' || formes distinctes (médiale et finale) pour le sigma minuscule <ref>[http://www.iana.org IANA], [http://www.iana.org/assignments/language-subtag-registry www.iana.org/assignments/language-subtag-registry].</ref>
+|-
+| ibranice || '''he''' || yön='''rtl'''
+|-
+| hintçe || '''hi''' || écriture avec l’abugida devanagari
+|-
+| endonezyaca || '''id''' ||
+|-
+| italyanca || '''it''' ||
+|-
+| japonca|| '''ja''' || geleneksel grafik alfabesi
+|-
+| khmerce || '''km''' ||
+|-
+| latin || '''la''' || latin alfabesi
+|-
+| laos dili || '''lo''' || 
+|-
+| lüksemburg dili || '''lb''' ||
+|-
+| makedonca || '''mk''' || kiril alfabesi
+|-
+| fFelemenkçe|| '''nl''' ||
+|-
+| oksitanca ; provençal || '''oc''' ||
+|-
+| urdu dili || '''ur''' || yön='''rtl''' ;
+|-
+| farsça || '''fa''' || yön='''rtl'''
+|-
+| fenikece|| '''phn''' || yön='''rtl'''
+|-
+| lehçe|| '''pl''' ||
+|-
+| portekizce standart || '''pt''' ||
+|-
+| portekizce (brezilya) || '''pt-BR''' ||
+|-
+| rusça || '''ru''' ||
+|-
+| sırpça || '''sr''' || latin alfabesi ve kiril alfabesi 
+|-
+| isveçce|| '''sv''' ||
+|-
+| taylandça || '''th''' || 
+|-
+| tibetçe || '''bo''' ||
+|-
+| türkçe || '''tr''' || Latin alfabesi
+|-
+| vietnam || '''vi''' || genişletilmiş latin alfabesi
+|}<noinclude>{{kaynakça}}</noinclude><includeonly>
+[[Kategori:Çokdilli destek şablonları| ]]
+</includeonly>
