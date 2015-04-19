@@ -1,0 +1,445 @@
+{| class="infobox geography" style="width:250px; font-size:87%; text-align:left"
+|-
+<!---------- İsimleri ---------->
+{{#if: {{{tam_adı|}}}|
+{{!}}colspan="2" class="mergedtoprow" align="center" style="line-height:1.2em; font-size:1.25em;" {{!}} '''{{{tam_adı|}}}''' 
+}}
+|-
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{kendi_dilinde_adı|}}}|
+{{!}}colspan="2" class="mergedtoprow" align="center" style="line-height:1.2em; font-size:1.25em;" {{!}}  '''{{{kendi_dilinde_adı|}}}''' 
+}}
+{{!}}- 
+<!---------- Bayrak / Arma (veya başka bir sembol) ---------->
+{{#if:{{{bayrak_resmi|}}}|{{#if:{{{arma_resmi|}}}|
+{{!}}- class="mergedtoprow"
+{{!}} colspan="2" class="maptable"{{!}}
+{{{!}} width=100% style="text-align:center; margin:0 auto; background:none;"
+{{!}}-
+{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{bayrak_resmi}}}|125px|border|alt={{{bayrak_açıklaması|Bayrak}}}]]
+{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]
+{{!}}- style="font-size: 95%;"
+{{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak_adı|}}}|[[{{{bayrak_adı}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
+</small>
+{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma_resmi|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
+</small>
+{{!}}} 
+|{{!}}- class="mergedtoprow"
+{{!}} colspan="2" class="maptable" align=center {{!}}
+<p>[[Dosya:{{{bayrak_resmi}}}|125px|border|alt={{{bayrak_açıklaması|Bayrak}}}]]<p> <small>{{#if:{{{bayrak_adı|}}}|[[{{{bayrak_adı}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}}}}}}}}}}}</small>
+|-
+{{#if:{{{bayrak_resmi|}}}||{{#if:{{{arma_resmi|}}}|
+{{!}} colspan="2" class="maptable" align=center {{!}}
+<p>[[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]<p> <small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}}}
+</small>
+|-
+<!---------- Diğer sembol ---------->
+{{#if:{{{diğer_sembol_resmi|}}}|
+{{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} {{{diğer_sembol_resmi}}}<br /><small>{{#if:{{{diğer_sembol_adı|}}}|{{{diğer_sembol_adı}}}}}</small>}}
+|-
+<!---------- Slogan ---------->
+{{#if: {{{slogan|}}} |
+{{!}} colspan="2" style="text-align:center;" {{!}} '''Slogan:&nbsp;'''{{{slogan}}}
+{{!}}- }}
+<!---------- Marşlar ---------->
+{{#if:{{{ulusal_marş|}}}{{{kraliyet_marşı|}}}{{{marş|}}} |
+{{!}} colspan="2" style="text-align:center" {{!}} {{#if:{{{ulusal_marş|}}}|'''Ulusal Marş:&nbsp;'''{{{ulusal_marş}}} }} {{#if:{{{marş|}}}|'''Marş:&nbsp;'''{{{marş}}}<br/>}} {{#if:{{{kraliyet_marşı|}}}|'''Kraliyet Marşı:&nbsp;'''{{{kraliyet_marşı}}} }}
+{{!}}- }}
+<!---------- Haritalar ---------->
+{{#if:{{{harita_resmi|}}}|
+{{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} [[Dosya:{{{harita_resmi}}} |{{{harita_boyutu|250px}}}|center |alt=Konum]]<small>{{#if:{{{harita_açıklaması|}}}|{{{harita_açıklaması}}}}}</small>}}
+|-
+{{#if:{{{harita2_resmi|}}}|
+{{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} [[Dosya:{{{harita2_resmi}}} |{{{harita2_boyutu|250px}}} |center |alt=Konum]]<small>{{#if:{{{harita2_açıklaması|}}}|{{{harita2_açıklaması}}}}}</small>}}
+|-
+<!---------- Başkent, en büyük kent vs. ---------->
+{{#if:{{{başkent|}}}{{{yönetim_merkezi|}}}{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|
+<!--  Başkent veya yönetim merkezi varsa: -->
+{{#if:{{{başkent|}}}{{{yönetim_merkezi|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetim_merkezi_tipi|}}}{{{yönetim_merkezi|}}}|
+'''{{{yönetim_merkezi_tipi|Yönetim&nbsp;merkezi}}}'''|{{#if:{{{başkent_tipi|}}}|'''{{{başkent_tipi}}}'''|'''Başkent''' }}}}
+<!------------- Başkentin olduğu durumlarda, en büyük şehir veya yerleşim başkent ise:--------->{{#ifeq: {{#ifeq:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|başkent|başkent|
+{{#switch:{{{başkent}}}
+| [[{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}]] = başkent
+| {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}     = başkent
+| başkent değil
+}}}}|başkent|
+<!----- Başkent en büyük şehir veya yerleşim ise: ----->ve en büyük {{{en_büyük_yerleşim_tipi|şehir}}}
+{{!!}} {{{başkent}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}|
+<!-- Başkent en büyük şehir veya yerleşim değil ise: -->
+{{!!}} {{{başkent|}}}{{{yönetim_merkezi|}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"
+{{#if:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''En büyük {{{en_büyük_yerleşim_tipi|şehir}}}'''
+{{!!}} {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}} }}}}
+<!-- Başkent yoksa, en büyük şehir veya yerleşimi eklemek için: -->
+|{{#if:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''En büyük {{{en_büyük_yerleşim_tipi|şehir}}}''' 
+{{!!}} {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}
+}}}}}}
+|-
+<!---------- Resmi veya tanınmış bölgesel diller, etnik gruplar ---------->
+{{#if: {{{resmî_diller|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Resmî dil(ler)'''
+{{!!}} {{{resmî_diller|}}} 
+}}
+|-
+{{#if: {{{bölgesel_diller|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Bölgesel dil|Bölgesel dil(ler)]]'''
+{{!!}} {{{bölgesel_diller|}}} 
+}}
+|-
+{{#if: {{{diller|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''{{{dil_tipi}}}'''
+{{!!}} {{{diller|}}} 
+}}
+|-
+{{#if: {{{etnik_gruplar|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Etnik gruplar]]'''&nbsp;{{#if:{{{etnik_grup_yılı|}}} |({{{etnik_grup_yılı}}}) }}
+{{!!}} {{{etnik_gruplar}}}
+}}
+|-
+<!---------- Milliyet ---------->
+{{#if: {{{milliyet|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Milliyet (tüzük)|Milliyet]]'''
+{{!!}} {{{milliyet}}}
+}}
+|-
+<!---------- Üyelik ---------->
+{{#if: {{{üyelik|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''{{{üyelik_tipi|Üyelik}}}'''
+{{!!}} {{{üyelik}}}
+}}
+|-
+<!---------- Resmî din ---------->
+{{#if: {{{resmî dinler|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Resmî din|Resmî din(ler)]]'''
+{{!!}} {{#ifexist:{{{resmî dinler}}}|[[{{{resmî dinler}}}]]|{{{resmî dinler}}}}}
+}}
+|-
+<!---------- Yönetim ve Yöneticiler ---------->
+{{#if: {{{üyelik|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''{{{üyelik_tipi|Üyelik}}}'''
+{{!!}} {{{üyelik}}}
+}}
+|-
+{{#if: {{{yönetim_biçimi|}}}{{{yönetici_unvanı1|}}}{{{yönetici_unvanı2|}}}{{{yönetici_unvanı3|}}}{{{yönetici_unvanı4|}}}{{{yönetici_unvanı5|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Yönetim biçimleri|Yönetim biçimi]]'''
+{{!!}} {{{yönetim_biçimi|}}}
+|{{#if:{{{yönetici_unvanı1|}}}{{{yönetici_adı1|}}}|{{#if:{{{adı|}}}{{{üyelik|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Yönetim biçimleri|Yönetim biçimi]]'''
+{{!!}} 
+}}}}}}
+|-
+<!----- Yöneticiler ----->
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yönetici_unvanı1|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetici_unvanı1|}}}|&nbsp;- {{{yönetici_unvanı1}}}}} 
+{{!!}} {{{yönetici_adı1}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yönetici_unvanı2|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetici_unvanı2|}}}|&nbsp;- {{{yönetici_unvanı2}}}}} 
+{{!!}} {{{yönetici_adı2}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yönetici_unvanı3|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetici_unvanı3|}}}|&nbsp;- {{{yönetici_unvanı3}}}}} 
+{{!!}} {{{yönetici_adı3}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yönetici_unvanı4|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetici_unvanı4|}}}|&nbsp;- {{{yönetici_unvanı4}}}}} 
+{{!!}} {{{yönetici_adı4}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yönetici_unvanı5|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetici_unvanı5|}}}|&nbsp;- {{{yönetici_unvanı5}}}}} 
+{{!!}} {{{yönetici_adı5}}} 
+}} 
+|-
+<!---------- Yasama organı ---------->
+{{#if: {{{yasama_organı|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Yasama organı'''
+{{!!}} {{{yasama_organı|}}}
+|{{#if:{{{üst_kamara|}}}{{{alt_kamara|}}}|
+{{!}} '''Yasama organı'''
+{{!!}} 
+}}}}
+|-
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{üst_kamara|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- '''[[Üst kamara]]'''
+{{!!}} {{{üst_kamara}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{alt_kamara|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- '''[[Alt kamara]]'''
+{{!!}} {{{alt_kamara}}} 
+}} 
+|-
+<!---------- Kuruluş ---------->
+{{#if:{{{olay1|}}}{{{olay2|}}}{{{olay3|}}}{{{olay4|}}}{{{olay5|}}}{{{olay6|}}}{{{olay7|}}}{{{olay8|}}}{{{olay9|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[:Kategori:Kuruluş yıllarına göre bölgeler ve ülkeler|Kuruluş]]'''
+{{!!}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay1|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay1|}}}|&nbsp;- {{{olay1}}}}} 
+{{!!}} {{{olay1_tarihi}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay2|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay2|}}}|&nbsp;- {{{olay2}}}}} 
+{{!!}} {{{olay2_tarihi}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay3|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay3|}}}|&nbsp;- {{{olay3}}}}} 
+{{!!}} {{{olay3_tarihi}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay4|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay4|}}}|&nbsp;- {{{olay4}}}}} 
+{{!!}} {{{olay4_tarihi}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay5|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay5|}}}|&nbsp;- {{{olay5}}}}} 
+{{!!}} {{{olay5_tarihi}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay6|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay6|}}}|&nbsp;- {{{olay6}}}}} 
+{{!!}} {{{olay6_tarihi}}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay7|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay7|}}}|&nbsp;- {{{olay7}}}}} 
+{{!!}} {{{olay7_tarihi}}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay8|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay8|}}}|&nbsp;- {{{olay8}}}}} 
+{{!!}} {{{olay8_tarihi}}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{olay9|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{olay9|}}}|&nbsp;- {{{olay9}}}}} 
+{{!!}} {{{olay9_tarihi}}} 
+}} 
+|-
+<!---------- AB'ye katılım ---------->
+{{#if: {{{avrupa_birliğine_katılım|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Avrupa Birliği|AB]]'ye''' '''[[Avrupa Birliği üyesi devletler|katılım]]'''
+{{!!}} {{{avrupa_birliğine_katılım}}}
+}}
+|-
+<!---------- Yüzölçümü ---------->
+{{#if: {{{yüzölçümü|}}}{{{su_yüzdesi|}}}{{{yüzölçümü2|}}}{{{FR_IGN_yüzölçümü|}}}{{{kadastro_yüzölçümü|}}} |
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Yüzölçümlerine göre ülkeler listesi|Yüzölçümü]]'''
+{{!!}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yüzölçümü|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- {{{yüzölçümü_açıklaması|Toplam}}} {{#if:{{{FR_dipnot4|}}} |{{{FR_dipnot4}}} }}
+{{!!}} {{{yüzölçümü}}} km²&nbsp; {{#if:{{{yüzölçümü_dipnotu|}}}|{{{yüzölçümü_dipnotu|}}}}} {{#if:{{{yüzölçümü_sırası|}}} |([[Yüzölçümlerine göre ülkeler listesi|{{{yüzölçümü_sırası}}}]])}}<br/>{{#if:{{{yüzölçümü_milkare|}}}|{{formatnum:{{{yüzölçümü_milkare|}}}}}|{{formatnum:{{#expr: {{{yüzölçümü|}}} div 2.589988110336 round 0}}}}}}&nbsp;mil²
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{su_yüzdesi|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[Su yüzdesine göre ülkeler listesi|Su&nbsp;(%)]]
+{{!!}} {{{su_yüzdesi}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yüzölçümü2_açıklaması|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- {{#if:{{{yüzölçümü2_açıklaması|}}}|&nbsp;- {{{yüzölçümü2_açıklaması}}}}} 
+{{!!}} {{{yüzölçümü2}}} 
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{FR_IGN_yüzölçümü|}}}{{{kadastro_yüzölçümü|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[Metropol Fransa]]
+{{!!}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{FR_IGN_yüzölçümü|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 1.6em;"{{!}} &nbsp;- [[Ulusal Coğrafya Enstitüsü (Fransa)|IGN]] {{#if:{{{FR_dipnot2|}}} |{{{FR_dipnot2}}} }}
+{{!!}} {{{FR_IGN_yüzölçümü}}} km²&nbsp; {{#if:{{{FR_IGN_yüzölçümü_sırası|}}} |([[Yüzölçümlerine göre ülkeler listesi|{{{FR_IGN_yüzölçümü_sırası}}}]])}}<br/>{{#if:{{{FR_IGN_yüzölçümü_milkare|}}}|{{formatnum:{{{FR_IGN_yüzölçümü_milkare|}}}}}|{{formatnum:{{#expr: {{{FR_IGN_yüzölçümü|}}} div 2.589988110336 round 0}}}}}}&nbsp;mil²
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{kadastro_yüzölçümü|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 1.6em;"{{!}} &nbsp;- [[Kadastro]] {{#if:{{{FR_dipnot3|}}} |{{{FR_dipnot3}}} }}
+{{!!}} {{{kadastro_yüzölçümü}}} km²&nbsp; {{#if:{{{kadastro_yüzölçümü_sırası|}}} |([[Yüzölçümlerine göre ülkeler listesi|{{{kadastro_yüzölçümü_sırası}}}]])}}<br/>{{#if:{{{kadastro_yüzölçümü_milkare|}}}|{{formatnum:{{{kadastro_yüzölçümü_milkare|}}}}}|{{formatnum:{{#expr: {{{kadastro_yüzölçümü|}}} div 2.589988110336 round 0}}}}}}&nbsp;mil² 
+}}  
+|-
+<!---------- Nüfus ---------->
+{{#if: {{{tahmini_nüfus|}}}{{{sayım_nüfusu|}}} |
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Nüfus]]'''
+{{!!}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{tahmini_nüfus|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- {{{tahmini_nüfus_tarihi|}}}&nbsp;tahmini
+{{!!}} {{{tahmini_nüfus}}} {{#if:{{{tahmini_nüfus_sırası|}}} |([[Nüfusa göre ülkelerin listesi|{{{tahmini_nüfus_sırası}}}]])}}
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{sayım_nüfusu|}}}|
+{{!}}style="padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- {{{sayım_nüfusu_tarihi|}}}&nbsp;sayımı
+{{!!}} {{{sayım_nüfusu}}} {{#if:{{{sayım_nüfusu_sırası|}}} |([[Nüfusa göre ülkelerin listesi|{{{sayım_nüfusu_sırası}}}]])}}
+}}
+<!----- Fransa için ----->
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if: {{{FR_metropol_nüfusu|}}}{{{FR_tahmini_toplam_nüfus|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} ({{{FR_tahmini_toplam_nüfus_tarihi}}})
+{{!!}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{FR_tahmini_toplam_nüfus|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- Toplam {{{FR_dipnot}}}
+{{!!}} {{{FR_tahmini_toplam_nüfus}}} {{#if:{{{FR_tahmini_toplam_nüfus_sırası|}}} |([[Nüfusa göre ülkelerin listesi|{{{FR_tahmini_toplam_nüfus_sırası}}}]])}}
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{FR_metropol_nüfusu|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;-  [[Metropol Fransa]]
+{{!!}} {{{FR_metropol_nüfusu}}} {{#if:{{{FR_metropol_nüfusu_sırası|}}} |([[Nüfusa göre ülkelerin listesi|{{{FR_metropol_nüfusu_sırası}}}]])}}
+}} 
+<!----- Nüfus yoğunluğu ----->
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{nüfus_yoğunluğu|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[Nüfus yoğunluğu|Yoğunluk]] {{#if:{{{FR_dipnot5|}}} |{{{FR_dipnot5}}} }}
+{{!!}} {{{nüfus_yoğunluğu}}}/km²&nbsp; {{#if:{{{nüfus_yoğunluğu_dipnotu|}}}|{{{nüfus_yoğunluğu_dipnotu|}}}}} {{#if:{{{nüfus_yoğunluğu_sırası|}}} |([[Nüfus yoğunluklarına göre ülkeler listesi|{{{nüfus_yoğunluğu_sırası}}}]])}}<br/>{{#if:{{{nüfus_yoğunluğu_milkare|}}}|{{formatnum:{{{nüfus_yoğunluğu_milkare|}}}}}|{{formatnum:{{#expr: {{{nüfus_yoğunluğu|}}} div 2.589988110336 round 0}}}}}}/mil²
+}} 
+|-
+<!---------- GSYİH-SAGP ---------->
+{{#if: {{{GSYİH_SAGP|}}}{{{kişi_başına_düşen_GSYİH_SAGP|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Gayri safi yurtiçi hasıla|GSYİH]]'''&nbsp;([[Satın alma gücü paritesi|SAGP]]){{!!}} {{{GSYİH_SAGP_yılı|}}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{GSYİH_SAGP|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- Toplam
+{{!!}} {{{GSYİH_SAGP}}} {{#if:{{{GSYİH_SAGP_sırası|}}} |([[Ülkelerin GSYİH’ya (SAGP) göre sıralanışı|{{{GSYİH_SAGP_sırası}}}]])}}
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{kişi_başına_düşen_GSYİH_SAGP|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[Per capita|Kişi başına]]
+{{!!}} {{{kişi_başına_düşen_GSYİH_SAGP}}} {{#if:{{{kişi_başına_düşen_GSYİH_SAGP_sırası|}}} |([[Ülkelerin kişi başına GSYİH’ye (SAGP) göre sıralanışı|{{{kişi_başına_düşen_GSYİH_SAGP_sırası}}}]])}}
+}} 
+|-
+<!---------- GSYİH-düşük ---------->
+{{#if: {{{GSYİH_düşük|}}}{{{kişi_başına_düşen_GSYİH_düşük|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Gayri safi yurtiçi hasıla|GSYİH]]'''&nbsp;(düşük){{!!}} {{{GSYİH_düşük_yılı|}}} 
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{GSYİH_düşük|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- Toplam
+{{!!}} {{{GSYİH_düşük}}} {{#if:{{{GSYİH_düşük_sırası|}}} |([[Ülkelerin GSYİH'ya (nominal) göre sıralanışı|{{{GSYİH_düşük_sırası}}}]])}}
+}} 
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{kişi_başına_düşen_GSYİH_düşük|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[Per capita|Kişi başına]]
+{{!!}} {{{kişi_başına_düşen_GSYİH_düşük}}} {{#if:{{{kişi_başına_düşen_GSYİH_düşük_sırası|}}} |([[Ülkelerin kişi başına GSYİH'ya (nominal) göre sıralanışı|{{{kişi_başına_düşen_GSYİH_düşük_sırası}}}]])}}
+}} 
+|-
+<!---------- Gini ---------->
+{{#if: {{{Gini|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Gini katsayısı|Gini]]'''&nbsp;{{#if:{{{Gini_yılı|}}}| ({{{Gini_yılı|}}}) }}
+{{!!}} {{{Gini}}} {{#if:{{{Gini_kategorisi|}}} |({{{Gini_kategorisi|}}})&nbsp;}} {{#if:{{{Gini_sırası|}}}| ([[Gelir eşitliğine göre ülkeler listesi|{{{Gini_sırası}}}]]) }}
+}}
+|-
+<!---------- İGE ---------->
+{{#if: {{{İGE|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[İnsani Gelişme Endeksi|İGE]]'''&nbsp;{{#if:{{{İGE_yılı|}}}|({{{İGE_yılı|}}}) }}
+{{!!}} {{{İGE}}} {{#if:{{{İGE_kategorisi|}}} |({{{İGE_kategorisi|}}})&nbsp;}} {{#if:{{{İGE_sırası|}}}| ([[İnsani Gelişme Endeksi'ne göre ülkeler listesi|{{{İGE_sırası}}}]]) }}
+}}
+|-
+<!---------- Para birimi ---------->
+{{#if: {{{para_birimi|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Para|Para birimi]]'''
+{{!!}} {{{para_birimi}}} {{#if:{{{para_birimi_kodu|}}}| (<code>[[ISO 4217|{{{para_birimi_kodu}}}]]</code>) }}
+}}
+|-
+<!---------- Zaman dilimi ---------->
+{{#if:{{{zaman_dilimi|}}}{{{utc|}}}| 
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Zaman dilimi]]'''
+{{!!}} {{{zaman_dilimi|}}} {{#if:{{{utc|}}} |{{nowrap|([[Eşgüdümlü Evrensel Zaman|UTC]]{{{utc}}})}} }}
+}}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if:{{{yaz_zaman_dilimi|}}}|
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[Yaz saati uygulaması|Yaz]]
+{{!!}} {{{yaz_zaman_dilimi|}}} {{#if:{{{yaz_utc|}}} |{{nowrap|([[Eşgüdümlü Evrensel Zaman|UTC]]{{{yaz_utc}}})}} }}
+}} 
+|-
+<!---------- Takvim ---------->
+{{#if: {{{takvim|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Takvim]]'''
+{{!!}} {{{takvim}}} 
+}}
+|-
+<!---------- Trafik akışı ---------->
+{{#if: {{{trafik_akışı|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Sağdan ve soldan akan trafik|Trafik akışı]]'''
+{{!!}} {{{trafik_akışı}}} 
+}}
+|-
+<!---------- ISO 3166 kodu ---------->
+{{#if: {{{ISO_3166_kodu|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[ISO 3166|ISO&nbsp;3166&nbsp;kodu]]'''
+{{!!}} {{{ISO_3166_kodu}}} 
+}}
+|-
+<!---------- Internet TLD ---------->
+{{#if: {{{cctld|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[İnternet üst seviye alan adları listesi|Internet TLD]]'''
+{{!!}} {{{cctld}}} 
+}}
+|-
+<!---------- Telefon kodu ---------->
+{{#if: {{{telefon_kodu|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Uluslararası telefon kodları listesi|Telefon kodu]]'''
+{{!!}} {{{telefon_kodu}}} 
+}}
+|-
+<!---------- Koruyucu aziz ---------->
+{{#if: {{{koruyucu_aziz|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Koruyucu aziz]]'''
+{{!!}} {{{koruyucu_aziz}}} 
+}}
+|-
+<!---------- Alttaki harita ---------->
+{{#if:{{{harita3_resmi|}}}|
+{{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} [[Dosya:{{{harita3_resmi}}} |{{{harita3_boyutu|250px}}}|center |alt=Konum]]<small>{{#if:{{{harita3_açıklaması|}}}|{{{harita3_açıklaması}}}}}</small>}}
+|-
+<!---------- Dipnotlar ---------->
+<!----- Serbest ----->
+{{#if: {{{dipnotlar|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} <small>{{{dipnotlar}}}</small>
+{{!}}- }}
+|-
+<!----- Numaralı ----->
+{{#if: {{{dipnot1|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>1</sup>}}&nbsp;<small>{{{dipnot1}}}</small>
+{{!}}- }}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if: {{{dipnot2|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>2</sup>}}&nbsp;<small>{{{dipnot2}}}</small>
+{{!}}- }}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if: {{{dipnot3|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>3</sup>}}&nbsp;<small>{{{dipnot3}}}</small>
+{{!}}- }}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if: {{{dipnot4|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>4</sup>}}&nbsp;<small>{{{dipnot4}}}</small>
+{{!}}- }}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if: {{{dipnot5|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>5</sup>}}&nbsp;<small>{{{dipnot5}}}</small>
+{{!}}- }}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if: {{{dipnot6|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>6</sup>}}&nbsp;<small>{{{dipnot6}}}</small>
+{{!}}- }}
+{{!}}- | class="mergedrow" | class="mergedbottomrow"}}
+{{#if: {{{dipnot7|}}} |
+{{!}} colspan="2" style="text-align:left;" {{!}} {{lower|0.3em|<sup>7</sup>}}&nbsp;<small>{{{dipnot7}}}</small>
+{{!}}- }}
+|}<noinclude>{{belgeleme}}</noinclude>
