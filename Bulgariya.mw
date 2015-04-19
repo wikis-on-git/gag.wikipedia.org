@@ -1,61 +1,139 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0.5em 0 1em 1em; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Bulgariya'''<br />
-Република България
-</big></big>
-|-
-| style="background:#ffffff;" align=center colspan=2 |
-{| border=0 cellpadding=2 cellspacing=0
-| align=center width=148 | [[Dosye:Flag of Bulgaria.svg|125px|Bulgariya bayraı]]
-| align=center width=148 | [[Dosye:Coat of arms of Bulgaria.svg|125px]]
-|-
-| align=center width=148 | Bulgariya bayraı
-| align=center width=148 | Bulgariya gerbi
-|}
-|-
-| '''Milli deviz'''
-| Съединението прави силата
-|-
-| '''Milli gimna'''
-| Mila Rodino
-|-
-| align=center colspan=2 style="background: #ffffff;" | [[Dosye:LocationBulgaria.svg|250px]]
-|-
-| '''Baş kasaba'''
-| [[Sofiya]]
-|-
-| '''Prezident'''
-| Rosen Plevneliev
-|-
-| '''Primyer ministru'''
-| Boyko Borisov
-|-
-| '''Ofiţial dil'''
-| [[Bulgar dili]] 
-|-
-| '''Toprak'''
-| 110,993,6 km²
-|-
-| '''İnsannar'''
-| 7,576,751 
-|-
-| '''İnsannar sıklıı'''
-| 68,5
-|-
-| '''Kendibaşınalık'''
-| 22 Ceviz ay (sentabri) 1908 
-|-
-| '''Para'''
-| [[Bulgariya Lev]] (BNG)
-|-
-| '''Saat kuşaı'''
-| EET UTC + 2
-|-
-| '''Telefon kod'''
-| 359
-|-
-| '''İnternet domeni'''
-| .bg
-|}
+{{Ülke bilgi kutusu
+| kendi_dilinde_adı                    = {{dil-bg|Република България}}<br />''Republika Bǎlgarija''
+| adı                                  = Bulgariya
+| tam_adı                              = Bulgariya Respublikası
+| bayrak_resmi                         = Flag of Bulgaria.svg
+| arma_resmi                           = Coat of arms of Bulgaria.svg
+| slogan                               = Съединението прави силата <small>([[Bulgarca]])</small> <br />{{lang|bg-Latn|''Sǎedinenieto pravi silata''}} <small>(Transkripsiyon)<br />"Birlikten kuvvet doğar"</small>
+| millî_marş                           = 
+| kraliyet_marşı                       = 
+| ulusal_marş                          = [[Mila Rodino|Мила Родино]] <small>([[Bulgarca]])</small> <br />{{lang|bg-Latn|''Mila Rodino''}} <small>(Transkripsiyon)<br />"Sevgili Anavatan"</small><br/><br/><center>[[Dosye:Mila Rodino.ogg]]</center>
+| kraliyet_marşı                       = 
+| diğer_sembol_adı                     = 
+| diğer_sembol_resmi                   = 
+| harita_resmi                         = EU-Bulgaria.svg
+| harita_açıklaması                    = 
+| harita2_resmi                        = 
+| harita2_açıklaması                   = 
+| başkent                              = [[Sofiya]] [[Dosya:BG Sofia coa.svg|20px]]
+| latd=  42
+| latm= 41
+| latNS = N
+| longd= 23
+| longm= 19
+| longEW = E
+| en_büyük_şehir                       = [[Sofya]]
+| en_büyük_yerleşim                    = 
+| en_büyük_yerleşim_tipi               = 
+| resmî_diller                         = [[Bulgarca]]
+| bölgesel_diller                      = [[Türkçe]], [[Romanca]]
+| dil_tipi                             = 
+| diller                               = 
+| etnik_gruplar                        = [[Bulgarlar]] % 84,6<br />[[Türkler]] %8,9<ref>http://censusresults.nsi.bg/Reports/2/2/R9.aspx</ref><br />[[Romanlar]] % 4,8<br />diğer % 1,7<ref name="ref272">[http://www.nsi.bg/Census/Ethnos.htm 2001 nüfus sayımı (Bulgaristan ulusçul irde kurumu)]</ref>
+| etnik_grup_yılı                      = 2011 <ref>2011 sayımı, ss. 4.</ref>
+| milliyet                             = 
+| yönetim_biçimi                       = [[Parlamenter demokrasi]]
+| yönetici_unvanı1                     = Cumhurbaşkanı
+| yönetici_adı1                        = [[Rosen Plevneliev]] 
+| yönetici_unvanı2                     = Başbakan
+| yönetici_adı2                        = [[Boyko Borisov]]
+| yönetici_unvanı3                     = 
+| yönetici_adı3                        = 
+| yönetici_unvanı4                     = 
+| yönetici_adı4                        = 
+| yönetici_unvanı5                     = 
+| yönetici_adı5                        = 
+| olay1                                = [[Birinci Bulgar Devleti]]
+| olay1_tarihi                         = [[681]]-[[1018]]
+| olay2                                = [[İkinci Bulgar Devleti]]
+| olay2_tarihi                         = [[1185]]-[[1422]], [[Osmanlı İmparatorluğu]] tarafından fethedildi.
+| olay3                                = Özerklik
+| olay3_tarihi                         = [[3 Mart]], [[1878]]
+| olay4                                = Bağımsızlık
+| olay4_tarihi                         = [[22 Ceviz ay]], [[1908]]
+| olay5                                = 
+| olay5_tarihi                         = 
+| olay6                                = 
+| olay6_tarihi                         = 
+| olay7                                = 
+| olay7_tarihi                         = 
+| olay8                                = 
+| olay8_tarihi                         = 
+| olay9                                = 
+| olay9_tarihi                         = 
+| yüzölçümü_sırası                     = 105
+| yüzölçümü                            = 110.993.6
+| yüzölçümü_milkare                    = 
+| yüzölçümü_dipnotu                    = 
+| su_yüzdesi                           = %0.3
+| yüzölçümü2                           = 
+| yüzölçümü2_açıklaması                = 
+| FR_dipnot2                           = 
+| FR_IGN_yüzölçümü                     = 
+| FR_IGN_yüzölçümü_milkare             = 
+| FR_IGN_yüzölçümü_sırası              = 
+| FR_dipnot3                           = 
+| kadastro_yüzölçümü                   = 
+| kadastro_yüzölçümü_milkare           = 
+| kadastro_yüzölçümü_sırası            = 
+| tahmini_nüfus                        = 
+| tahmini_nüfus_sırası                 = 98
+| tahmini_nüfus_tarihi                 = 
+| sayım_nüfusu                         = 7.364.570<ref>[http://censusresults.nsi.bg/Reports/2/2/R1.aspx 2011 Bulgaristan nüfus bilgileri] Bulgaristan Millî İstatistik Enstitüsü {{Bg icon}}</ref>
+| sayım_nüfusu_sırası                  = 
+| sayım_nüfusu_tarihi                  = 2011
+| FR_dipnot                            = 
+| FR_tahmini_toplam_nüfus_tarihi       = 
+| FR_tahmini_toplam_nüfus              = 
+| FR_tahmini_toplam_nüfus_sırası       = 
+| FR_metropol_nüfusu                   = 
+| FR_metropol_nüfusu_sırası            = 
+| FR_dipnot5                           = 
+| nüfus_yoğunluğu                      = 66.2
+| nüfus_yoğunluğu_milkare              = 
+| nüfus_yoğunluğu_sırası               = 139
+| nüfus_yoğunluğu_dipnotu              = 
+| GSYİH_SAGP                           = $103,816 milyar
+| GSYİH_SAGP_sırası                    = 66
+| GSYİH_SAGP_yılı                      = 2008
+| kişi_başına_düşen_GSYİH_SAGP         = $16.076
+| kişi_başına_düşen_GSYİH_SAGP_sırası  = 69
+| GSYİH_düşük                          = $51,030 milyar
+| GSYİH_düşük_sırası                   = 75
+| GSYİH_düşük_yılı                     = 2012
+| kişi_başına_düşen_GSYİH_düşük        = $7.033
+| kişi_başına_düşen_GSYİH_düşük_sırası = 76
+| Gini                                 = 35,1
+| Gini_sırası                          = 
+| Gini_yılı                            = 2011
+| Gini_kategorisi                      = <font color="#009900">orta</font>
+| İGE                                  = 0.782
+| İGE_sırası                           = 57
+| İGE_sırası                           = 2013
+| İGE_kategorisi                       = <font color="#009900">yüksek</font>
+| para_birimi                          = [[Lev]]
+| para_birimi_kodu                     = BGN
+| zaman_dilimi                         = [[Eastern European Time|EET]]
+| utc                                  = +2
+| yaz_zaman_dilimi                     = [[Eastern European Summer Time|EEST]]
+| yaz_utc                              = +3
+| takvim                               = 
+| trafik_akışı                         = sağ
+| cctld                                = [[.bg]]
+| ISO_3166_kodu                        = 
+| telefon_kodu                         = [[+359]]
+| harita3_resmi                        = 
+| harita3_açıklaması                   = 
+| dipnotlar                            = 
+| dipnot1                              = 
+| dipnot2                              = 
+| dipnot3                              = 
+| dipnot4                              = 
+| dipnot5                              = 
+| dipnot6                              = 
+| dipnot7                              = 
+}}
+
 [[Dosye:Bojentzi1.JPG|thumb|right|Bulgariya]]
 [[Dosye:Bulgarien 0905.JPG|thumb|right|Bulgariya]]
 [[Dosye:Assemblee.JPG|thumb|right|Bulgariya]]
