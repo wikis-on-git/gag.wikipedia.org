@@ -1,0 +1,25 @@
+{{düzenle-tr}}
+Latin alfabesine çeviri kuralları için bakınız: [[Vikipedi:Rus alfabesinin Latin alfabesine çevirisi]].
+
+Transkripsiyon kuralları için bakınız: [[Vikipedi:Rusça için UFA]], [[Rusça sesbilimi]] ve [[:ru:Русская фонетика|Русская фонетика]].
+
+== Examples of use ==
+
+*<tt><nowiki>{{dil-ru|Дивногорск}}</nowiki></tt>
+:{{dil-ru|Дивногорск}}
+*<tt><nowiki>{{dil-ru|Дивногорск|Divnogorsk}}</nowiki></tt>
+:{{dil-ru|Дивногорск|Divnogorsk}}
+*<tt><nowiki>{{dil-ru|Дивногорск|Divnogorsk|dʲɪvnɐˈgorsk}}</nowiki></tt>
+:{{dil-ru|Дивногорск|Divnogorsk|dʲɪvnɐˈgorsk}}
+*<tt><nowiki>{{dil-ru|Дивногорск|Divnogorsk|dʲɪvnɐˈgorsk|Example.ogg}}</nowiki></tt>
+:{{dil-ru|Дивногорск|Divnogorsk|dʲɪvnɐˈgorsk|Example.ogg}}
+*<tt><nowiki>{{dil-ru|Дивногорск|r=Divnogorsk|p=dʲɪvnɐˈgorsk|a=Example.ogg}}</nowiki></tt>
+:{{dil-ru|Дивногорск|r=Divnogorsk|p=dʲɪvnɐˈgorsk|a=Example.ogg}}
+*<tt><nowiki>{{dil-ru|Дивногорск|r=Divnogorsk|p=dʲɪvnɐˈgorsk}}</nowiki></tt>
+:{{dil-ru|Дивногорск|r=Divnogorsk|p=dʲɪvnɐˈgorsk}}
+*<tt><nowiki>{{dil-ru|Дивногорск|r=Divnogorsk}}</nowiki></tt>
+:{{dil-ru|Дивногорск|r=Divnogorsk}}
+*<tt><nowiki>{{dil-ru|Дивногорск|p=dʲɪvnɐˈgorsk}}</nowiki></tt>
+:{{dil-ru|Дивногорск|p=dʲɪvnɐˈgorsk}}
+*<tt><nowiki>{{dil-ru|Дивногорск|p=dʲɪvnɐˈgorsk|a=Example.ogg}}</nowiki></tt>
+:{{dil-ru|Дивногорск|p=dʲɪvnɐˈgorsk|a=Example.ogg}}
