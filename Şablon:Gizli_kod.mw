@@ -1,0 +1,26 @@
+{{ombox| tür = style| resim = [[Dosya:Ambox warning yellow.svg|40x40px]]
+| metin =
+'''Bu şablon, karmaşık ve ileri düzey özellikler kullanan hassas bir yapıdadır.''' {{nowrap|{{{1|}}}}}<div style="font-size:90%; padding-bottom:2px;">Şablonu düzenlemeden önce, kullanımına ve [[M:Parser functions|ayrıştırıcı işlevlere]] aşinalık kazanmanız şiddetle önerilir. Düzenlemeleriniz bazı beklenmeyen sonuçlara yol açarsa, lütfen derhal [[Yardım:Madde_geçmişi#Sayfayı_Geri_Almak|geri alın]], çünkü bu şablon çok sayıda sayfada kullanılmaktadır. '''Burada bir şey değiştirmeden önce, uygun bir [[deneme tahtası]] ya da kendi kullanıcı alanınızı kullanarak tüm çalışmalarınızı dikkatle deneyin<!-- ...
+aşağıdaki yollardan birini kullanarak denemeler yapabileceğinizi ve tüm geliştirmelerinizi öncelikle orada denemeniz gerektiğini unutmayın: {{nowrap|{{#switch:
+{{#ifexist:{{FULLPAGENAME}}/deneme tahtası     |deneme tahtası     |
+{{#ifexist:{{FULLPAGENAME}}/Deneme tahtası     |Deneme tahtası     |
+{{#ifexist:{{FULLPAGENAME}}/test sandbox|test sandbox|
+{{#ifexist:{{FULLPAGENAME}}/Test sandbox|Test sandbox|
+{{#ifexist:{{FULLPAGENAME}}/test        |test        |
+{{#ifexist:{{FULLPAGENAME}}/Test        |Test        |
+}} }} }} }} }} }}
+ | deneme tahtası= [[Şablon:{{PAGENAME}}/deneme tahtası     |local /deneme tahtası]]
+ | Sandbox       = [[Şablon:{{PAGENAME}}/Sandbox     |local /Sandbox          ]]
+ | test sandbox  = [[Şablon:{{PAGENAME}}/test sandbox|local /test sandbox     ]]
+ | Test sandbox  = [[Şablon:{{PAGENAME}}/Test sandbox|local /Test sandbox     ]]
+ | test          = [[Şablon:{{PAGENAME}}/test        |local /test             ]]
+ | Test          = [[Şablon:{{PAGENAME}}/Test        |local /Test             ]]
+ | #default      = [[Şablon:Template sandbox         |general Template sandbox]]
+}} }}--><!--çok fazla [[M:Help:Extension:ParserFunctions#.23ifexist 
+| pahalı fonksiyon]] kullandığı için sayfaları şişiriyor, o yüzden iptal ettim. -Ş. ~~~~
+-->.'''</div>
+}}<includeonly><!-- eğer şablon sayfasındaysak o şablonu uygun kategoriye sokalım: 
+-->{{#ifeq: {{PAGENAME}} | {{BASEPAGENAME}} | [[Kategori:Hassas şablonlar|{{PAGENAME}}]] }}</includeonly><noinclude>
+{{Belgeleme}}
+<!-- Kategori ve interwiki'leri buraya değil /doc altsayfasına ekleyin! -->
+</noinclude>
