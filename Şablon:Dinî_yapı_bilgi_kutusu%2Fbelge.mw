@@ -1,0 +1,133 @@
+{{Şablon belge sayfası}}
+{{Belgeleme navigasyonu}}
+==Kullanımı==
+<pre>
+{{Dinî yapı bilgi kutusu
+| yapı_adı               =
+| bilgi_kutusu_genişliği =
+| resim                  =
+| resim_boyutu           =
+| alternatif_metin       =
+| resim_yazısı           =
+| yer                    =
+| koordinatlar           =
+| dini_inanç             =
+| mezhep                 =
+| açılış_yılı            =
+| işlevsel_durum         =
+| dünya_miras_yılı       = 
+| yönetici               =
+| websitesi              =
+| mimar                  =
+| mimari_tür             =
+| mimari_biçim           =
+| cephe_yönü             =
+| inşaat_başlangıç_yılı  =
+| inşaat_tamamlanma_yılı =
+| maliyet                =
+| kapasite               =
+| yükseklik              =
+| genişlik               =
+| merkez_genişlik        =
+| kubbe_sayısı           =
+| dış_kubbe_yüksekliği   =
+| iç_kubbe_yüksekliği    =
+| dış_kubbe_çapı         =
+| iç_kubbe_çapı          =
+| minare_sayısı          =
+| minare_yüksekliği      =
+| çan_kulesi_sayısı      =
+| çan_kulesi_yüksekliği  =
+| saat_kulesi_sayısı     =
+| saat_kulesi_yüksekliği =
+| malzeme                =
+}}
+</pre>
+
+* '''yapı adı''' &mdash; Yapının adı
+* '''bilgi_kutusu_genişliği''' &mdash; Bilgi kutusu genişliği (öntanımlı değer 300px'dir)
+* '''resim''' &mdash; Yapı resmi
+* '''resim_boyutu''' &mdash; Resim boyutu (öntanımlı değer 250px'dir)
+* '''alternatif_metin''' &mdash; Resim için alternatif metin
+* '''resim_yazısı''' &mdash; Resim yazısı
+* '''yer''' &mdash; Yapının bulunduğu yer
+* '''koordinatlar''' &mdash; Coğrafi koordinatlar
+* '''dini_inanç''' &mdash; Yapının temel aldığı dinî inanç
+* '''mezhep''' &mdash; Mezhep
+* '''açılış_yılı''' &mdash; Açılış yılı
+* '''işlevsel_durum''' &mdash; Yapının bugünkü durumu ''<small>(etkin, terk edilmiş, koruma altında, müze, vb.)</small>''
+* '''dünya_miras_yılı''' &mdash; Yapının [[Dünya Mirasları]]'na kabul edildiği yıl
+* '''yönetici''' &mdash; Yapının işleyişinden sorumlu kişi
+* '''websitesi''' &mdash; Yapının resmi web sitesi
+* '''mimar''' &mdash; Yapının mimar(lar)ı
+* '''mimari_tür''' &mdash; Mimari tür
+* '''mimari_biçim''' &mdash; Mimari biçim
+* '''cephe_yönü''' &mdash; Cephe yönü
+* '''inşaat_başlangıç_yılı''' &mdash; İnşaatın başladığı yıl
+* '''inşaat_tamamlanma_yılı''' &mdash; İnşaatın tamamlandığı yıl
+* '''maliyet''' &mdash; Toplam yapım tutarı
+* '''kapasite''' &mdash; Kapasite
+* '''yükseklik''' &mdash; Yapının yüksekliği
+* '''genişlik''' &mdash; Yapının dış cephe genişliği
+* '''merkez_genişlik''' &mdash; Merkez genişlik
+* '''kubbe_sayısı''' &mdash; Kubbe sayısı
+* '''dış_kubbe_yüksekliği''' &mdash; Dış kubbe yüksekliği
+* '''iç_kubbe_yüksekliği''' &mdash; İç kubbe yüksekliği
+* '''dış_kubbe_çapı''' &mdash; Dış kubbe çapı
+* '''iç_kubbe_çapı''' &mdash; İç kubbe çapı
+* '''minare_sayısı''' &mdash; Minare sayısı
+* '''minare_yüksekliği''' &mdash; Minare yüksekliği
+* '''çan_kulesi_sayısı''' &mdash; Çan kulesi sayısı
+* '''çan_kulesi_yüksekliği''' &mdash; Çan kulesi yüksekliği
+* '''saat_kulesi_sayısı''' &mdash; Saat kulesi sayısı
+* '''saat_kulesi_yüksekliği''' &mdash; Saat kulesi yüksekliği
+* '''malzeme''' &mdash; Yapımda kullanılan malzeme
+
+==Otomatik renklendirme==
+Bu şablon kendini kullanılan inanç türüne göre otomatik olarak renklendirmektedir. Aşağıdaki çizelge renklendirmenin desteklendiği inanç türlerini göstermektedir. 
+
+{| class="wikitable" width="100%"
+
+|-
+! Dinî inanç
+! Renk
+|-
+| style="font-size:90%;" | ''<nowiki>[[Anglikan]], [[Anglikanizm]], [[Amerika Birleşik Devletleri Piskopos Kilisesi]], [[İngiltere Kilisesi]]</nowiki>''
+| style="background-color:#BC50A5;" | #BC50A5
+|-
+| style="font-size:90%;" | ''<nowiki>[[Budist]] ya da [[Budizm]]</nowiki>''
+| style="background-color:#FFCC33;" | #FFCC33
+|-
+| style="font-size:90%;" | ''<nowiki>[[Hinduizm]]</nowiki>''
+| style="background-color:#FF8C80;" | #FF8C80
+|-
+| style="font-size:90%;" | ''<nowiki>[[İslam]]</nowiki>''
+| style="background-color:#009530;" | #009900
+|-
+| style="font-size:90%;" |''<nowiki>[[Şii]] ya da [[Şii İslam]]</nowiki>''
+| style="background-color:#00A693;" | #00A693
+|-
+| style="font-size:90%;" | ''<nowiki>[[Sünni İslam]] ya da [[Sünni]]</nowiki>''
+| style="background-color:#CCFFCC;" | #CCFFCC
+|-
+| style="font-size:90%;" | ''<nowiki>[[İskenderiye Kıpti Kilisesi]], [[Kıpti Ortodoks Kilisesi]] ya da [[Kıpti]]</nowiki>''
+| style="background-color:#007BFF;" | #007BFF
+|-
+| style="font-size:90%;" | ''<nowiki>[[Yahudilik]] ya da [[Musevilik]]</nowiki>''
+| style="background-color:#87CEFA;" | #87CEFA
+|-
+| style="font-size:90%;" | ''<nowiki>[[Roma Katolik]], [[Roma Katolik Kilisesi]] ya da [[Katolik]]</nowiki>''
+| style="background-color:#FFCC99;" | #FFCC99
+|-
+| style="font-size:90%;" |''<nowiki>[[Yunan Ortodoks]], [[Rum Ortodoks]] ya da [[Rus Ortodoks]]</nowiki>''
+| style="background-color:#FFCF00;" | #FFCF00
+|-
+| style="font-size:90%;" |''<nowiki>[[Bahá'í]]</nowiki>''
+| style="background-color:#FF8C00;" | #FF8C00
+|-
+| style="font-size:90%;" | ''Diğer''
+| style="background-color:#D3D3D3;" | #D3D3D3
+|}<includeonly>
+[[Kategori:Din bilgi kutusu şablonları|Yapı]]
+[[Kategori:Yapı bilgi kutusu şablonları]]
+</includeonly>
