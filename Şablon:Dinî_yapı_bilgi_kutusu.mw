@@ -1,0 +1,305 @@
+<noinclude>{{Gizli kod}}</noinclude>
+{| class="infobox vcard" style="font-size:90%; width:{{#if:{{{bilgi_kutusu_genişliği|}}}|{{{bilgi_kutusu_genişliği}}}|250px}}; text-align:left"
+|- style="background:#{{#switch:{{{dini_inanç|}}}
+| [[Anglikan]]
+| [[Anglikanizm]]
+| [[Amerika Birleşik Devletleri Piskopos Kilisesi]]
+| [[İngiltere Kilisesi]] = CA95E4
+| [[İskenderiye Kıpti Kilisesi]]
+| [[Kıpti Ortodoks Kilisesi]]
+| [[Kıpti]] = 007BFF
+| [[Budist]]
+| [[Budizm]] = FFCC33
+| [[Hinduizm]] = FF8C80
+| [[İslam]] = 99CC99
+| [[Musevilik]]
+| [[Yahudilik]]=ADD8E6
+| [[Roma Katolik]]
+| [[Roma Katolik Kilisesi]]
+| [[Katolik]] 
+| [[Katolik|Hristiyan]] = FFCC99
+| [[Şii]]
+| [[Şii İslam]] = 00A693
+| [[Sünni]]
+| [[Sünni Islam]] = CCFFCC
+| [[Yunan Ortodoks]] = FFCF00
+| [[Rum Ortodoks]] = FFCF00
+| [[Rum Ortodoks Kilisesi|Rum Ortodoks]] = FFCF00
+| [[Bulgar Ortodoks Kilisesi|Bulgar Ortodoks]] = FFCF00
+| [[Sırp Ortodoks Kilisesi|Sırp Ortodoks]] = FFCF00
+| [[Ermeni Apostolik Kilisesi|Ermeni Apostolik]] = FFCF00
+| [[Rus Ortodoks]] = FFCF00
+| [[Bahá'í]] = FF8C00
+| #default = D3D3D3
+}}"
+! colspan="2" class="fn org" style="font-size:larger; text-align:center" | {{{yapı_adı}}}
+|-
+{{#if:{{{resim|<noinclude>x</noinclude>}}}|
+{{!}} colspan="2" style="text-align:center;" {{!}} [[Dosya:{{{resim}}}|{{#if:{{{resim_boyutu|<noinclude>x</noinclude>}}}|{{{resim_boyutu}}}|250px}}|alt={{{alternatif_metin<includeonly>|</includeonly>}}}]]
+}}
+{{#if:{{{resim_yazısı|<noinclude>x</noinclude>}}}|{{{resim_yazısı}}}<br />}}
+|-
+! colspan="2" style="text-align:center; background:#{{#switch:{{{dini_inanç|}}}
+| [[Anglikan]]
+| [[Anglikanizm]]
+| [[Amerika Birleşik Devletleri Piskopos Kilisesi]]
+| [[İngiltere Kilisesi]] = CA95E4
+| [[İskenderiye Kıpti Kilisesi]]
+| [[Kıpti Ortodoks Kilisesi]]
+| [[Kıpti]] = 007BFF
+| [[Budist]]
+| [[Budizm]] = FFCC33
+| [[Hinduizm]] = FF8C80
+| [[İslam]] = 99CC99
+| [[Musevilik]]
+| [[Yahudilik]]=ADD8E6
+| [[Roma Katolik]]
+| [[Roma Katolik Kilisesi]]
+| [[Katolik]]
+| [[Katolik|Hristiyan]] = FFCC99
+| [[Şii]]
+| [[Şii İslam]] = 00A693
+| [[Sünni]]
+| [[Sünni Islam]] = CCFFCC
+| [[Yunan Ortodoks]] = FFCF00
+| [[Rum Ortodoks]] = FFCF00
+| [[Rum Ortodoks Kilisesi|Rum Ortodoks]] = FFCF00
+| [[Bulgar Ortodoks Kilisesi|Bulgar Ortodoks]] = FFCF00
+| [[Sırp Ortodoks Kilisesi|Sırp Ortodoks]] = FFCF00
+| [[Ermeni Apostolik Kilisesi|Ermeni Apostolik]] = FFCF00
+| [[Rus Ortodoks]] = FFCF00
+| [[Bahá'í]] = FF8C00
+| #default = D3D3D3
+}}" {{!}} Temel bilgiler
+|-
+{{#if:{{{yer|<noinclude>x</noinclude>}}}|
+! Yer
+{{!}} {{{yer}}}
+{{!}}-
+}}
+{{#if:{{{koordinatlar|<noinclude>x</noinclude>}}}|
+! [[Coğrafi koordinat sistemi|Coğrafi koordinatlar]]
+{{!}} {{{koordinatlar}}}
+{{!}}-
+}}
+|- class="note"
+{{#if:{{{dini_inanç|<noinclude>x</noinclude>}}}|
+! [[İnanç]]
+{{!}} {{{dini_inanç}}}
+{{!}}-
+}}
+{{#if:{{{mezhep|<noinclude>x</noinclude>}}}|
+! [[Mezhep]]
+{{!}} {{{mezhep}}}
+{{!}}-
+}}
+{{#if:{{{açılış_yılı|<noinclude>x</noinclude>}}}|
+! Açılış yılı
+{{!}} {{{açılış_yılı}}}
+{{!}}-
+}}
+{{#if:{{{işlevsel_durum|<noinclude>x</noinclude>}}}|
+! Durum
+{{!}} {{{işlevsel_durum}}}
+{{!}}-
+}}
+{{#if:{{{dünya_miras_yılı|<noinclude>x</noinclude>}}}|
+! [[Dünya Mirasları|Dünya miras yılı]]
+{{!}} {{{dünya_miras_yılı}}}
+{{!}}-
+}}
+{{#if:{{{yönetici|<noinclude>x</noinclude>}}}|
+! Yönetici
+{{!}} {{{yönetici}}}
+{{!}}-
+}}
+{{#if:{{{websitesi|<noinclude>x</noinclude>}}}|
+! Web sitesi
+{{!}} {{{websitesi}}}
+}}
+{{!}}-
+! colspan="2" style="text-align:center; background:#{{#switch:{{{dini_inanç|}}}
+| [[Anglikan]]
+| [[Anglikanizm]]
+| [[Amerika Birleşik Devletleri Piskopos Kilisesi]]
+| [[İngiltere Kilisesi]] = CA95E4
+| [[İskenderiye Kıpti Kilisesi]]
+| [[Kıpti Ortodoks Kilisesi]]
+| [[Kıpti]] = 007BFF
+| [[Budist]]
+| [[Budizm]] = FFCC33
+| [[Hinduizm]] = FF8C80
+| [[İslam]] = 99CC99
+| [[Musevilik]]
+| [[Yahudilik]]=ADD8E6
+| [[Roma Katolik]]
+| [[Roma Katolik Kilisesi]]
+| [[Katolik]]
+| [[Katolik|Hristiyan]] = FFCC99
+| [[Şii]]
+| [[Şii İslam]] = 00A693
+| [[Sünni]]
+| [[Sünni Islam]] = CCFFCC
+| [[Yunan Ortodoks]] = FFCF00
+| [[Rum Ortodoks]] = FFCF00
+| [[Rum Ortodoks Kilisesi|Rum Ortodoks]] = FFCF00
+| [[Bulgar Ortodoks Kilisesi|Bulgar Ortodoks]] = FFCF00
+| [[Sırp Ortodoks Kilisesi|Sırp Ortodoks]] = FFCF00
+| [[Ermeni Apostolik Kilisesi|Ermeni Apostolik]] = FFCF00
+| [[Rus Ortodoks]] = FFCF00
+| [[Bahá'í]] = FF8C00
+| #default = D3D3D3
+}}" {{!}} Mimari
+{{!}}- class="note"
+{{#if:{{{mimar|<noinclude>x</noinclude>}}}|
+! [[Mimar]](lar)
+{{!}} {{{mimar}}}
+{{!}}-
+}}
+{{#if:{{{mimari_tür|<noinclude>x</noinclude>}}}|
+! Mimari tür
+{{!}} {{{mimari_tür}}}
+{{!}}-
+}}
+{{#if:{{{mimari_biçim|<noinclude>x</noinclude>}}}|
+! Mimari biçim
+{{!}} {{{mimari_biçim}}}
+{{!}}-
+}}
+{{#if:{{{cephe_yönü|<noinclude>x</noinclude>}}}|
+! Cephe yönü
+{{!}} {{{cephe_yönü}}}
+{{!}}- class="note"
+}}
+{{#if:{{{inşaat_başlangıç_yılı|<noinclude>x</noinclude>}}}|
+! İnşaat başlangıç tarihi
+{{!}} {{{inşaat_başlangıç_yılı}}}
+{{!}}-
+}}
+{{!}}- class="note"
+{{#if:{{{inşaat_tamamlanma_yılı|<noinclude>x</noinclude>}}}|
+! Tamamlanma tarihi
+{{!}} {{{inşaat_tamamlanma_yılı}}}
+{{!}}-
+}}
+{{#if:{{{maliyet|<noinclude>x</noinclude>}}}|
+! Maliyet
+{{!}} {{{maliyet}}}
+}}
+{{!}}-
+! colspan="2" style="text-align:center; background:#{{#switch:{{{dini_inanç|}}}
+| [[Anglikan]]
+| [[Anglikanizm]]
+| [[Amerika Birleşik Devletleri Piskopos Kilisesi]]
+| [[İngiltere Kilisesi]] = CA95E4
+| [[İskenderiye Kıpti Kilisesi]]
+| [[Kıpti Ortodoks Kilisesi]]
+| [[Kıpti]] = 007BFF
+| [[Budist]]
+| [[Budizm]] = FFCC33
+| [[Hinduizm]] = FF8C80
+| [[İslam]] = 99CC99
+| [[Musevilik]]
+| [[Yahudilik]]=ADD8E6
+| [[Roma Katolik]]
+| [[Roma Katolik Kilisesi]]
+| [[Katolik]]
+| [[Katolik|Hristiyan]] = FFCC99
+| [[Şii]]
+| [[Şii İslam]] = 00A693
+| [[Sünni]]
+| [[Sünni Islam]] = CCFFCC
+| [[Yunan Ortodoks]] = FFCF00
+| [[Rum Ortodoks Kilisesi|Rum Ortodoks]] = FFCF00
+| [[Bulgar Ortodoks Kilisesi|Bulgar Ortodoks]] = FFCF00
+| [[Sırp Ortodoks Kilisesi|Sırp Ortodoks]] = FFCF00
+| [[Ermeni Apostolik Kilisesi|Ermeni Apostolik]] = FFCF00
+| [[Rum Ortodoks]] = FFCF00
+| [[Rus Ortodoks]] = FFCF00
+| [[Bahá'í]] = FF8C00
+| #default = D3D3D3
+}}" {{!}} Özellikler
+{{!}}-
+{{#if:{{{kapasite|<noinclude>x</noinclude>}}}|
+! Kapasite
+{{!}} {{{kapasite}}}
+{{!}}-
+}}
+{{#if:{{{yükseklik|<noinclude>x</noinclude>}}}|
+! Uzunluk
+{{!}} {{{yükseklik}}}
+{{!}}-
+}}
+{{#if:{{{genişlik|<noinclude>x</noinclude>}}}|
+! Genişlik
+{{!}} {{{genişlik}}}
+{{!}}-
+}}
+{{#if:{{{merkez_genişlik|<noinclude>x</noinclude>}}}|
+! Genişlik (merkez)
+{{!}} {{{merkez_genişlik}}}
+{{!}}-
+}}
+{{#if:{{{kubbe_sayısı|<noinclude>x</noinclude>}}}|
+! [[Kubbe]] sayısı
+{{!}} {{{kubbe_sayısı}}}
+{{!}}-
+}}
+{{#if:{{{dış_kubbe_yüksekliği|<noinclude>x</noinclude>}}}|
+! Kubbe yüksekliği (dış)
+{{!}} {{{dış_kubbe_yüksekliği}}}
+{{!}}-
+}}
+{{#if:{{{iç_kubbe_yüksekliği|<noinclude>x</noinclude>}}}|
+! Kubbe yüksekliği (iç)
+{{!}} {{{iç_kubbe_yüksekliği}}}
+{{!}}-
+}}
+{{#if:{{{dış_kubbe_çapı|<noinclude>x</noinclude>}}}|
+! Kubbe çapı (dış)
+{{!}} {{{dış_kubbe_çapı}}}
+{{!}}-
+}}
+{{#if:{{{iç_kubbe_çapı|<noinclude>x</noinclude>}}}|
+! Kubbe çapı (iç)
+{{!}} {{{iç_kubbe_çapı}}}
+{{!}}-
+}}
+{{#if:{{{minare_sayısı|<noinclude>x</noinclude>}}}|
+! [[Minare]] sayısı
+{{!}} {{{minare_sayısı}}}
+{{!}}-
+}}
+{{#if:{{{minare_yüksekliği|<noinclude>x</noinclude>}}}|
+! Minare yüksekliği
+{{!}} {{{minare_yüksekliği}}}
+{{!}}-
+}}
+{{#if:{{{çan_kulesi_sayısı|<noinclude>x</noinclude>}}}|
+! [[Çan kulesi]] sayısı
+{{!}} {{{çan_kulesi_sayısı}}}
+{{!}}-
+}}
+{{#if:{{{çan_kulesi_yüksekliği|<noinclude>x</noinclude>}}}|
+! Çan kulesi yüksekliği
+{{!}} {{{çan_kulesi_yüksekliği}}}
+{{!}}-
+}}
+{{#if:{{{saat_kulesi_sayısı|<noinclude>x</noinclude>}}}|
+! Saat kulesi sayısı
+{{!}} {{{saat_kulesi_sayısı}}}
+{{!}}-
+}}
+{{#if:{{{saat_kulesi_yüksekliği|<noinclude>x</noinclude>}}}|
+! Saat kulesi yüksekliği
+{{!}} {{{saat_kulesi_yüksekliği}}}
+{{!}}-
+}}
+{{#if:{{{malzeme|<noinclude>x</noinclude>}}}|
+! [[Malzeme|Malzemeler]]
+{{!}} {{{malzeme}}}
+}}
+{{!}}-
+|}<noinclude>
+{{belgeleme}}
+</noinclude>
