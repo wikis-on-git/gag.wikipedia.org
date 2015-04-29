@@ -1,0 +1,62 @@
+{{Şablon belge sayfası}}<!-- 
+LÜTFEN KATEGORİ ve INTERWIKI'LERİ SAYFANIN SONUNA EKLEYİN 
+-->
+Bu şablon, eklendiği ''hassas'' şablon sayfalarını düzenlemek isteyenleri uyarmak için yazılmış, basit bir ileti kutusudur. Bu şablon herhangi bir ''hassas şablon'' (yani ilk bakışta kolay anlaşılmayan, karmaşık yapıda, ileri düzey teknikler kullanan, [[wikt:ezoterik|ezoterik]] bir dile sahip, çeşitli teknikleri birarada kullanan, başka şablonlar için parametre işlevi gören, çeşitli çağrılar için bir işlev olması düşünülerek yapılmış, vb.) için hazırlanan belge yansayfasının (/doc) başına konabilir.  
+İleti kutusuna ek olarak, bu şekilde katıştırıldığı şablonları 
+<pre>
+[[:Kategori:Hassas şablonlar|{{PAGENAME}}]]</pre>
+satırı ile [[:Kategori:Hassas şablonlar|hassas şablonlar]] kategorisine ekler.
+
+=== Kullanım ===
+Bu şablon herhangi bir şablonun /doc sayfasına eklendiğinde, <code>&lt;includeonly></code> etiketleri arasına yerleştirilmelidir çünkü bu şekilde uyarılar sadece içinde yeraldığı şablon sayfasında gözükecek, şablonu kullanan normal sayfalarda uyarı çıkmayacaktır. Yani /doc sayfasının baş tarafı şuna benzer olmalıdır:
+<pre>
+{{Şablon belge sayfası}}
+<includeonly>{{hassas şablon}}</includeonly>
+<!-- LÜTFEN KATEGORİ ve INTERWIKILERİ BU SAYFANIN SONUNA EKLEYİN! -->
+</pre>
+
+=== Ayrıca bakınız ===
+* {{tl|high-risk}} : son derece fazla kullanılan (yüksek riskli) şablonların belgelerine konmak için
+* {{tl|high-use}} : biraz daha düşük risk taşıyan şablonlar için
+
+<includeonly>
+<!-- KATEGORİLER VE INTERWIKI'LER -->
+[[Kategori:Şablon isim alanı şablonları]]
+
+[[ar:قالب:قالب معقد]]
+[[arz:قالب:Esoteric]]
+[[bg:Шаблон:Шаблон със сложен синтаксис]]
+[[bs:Šablon:Složeni kod]]
+[[cs:Šablona:Složitá šablona]]
+[[da:Skabelon:Esoterisk]]
+[[en:Template:Intricate template]]
+[[es:Plantilla:Plantilla compleja]]
+[[eo:Ŝablono:Esotera]]
+[[fa:الگو:الگوی پیچیده]]
+[[fr:Modèle:Documentation modèle compliqué]]
+[[ia:Patrono:Esoteric]]
+[[is:Snið:Esoteric]]
+[[it:Template:Template complesso]]
+[[ja:Template:複雑なテンプレート]]
+[[ka:თარგი:ეზოთერული]]
+[[ko:틀:복잡한 틀]]
+[[ml:ഫലകം:സങ്കീർണമായ ഫലകം]]
+[[mk:Шаблон:Сложен шаблон]]
+[[nn:Mal:Komplisert mal]]
+[[no:Mal:Komplisert mal]]
+[[os:Шаблон:Эзотерикæ]]
+[[pt:Predefinição:Predefinição complexa]]
+[[ro:Format:Ezoteric]]
+[[ru:Шаблон:Эзотерика]]
+[[sc:Template:Esoteric]]
+[[sk:Šablóna:Esoteric]]
+[[sl:Predloga:Esoteric]]
+[[fi:Malline:Mallinehuomio]]
+[[sv:Mall:Komplicerad kod]]
+[[uk:Шаблон:Esoteric]]
+[[ur:سانچہ:مخفی]]
+[[wuu:Template:Esoteric]]
+[[zh:Template:Esoteric]]
+[[zh-classical:Template:Esoteric]]
+[[zh-yue:Template:祕技]]
+</includeonly>
