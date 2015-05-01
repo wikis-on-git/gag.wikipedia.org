@@ -1,0 +1,133 @@
+{{Şablon belge sayfası}}
+<noinclude>{{Belgeleme navigasyonu}}</noinclude>
+=== Kullanımı ===
+
+<pre style="font-size:95%; overflow:auto;">
+{{Hükümet kurumu bilgi kutusu
+|adı                    = 
+|yerliadı               = 
+|kısaltma               =
+|ülke                   =
+|amblem                 = 
+|amblem genişliği       = 
+|amblem açıklaması      = 
+|baskı                  = 
+|baskı genişliği        = 
+|baskı açıklaması       = 
+|görüntü                = 
+|görüntü genişliği      = 
+|görüntü açıklaması     = 
+|türü                   = 
+|kuruluş tarihi         = 
+|önceki kurum1          = 
+|önceki kurum2          = 
+|kapanış tarihi         = 
+|sonraki kurum          = 
+|bağlılığı              = 
+|adres                  = 
+|lat_dir = |lat_deg = |lat_min = |lat_sec = 
+|lon_dir = |lon_deg = |lon_min = |lon_sec = 
+|region_code             = 
+|personel sayısı         = 
+|bütçe                   = 
+|yönetici adı1           = 
+|yönetici türü1          = 
+|yönetici adı2           = 
+|yönetici türü2          = 
+|üst kuruluş             = 
+|alt birim1              = 
+|alt birim2              = 
+|belge1                  =
+|web                     =
+|notlar                  = 
+|harita                  = 
+|harita genişliği        = 
+|harita açıklaması       = 
+}}
+</pre>
+
+=== Örnek ===
+{{Hükümet kurumu bilgi kutusu
+|adı                    = Türk Polis Teşkilatı
+|yerliadı               = 
+|kısaltma               =
+|ülke                   = Türkiye
+|amblem                 = 
+|amblem genişliği       = 
+|amblem açıklaması      = 
+|baskı                  = 
+|baskı genişliği        = 
+|baskı açıklaması       = 
+|görüntü                = 
+|görüntü genişliği      = 
+|görüntü açıklaması     = 
+|türü                   = [[Kolluk kuvveti]]
+|kuruluş tarihi         = [[10 Nisan]] [[1845]]
+|önceki kurum1          = 
+|önceki kurum2          = 
+|kapanış tarihi         = 
+|sonraki kurum          = 
+|bağlılığı              = [[Türkiye Cumhuriyeti Başbakanlığı]]
+|adres                  = Dikmen Caddesi No 89 <br> [[Dikmen, Çankaya]] <br> {{bayraksimge|Türkiye}} [[Ankara]], [[Türkiye]]
+|lat_dir = |lat_deg = |lat_min = |lat_sec = 
+|lon_dir = |lon_deg = |lon_min = |lon_sec = 
+|region_code             = 
+|personel sayısı         = 
+|bütçe                   = 6 471 704 000 [[TL]] (2008)
+|yönetici adı1           = [[Mehmet Kılıçlar]]
+|yönetici türü1          = [[Türkiye Cumhuriyeti Emniyet Genel Müdürleri listesi|Emniyet Genel Müdürü]]
+|yönetici adı2           = 
+|yönetici türü2          = 
+|üst kuruluş             = [[Türkiye Cumhuriyeti İçişleri Bakanlığı|İçişleri Bakanlığı]]
+|alt birim1              = 
+|alt birim2              = 
+|belge1                  = 
+|web                     = http://www.egm.gov.tr/
+|notlar                  = 
+|harita                  = 
+|harita genişliği        = 
+|harita açıklaması       = 
+}}
+
+<pre style="padding-bottom:20em; font-size:95%; overflow:auto;">
+{{Hükümet kurumu bilgi kutusu
+|adı                    = Türk Polis Teşkilatı
+|yerliadı               = 
+|kısaltma               =
+|ülke                   = Türkiye
+|amblem                 = TurkPolisMaviJpg-200x268.jpg
+|amblem genişliği       = 100
+|amblem açıklaması      = Türk Polis Teşkilatı amblemi
+|baskı                  = 
+|baskı genişliği        = 
+|baskı açıklaması       = 
+|görüntü                = 
+|görüntü genişliği      = 
+|görüntü açıklaması     = 
+|kuruluş tarihi         = [[10 Nisan]] [[1845]]
+|önceki kurum1          = 
+|önceki kurum2          = 
+|kapanış tarihi         = 
+|sonraki kurum          = 
+|bağlılığı              = [[Türkiye Cumhuriyeti Başbakanlığı]]
+|adres                  = Dikmen Caddesi No 89 <br> [[Dikmen, Çankaya]] <br> {{bayrak|Türkiye}} [[Ankara]], [[Türkiye]]
+|lat_dir = |lat_deg = |lat_min = |lat_sec = 
+|lon_dir = |lon_deg = |lon_min = |lon_sec = 
+|region_code             = 
+|personel sayısı         = 
+|bütçe                   = 6 471 704 000 [[TL]] (2008)
+|yönetici adı1           = [[Mehmet Kılıçlar]]
+|yönetici türü1          = [[Türkiye Cumhuriyeti Emniyet Genel Müdürleri listesi|Emniyet Genel Müdürü]]
+|yönetici adı2           = 
+|yönetici türü2          = 
+|üst kuruluş             = [[Türkiye Cumhuriyeti İçişleri Bakanlığı|İçişleri Bakanlığı]]
+|alt birim1              = 
+|alt birim2              = 
+|belge1                  = 
+|web                     = http://www.egm.gov.tr/
+|notlar                  = 
+|harita                  = 
+|harita genişliği        = 
+|harita açıklaması       = 
+}}
+</pre>
