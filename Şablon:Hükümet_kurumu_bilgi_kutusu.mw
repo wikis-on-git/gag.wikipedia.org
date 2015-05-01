@@ -1,4 +1,4 @@
-<small>Küçük metin</small>{| class="infobox vcard" style="width: 25em; text-align: left; font-size: 88%; line-height: 1.5em"
+{| class="infobox vcard" style="width: 25em; text-align: left; font-size: 88%; line-height: 1.5em"
 ! colspan=2 class="fn org" style="font-size: 125%; text-align: center" | {{{adı|<includeonly>{{PAGENAME}}</includeonly>}}} 
 |-
 {{#if:{{{yerliadı|}}}|
