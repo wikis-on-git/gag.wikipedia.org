@@ -1,0 +1,167 @@
+<small>Küçük metin</small>{| class="infobox vcard" style="width: 25em; text-align: left; font-size: 88%; line-height: 1.5em"
+! colspan=2 class="fn org" style="font-size: 125%; text-align: center" | {{{adı|<includeonly>{{PAGENAME}}</includeonly>}}} 
+|-
+{{#if:{{{yerliadı|}}}|
+! colspan=2 class="nickname" style="font-size: 100%; text-align: center" {{!}} ''{{{yerliadı}}}''
+{{!}}-
+}}
+|-
+{{#if:{{{kısaltma|}}}|
+! colspan=2 class="nickname" style="font-size: 125%; text-align: center" {{!}} ({{{kısaltma}}})
+{{!}}-
+}}
+|-
+{{#if:{{{baskı|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} [[Dosya:{{{baskı}}}|{{#if:{{{baskı genişliği|}}}|{{{baskı genişliği}}}|180px}}]]
+{{!}}-
+{{#if:{{{baskı açıklaması|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} {{{baskı açıklaması}}}
+{{!}}-
+}}
+}}
+{{#if:{{{amblem|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} [[Dosya:{{{amblem}}}|{{#if:{{{amblem genişliği|}}}|{{{amblem genişliği}}}|180px}}]]
+{{!}}-
+{{#if:{{{amblem açıklaması|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} {{{amblem açıklaması}}}
+{{!}}-
+}}
+}}
+{{#if:{{{görüntü|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} [[Dosya:{{{görüntü}}}|{{#if:{{{görüntü genişliği|}}}|{{{görüntü genişliği}}}|180px}}]]
+{{!}}-
+{{#if:{{{görüntü açıklaması|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} {{{görüntü açıklaması}}}
+{{!}}-
+}}
+}}
+! colspan=2 style="background-color: #efefef; text-align: center" | Genel Bilgiler
+|-
+{{#if:{{{türü|}}}|
+! Türü
+{{!}} {{{türü}}}
+{{!}}-
+}}
+{{#if:{{{kuruluş tarihi|}}}|
+! Kuruluş tarihi
+{{!}} {{{kuruluş tarihi}}}
+{{!}}-
+}}
+{{#if:{{{önceki kurum1|}}}|
+! {{#if:{{{önceki kurum2|}}}|Önceki kurum|Önceki kurum}}
+{{!}} {{{önceki kurum1}}}{{#if:{{{önceki kurum2|}}}|<br />{{{önceki kurum2}}} }}{{#if:{{{önceki kurum3|}}}|<br />{{{önceki kurum3}}} }}{{#if:{{{önceki kurum4|}}}|<br />{{{önceki kurum4}}} }}{{#if:{{{önceki kurum5|}}}|<br />{{{önceki kurum5}}} }}{{#if:{{{önceki kurum6|}}}|<br />{{{önceki kurum6}}} }}
+{{!}}-
+}}
+{{#if:{{{kapanış tarihi|}}}|
+! Kapanış tarihi
+{{!}} {{{kapanış tarihi}}}
+{{!}}-
+}}
+{{#if:{{{sonraki kurum|}}}|
+! Sonraki kurum
+{{!}} {{{sonraki kurum}}}
+{{!}}-
+}}
+{{#if:{{{bağlılığı|}}}|
+! Bağlılığı
+{{!}} {{{bağlılığı}}}
+{{!}}-
+}}
+{{#if:{{{üst kuruluş|}}}|
+! Üst kuruluş
+{{!}} {{{üst kuruluş}}}
+{{!}}-
+}}
+{{#if:{{{adres|}}}|
+! Adres
+{{!}} {{{adres}}}{{#if:{{{lat_deg|}}}|<br /><span style="white-space: nowrap">{{coord |{{{lat_deg}}}|{{{lat_min}}}|{{{lat_sec}}}|{{{lat_dir}}}|{{{lon_deg}}}|{{{lon_min}}}|{{{lon_sec}}}|{{{lon_dir}}}|type:landmark_region:{{{region_code|}}} }}</span>}}
+{{!}}-
+}}
+{{#if:{{{personel sayısı|}}}|
+! Personel sayısı
+{{!}} {{{personel sayısı}}}
+{{!}}-
+}}
+{{#if:{{{bütçe|}}}|
+! Bütçe
+{{!}} {{{bütçe}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı1|}}}|
+! {{{yönetici türü1|Yönetici}}}
+{{!}} {{{yönetici adı1}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı2|}}}|
+! {{{yönetici türü2|Yönetici}}}
+{{!}} {{{yönetici adı2}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı3|}}}|
+! {{{yönetici türü3|Yönetici}}}
+{{!}} {{{yönetici adı3}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı4|}}}|
+! {{{yönetici türü4|Yönetici}}}
+{{!}} {{{yönetici adı4}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı5|}}}|
+! {{{yönetici türü5|Yönetici}}}
+{{!}} {{{yönetici adı5}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı6|}}}|
+! {{{yönetici türü6|Yönetici}}}
+{{!}} {{{yönetici adı6}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı7|}}}|
+! {{{yönetici türü7|Yönetici}}}
+{{!}} {{{yönetici adı7}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı8|}}}|
+! {{{yönetici türü8|Yönetici}}}
+{{!}} {{{yönetici adı8}}}
+{{!}}-
+}}
+{{#if:{{{yönetici adı9|}}}|
+! {{{yönetici türü9|Yönetici}}}
+{{!}} {{{yönetici adı9}}}
+{{!}}-
+}}
+{{#if:{{{alt birim1|}}}|
+! {{#if:{{{alt birim2|}}}|Alt birim|Alt birim}}
+{{!}} {{{alt birim1}}}{{#if:{{{alt birim2|}}}|<br />{{{alt birim2}}} }}{{#if:{{{alt birim3|}}}|<br />{{{alt birim3}}} }}{{#if:{{{alt birim4|}}}|<br />{{{alt birim4}}} }}{{#if:{{{alt birim5|}}}|<br />{{{alt birim5}}} }}{{#if:{{{alt birim6|}}}|<br />{{{alt birim6}}} }}{{#if:{{{alt birim7|}}}|<br />{{{alt birim7}}} }}{{#if:{{{alt birim8|}}}|<br />{{{alt birim8}}} }}{{#if:{{{alt birim9|}}}|<br />{{{alt birim9}}} }}
+{{!}}-
+}}
+{{#if:{{{belge1|}}}|
+! {{#if:{{{belge2|}}}|Belgeler}}
+{{!}} {{{belge1}}} {{#if:{{{belge2|}}}|<br />{{{belge2}}} }}{{#if:{{{belge3|}}}|<br />{{{belge3}}} }}{{#if:{{{belge4|}}}|<br />{{{belge4}}} }}{{#if:{{{belge5|}}}|<br />{{{belge5}}} }}{{#if:{{{belge6|}}}|<br />{{{belge6}}} }}
+{{!}}-
+}}
+{{#if:{{{web|}}}|
+! colspan=2 style="background-color: #efefef; text-align: center" {{!}} Web sayfası
+{{!}}-
+{{!}} colspan=2 style="text-align: center" {{!}} {{{web}}}
+{{!}}-
+}}
+{{#if:{{{notlar|}}}|
+! colspan=2 style="background-color: #efefef; text-align: center" {{!}} Notlar
+{{!}}-
+{{!}} colspan=2 style="text-align: left" {{!}} {{{notlar}}}
+{{!}}-
+}}
+{{#if:{{{harita|}}}|
+! colspan=2 style="background-color: #efefef; text-align: center" {{!}} Harita
+{{!}}-
+{{!}} colspan=2 style="text-align: center" {{!}} [[Dosya:{{{harita}}}|{{#if:{{{harita genişliği|}}}|{{{harita genişliği}}}|180px}}]]
+{{!}}-
+{{#if:{{{harita açıklaması|}}}|
+{{!}} colspan=2 style="text-align: center" {{!}} {{{harita açıklaması}}}
+{{!}}-
+}}
+}}
+|}<noinclude>{{belgeleme}}</noinclude>
