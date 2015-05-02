@@ -1,0 +1,21 @@
+{{Şablon belgeleme başlangıç|Şablon:Mtkutusu/şablon belgeleme}}__NOTOC__
+<includeonly>[[Kategori:Yazdırırken hariç tut]]</includeonly>
+== Bu şablon hakkında ==
+{{#if:{{{tam metin|}}}| |Bu şablon {{#if:{{{konu|}}}|&#32;{{{konu|}}}}} ile ilgili taslak maddeleri tanımlamak için kullanılır.}}
+
+Eklemek istediğiniz maddenin alt bölümüne <code><nowiki>{{</nowiki>{{PAGENAME:{{{isim}}}}}<nowiki>}}</nowiki></code> yazarak ilgili maddenin şu kategorilerde toplanması sağlanır.
+*[[:Kategori:{{{kategori}}}]] (sayfa sayısı {{PAGESINCAT:{{{kategori}}}}}){{#if:{{{kategori1|}}}|*[[:kategori:{{{kategori1}}}]] (sayfa sayısı {{PAGESINCAT:{{{kategori1}}}}})}}{{#if:{{{kategori2|}}}|*[[:kategori:{{{kategori2}}}]] (sayfa sayısı {{PAGESINCAT:{{{kategori2}}}}})
+}}<!--
+
+*** transclusion of /doc if it exists ***-->
+{{#ifexist:{{FULLPAGENAME}}/belge|{{{{FULLPAGENAME}}/belge}}
+}}<!--
+
+*** genel belgeler ***-->
+== Genel bilgiler ==
+Henüz yeterli bilgi içermeyen, konusunu bütünüyle kapsayan bir ansiklopedik maddeye dönüşmesi için temel bilgiler içeren kısa içerikli maddelerdir. Taslak madde hakkında daha detaylı bilgi için [[Vikipedi:Taslak madde]] sayfasına bakınız.
+
+* Mümkün olduğunca en uygun taslak şablonunu bulmaya çalışın. Bunun için [[Vikipedi:VikiProje Taslak sınıflandırma|taslak sınıflandırma]] sayfasına göz atabilirsiniz.
+* Gerekirse birden fazla taslak şablonu kullanabilirsiniz.
+* Taslak şablonları maddelerin en alt bölümünde kullanılır. Taslak şablonlarını maddelerdeki ''Dış bağlantılar'' veya ''dolaşım şablonu'' altında ve ''kategori bağlantıları''nın üstünde kullanabilirsiniz. 
+{{Şablon belgeleme bitiş}}
