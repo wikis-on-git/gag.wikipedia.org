@@ -1,0 +1,35 @@
+{{Şablon belge sayfası}}
+=== Kullanım kılavuzu ===
+
+* Aşağıda görülen şablonu ''kopyala-yapıştır'' ile maddenin başına aktarın.
+* Her değişken satırındaki eşitliğin sağ tarafına (veri hanesi) ilgili veriyi yazın. 
+
+Örnek kullanım için: [[Türk lirası]]
+
+<div style="width:350px; background:#ddd; border:1px solid black; padding:0.5em 1em 0.5em 1em;">
+<pre>
+{{Para bilgi kutusu
+| yerel_para_adı             = 
+| resim_1                    = 
+| resim_başlığı_1            = 
+| iso_kodu                   = 
+| kullanan_ülkeler           = 
+| resmi_olmayan_kullanıcılar = 
+| enflasyon_oranı            = 
+| enflasyon_kaynak_verisi    = 
+| altbirim_oranı_1           = 
+| altbirim_adı_1             = 
+| altbirim_oranı_2           = 
+| altbirim_adı_2             = 
+| sembol                     = 
+| sıkça_kullanılan_madeni_paralar   = 
+| nadiren_kullanılan_madeni_paralar = 
+| sıkça_kullanılan_banknotlar       = 
+| nadiren_kullanılan_banknotlar     = 
+| yetki_veren                = 
+| yetki_veren_website        = 
+| yazıcı                     = 
+| yazıcı_website             = 
+}}
+</pre>
+</div>
