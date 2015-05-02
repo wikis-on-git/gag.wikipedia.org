@@ -1,0 +1,260 @@
+{| class="infobox geography" style="width: 22em; line-height: 1.5em; font-size: 88%"
+! colspan=2 class="mergedtoprow" style="text-align: center; line-height: 1.2em; font-size: 125%" | {{{para_adı|{{PAGENAME}} }}}
+{{!}}- {{#if:{{{yerel_para_adı|}}}|class="mergedtoprow"}}
+{{#if:{{{yerel_para_adı|}}}|
+! colspan=2 class="mergedtoprow" style="text-align: center; line-height: 1.2em; font-size: 100%" {{!}} {{{yerel_para_adı}}}
+{{!}}- {{#if:{{{resim_1|}}}{{{resim_2|}}}|class="mergedtoprow"}}
+}}
+{{#if:{{{resim_1|}}}{{{resim_2|}}}|
+{{!}} colspan=2 class="maptable" align="center" style="padding: 0.3em 0.6em 0.3em 0.6em" {{!}}
+{{{!}} width="100%" style="margin: 0 auto; background: none; text-align: center"
+{{!}} style="vertical-align: middle; text-align: center; {{#if: {{{resim_arkaplanı_1|}}} | background: {{{resim_arkaplanı_1}}}; }}" {{!}} [[Image:{{{resim_1}}}|{{{resim_genişliği_1|{{#if: {{{resim_2|}}}|126|252}}}}}px|{{{resim_başlığı_1|}}}]]
+{{#if: {{{resim_2|}}} | {{!}} style="vertical-align: middle; text-align: center; {{#if: {{{resim_arkaplanı_2|}}}|background: {{{resim_arkaplanı_2}}}; }}" {{!}} [[Image:{{{resim_2}}}|{{{resim_genişliği_2|126}}}px|{{{resim_başlığı_2|}}}]] }}
+{{!}}- style="font-size: 95%"
+{{#if: {{{resim_1|}}} | {{!}} {{{resim_başlığı_1|}}} }}
+{{#if: {{{resim_2|}}} | {{!}} {{{resim_başlığı_2|}}} }}
+{{!}}}
+{{!}}-
+}}
+{{#if:{{{iso_kodu|}}}|
+! [[ISO 4217|ISO 4217 Kodu]]
+{{!}} <tt>{{{iso_kodu}}}</tt> }}
+|- class="mergedtoprow"
+! {{#if:{{{resmi_kullanıcılar|}}}|{{nowrap|Resmi kullanıcı(lar)}}|Kullanıcı(lar)}}
+| {{{kullanan_ülkeler}}}
+|- class="mergedbottomrow"
+{{#if:{{{resmi_olmayan_kullanıcılar|}}}|
+{{!}} {{nowrap|Resmi olmayan}}
+{{!}} {{{resmi_olmayan_kullanıcılar}}}
+}}
+|- class="mergedtoprow"
+{{#if:{{{enflasyon_oranı|}}}|
+! [[Enflasyon]]
+{{!}} {{{enflasyon_oranı}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{enflasyon_oranı|}}}|1|0}} and {{#if:{{{enflasyon_kaynak_verisi|}}}|1|0}} }}| 1 |
+{{!}} Kaynak
+{{!}} {{{enflasyon_kaynak_verisi}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{enflasyon_oranı|}}}|1|0}} and {{#if:{{{enflasyon_metodu|}}}|1|0}} }}| 1 |
+{{!}} Mehod
+{{!}} {{{enflasyon_metodu}}} }}
+|- class="mergedtoprow"
+{{#if:{{{ERM_den_beri|}}}|
+! [[Avrupa Döviz Kuru Mekanizması|ERM]]
+{{!}}
+{{!}}- class="mergedrow"
+{{!}} 'den beri
+{{!}} {{{ERM_den_beri}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{ERM_den_beri|}}}|1|0}} and {{#if:{{{ERM_çekilen|}}}|1|0}} }}| 1 |
+{{!}} Withdrawn
+{{!}} {{{ERM_çekilen}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{ERM_den_beri|}}}|1|0}} and {{#if:{{{ERM_sabit_oran_den_beri|}}}|1|0}} }}| 1 |
+{{!}} Fixed oran den_beri
+{{!}} {{{ERM_sabit_oran_den_beri}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{ERM_den_beri|}}}|1|0}} and {{#if:{{{euro_replace_non_cash|}}}|1|0}} }}| 1 |
+{{!}} Replaced by €, non cash
+{{!}} {{{euro_replace_non_cash}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{ERM_den_beri|}}}|1|0}} and {{#if:{{{euro_replace_cash|}}}|1|0}} }}| 1 |
+{{!}} Replaced by €, cash
+{{!}} {{{euro_replace_cash}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{ERM_den_beri|}}}|1|0}} and {{#if:{{{ERM_sabit_oran|}}}|1|0}} }}| 1 |
+{{!}} [[Euro|€]] =
+{{!}} {{{ERM_sabit_oran}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{ERM_den_beri|}}}|1|0}} and {{#if:{{{ERM_band|}}}|1|0}} }}| 1 |
+{{!}} Band
+{{!}} {{{ERM_band}}} }}
+|-
+{{#if:{{{pegged_with|}}}|
+! [[Fixed exchange oran|Pegged with]]
+{{!}} {{{pegged_with}}} }}
+|-
+{{#if:{{{pegged_by|}}}|
+! [[Fixed exchange oran|Pegged by]]
+{{!}} {{{pegged_by}}} }}
+|- class="mergedtoprow"
+{{#if:{{{superunit_oranı_1|}}}|
+! Superunit
+{{!}}
+{{!}}- class="mergedrow"
+{{!}} {{{superunit_oranı_1}}}
+{{!}} {{{superunit_adı_1}}}{{#if:{{{superunit_inline_note_1|}}}|<br/><small>{{{superunit_inline_note_1}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{superunit_oranı_2|}}}|
+{{!}} {{{superunit_oranı_2}}}
+{{!}} {{{superunit_adı_2}}}{{#if:{{{superunit_inline_note_2|}}}|<br/><small>{{{superunit_inline_note_2}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{superunit_oranı_3|}}}|
+{{!}} {{{superunit_oranı_3}}}
+{{!}} {{{superunit_adı_3}}}{{#if:{{{superunit_inline_note_3|}}}|<br/><small>{{{superunit_inline_note_3}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{superunit_oranı_4|}}}|
+{{!}} {{{superunit_oranı_4}}}
+{{!}} {{{superunit_adı_4}}}{{#if:{{{superunit_inline_note_4|}}}|<br/><small>{{{superunit_inline_note_4}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{superunit_oranı_5|}}}|
+{{!}} {{{superunit_oranı_5}}}
+{{!}} {{{superunit_adı_5}}}{{#if:{{{superunit_inline_note_5|}}}|<br/><small>{{{superunit_inline_note_5}}}</small>}} }}
+|- class="mergedtoprow"
+{{#if:{{{altbirim_oranı_1|}}}|
+! Altbirim
+{{!}}
+{{!}}- class="mergedrow"
+{{!}} {{{altbirim_oranı_1}}}
+{{!}} {{{altbirim_adı_1}}}{{#if:{{{altbirim_inline_note_1|}}}|<br/><small>{{{altbirim_inline_note_1}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{altbirim_oranı_2|}}}|
+{{!}} {{{altbirim_oranı_2}}}
+{{!}} {{{altbirim_adı_2}}}{{#if:{{{altbirim_inline_note_2|}}}|<br/><small>{{{altbirim_inline_note_2}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{altbirim_oranı_3|}}}|
+{{!}} {{{altbirim_oranı_3}}}
+{{!}} {{{altbirim_adı_3}}}{{#if:{{{altbirim_inline_note_3|}}}|<br/><small>{{{altbirim_inline_note_3}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{altbirim_oranı_4|}}}|
+{{!}} {{{altbirim_oranı_4}}}
+{{!}} {{{altbirim_adı_4}}}{{#if:{{{altbirim_inline_note_4|}}}|<br/><small>{{{altbirim_inline_note_4}}}</small>}} }}
+|- class="mergedrow"
+{{#if:{{{altbirim_oranı_5|}}}|
+{{!}} {{{altbirim_oranı_5}}}
+{{!}} {{{altbirim_adı_5}}}{{#if:{{{altbirim_inline_note_5|}}}|<br/><small>{{{altbirim_inline_note_5}}}</small>}} }}
+|- class="mergedtoprow"
+{{#if:{{{sembol|}}}|
+! [[Para birimi simgesi|Sembol]]
+{{!}} {{{sembol}}}
+}}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_1|}}}|1|0}} and {{#if:{{{sembol_altbirim_1|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_1}}}
+{{!}} {{{sembol_altbirim_1}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_2|}}}|1|0}} and {{#if:{{{sembol_altbirim_2|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_2}}}
+{{!}} {{{sembol_altbirim_2}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_3|}}}|1|0}} and {{#if:{{{sembol_altbirim_3|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_3}}}
+{{!}} {{{sembol_altbirim_3}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_4|}}}|1|0}} and {{#if:{{{sembol_altbirim_4|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_4}}}
+{{!}} {{{sembol_altbirim_4}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_5|}}}|1|0}} and {{#if:{{{sembol_altbirim_5|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_5}}}
+{{!}} {{{sembol_altbirim_5}}} }}
+|- class="mergedtoprow"
+{{#if:{{{nickadı|}}}|
+! Nickadı
+{{!}} {{{nickadı}}}
+}}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_1|}}}|1|0}} and {{#if:{{{nickadı_altbirim_1|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_1}}}
+{{!}} {{{nickadı_altbirim_1}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_2|}}}|1|0}} and {{#if:{{{nickadı_altbirim_2|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_2}}}
+{{!}} {{{nickadı_altbirim_2}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_3|}}}|1|0}} and {{#if:{{{nickadı_altbirim_3|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_3}}}
+{{!}} {{{nickadı_altbirim_3}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_4|}}}|1|0}} and {{#if:{{{nickadı_altbirim_4|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_4}}}
+{{!}} {{{nickadı_altbirim_4}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_5|}}}|1|0}} and {{#if:{{{nickadı_altbirim_5|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_5}}}
+{{!}} {{{nickadı_altbirim_5}}} }}
+|- class="mergedtoprow"
+{{#if:{{{plural|}}}{{{plural_slavic|}}}{{{no_plural|}}}|
+! [[Plural]]
+{{!}} {{{plural|}}}{{#if:{{{plural_slavic|}}}|<small>The language(s) of this currency belong(s) to the [[Slavic languages]]. There is more than one way to construct plural forms. See article.</small>}}{{#if:{{{no_plural|}}}|<small>The language(s) of this currency does not have a morphological plural distinction.</small>}} 
+}}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_1|}}}|1|0}} and {{#if:{{{plural_altbirim_1|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_1}}}
+{{!}} {{{plural_altbirim_1}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_2|}}}|1|0}} and {{#if:{{{plural_altbirim_2|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_2}}}
+{{!}} {{{plural_altbirim_2}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_3|}}}|1|0}} and {{#if:{{{plural_altbirim_3|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_3}}}
+{{!}} {{{plural_altbirim_3}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_4|}}}|1|0}} and {{#if:{{{plural_altbirim_4|}}}|1|0}} }}| 1 |
+{{!}} {{{altbirim_adı_4}}}
+{{!}} {{{plural_altbirim_4}}} }}
+|- class="mergedrow"
+{{#ifeq: {{#expr: {{#if:{{{altbirim_adı_5|}}}|1|0}} and {{#if:{{{plural_altbirim_5|}}}|1|0}} }}| 1 |
+{{!}} {{{subunit_adı_5}}}
+{{!}} {{{plural_subunit_5}}} }}
+|- class="mergedtoprow"
+{{#if: {{{kullanılan_madeni_paralar|}}}{{{sıkça_kullanılan_madeni_paralar|}}}{{{nadiren_kullanılan_madeni_paralar|}}}|
+! {{#if: {{{madeni_para_maddesi|}}}|[[{{{madeni_para_maddesi}}}|Madeni paralar]]|Madeni paralar}}''
+{{!}} {{{kullanılan_madeni_paralar|}}} }}
+|- class="mergedrow"
+{{#if: {{{sıkça_kullanılan_madeni_paralar|}}}|
+{{!}} Sıkça kullanılan 
+{{!}} {{{sıkça_kullanılan_madeni_paralar}}} }}
+|- class="mergedrow"
+{{#if: {{{nadiren_kullanılan_madeni_paralar|}}}|
+{{!}} Nadiren kullanılan 
+{{!}} {{{nadiren_kullanılan_madeni_paralar}}} }}
+|- class="mergedtoprow"
+{{#if: {{{kullanılan_banknotlar|}}}{{{sıkça_kullanılan_banknotlar|}}}{{{nadiren_kullanılan_banknotlar|}}}|
+! {{#if: {{{banknot_maddesi|}}}|[[{{{banknot_maddesi}}}|Banknotlar]]|Banknotlar}}''
+{{!}} {{{kullanılan_banknotlar|}}} }}
+|- class="mergedrow"
+{{#if: {{{sıkça_kullanılan_banknotlar|}}}|
+{{!}} Sıkça kullanılan 
+{{!}} {{{sıkça_kullanılan_banknotlar}}} }}
+|- class="mergedrow"
+{{#if: {{{nadiren_kullanılan_banknotlar|}}}|
+{{!}} Nadiren kullanılan 
+{{!}} {{{nadiren_kullanılan_banknotlar}}} }}
+|- class="mergedtoprow"
+{{#if:{{{yetki_veren|}}}|
+! {{nowrap|[[{{{yetki_veren_adı|Merkez bankası}}}]]}}
+{{!}} {{{yetki_veren}}} }}
+|- class="mergedbottomrow"
+{{#ifeq: {{#expr: {{#if:{{{yetki_veren|}}}|1|0}} and {{#if:{{{yetki_veren_website|}}}|1|0}} }}| 1 |
+{{!}} Website
+{{!}} [http://{{{yetki_veren_website|www.wikipedia.org}}} {{{yetki_veren_website|www.wikipedia.org}}}]}}
+|- class="mergedtoprow"
+{{#if:{{{yazıcı|}}}|
+! [[Yazıcı (yayımcı)|Yazıcı]]
+{{!}} {{{yazıcı}}} }}
+|- class="mergedbottomrow"
+{{#ifeq: {{#expr: {{#if:{{{yazıcı|}}}|1|0}} and {{#if:{{{yazıcı_website|}}}|1|0}} }}| 1 |
+{{!}} Website
+{{!}} {{#if:{{{yazıcı_override_with_original_text|}}} |{{{yazıcı_website}}}|[http://{{{yazıcı_website|www.wikipedia.org}}} {{{yazıcı_website|www.wikipedia.org}}}]}} }}
+|- class="mergedtoprow"
+{{#if:{{{darphane|}}}|
+! [[Darphane]]
+{{!}} {{{darphane}}} }}
+|- class="mergedbottomrow"
+{{#ifeq: {{#expr: {{#if:{{{darphane|}}}|1|0}} and {{#if:{{{darphane_website|}}}|1|0}} }}| 1 |
+{{!}} Website
+{{!}} {{#if:{{{darphane_override_with_original_text|}}} |{{{darphane_website}}}|[http://{{{darphane_website|www.wikipedia.org}}} {{{darphane_website|www.wikipedia.org}}}]}} }}
+|-
+{{#if: {{{obsolete_notice|}}}|
+{{!}} colspan=2 {{!}} <small>This infobox shows the latest status before this currency was rendered obsolete.</small> }}
+|-
+{{#if: {{{footnotes|}}}|
+{{!}} colspan=2 {{!}} <small>{{{footnotes}}}</small>
+}}
+|}<noinclude>{{Template doc}}
+[[Kategori:Nümizmatik bilgi kutusu şablonları|Nümizmatik bilgi kutusu şablonları]]
+
+</noinclude>
