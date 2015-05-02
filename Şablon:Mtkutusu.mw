@@ -1,0 +1,39 @@
+<table class="metadata plainlinks stub" style="background: transparent;"><tr>
+{{#if:{{{ikon|}}}{{{resim|}}}
+ |<td>{{#if:{{{ikon|}}}
+  |{{{ikon}}}
+  |[[Dosya:{{{resim}}}|{{#if:{{{boyut|}}}|{{{boyut}}}|40x30}}px|alt={{{imagealt|Stub icon}}}]]
+ }}</td>
+}}
+<td>''{{#if:{{{tam metin|}}}|{{{tam metin|}}}|{{{konu|}}} ile ilgili bu {{{ayrıntı|}}}}} {{{article|[[Vikipedi:Madde|madde]]}}} bir [[Vikipedi:Taslak madde|taslaktır]]. Madde içeriğini [{{fullurl:{{FULLPAGENAME}}|action=edit}} geliştirerek] Vikipedi'ye katkıda bulunabilirsiniz.''{{#if:<!-- {{{isim|}}} -->
+ |{{navbar|{{{isim}}}|mini=yes|style=position:absolute; right:15px; font-size:smaller; display:none;}}
+}}{{#if:{{{not|}}}
+ |<br /><span style="font-style: normal; font-size: smaller;">{{{not}}}
+}}</td>
+</tr></table>{{#ifeq:{{NAMESPACE}}|{{ns:0}}<!--Madde alanı-->|<!--
+
+ *** Taslak kategorisi ***
+-->{{#if:{{{kategori|}}}|[[Kategori:{{{kategori}}}]]}}<!--
+
+ *** Seçimlik ikinci taslak kategorisi ***
+-->{{#if:{{{kategori1|}}}|[[Kategori:{{{kategori1}}}]]}}<!--
+
+ *** Seçimlik üçüncü taslak kategorisi ***
+-->{{#if:{{{kategori2|}}}|[[Kategori:{{{kategori2}}}]]}}<!--
+-->}}<!--
+
+*** Şablon belgelemesi ***
+--><includeonly><!--
+-->{{#ifeq:{{NAMESPACE}}|Şablon|{{#if:{{{isim|}}}|{{Mtkutusu/şablon belgeleme
+      |konu      = {{{konu|}}}
+      |tam metin = {{{tam metin|}}}
+      |isim      = {{{isim|}}}
+      |kategori  = {{{kategori|}}}
+      |kategori1 = {{{kategori1|}}}
+      |kategori2 = {{{kategori2|}}}
+}}| }}}}</includeonly><noinclude><!--
+
+ *** Belgeleme ***
+-->{{belgeleme}}
+<!-- Kategori ve inter-vikileri lütfen /belge altsayfasına koyun, buraya değil! -->
+</noinclude>
