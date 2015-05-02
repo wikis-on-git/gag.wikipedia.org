@@ -1,0 +1,90 @@
+{{Şablon belge sayfası}}
+{{Metakutu şablonları}}
+
+=== Temel kullanım ===
+<pre>
+{{Mtkutusu
+| resim     = 
+| konu      = 
+| kategori  = 
+| isim      = 
+}}</pre>
+
+Birçok taslak şablonu için bu parametreler yeterli olacaktır. Ek paramaetreler aşağıda belirtilmiştir.
+
+=== Tam kullanım ===
+<pre>
+{{Mtkutusu
+| resim       = Wiki letter w.svg
+| boyut       = 
+| konu        = 
+| ayrıntı     = 
+| tam metin   = 
+| kategori    = 
+| kategori1   = 
+| kategori2   = 
+| isim        = {{subst:FULLPAGENAME}}
+}}</pre>
+
+== Parametreler ==
+;ikon veya resim
+Şablonun en solunda konu ile ilgili resim eklenmesini sağlar.
+
+;boyut
+Eklenen resmin boyutu ayarlanabilir. Boş bırakılırsa standart boyut geçerli olur.
+
+;konu ve ayrıntı
+Şablonun ne ile ilgili olduğu bilgisinin yazıldığı yerdir.
+
+;tam metin
+Standart şablon metni dışında bir metin yazmak için kullanılır. Eğer bu kullanılırsa üstteki ''konu'' ve ''ayrıntı'' satırları çalışmaz.
+
+;kategori
+Şablonun kullanıldığı maddelerin burada belirtilen kategoriye dahil olmasını sağlar.
+
+;isim
+Şablon sayfasına şablon hakkında açıklama içeren belgeleme sayfası eklenmesini sağlar.
+
+== Örnek ==
+<pre>
+{{Mtkutusu
+| resim     = Magazine.svg
+| konu      = Bir [[dergi]]
+| kategori  = Dergi taslakları
+| isim      = Şablon:Dergi-taslak
+}}</pre>
+{{Mtkutusu
+| resim     = Magazine.svg
+| konu      = Bir [[dergi]]
+}}
+<pre>
+{{Mtkutusu
+| ikon      = {{Futbol ikon|Türkiye|50}}
+| konu      = Türk [[futbolcu]]
+| kategori  = Türk futbolcu taslakları
+| isim      = Şablon:Türk futbolcu-taslak
+}}
+</pre>
+{{Mtkutusu
+| ikon      = {{Futbol ikon|Türkiye|50}}
+| konu      = '''Türk [[futbolcu]]'''
+}}
+
+<includeonly>
+[[Kategori:Vikipedi meta şablonları]]
+[[Kategori:Taslak şablonları| ]]
+
+
+[[en:Template:Asbox]]
+[[ar:قالب:صندوق رسالة بذرة]]
+[[dsb:Pśedłoga:ZarodkowyTyp]]
+[[fa:الگو:Asbox]]
+[[hsb:Předłoha:Zarodk po předmjeće]]
+[[hy:Կաղապար:MetaPicstub]]
+[[ja:Template:Asbox]]
+[[pt:Predefinição:Asbox]]
+[[ru:Шаблон:Stub-meta]]
+[[sv:Mall:Stubbmall]]
+[[uk:Шаблон:MetaPicstub]]
+[[zh:Template:Asbox]]
+</includeonly>
