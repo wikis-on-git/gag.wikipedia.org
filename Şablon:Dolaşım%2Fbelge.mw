@@ -1,5 +1,6 @@
+{{Şablon belge sayfası}}
 {{Belgeleme navigasyonu}}
-<includeonly>{{high-risk| 1,000,000+ }}</includeonly>
+{{Yüksek riskli|+115.000}}
 {{Dolaşım şablon grubu}}
 Bu şablon bir veya daha fazla bağlantı listesini göreceli olarak hızlıca oluşturan bir [[Wikipedia:Navigation templates|dolaşımsal şablon]] sağlar.  Çoğu dolaşımsal şablonlarla çalışan öntanımlı sitillere sahip donanımla gelir. Öntanımlı sitilleri değiştirme tasviye edilmemekle birlikte, bu mümkündür. Bu şablonu ya da "Dolaşım rehberi" kardeş şablonlarından birini kullanma, dolaşımsal şablonun standartlaşması için tavsiye edilir.
 
@@ -12,6 +13,7 @@ Lütfen boş bırakılan parametreleri kaldırın.
 |ad           = {{subst:PAGENAME}}
 |başlık       = 
 |başlıksınıfı = 
+|listesınıfı  = 
 |resim        = 
 |üst          = 
 
@@ -54,6 +56,7 @@ Temel ve en yagın parametreler şunlardır (tüm liste için aşağıya bakın�
 :<code>ad -</code> şablonun adı.
 :<code>başlık -</code> başlık çubuğundaki metinr, such as: <nowiki>[[Parçacık]]</nowiki> gibi.
 :<code>başlıksınıfı -</code> başlık çubuğuna bir HTML <code>class</code> niteliği uygular.
+:<code>listesınıfı -</code> liste çubuğuna bir HTML <code>class</code> niteliği uygular.
 :<code>durum - autocollapse, uncollapsed, collapsed</code>: yığınlı dolaşımlarda "autocollapse" özelliğinin otomatik gizlediği kutunun gizleme/gösterme durumları.
 :<code>başlıktürü - </code>başlık çubuğunun, <code>background:gray;</code> gibi bir CSS sitili
 :<code>grupbiçimi - </code>grup hücrelerinin, <code>background:#eee;</code> gibi bir CSS sitili
@@ -107,7 +110,7 @@ Aşağıdaki, {{tl|Dolaşım}} şablonunda kullanılan tüm parametreleri listel
 
 === Hücreler ===
 :; ''başlık''<nowiki>*</nowiki>
-:: Metin, tablonun üst orta satırında görülür. Bu genellikle şablonun konusudur. Tekbir satırdn oluşur. Fakat eğer ikinci bir satır gerekirse, metni ortalamak için <code><nowiki>{{-}}</nowiki></code> kodunu kullanın. Bu parametre teknik olarak gerekli değildir. Fakat bir başlık olmaksızın {{tl|Dolaşım}}ı kullanma anlamsızdır.
+:: Metin, tablonun üst orta satırında görülür. Bu genellikle şablonun konusudur. Tek bir satırdan oluşur. Fakat eğer ikinci bir satır gerekirse, metni ortalamak için <code><nowiki>{{-}}</nowiki></code> kodunu kullanın. Bu parametre teknik olarak gerekli değildir. Fakat bir başlık olmaksızın {{tl|Dolaşım}}ı kullanma anlamsızdır.
 
 :; ''grup<sub>n</sub>''<nowiki>*</nowiki>
 :: (örn. ''grup1'', ''grup2'', vb.) belirtilmişse, başlık hücresindeki metin, ''list<sub>n</sub>''nin solunda görülür. Eğer ''list<sub>n</sub>'' katılmazsa, tablonun tam genişliğini kaplar.
@@ -212,8 +215,9 @@ Since ''listebiçimi'' and ''tekbiçim'' are transparent odd lists have the colo
 :: A very advanced parameter to be used ''only'' for advanced meta-templates employing the dolaşım.  Internally, the dolaşım uses an outer table to draw the border, and then an inner table for everything else (title/above/groups/lists/below/images, etc.).  The ''style''/''bodystyle'' parameter sets the style for the outer table, which the inner  table inherits, but in advanced cases (meta-templates) it may be necessary to directly set the style for the inner table.  This parameter provides access to that inner table so styles can be applied.  Use at your own risk.
 
 ====Mikroformatlar====
-;gövdesınıfı: This parameter is inserted into the "class" attribute for the infobox as a whole.
-;başlıksınıfı: This parameter is inserted into the "class" attribute for the infobox's title caption.
+;gövdesınıfı: Şablonun genel görünümüne ilişkin ayrıntıları belirtir.
+;başlıksınıfı: Başlıkların görünümüne ilişkin ayrıntıları belirtir.
+;listesınıfı: Listelerin görünümüne ilişkin ayrıntıları belirtir.
 
 This template supports the addition of microformat information. This is done by adding "class" attributes to various data cells, indicating what kind of information is contained within. To flag a dolaşım as containing [[hCard]] information about a person, for example, add the following parameter:
 
@@ -495,8 +499,8 @@ Bu örnek altgrubun kullanımı ile ilgilidir. {{tl|Dolaşım iç}} kullanma tav
  }}
 }}
 
-=== Tekbir kutuda çoklu göster/gizle ===
-{{main|Template:Navbox with collapsible groups}}
+=== Tek bir kutuda çoklu göster/gizle ===
+{{Ana|Template:Navbox with collapsible groups}}
 The example below is generated using a regular navbox for the main container, then its list1, list2, and list3 parameters each contain another navbox, with <code>border = child</code> set.  Note that each of the child navboxes has its own VDE navbar; these could be hidden using <code>navbar = plain</code> for each of them, or by just leaving out the ''name'' parameter (child navboxes do not require the name parameter to be set, unlike regular navboxes).
 
 {{Dolaşım
@@ -562,8 +566,61 @@ The example below is generated using a regular navbox for the main container, th
 }}
 }}
 
-=== Ek örnekler ===
-You may find additional examples of complex subgroups and child navboxes at the [[Template:Navbox/doc/Advanced examples|advanced navbox examples page]] and the [[Template:Navbox/testcases|Navbox code test page]].
+=== Farklı liste örneği ===
+listesınıfı olarak hlist kullanılmıştır.
+<pre>
+{{Dolaşım
+|ad = Dolaşım/doc
+|başlık = Liste örneği
+|listesınıfı=hlist
+
+|grup1 = Grup1
+|liste1 =
+* 1a
+* 1b
+* 1c
+* 1d
+* 1e
+* 1f
+* 1g
+
+|grup2 = Grup2
+|liste2 = 
+* 2a
+* 2b
+** 2c
+* 2d
+* 2e
+** 2f
+* 2g
+}}
+</pre>
+
+{{Dolaşım
+|ad = Dolaşım/doc
+|başlık = Liste örneği
+|listesınıfı=hlist
+
+|grup1 = Grup1
+|liste1 =
+* 1a
+* 1b
+* 1c
+* 1d
+* 1e
+* 1f
+* 1g
+
+|grup2 = Grup2
+|liste2 = 
+* 2a
+* 2b
+** 2c
+* 2d
+* 2e
+** 2f
+* 2g
+}}
 
 == Diğer Dolaşım şablonları ile ilişkisi ==
 Bu dolaşım şablonu, diğer iki kardeş şablonla birlikte çalışması için özel olarak tasarlandı. Bunlar: {{tl|Navbox with columns}} ve {{tl|Navbox with collapsible groups}}dur.  Bu üç şablonun tümü, uyumluluk ve kolay kullanım için yaygın parametreleri paylaşır (çoğu parametreler, tamamen üst parametre listesinde bir <sup>'''†'''</sup> ile işaretlenir).  En önemlisi, tüm bu üç şablonun her biri, bir diğerinin alt birimi gibi kullanılır. Bunun için <code>border = child</code> parametresi kullanılmalı ya da <code>child</code> (alt birim) olacak ilk adsız parametre belirtilmelidir (örneğin, <code><nowiki>{{Dolaşım|child</nowiki></code>, <code><nowiki>{{Navbox with columns|child</nowiki></code> veya <code><nowiki>{{Navbox with collapsible groups|child</nowiki></code>).  Bunun nsıl yapıldığı ile ilgili örnekler için [[Şablon:Dolaşım/doc/Gelişmiş örnekler|gelişmiş dolaşım örnekleri]]ne bakınız.
@@ -588,6 +645,17 @@ Bu dolaşım şablonu, diğer iki kardeş şablonla birlikte çalışması için
 
 Note that using this template on other wikis requires [[HTML Tidy]] to be turned on. A version that does not require Tidy can be found at [[Wikipedia:WikiProject Transwiki/Template:Navbox]]. (That version generally shouldn't be used here on the English Wikipedia.) More detailed information on copying {{tlf|Navbox}} to other wikis can be found on the [[Template talk:Navbox|talk page]].
 
+== Bağlantı bakımı ==
+Dolaşım şablonu bakımı üç farklı kontrolle gerçekleşmektedir.
+;Entry in navi
+Şablonda bulunması gereken bağlantıyı kontrol eder. Şablon maddede bulunuyor fakat bu şablonda ilgili bağlantı yok ise hata verecektir.
+;Navi transcluded
+Şablonun görüntülenip görüntülenmediğini kontrol eder. Dolaşım şablonunun bulunması gereken maddeleri kontrol eder ve eğer herhangi bir maddede bu şablon yok ise hata verir.
+;Comment
+Dolaşım şablonundaki bağlantının yönlendirme olup olmadığı bilgisi yer alır.
+
+Bu üç değerlendirme olumlu sonuçlanırsa ilgili satır <span style="background:#B9FFC5">yeşil</span>, değilse <span style="background:#FFCBCB">kırmızı</span> renkte görünür. Olması gereken her satırın <span style="background:#B9FFC5">yeşil</span> görünmesidir.
+
 == Ayrıca bakınız ==
 
 * {{tl|Dolaşım iç}} – Allows for subgroups within a Navbox.
@@ -604,7 +672,7 @@ Note that using this template on other wikis requires [[HTML Tidy]] to be turned
 <includeonly>
 <!--Kategori-->
 [[Kategori:Dolaşım şablonları|*]]
-[[Kategori:Wikipedia metatemplates|{{PAGENAME}}]]
+[[Kategori:Vikipedi meta şablonları|{{PAGENAME}}]]
 
 <!--Diğer diller-->
 [[af:Sjabloon:Navbox]]
