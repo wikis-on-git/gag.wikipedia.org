@@ -1,0 +1,17 @@
+<div class="notice" id="disambig">''Aşağıdaki şablon belgelemesi [[{{SUBJECTPAGENAME}}/belge]] sayfasının görüntüsüdür.'' <small>[<span class="plainlinks">[{{fullurl:{{SUBJECTPAGENAMEE}}/belge|action=edit}} değiştir]</span>]</small></div><!--
+
+--><noinclude>
+[[Kategori:Şablon belgelemesi|{{PAGENAME}}]] <!--Self declaration-->
+{{Belgeleme}} <!--Lokal /belge sayfası-->
+
+<!---Magic word Checks
+#{{BASEPAGENAME}}
+#{{BASEPAGENAMEE}}
+#{{FULLPAGENAME}}
+#{{FULLPAGENAMEE}}
+#{{NAMESPACE}}
+#{{NAMESPACEE}}
+#{{SUBJECTPAGENAME}}
+#{{SUBJECTPAGENAMEE}}
+--------------------->
+</noinclude>
