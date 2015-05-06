@@ -1,0 +1,2 @@
+:<div class="boilerplate" id="catmore">''Bu kategorinin ana maddesi: '''[[{{{1|{{PAGENAME}}}}}]]'''''</div>{{#ifexist:{{{1|{{PAGENAME}}}}}||<includeonly>[[Kategori:Var olmayan kategori açıklaması sayfasına sahip sayfalar]]</includeonly>}}<noinclude>
+{{belgeleme}}</noinclude>
