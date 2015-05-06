@@ -1,0 +1,10 @@
+; <big>Bu şablonun görüntülenme şekli nasıl değiştirilebilir?</big>
+*Bu şablonu kapalı (gizlenmiş) durumda göstermek için "<code style="font-size:95%">{&#123;<!--
+--><includeonly>{{PAGENAME}}</includeonly><noinclude>''Şablon adı''</noinclude> |durum=collapsed}}</code>" şeklinde;<br/>
+
+*Bu şablonu açık (tamamı görünür)  durumda göstermek için "<code style="font-size:95%">{&#123;<!--
+--><includeonly>{{PAGENAME}}</includeonly><noinclude>''Şablon adı''</noinclude> |durum=expanded}}</code>"  şeklinde; <br/>
+
+*Bu şablonu eğer sayfada aynı tipte bir şablon varsa kapalı (gizlenmiş) durumda göstermek için  "<code style="font-size:95%">{&#123;<!--
+--><includeonly>{{PAGENAME}}</includeonly><noinclude>''Şablon adı''</noinclude> |durum=autocollapse}}</code>" şeklinde kullanın. (Genellikle geçerli olan durum {{{durum|budur}}})
+{{Şablon belgeleme bitiş}}
