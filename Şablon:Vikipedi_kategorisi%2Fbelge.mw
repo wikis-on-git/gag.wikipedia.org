@@ -1,0 +1,29 @@
+<includeonly>{{template doc page transcluded}}</includeonly><noinclude>{{template doc page viewed directly}}</noinclude>
+<!-- ŞABLON BİLGİLERİNİ BU SATIRIN ALTINA GİRİN -->
+Bu şablon, bakım ve yönetim amacıyla ihtiyaç duyulan, ancak ansiklopedinin bir parçası olmayan kategorilerin üstünde kullanılması için tasarlanmıştır.
+
+Şablona <code>|hidden=yes</code> kodunun eklenmesi, kategoriyi gizli hale getirecektir. Bu seçenek, birden çok şablonun mevcut olduğu sayfalarda alandan kazanmak için kullanılmaktadır.
+
+<includeonly>
+<!-- KATEGORİLERİ BU SATIRIN ALTINA EKLEYİN -->
+[[Kategori:Kategori şablonları|{{PAGENAME}}]]
+
+[[ar:قالب:تصنيف ويكيبيديا]]
+[[as:সাঁচ:Wikipedia category]]
+[[bn:টেমপ্লেট:Wikipedia category]]
+[[ca:Plantilla:Categoria no enciclopèdica]]
+[[en:Template:Wikipedia category]]
+[[fa:الگو:رده ویکی‌پدیا]]
+[[fi:Malline:Ylläpitoluokka]]
+[[id:Templat:Kategori Wikipedia]]
+[[is:Snið:Wikipedia-flokkar]]
+[[ja:Template:Wikipedia category]]
+[[no:Mal:Wikipedia-kategori]]
+[[map-bms:Cithakan:Kategori Wikipedia]]
+[[mk:Шаблон:Категорија за Википедија]]
+[[pt:Predefinição:Categoria de administração]]
+[[sl:Predloga:Projektna kategorija]]
+[[sv:Mall:Wikipedia-kategori]]
+[[ur:سانچہ:ویکیپیڈیا زمرہ]]
+[[zh:Template:Wikipedia category]]
+</includeonly>
