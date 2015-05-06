@@ -1,0 +1,9 @@
+{{Cmbox
+| type = notice
+| textstyle = text-align: center;
+| text = Bu [[Yardım:Kategori|kategori]], Vikipedi projesinin yönetimi için kullanılmaktadır ve ansiklopedinin bir parçası değildir. [[Vikipedi:Madde|Madde]] olmayan sayfaları içermekte veya maddeleri içerikleri yerine durumlarına göre gruplandırmaktadır.{{#if:{{{hidden|}}}|<br />Bu kategori, içerdiği sayfalarda [[:Kategori:Gizli kategoriler|gösterilmemektedir]].{{Şablon:Vikipedi kategorisi/Gizli}}|}}{{#if:{{{1|}}}| <br /> <div style="text-align: left;">{{{ALTTEXT|'''Açıklama''':}}} {{{1|}}}</div> }} 
+}}{{#if:{{{shortcut|}}}| {{shortcut| {{{shortcut}}} }} }}<noinclude>
+{{Koruma-şablon|small=yes}}
+{{Şablon belgesi}}
+<!-- Kategori ve intervikileri buraya değil, /doc altsayfasına ekleyin -->
+</noinclude>
