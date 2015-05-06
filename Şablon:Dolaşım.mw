@@ -1,4 +1,4 @@
-<!--
+{{Bağlantı bakımı|ad={{{ad}}}}}<!--
 
 Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karmaşık bir yapıya sahiptir.
 
@@ -35,8 +35,8 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
 ---Üst---
 -->{{#if:{{{üst|}}}|<!--
  -->{{#if:{{{başlık|}}}|<tr style="height:2px;"><td></td></tr>}}<!--
- --><tr><td class="navbox-abovebelow" style="{{{temelbiçim|}}};{{{üstbiçim|}}}" <!--
- -->colspan="{{#expr:2{{#if:{{{resimsol|}}}|+1}}{{#if:{{{resim|}}}|+1}}}}">{{{üst}}}</td></tr>}}<!--
+ --><tr><td class="navbox-abovebelow {{{üstsınıf|}}}" style="{{{temelbiçim|}}};{{{üstbiçim|}}}" <!--
+ -->colspan="{{#expr:2{{#if:{{{resimsol|}}}|+1}}{{#if:{{{resim|}}}|+1}}}}">{{str trim|{{{üst}}}}}</td></tr>}}<!--
 
 
 
@@ -57,7 +57,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup1|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup1biçimi|}}}"><!--
  -->{{{grup1}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste1biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{liste1dolgusu|{{{listedolgusu|0em 0.25em}}}}}}">
 {{{liste1}}}</div></td><!--
 
@@ -81,7 +81,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup2|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup2biçimi|}}}"><!--
  -->{{{grup2}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste2biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste2}}}</div></td></tr>}}<!--
 
@@ -90,7 +90,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup3|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup3biçimi|}}}"><!--
  -->{{{grup3}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste3biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste3}}}</div></td></tr>}}<!--
 
@@ -99,7 +99,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup4|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup4biçimi|}}}"><!--
  -->{{{grup4}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste4biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste4}}}</div></td></tr>}}<!--
 
@@ -108,7 +108,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup5|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup5biçimi|}}}"><!--
  -->{{{grup5}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste5biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çiftbiçim|}}}|swap|even|{{{çiftbiçim|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çiftbiçim|}}}|swap|even|{{{çiftbiçim|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste5}}}</div></td></tr>}}<!--
 
@@ -117,7 +117,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup6|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup6biçimi|}}}"><!--
  -->{{{grup6}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste6biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste6}}}</div></td></tr>}}<!--
 
@@ -126,7 +126,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup7|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup7biçimi|}}}"><!--
  -->{{{grup7}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste7biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste7}}}</div></td></tr>}}<!--
 
@@ -135,7 +135,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup8|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup8biçimi|}}}"><!--
  -->{{{grup8}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste8biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste8}}}</div></td></tr>}}<!--
 
@@ -144,7 +144,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup9|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup9biçimi|}}}"><!--
  -->{{{grup9}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste9biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste9}}}</div></td></tr>}}<!--
 
@@ -153,7 +153,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup10|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup10biçimi|}}}"><!--
  -->{{{grup10}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste10biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste10}}}</div></td></tr>}}<!--
 
@@ -162,7 +162,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup11|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup11biçimi|}}}"><!--
  -->{{{grup11}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste11biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste11}}}</div></td></tr>}}<!--
 
@@ -171,7 +171,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup12|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup12biçimi|}}}"><!--
  -->{{{grup12}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste12biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste12}}}</div></td></tr>}}<!--
 
@@ -180,7 +180,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup13|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup13biçimi|}}}"><!--
  -->{{{grup13}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste13biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste13}}}</div></td></tr>}}<!--
 
@@ -189,7 +189,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup14|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup14biçimi|}}}"><!--
  -->{{{grup14}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste14biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste14}}}</div></td></tr>}}<!--
 
@@ -198,7 +198,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup15|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup15biçimi|}}}"><!--
  -->{{{grup15}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste15biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste15}}}</div></td></tr>}}<!--
 
@@ -207,7 +207,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup16|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup16biçimi|}}}"><!--
  -->{{{grup16}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste16biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste16}}}</div></td></tr>}}<!--
 
@@ -216,7 +216,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup17|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup17biçimi|}}}"><!--
  -->{{{grup17}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste17biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste17}}}</div></td></tr>}}<!--
 
@@ -225,7 +225,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup18|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup18biçimi|}}}"><!--
  -->{{{grup18}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste18biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste18}}}</div></td></tr>}}<!--
 
@@ -234,7 +234,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup19|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup19biçimi|}}}"><!--
  -->{{{grup19}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste19biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste19}}}</div></td></tr>}}<!--
 
@@ -243,7 +243,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup20|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup20biçimi|}}}"><!--
  -->{{{grup20}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste20biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste20}}}</div></td></tr>}}<!--
 
@@ -253,7 +253,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup21|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup21biçimi|}}}"><!--
  -->{{{grup21}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste21biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste21}}}</div></td></tr>}}<!--
 
@@ -262,7 +262,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup22|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup22biçimi|}}}"><!--
  -->{{{grup22}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste22biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste22}}}</div></td></tr>}}<!--
 
@@ -271,7 +271,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup23|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup23biçimi|}}}"><!--
  -->{{{grup23}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste23biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste23}}}</div></td></tr>}}<!--
 
@@ -280,7 +280,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup24|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup24biçimi|}}}"><!--
  -->{{{grup24}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste24biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste24}}}</div></td></tr>}}<!--
 
@@ -289,7 +289,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup25|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup25biçimi|}}}"><!--
  -->{{{grup25}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste25biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste25}}}</div></td></tr>}}<!--
 
@@ -298,7 +298,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup26|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup26biçimi|}}}"><!--
  -->{{{grup26}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste26biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste26}}}</div></td></tr>}}<!--
 
@@ -307,7 +307,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup27|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup27biçimi|}}}"><!--
  -->{{{grup27}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste27biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste27}}}</div></td></tr>}}<!--
 
@@ -316,7 +316,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup28|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup28biçimi|}}}"><!--
  -->{{{grup28}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste28biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste28}}}</div></td></tr>}}<!--
 
@@ -325,7 +325,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup29|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup29biçimi|}}}"><!--
  -->{{{grup29}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{tekbiçim|}}};{{{liste29biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|even|{{{çifttek|odd}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste29}}}</div></td></tr>}}<!--
 
@@ -334,7 +334,7 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
  -->{{#if:{{{grup30|}}}|<td class="navbox-group" style="{{{temelbiçim|}}};{{{grupbiçimi|}}};{{{grup30biçimi|}}}"><!--
  -->{{{grup30}}}</td><td style="text-align:left;border-left-width:2px;border-left-style:solid;|<td colspan=2 style="}}<!--
  -->width:100%;padding:0px;{{{listebiçimi|}}};{{{çiftbiçim|}}};{{{liste30biçimi|}}}" <!--
- -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}}"><!--
+ -->class="navbox-list navbox-{{#ifeq:{{{çifttek|}}}|swap|odd|{{{çifttek|even}}}}} {{{listesınıfı|}}}"><!--
  --><div style="padding:{{{listedolgusu|0em 0.25em}}}">
 {{{liste30}}}</div></td></tr>}}<!--
 
@@ -342,8 +342,8 @@ Lütfen tartışmaya açmadan değişiklik yapmayın, zira bu şablon ÇOK karma
 ---Alt---
 -->{{#if:{{{alt|}}}|<!--
  -->{{#if:{{{başlık|}}}{{{üst|}}}{{{liste1|}}}{{{liste2|}}}{{{liste3|}}}|<tr style="height:2px;"><td></td></tr>}}<!--
- --><tr><td class="navbox-abovebelow" style="{{{temelbiçim|}}};{{{altbiçim|}}}" <!--
- -->colspan="{{#expr:2{{#if:{{{resimsol|}}}|+1}}{{#if:{{{resim|}}}|+1}}}}">{{{alt}}}</td></tr>}}<!--
+ --><tr><td class="navbox-abovebelow {{{altsınıf|}}}" style="{{{temelbiçim|}}};{{{altbiçim|}}}" <!--
+ -->colspan="{{#expr:2{{#if:{{{resimsol|}}}|+1}}{{#if:{{{resim|}}}|+1}}}}">{{str trim|{{{alt}}}}}</td></tr>}}<!--
 
 
 --></table>{{#switch:{{{kenar|{{{1|}}}}}}|subgroup|child=<div>|none=|#default=</td></tr></table>}}<!--
