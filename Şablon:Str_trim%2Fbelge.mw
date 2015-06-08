@@ -1,0 +1,19 @@
+{{Şablon belge sayfası}}
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+Bu şablon bir karakter dizisinin başındaki ve sonundaki boşlukları kaldırır.
+
+=== Örnek ===
+*{{tlx|str trim| abc}} {{str trim| abc}} çıktısını verir.<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Kategori:Vikipedi yardımcı şablonları]]
+
+[[en:Template:Trim]]
+[[id:Templat:Str trim]]
+[[mk:Шаблон:Str trim]]
+[[ja:Template:Str trim]]
+[[ro:Format:Trim]]
+[[sv:Mall:Str trim]]
+[[ur:Template:Str trim]]
+</includeonly>
