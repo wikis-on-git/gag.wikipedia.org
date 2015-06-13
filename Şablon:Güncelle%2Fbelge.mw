@@ -1,0 +1,39 @@
+{{Şablon belge sayfası}}
+
+Bu şablon içeriğindeki bilgilerin güncellenmesi gereken maddelerde kullanılmalıdır.
+
+==Kullanım==
+Maddenin üst kısmına ekleyiniz, <code><nowiki>{{Güncelle}}</nowiki></code>
+
+Maddedeki belli bir bölümün güncellenmesi gerekiyorsa, o bölüme ekleyiniz, <code><nowiki>{{Güncelle|bölüm}}</nowiki></code>
+
+<includeonly>
+
+<!-- LÜTFEN KATEGORİLERİ BU SATIRIN ALTINA EKLEYİN, TEŞEKKÜRLER. -->
+[[Kategori:Uyarı şablonları|{{PAGENAME}}]]
+
+<!-- LÜTFEN INTERWIKILERİ BU SATIRIN ALTINA EKLEYİN, TEŞEKKÜRLER. -->
+
+[[ar:قالب:تحديث]]
+[[bg:Шаблон:Актуализиране]]
+[[be-x-old:Шаблён:Абнавіць]]
+[[cs:Template:Aktualizovat]]
+[[en:Template:Update]]
+[[et:Mall:Ajakohasta]]
+[[el:Πρότυπο:Ενημέρωση]]
+[[es:Plantilla:Desactualizado]]
+[[fr:Modèle:À mettre à jour]]
+[[hu:Sablon:Elavult]]
+[[ko:틀:낡음]]
+[[hr:Predložak:Zastario]]
+[[lv:Veidne:Atjaunot]]
+[[ja:Template:更新]]
+[[no:Mal:Trenger oppdatering]]
+[[pl:Szablon:Aktualizacja]]
+[[pt:Predefinição:Desatualizado]]
+[[ru:Шаблон:Обновить]]
+[[sv:Mall:Uppdateras]]
+[[vi:Tiêu bản:Lỗi thời]]
+[[uk:Шаблон:Старі дані]]
+[[zh:Template:Update]]
+</includeonly>
