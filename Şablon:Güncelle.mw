@@ -1,0 +1,3 @@
+{{mikutusu| tür = içerik |resim= [[Image:Gnome globe current event.svg|42px]] |yazı= Bu maddenin {{#ifeq: {{lcfirst:{{{1}}}}} | bölüm | bölümün | {{#ifeq:{{NAMESPACE}}|Şablon|}} }} daha doğru ve güvenilir bilgi sunması için '''güncellenmesi''' gerekmektedir.<br/><small>Daha fazla bilgi için [[{{TALKPAGENAME}}|tartışma sayfası]]na bakınız.</small>}}<includeonly>[[Kategori:Güncellenmesi gereken maddeler|{{#ifeq:{{NAMESPACE}}|Şablon|Şablon|{{PAGENAME}}}}]]</includeonly><noinclude>{{belgeleme}}[[ar:قالب:تحديث]]
+[[bn:টেমপ্লেট:Update/doc]]
+</noinclude>
