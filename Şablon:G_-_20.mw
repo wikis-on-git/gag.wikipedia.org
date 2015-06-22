@@ -1,14 +1,8 @@
 {| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="G - 20"
+|- valign="top" 
 |
-
-<div class="NavFrame">
-<div class="NavHead" style="background:#ccf; ">'''[[G - 20|G - 20]]'''</div>
-<div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:center;"
-|-
-| colspan="3" | 
-{|
+<div style="float:right;margin-right:8px;">{{Tnavbar|G - 20|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[G - 20]]'''</div>
+<div class="NavContent" style="text-align:center;">
 <small>
 {{Amerika Birleşik Devletläri}} &nbsp;•
 {{Argentina}} &nbsp;• 
@@ -30,11 +24,8 @@
 {{Üülen Koreya}} &nbsp;• 
 {{Yaponiya}} 
 <small>
-
 |-
 |}
-|}
-</div>
 </div><noinclude>
 [[Kategori:Şablonnar]]
 </noinclude>
