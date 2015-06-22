@@ -1,10 +1,8 @@
-{{Dolaşım
-
-|ad=Üülen günduusu Aziya Devletleri Listası
-|başlık=Üülen günduusu Aziya Devletleri Listası
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Üülen günduusu Aziya Devletleri Listası"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Üülen günduusu Aziya Devletleri Listası|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''Üülen günduusu Aziya Devletleri Listası'''</div>
+<div class="NavContent" style="text-align:center;">
 [[Image:Flag of Brunei.svg|26px]]  [[Bruney|Bruney]]&nbsp;•
 [[Image:Flag of East Timor.svg|26px]]  [[Günduusu Timor|Günduusu Timor]]&nbsp;•
 [[Image:Flag of Indonesia.svg|26px]]  [[İndoneziya|İndoneziya]]&nbsp;•
@@ -16,4 +14,4 @@
 [[Image:Flag of Singapore.svg|26px]]  [[Singapur|Singapur]]&nbsp;•
 [[Image:Flag of Thailand.svg|26px]]  [[Tailand|Tailland]]&nbsp;•
 [[Image:Flag of Vietnam.svg|26px]]  [[Vyetnam|Vyetnam]]</small>
-}}
+|}
