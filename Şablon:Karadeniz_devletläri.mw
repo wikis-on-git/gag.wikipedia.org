@@ -1,8 +1,8 @@
-{{Dolaşım
-|ad=Karadeniz Devletläri
-|başlık=Karadeniz Devletläri
-
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Karadeniz Devletläri"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Karadeniz Devletläri|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''Karadeniz Devletläri'''</div>
+<div class="NavContent" style="text-align:center;">
 {{Abhaziya}} &nbsp;• 
 {{Bulgariya}} &nbsp;• 
 {{Gruziya}} &nbsp;•
@@ -10,4 +10,4 @@
 {{Rusiya}} &nbsp;• 
 {{Türkiye}} &nbsp;• 
 {{Ukrayna}} 
-}}
+|}
