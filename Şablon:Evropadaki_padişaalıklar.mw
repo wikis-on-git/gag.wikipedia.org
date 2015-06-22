@@ -1,7 +1,9 @@
-{{Dolaşım
-| ad = Evropadaki padişaalıklar
-| başlık = [[Evropa|Evropadaki padişaalıklar]]
-| liste1 = {{Abhaziya}} &nbsp;•
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Evropadaki padişaalıklar"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Evropadaki padişaalıklar|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[Evropa|Evropadaki padişaalıklar]]'''</div>
+<div class="NavContent" style="text-align:center;">
+{{Abhaziya}} &nbsp;•
 {{Albaniya}} &nbsp;•
 {{Andorra}} &nbsp;•
 {{Armeniya}} &nbsp;•
@@ -56,5 +58,4 @@
 {{Üülen Osetiya}} &nbsp;•
 {{Vatikan}} &nbsp;• 
 {{Vengriya}}
-| alt  = 1. Bir kısmı [[Aziya|Aziyada]]
-}}
+|}
