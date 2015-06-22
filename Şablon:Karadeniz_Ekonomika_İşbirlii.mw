@@ -1,9 +1,8 @@
-{{Dolaşım
-|ad=Karadeniz Ekonomika İşbirlii
-|başlık=Karadeniz Ekonomika İşbirlii
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Karadeniz Ekonomika İşbirlii"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Karadeniz Ekonomika İşbirlii|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''Karadeniz Ekonomika İşbirlii'''</div>
+<div class="NavContent" style="text-align:center;">
 {{Albaniya bayrak}} &nbsp;• 
 {{Armeniya}} &nbsp;• 
 {{Azerbaycan bayrak}} &nbsp;• 
@@ -16,8 +15,4 @@
 {{Serbiya}} &nbsp;•
 {{Türkiye}} &nbsp;• 
 {{Ukrayna}}
-}}
-
-<noinclude>
-
-</noinclude>
+|}
