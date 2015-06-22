@@ -1,10 +1,8 @@
-{{Dolaşım
-
-|ad=Çernogoriya Kasabalar Listası
-|başlık=Çernogoriya Kasabalar Listası
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Çernogoriya Kasabalar Listası"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Çernogoriya Kasabalar Listası|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''Çernogoriya Kasabalar Listası'''</div>
+<div class="NavContent" style="text-align:center;">
 [[Podgoritsa]] &nbsp;• 
 [[Nikšić|Nikšić]]  &nbsp;• 
 [[Pljevlja|Pljevlja]] &nbsp;• 
@@ -43,4 +41,4 @@
 [[Risan|Risan]] &nbsp;•   
 [[Ozrinići|Ozrinići]] &nbsp;•  
 [[Mojanovići|Mojanovići]] &nbsp;•  
-}}
+|}
