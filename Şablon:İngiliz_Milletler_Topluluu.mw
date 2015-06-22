@@ -1,10 +1,8 @@
-{{Dolaşım
-
-|ad=İngiliz Milletler Topluluu
-|başlık=[[İngiliz Milletler Topluluu]]
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="İngiliz Milletler Topluluu"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|İngiliz Milletler Topluluu|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[İngiliz Milletler Topluluu]]'''</div>
+<div class="NavContent" style="text-align:center;">
 {{Antigua hem Barbuda}} &nbsp;•  
 {{Avstraliya}} &nbsp;• 
 {{Bahamalar}} &nbsp;• 
@@ -57,6 +55,6 @@
 {{Vanuatu}} &nbsp;•
 {{Yamayka}} &nbsp;• 
 {{Zambiya}}
-}}
+|}
 
 [[Kategoriya:Topluluklar Şablonnarı]]
