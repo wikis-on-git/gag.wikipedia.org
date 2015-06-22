@@ -1,10 +1,8 @@
-{{Dolaşım
-
-|ad=Okeaniya Devletleri
-|başlık=[[Okeaniya]] Devletläri
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Okeaniya Devletleri"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Okeaniya Devletleri|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[Okeaniya]] Devletleri'''</div>
+<div class="NavContent" style="text-align:center;">
 [[Image:Flag of American Samoa.svg|26px|]] [[Amerikan Samoa|Amerikan Samoa]]&nbsp;• 
 [[Image:Flag of Australia.svg|26px|]] [[Avstraliya|Avstraliya]]&nbsp;• 
 [[Image:Flag of Christmas Island.svg|26px|]] [[Christmas Adası]]&nbsp;•  
@@ -35,4 +33,4 @@
 [[Image:Flag of Tuvalu.svg|26px|]] [[Tuvalu|Tuvalu]]&nbsp;•
 [[Image:Flag of Vanuatu.svg|26px|]] [[Vanuatu|Vanuatu]]&nbsp;•
 [[Image:Flag of Wallis and Futuna.svg|26px|]] [[Wallis hem Futuna Adaları]]
-}}
+|}
