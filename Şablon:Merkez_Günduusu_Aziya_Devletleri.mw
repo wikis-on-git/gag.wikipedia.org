@@ -1,8 +1,8 @@
-{{Dolaşım
-|ad=Merkez Günduusu Aziya Devletleri
-|başlık=Merkez Günduusu Aziya Devletleri
-
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Merkez Günduusu Aziya Devletleri"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Merkez Günduusu Aziya Devletleri|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''Merkez Günduusu Aziya Devletleri'''</div>
+<div class="NavContent" style="text-align:center;">
 {{Azerbaycan}} &nbsp;•  
 {{Bahreyn}} &nbsp;• 
 {{Birleşik Arab Emirlikleri}} &nbsp;• 
@@ -22,4 +22,4 @@
 {{Oman}} &nbsp;•
 {{İordaniya}} &nbsp;•
 {{Yemen}}  
-}}
+|}
