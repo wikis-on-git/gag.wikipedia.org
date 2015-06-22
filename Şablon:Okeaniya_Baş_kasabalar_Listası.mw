@@ -1,10 +1,8 @@
-{{Dolaşım
-
-|ad=Okeaniya Baş kasabalar Listası
-|başlık=Okeaniya Baş kasabalar Listası
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Okeaniya Baş kasabalar Listası"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Okeaniya Baş kasabalar Listası|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[Okeaniya]] Baş kasabalar Listası'''</div>
+<div class="NavContent" style="text-align:center;">
 [[Kanberra|Kanberra]]&nbsp;•
 [[Wellington|Wellington]]&nbsp;•
 [[Flying Fish Cove|Flying Fish Cove]]&nbsp;•
@@ -34,4 +32,4 @@
 [[Nukuʻalofa|Nukuʻalofa]]&nbsp;•
 [[Funafuti|Funafuti]]&nbsp;•
 [[Mata-Utu|Mata-Utu]]
-}}
+|}
