@@ -1,9 +1,8 @@
-{{Dolaşım
-|ad=Eni Zelandiya Kasabalar Listesi
-|başlık=Eni Zelandiya Kasabalar Listesi
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Eni Zelandiya Kasabalar Listesi"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Eni Zelandiya Kasabalar Listesi|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''Eni Zelandiya Kasabalar Listesi'''</div>
+<div class="NavContent" style="text-align:center;">
 [[Auckland|Auckland]] &nbsp;•
 [[Christchurch|Christchurch]] &nbsp;•
 [[Wellington|Wellington]] &nbsp;•
@@ -21,4 +20,4 @@
 [[Gisborne|Gisborne]] &nbsp;•
 [[North Shore|North Shore]] &nbsp;•
 [[Waitakere|Waitakere]] &nbsp;•
-}}
+|}
