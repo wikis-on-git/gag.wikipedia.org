@@ -1,9 +1,8 @@
-{{Dolaşım
-|ad=Kanada Viliyatları hem Zonaları
-|başlık=Kanada Viliyatları hem Zonaları
-
-|grup1='''Viliyatlar:'''
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Kanada Viliyatları hem Zonaları"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Kanada Viliyatları hem Zonaları|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[Kanada]] Viliyatları hem Zonaları'''</div>
+<div class="NavContent" style="text-align:center;">
 [[Image:Flag of Alberta.svg|26px|]] [[Alberta|Alberta]]&nbsp;• 
 [[Image:Flag of British Columbia.svg|26px|]] [[Britaniya|Britaniya Kolumbiyası]]&nbsp;•
 [[Image:Flag of Manitoba.svg|26px|]] [[Manitoba|Manitoba]]&nbsp;•
@@ -18,4 +17,4 @@
 [[Image:Flag of the Northwest Territories.svg|26px|]] [[Poyrazgünduusu  Toprakları|Poyrazgünduusu  Toprakları]]&nbsp;• 
 [[Image:Flag of Nunavut.svg|26px|]] [[Nanavut|Nunavut]]&nbsp;• 
 [[Image:Flag of Yukon.svg|26px|]] [[Yukon|Yukon]]
-}}
+|}
