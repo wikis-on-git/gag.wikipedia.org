@@ -1,9 +1,8 @@
-{{Dolaşım
-|ad=Evropa Birlii Dilleri
-|başlık=Evropa Birlii Dilleri
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Evropa Birlii Dilleri"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Evropa Birlii Dilleri|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[Evropa Birlii]] Dilleri'''</div>
+<div class="NavContent" style="text-align:center;">
 [[Image:Flag of Bulgaria.svg|25px]] [[Bulgar dili|Bulgar dili]] • 
 [[Image:Flag of the United Kingdom.svg|25px]] [[İngiliz dili|İngiliz dili]] • 
 [[Image:Flag of the Czech Republic.svg|25px]] [[Çeh dili|Çeh dili]] •
@@ -27,7 +26,7 @@
 [[Image:Flag of Sweden.svg|25px]] [[Şveți dili|Şveți dili]] • 
 [[Image:Flag of Slovakia.svg|25px]] [[Slovak dili|Slovak dili]] •
 [[Image:Flag of Hungary.svg|25px]] [[Vengriya dili|Vengriya dili]] 
-}}
+|}
 
 
 [[Kategori:Diller Şablonnarı]]
