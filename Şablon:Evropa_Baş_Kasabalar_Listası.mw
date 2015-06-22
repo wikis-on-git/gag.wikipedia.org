@@ -1,7 +1,8 @@
-{{Dolaşım
-|ad=Evropa Baş Kasabalar Listası
-|başlık=Evropa Baş Kasabalar Listası
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Evropa Baş Kasabalar Listası"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Evropa Baş Kasabalar Listası|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''Evropa Baş Kasabalar Listası'''</div>
+<div class="NavContent" style="text-align:center;">
 '''[[Astana|Astana]]''', [[Kazahstan|Kazahstan]]&nbsp;• 
 '''[[Baku|Baku]]''' , [[Azerbaycan|Azerbaycan]] &nbsp;• 
 '''[[Bukureş|Bukureş]]''' , [[Romıniya|Romıniya]] &nbsp;•
@@ -74,6 +75,6 @@
 '''[[Praga|Praga]]''', [[Çehiya|Çehiya]] &nbsp;• 
 '''[[Varşava|Varşava]]''', [[Polşa|Polşa]] &nbsp;• 
 '''[[Vena|Vena]]''', [[Avstriya|Avstriya]] 
-}}<noinclude>
+|}<noinclude>
 [[Kategori:Şablonnar]]
 </noinclude>
