@@ -4,10 +4,6 @@
 <div style="float:right;margin-right:8px;">{{Tnavbar|GUAM|mini=1}}</div>
 <div class="NavHead" style="background:#85ABFF; ">'''[[GUAM|GUAM]]'''</div>
 <div class="NavContent" style="text-align:left;">
-
-{|  width=100% style="text-align:left;"
-|-
-| colspan="3" | 
 {|
 <small>
 |- 
@@ -42,5 +38,4 @@
 | <small>
 {{Özbekistan}} 
 <small>
-|}
 |}
