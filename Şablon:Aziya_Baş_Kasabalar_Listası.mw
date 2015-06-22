@@ -1,9 +1,8 @@
-{{Dolaşım
-|ad=Aziya Baş Kasabalar Listası
-|başlık=Aziya Baş Kasabalar Listası
-
-|grup1=
-|liste1=
+{| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Aziya Baş Kasabalar Listası"
+|- valign="top" 
+|
+<div style="float:right;margin-right:8px;">{{Tnavbar|Aziya Baş Kasabalar Listası|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[Aziya]] Baş Kasabalar Listası'''</div>
+<div class="NavContent" style="text-align:center;">
 '''[[Astana|Astana]]''', [[Kazahstan|Kazahstan]]&nbsp;• 
 '''[[Bişkek|Bişkek]]''' , [[Kırgızstan|Kırgızstan]] &nbsp;• 
 '''[[Duşanbe|Duşanbe]]''' , [[Tacikistan|Tacikistan]] &nbsp;•
@@ -67,4 +66,4 @@
 '''[[Tshinvali|Tshinvali]]''', [[Üülen Osetiya|Üülen Osetiya]]&nbsp;• 
 '''[[Ufa|Ufa]]''' , [[Başkiriya|Başkiriya]] &nbsp;•
 '''[[Yoşkar-Ola|Yoşkar-Ola]]''',  [[Mari El|Mari El]]
-}}
+|}
