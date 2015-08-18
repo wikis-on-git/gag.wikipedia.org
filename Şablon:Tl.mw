@@ -1,0 +1,7 @@
+<includeonly>{{[[Template:{{{1}}}|{{#if:{{{2|}}}|{{{2}}}|{{{1}}}}}]]{{#if:{{{param|}}}|{{!}}{{{param}}}|}}<!-- -->}}</includeonly><noinclude>
+This is a template for a '''t'''emplate '''l'''ink, e.g. <code><nowiki>{{Tl|unsigned}}</nowiki></code> gives {{Tl|unsigned}}.
+</noinclude>
+
+{{Documentation}}
+
+</noinclude>
