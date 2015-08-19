@@ -19,7 +19,7 @@
   | {{{Dosye}}}
   | {{#switch:{{{type|}}}
     | speedy     = [[Dosye:Imbox speedy deletion.png|40x40px]] 
-    | delete     = [[Dosye:Imbox deletion.png|40x40px]] 
+    | delete     = [[Dosye:Ambox deletion.png|40x40px]] 
     | content    = [[Dosye:Imbox content.png|40x40px]]
     | style      = [[Dosye:Imbox style.png|40x40px]]
     | move       = [[Dosye:Imbox move.png|40x40px]]
