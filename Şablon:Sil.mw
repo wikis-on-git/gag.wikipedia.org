@@ -2,7 +2,7 @@
 
 If you disagree with its speedy deletion, please explain why on [[{{NAMESPACE}} talk:{{PAGENAME}}|its talk page]]. Do not remove this notice from articles that you have created yourself.
 
-Администраторам: [[Special:Whatlinkshere/{{FULLPAGENAME}}|ссылки сюда]], [{{fullurl:{{FULLPAGENAME}}|action=history}} история] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} последнее изменение]), [{{fullurl:Special:Log|page={{FULLPAGENAMEE}}}} журналы], [{{fullurl:{{FULLPAGENAME}}|action=delete&wpReason={{urlencode:{{{1}}}}}}} удалить].
+Администраторам: [[Special:Whatlinkshere/{{FULLPAGENAME}}|ссылки сюда]], [{{fullurl:{{FULLPAGENAME}}|action=history}} Geçmişi gör] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} последнее изменение]), [{{fullurl:Special:Log|page={{FULLPAGENAMEE}}}} журналы], [{{fullurl:{{FULLPAGENAME}}|action=delete&wpReason={{urlencode:{{{1}}}}}}} удалить].
 </div>
 <includeonly>[[Kategoriya:Vikipediya:Silinacak sahifalar]]</includeonly>
 <noinclude>[[Kategoriya:Şablonlar:İnzibati]]
