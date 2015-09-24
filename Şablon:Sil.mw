@@ -5,6 +5,5 @@ If you disagree with its speedy deletion, please explain why on [[{{NAMESPACE}} 
 Администраторам: [[Special:Whatlinkshere/{{FULLPAGENAME}}|ссылки сюда]], [{{fullurl:{{FULLPAGENAME}}|action=history}} история] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} последнее изменение]), [{{fullurl:Special:Log|page={{FULLPAGENAMEE}}}} журналы], [{{fullurl:{{FULLPAGENAME}}|action=delete&wpReason={{urlencode:{{{1}}}}}}} удалить].
 </div>
 <includeonly>[[Kategoriya:Vikipediya:Silinacak sahifalar]]</includeonly>
-<noinclude>[[Category:Шаблоны:Административные|*]][[Category:Википедия:Шаблоны для шаблонов]]
-[[eo:Ŝablono:Forigu]]
+<noinclude>[[Kategoriya:Şablonlar:İnzibati]]
 </noinclude>
