@@ -1,0 +1,30 @@
+{{Şablon belge sayfası}}
+== Kullanım ==
+<nowiki>{{Ölüm tarihi ve yaşı|ölüm yılı|ölüm ayı|ölüm günü|doğum yılı|doğum ayı|doğum günü}} </nowiki>
+
+====Örnek;====
+
+<nowiki>{{Ölüm tarihi ve yaşı|2007|2|21|1937|5|8}}</nowiki> New York Şehri, New York, Amerika Birleşik Devletleri
+
+{{Ölüm tarihi ve yaşı|2007|2|21|1937|5|8}} New York Şehri, New York, Amerika Birleşik Devletleri
+
+===Ayrıca bakınız===
+; Doğum, ölüm, yaş
+* {{tl|Doğum tarihi}}  
+* {{tl|Doğum tarihi ve yaşı}} 
+* {{tl|Doğum tarihi ve yaşı2}}    
+* {{tl|Doğum-tarihi ve yaşı}}  
+* {{tl|Ölüm tarihi}}  
+* {{tl|Ölüm tarihi ve yaşı}} 
+* {{tl|Ölüm yılı ve yaşı}}  
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Kategoriya:Tarih ilgili şablonları]]
+[[tr:Şablon:Ölüm tarihi ve yaşı]]
+[[ca:Plantilla:Data naixement i edat]]
+[[eo:Ŝablono:Mortotago kaj aĝo]]
+[[ko:틀:사망일과 만나이]]
+[[no:Mal:Dødsdato og alder]]
+[[ro:Format:Death date and age]]
+</includeonly>
