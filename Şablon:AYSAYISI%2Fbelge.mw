@@ -1,0 +1,6 @@
+{{düzenle-tr}}
+This template returns the cyclic integer month number (between 1 and 12) of the month whose real number is in parameter. Alternatively, the month can be given with its english name (complete or abbreviated to 3 characters, with capitals or small letters).
+
+; Syntax<nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>MONTHNUMBER|</tt>''month''<tt>}}</tt>
+* The ''month'' value is interpreted modulo 12 (extra leading zeroes are ignored, negative numbers are accepted, all numbers are rounded to floor).<includeonly>[[Kategori:Tarih ilgili şablonları|AYSAYISI]]</includeonly>
