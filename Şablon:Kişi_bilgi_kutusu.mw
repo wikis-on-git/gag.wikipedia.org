@@ -1,0 +1,234 @@
+{{Bilgi kutusu|child={{{child|}}}
+| gövdesınıfı = biography vcard
+| gövdebiçimi = {{#if:{{{kutu_genişliği|}}}|width:{{{kutu_genişliği}}};}}
+| üst         = {{#if:{{{honorific prefix|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{honorific prefix|{{{honorific_prefix|}}}}}}</span><br />}}<includeonly><span class="fn">{{{isim|{{PAGENAME}}}}}</span></includeonly>{{#if:{{{honorific suffix|{{{honorific_suffix|}}}}}}|<br /><span class="honorific-suffix" style="font-size: small">{{{honorific suffix|{{{honorific_suffix|}}}}}}</span>}}
+| resim       =  {{#if:{{{resim<includeonly>|</includeonly>}}}
+                | [[Dosya:{{{resim}}}|<!--
+                    -->{{#if:{{{resim_boyutu|{{{resim_boyutu|}}}}}}
+                         |{{{resim_boyutu|{{{resim_boyutu|}}}}}} |220px}}<!--
+               -->|{{{başlık|}}}]]<!--
+           -->}}
+|resimsınıfı = {{image class|{{{resim}}}}}
+| altyazı     = <div style="padding-top:0.3em; line-height:1.2em;"><!--
+                    -->{{{başlık<includeonly>|</includeonly>}}}</div>
+<!-- | etiket1     = Doğum adı
+| veri1      = {{#if:{{{doğum_adı|}}}|<span class="nickname" {{#if:{{{doğum_adı_dili|}}}|lang="{{{doğum_adı_dili}}}" xml:lang="{{{doğum_adı_dili}}}"}}>{{{doğum_adı}}}</span> }} -->
+
+| etiket11    = Doğum
+| veri11      = {{br separated entries|{{#if:{{{doğumadı|{{{doğum_adı|}}}}}}|<span class="nickname">{{{doğumadı|{{{doğum_adı|}}}}}}</span>}}|{{{doğum_tarihi|}}}|{{{doğum_yeri|}}}}}
+
+| etiket12    = Kaybolma
+| veri12      = {{br separated entries|{{{kaybolma_tarihi|}}}|{{{kaybolma_yeri|}}} }}
+
+| etiket13    = Durumu
+| veri13      = {{{kaybolma_durumu|}}}
+
+| etiket14    = Ölüm
+| veri14      = {{br separated entries|{{{ölüm_tarihi|}}}|{{{ölüm_yeri|}}}}}
+
+| etiket15    = Ölüm sebebi
+| veri15      = {{{ölüm_sebebi|{{{ölüm sebebi|}}}}}}
+
+| etiket16    =Bedeninin bulunuşu
+| veri16      = {{{bedeninin bulunuşu|{{{bedeninin_bulunuşu|}}}}}}
+| sınıf16     = category
+
+| etiket17    = Yattığı yer
+| sınıf17     = etiket
+| veri17      = {{br separated entries|{{{yattığı yer|{{{yattığı_yer|{{{yattığıyer|}}}}}}}}}|{{{yattığı_yerin_koordinatları|{{{yattığı yerin koordinatları|{{{yattığıyerinkoordinatları|}}}}}}}}}}}
+
+| etiket18    = Anıtlar
+| veri18      = {{{anıtlar|}}}
+| sınıf18     = category
+
+| etiket19    = İkâmet
+| sınıf19     = {{#if:{{{ölüm_tarihi|}}}{{{ölüm_yeri|}}}||etiket}}
+| veri19      = {{{ikamet|}}}
+
+| sınıf20    = category
+| etiket20   = Milliyet
+| veri20     = {{{milliyeti|}}}
+
+| etiket21   = Diğer adı
+| sınıf21    = nickname
+| veri21     = {{{diğer adları|{{{diğer_adları|{{{diğeradları|{{{lakabı|}}}}}}}}}}}}
+
+| sınıf22    = category
+| etiket22   = Etnik köken
+| veri22    = {{{soyu|}}}{{{etnisite|}}}
+
+| sınıf23    = category
+| etiket23   = Vatandaşlık
+| veri23     = {{{vatandaşlık|}}}
+
+| etiket24   = Eğitim
+| veri24     = {{{eğitim|}}}
+
+| etiket25   = Bitirdiği okul
+| veri25     = {{{öğrenim|}}}
+
+| etiket26   = Occupation
+| sınıf26    = role
+| veri26     = {{{occupation|}}}
+
+| etiket27    = Gittiği okul
+| veri27      = {{{alma mater|{{{alma_mater|}}}}}}
+
+| etiket28   = Etkin yılları
+| veri28     = {{{aktif yılları|{{{aktif_yılları|{{{aktifyıllar|}}}}}}}}}
+
+| etiket29   = İşveren
+| veri29     = {{{işveren|}}}
+| sınıf29    = org
+
+| etiket30   = Organizasyon
+| veri30     = {{{organizasyon|{{{organizasyonlar|}}}}}}
+| sınıf30    = org
+
+| etiket31   = Ajans
+| veri31     = {{{ajans|}}}
+| sınıf31    = agent
+
+| etiket32   = Savaşları
+| veri32     = {{{savaşları|}}}
+
+| etiket33   = Eserleri
+| veri33     = {{{bilinen|}}}
+
+| etiket34   = Meslek
+| veri34     = {{{meslek|{{{mesleği|}}}}}}
+| sınıf34    = category
+
+| etiket35   = Etkiledikleri
+| veri35     = {{{etkiledikleri|}}}
+
+| etiket36   = Etkilendikleri
+| veri36     = {{{etkilendikleri|}}}
+
+| etiket37   = Memleketi
+| veri37     = {{{memleket|{{{memleketi|}}}}}}
+
+| etiket38   = Maaş
+| veri38     = {{{maaş|}}}
+
+| etiket39   = Net değer
+| veri39     = {{{net değer|{{{net_değer|{{{netdeğer|}}}}}}}}}
+
+| etiket40   = Boy
+| veri40     = {{{boy|}}}
+
+| etiket41   = Kilo
+| veri41     = {{{kilo|}}}
+
+| etiket42   = Televizyon
+| veri42     = {{{televizyon|}}}
+
+| etiket43   = Önceki meslekleri
+| veri43     = {{{title|}}}
+| sınıf43    = title
+
+| etiket44   = Rütbesi
+| veri44     = {{{rütbesi|}}}
+
+| etiket45   = Öncülü
+| veri45     = {{{önceki|}}}
+
+| etiket46   = Ardılı
+| veri46     = {{{sonraki|}}}
+
+| etiket47   = Siyasi parti
+| veri47     = {{{parti|}}}
+| sınıf47    = org
+
+| etiket48   = Siyasi hareketi
+| veri48     = {{{hareket|}}}
+| sınıf48    = category
+
+| etiket49   = <span style="white-space:nowrap;">Rakipleri</span>
+| veri49     = {{{rakipleri|}}}
+
+| etiket50   = Yönetim kurulu üyeliği
+| veri50     = {{{kurul_üyelikleri|}}}
+
+| etiket51   = Yönetim kurulu üyesi
+| veri51     = {{{boards|}}}
+
+| etiket52   = Din
+| veri52     = {{{din|}}}
+| sınıf52    = category
+
+| etiket53   = Mezhep
+| veri53     = {{{mezhep|}}}
+| sınıf53    = category
+
+| etiket54   = Tanınma nedeni
+| veri54     = {{{tanınma_nedeni|}}}
+
+| etiket55   = Criminal penalty
+| veri55     = {{{criminal penalty|{{{criminal_penalty|}}}}}}
+
+| etiket56   = Criminal status
+| veri56     = {{{criminal status|{{{criminal_status|}}}}}}
+| sınıf56    = category
+
+| etiket57   = Ebeveyn(ler)i
+| veri57     = {{{ebeveynler|}}}
+
+| etiket58   = Aile
+| veri58     = {{{aile|}}}
+
+| etiket59   = Eşi
+| veri59     = {{{eş|}}}
+
+| etiket60   = Partner
+| veri60     = {{{partner|{{{domesticpartner|{{{domestic_partner|}}}}}}}}}
+
+| etiket61   = Çocukları
+| veri61     = {{{çocukları|}}}
+
+| etiket62   = Akrabaları
+| veri62     = {{{akrabalar|{{{akrabaları|}}}}}}
+
+| etiket63   = Dönemi
+| veri63     = {{{dönem|}}}
+
+| etiket64   = Ödülleri
+| veri64     = {{{ödülleri|}}}
+| sınıf64    = category
+
+| veri65     = {{{diğer|{{{modül|}}}}}}
+| veri66     = {{{diğer2|{{{modül2|}}}}}}
+| veri67     = {{{diğer3|{{{modül3|}}}}}}
+| veri68     = {{{diğer4|{{{modül4|}}}}}}
+| veri69     = {{{diğer5|{{{modül5|}}}}}}
+
+| başlık70   = {{#if:{{{Tarz|{{{tarz|}}}}}}|Müzikal kariyeri}}
+
+| etiket71   = [[Müzik tarzı|Tarzlar]]
+| veri71     = {{{Tarz|{{{tarz|}}}}}}
+
+| etiket72   = Çalgılar
+| veri72     = {{{Çalgı|{{{çalgı|}}}}}}
+
+| etiket73   = Etkin yılları
+| veri73     = {{{Etkin yıllar|{{{etkin yıllar|{{{etkin yılları|}}}}}}}}}
+
+| etiket74   = [[Plak şirketi|Plak&nbsp;şirketi]]
+| veri74     = {{{Plak şirketi|{{{plak şirketi|}}}}}}
+
+| etiket75   = İlişkili hareketler
+| veri75     = {{{İlişkili hareketler|{{{ilişkili hareketler|}}}}}}
+
+| etiket76   = İmza
+| veri76     = {{#if:{{{imza|}}}|[[Dosya:{{{imza}}}|{{px|{{{imza_boyutu|}}}|150px}}|alt={{{imza_atyazısı|{{{imza altyazısı|}}}}}}]]}}
+
+| başlık77   = {{#if:{{{website|{{{homepage|{{{URL|{{{resmî sitesi|}}}}}}}}}}}}|Resmî sitesi}}
+
+| veri78     = {{{website|{{{homepage|{{{URL|{{{resmî sitesi|}}}}}}}}}}}}
+
+| below      = {{#if:{{{dipnotlar|}}}|'''Notlar'''<div style="line-height:1.2em;">{{{dipnotlar}}}</div>}}
+| belowstyle = border-top:1px solid #aaaaaa; text-align:left
+
+}}<includeonly>{{Wikidata image|1={{{resim|}}} }}</includeonly><noinclude>
+{{Belgeleme}} 
+</noinclude>
