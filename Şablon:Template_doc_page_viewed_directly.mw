@@ -1,0 +1,7 @@
+<div class="messagebox" id="şablon belge sayfası doğrudan görüntüleniyor" style="text-align: center">
+Bu gördüğünüz, {{{1|[[{{NAMESPACE}}:{{BASEPAGENAME}}]]}}} için bir belgeleme sayfasıdır. Doğrudan tek başına görüntülendiği zaman, bağlantıların kullandığı bazı değişkenler bozuk gözükebilir. Bu durum genellikle normaldir, bu değişkenler yerine doğrudan koda yazılmış (''hard coded'') sayfa adları veya URL'ler yazmayın.</span>
+</div><includeonly>{{#if: {{{engelle|{{{engelle|}}}}}} |<!-- skip 
+-->|[[Kategoriya:Şablon belgelemesi|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{Belgeleme}}
+<!--Kategoriyaleri ve interwikileri buraya değil /belge alt-sayfasına yazın lütfen!-->
+</noinclude>
