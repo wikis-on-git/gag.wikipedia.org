@@ -1,0 +1,6 @@
+<includeonly>{{#if:{{{df|}}}|{{#expr:{{{3|{{{day}}}}}}}} {{MONTHNAME|{{{2|{{{month}}}}}}}}|{{#expr:{{{3|{{{day}}}}}}}}}} {{MONTHNAME|{{{2|{{{month}}}}}}}} {{{1|{{{year}}}}}}<span style="display:none"> (<span class="bday">{{{1|{{{year}}}}}}-{{padleft:{{{2|{{{month}}}}}}|2|0}}-{{padleft:{{{3|{{{day}}}}}}|2|0}}</span>)</span><span class="noprint"> ({{Yaş| {{{1|{{{year}}}}}} | {{{2|{{{month}}}}}} | {{{3|{{{day}}}}}} }}&nbsp;yaşında)</span></includeonly><!--
+
+
+--><noinclude>
+{{Belgeleme}}
+</noinclude>
