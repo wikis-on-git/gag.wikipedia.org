@@ -1,0 +1,46 @@
+{{Şablon belge sayfası}}
+BU şablon, bilgi kutularında, ayrı olarak verilmiş üç tane kodun <code>&lt;br&gt;</code> ile tek bir parametrede toplanmasın sağlamaktır. 
+
+== Kullanımı ==
+:<code><nowiki>{{br separated entries|girdi1|girdi2|girdi3}}</nowiki></code>
+
+== Örnekler ==
+{| class="wikitable"
+! Kod !! Sonuç
+|-
+| <code><nowiki>{{br separated entries|girdi1|girdi2|girdi3}}</nowiki></code> || {{br separated entries|girdi1|girdi2|girdi3}}
+|-
+| <code><nowiki>{{br separated entries| |girdi2|girdi3}}</nowiki></code> || {{br separated entries| |girdi2|girdi3}}
+|-
+| <code><nowiki>{{br separated entries|girdi1| |girdi3}}</nowiki></code> || {{br separated entries|girdi1| |girdi3}}
+|-
+| <code><nowiki>{{br separated entries|girdi1|girdi2| }}</nowiki></code> || {{br separated entries|girdi1|girdi2| }}
+|-
+| <code><nowiki>{{br separated entries|girdi1| | }}</nowiki></code> || {{br separated entries|girdi1| | }}
+|-
+| <code><nowiki>{{br separated entries| |girdi2| }}</nowiki></code> || {{br separated entries| |girdi2| }}
+|-
+| <code><nowiki>{{br separated entries| | |girdi3}}</nowiki></code> || {{br separated entries| | |girdi3}}
+|-
+| <code><nowiki>{{br separated entries| | | }}</nowiki></code> || {{br separated entries| | | }}
+|}
+<includeonly>
+[[Kategoriya:Vikipedi formatlama ve fonksiyon şablonları]]
+
+[[arz:قالب:Br separated entries]]
+[[bn:টেমপ্লেট:Br separated entries]]
+[[ca:Plantilla:Br entrades separades]]
+[[en:Template:Br separated entries]]
+[[fa:الگو:شکستن ورودی‌ها]]
+[[gan:Template:Br separated entries]]
+[[ja:Template:Br separated entries]]
+[[ka:თარგი:Br separated entries]]
+[[ko:틀:Br 분리 기입]]
+[[ro:Format:Intrări separate br]]
+[[tr:Şablon:Br separated entries]]
+[[si:සැකිල්ල:Br separated entries]]
+[[sl:Predloga:Br separated entries]]
+[[sv:Mall:Br separated entries]]
+[[ur:سانچہ:Br separated entries]]
+[[zh:Template:Br separated entries]]
+</includeonly>
