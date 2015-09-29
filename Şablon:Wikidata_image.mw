@@ -1,0 +1,21 @@
+{{#if:{{NAMESPACE}}||
+  {{#if:{{{1|}}} 
+  | {{#if:{{#property:P18}}
+    | {{#ifeq:{{filepath:{{{1|}}} }}|{{filepath:{{#property:P18}} }}
+      | [[Kategoriya:Türkçe Vikipedi ile Vikiveride aynı resim olan maddeler]]
+      | [[Kategoriya:Türkçe Vikipedi üzerindeki resmi Vikiveriden farklı olan maddeler]]
+      }}
+    | {{#if:{{#property:P41}}{{#property:P94}}{{#property:P117}}{{#property:P154}}{{#property:P242}}
+      | 
+      | [[Kategoriya:Türkçe Vikipedi üzerinde resmi olan ama Vikiveride resmi olmayan maddeler]] 
+      }}
+    }}
+  | {{#if:{{#property:P18}}
+    | {{#if:{{{2|}}} 
+      | 
+      | [[Kategoriya:Türkçe Vikipedi üzerinde resmi olmayan ama Vikiveride resmi olan maddeler]] 
+     }}
+    | [[Kategoriya:Türkçe Vikipedi ve Vikiveride resmi olmayan maddeler]]
+    }}
+  }}
+}}
