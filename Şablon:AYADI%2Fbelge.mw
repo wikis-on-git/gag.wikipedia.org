@@ -1,0 +1,133 @@
+{{düzenle-tr}}
+Bu şablon parametrelerdeki sayıları ay adlarına çevirir.
+; Sözdizim<nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|</nowiki></tt>''ay''<tt>}}</tt>
+* ''ay'' değeri modülo 12'ye göre değerlendirilir (fazladan ön sıfırlar ve ondalıklar önemsenmez).
+
+; Uyumlu eşanlamlar<nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>ay adı|</tt>''ay''<tt>}}</tt>
+
+; Tüm standart ay sayıları için örnekler<nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|1}}</nowiki></tt>, {{AYADI|1}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|2}}</nowiki></tt>, {{AYADI|2}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|3}}</nowiki></tt>, {{AYADI|3}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|4}}</nowiki></tt>, {{AYADI|4}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|5}}</nowiki></tt>, {{AYADI|5}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|6}}</nowiki></tt>, {{AYADI|6}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|7}}</nowiki></tt>, {{AYADI|7}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|8}}</nowiki></tt>, {{AYADI|8}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|9}}</nowiki></tt>, {{AYADI|9}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|10}}</nowiki></tt>, {{AYADI|10}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|11}}</nowiki></tt>, {{AYADI|11}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|12}}</nowiki></tt>, {{AYADI|12}} olur
+
+; Fazladan ön sıfır içeren ay sayıları için <nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|01}}</nowiki></tt>, {{AYADI|01}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|02}}</nowiki></tt>, {{AYADI|02}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|03}}</nowiki></tt>, {{AYADI|03}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|04}}</nowiki></tt>, {{AYADI|04}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|05}}</nowiki></tt>, {{AYADI|05}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|06}}</nowiki></tt>, {{AYADI|06}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|07}}</nowiki></tt>, {{AYADI|07}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|08}}</nowiki></tt>, {{AYADI|08}} olur
+: <tt><nowiki>{{</nowiki>AYADI<nowiki>|09}}</nowiki></tt>, {{AYADI|09}} olur
+
+İngilizce-->
+
+; Examples for month number cyclic underflows and overflows, from computed values<nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|-12}}</nowiki></tt> returns {{MONTHNAME|-12}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|-11}}</nowiki></tt> returns {{MONTHNAME|-11}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|-10}}</nowiki></tt> returns {{MONTHNAME|-10}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|-9}}</nowiki></tt> returns {{MONTHNAME|-9}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|-3}}</nowiki></tt> returns {{MONTHNAME|-3}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|-2}}</nowiki></tt> returns {{MONTHNAME|-2}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|-1}}</nowiki></tt> returns {{MONTHNAME|-1}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|0}}</nowiki></tt> returns {{MONTHNAME|0}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|13}}</nowiki></tt> returns {{MONTHNAME|13}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|14}}</nowiki></tt> returns {{MONTHNAME|14}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|15}}</nowiki></tt> returns {{MONTHNAME|15}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|16}}</nowiki></tt> returns {{MONTHNAME|16}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|23}}</nowiki></tt> returns {{MONTHNAME|23}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|24}}</nowiki></tt> returns {{MONTHNAME|24}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|25}}</nowiki></tt> returns {{MONTHNAME|25}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|1200}}</nowiki></tt> returns {{MONTHNAME|1200}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|1201}}</nowiki></tt> returns {{MONTHNAME|1201}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|1212}}</nowiki></tt> returns {{MONTHNAME|1212}}
+
+; Examples for all standard English month names<nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|JANUARY}}</nowiki></tt> returns {{MONTHNAME|JANUARY}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|FEBRUARY}}</nowiki></tt> returns {{MONTHNAME|FEBRUARY}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|MARCH}}</nowiki></tt> returns {{MONTHNAME|MARCH}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|APRIL}}</nowiki></tt> returns {{MONTHNAME|APRIL}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|MAY}}</nowiki></tt> returns {{MONTHNAME|MAY}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|JUNE}}</nowiki></tt> returns {{MONTHNAME|JUNE}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|JULY}}</nowiki></tt> returns {{MONTHNAME|JULY}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|AUGUST}}</nowiki></tt> returns {{MONTHNAME|AUGUST}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|SEPTEMBER}}</nowiki></tt> returns {{MONTHNAME|SEPTEMBER}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|OCTOBER}}</nowiki></tt> returns {{MONTHNAME|OCTOBER}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|NOVEMBER}}</nowiki></tt> returns {{MONTHNAME|NOVEMBER}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|DECEMBER}}</nowiki></tt> returns {{MONTHNAME|DECEMBER}}
+
+; Examples for all abbreviated English month names<nowiki>:</nowiki>
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|jan}}</nowiki></tt> returns {{MONTHNAME|jan}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|feb}}</nowiki></tt> returns {{MONTHNAME|feb}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|mar}}</nowiki></tt> returns {{MONTHNAME|mar}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|apr}}</nowiki></tt> returns {{MONTHNAME|apr}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|may}}</nowiki></tt> returns {{MONTHNAME|may}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|jun}}</nowiki></tt> returns {{MONTHNAME|jun}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|jul}}</nowiki></tt> returns {{MONTHNAME|jul}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|aug}}</nowiki></tt> returns {{MONTHNAME|aug}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|sep}}</nowiki></tt> returns {{MONTHNAME|sep}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|oct}}</nowiki></tt> returns {{MONTHNAME|oct}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|nov}}</nowiki></tt> returns {{MONTHNAME|nov}}
+: <tt><nowiki>{{</nowiki>MONTHNAME<nowiki>|dec}}</nowiki></tt> returns {{MONTHNAME|dec}}
+
+; See also<nowiki>:</nowiki>
+: [[Şablon:AYSAYISI]]
+
+<includeonly>
+[[Kategoriya:Tarih ilgili şablonları]]
+
+[[ar:قالب:اسم الشهر]]
+[[bg:Шаблон:MONTHNAME]]
+[[bn:টেমপ্লেট:MONTHNAME]]
+[[cy:Nodyn:ENWMIS]]
+[[da:Skabelon:MONTHNAME]]
+[[dsb:Pśedłoga:MĚMJASECA]]
+[[el:Πρότυπο:MONTHNAME]]
+[[en:Template:MONTHNAME]]
+[[eo:Ŝablono:Nomo de monato]]
+[[fa:الگو:نام ماه میلادی]]
+[[fr:Modèle:MONTHNAME]]
+[[gl:Modelo:Nome mes]]
+[[hi:साँचा:MONTHNAME]]
+[[hr:Predložak:MONTHNAME]]
+[[hsb:Předłoha:MJENOMĚSACA]]
+[[hu:Sablon:Hónapnév/doc]]
+[[it:Template:MONTHNAME]]
+[[ja:Template:MONTHNAME]]
+[[jv:Cithakan:MONTHNAME]]
+[[ka:თარგი:თვის სახელწოდება]]
+[[kk:Үлгі:MONTHNAME]]
+[[kl:Ilisserut:MONTHNAME]]
+[[ml:ഫലകം:MONTHNAME]]
+[[mr:साचा:MONTHNAME]]
+[[ne:ढाँचा:MONTHNAME]]
+[[no:Mal:MONTHNAME]]
+[[nso:Template:MONTHNAME]]
+[[pt:Predefinição:MONTHNAME]]
+[[ro:Format:MONTHNAME]]
+[[tr:Şablon:AYADI]]
+[[sd:سانچو:MONTHNUMBER]]
+[[simple:Template:MONTHNAME]]
+[[sl:Predloga:MONTHNAME]]
+[[sq:Stampa:Monthname]]
+[[sr:Шаблон:MONTHNAME]]
+[[sv:Mall:MÅNADSNAMN]]
+[[ta:வார்ப்புரு:MONTHNAME]]
+[[te:మూస:నెలపేరు]]
+[[tpi:Template:MONTHNAME]]
+[[ur:سانچہ:نام مہینہ]]
+[[yi:מוסטער:MONTHNAME]]
+[[yo:Àdàkọ:MONTHNAME]]
+</includeonly>
