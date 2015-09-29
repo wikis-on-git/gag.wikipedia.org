@@ -1,0 +1,63 @@
+{{Şablon belge sayfası}}
+== Kullanım ==
+
+Bu şablonlar, ('''{{tl|Doğum tarihi}}''' ve '''{{tl|Doğum tarihi ve yaşı}}'''), bir kişinin doğum tarihini ve isteğe bağlı olarak onun yaşını gösterir.
+
+Sözdizim:
+
+:<nowiki>{{Doğum tarihi|doğum yılı|doğum ayı|doğum günü}}</nowiki>
+
+veya
+
+:<nowiki>{{Doğum tarihi ve yaşı|doğum yılı|doğum ayı|doğum günü}}</nowiki>
+
+Örnekler:
+
+:<nowiki>{{Doğum tarihi|1993|2|24}}</nowiki>, "{{Doğum tarihi|1993|2|24}}" olur
+
+:<nowiki>{{Doğum tarihi ve yaşı|1993|2|24}}</nowiki>, {{Doğum tarihi ve yaşı|1993|2|24}} olur
+
+===Ayrıca bakınız===
+; Doğum, ölüm, yaş
+* {{tl|Doğum tarihi}}  
+* {{tl|Doğum tarihi ve yaşı}} 
+* {{tl|Doğum tarihi ve yaşı2}}    
+* {{tl|Doğum-tarihi ve yaşı}}  
+* {{tl|Ölüm tarihi}}  
+* {{tl|Ölüm tarihi ve yaşı}} 
+* {{tl|Ölüm yılı ve yaşı}}  
+
+<includeonly>
+[[Kategoriya:Tarih ilgili şablonları]]
+
+[[ar:قالب:تاريخ الميلاد والعمر]]
+[[bg:Шаблон:Дата на раждане и години]]
+[[ca:Plantilla:Data naixement i edat]]
+[[cs:Šablona:Datum narození a věk]]
+[[cy:Nodyn:Dyddiad geni ac oedran]]
+[[da:Skabelon:Dato og alder]]
+[[dsb:Pśedłoga:Narodniny a starstwo]]
+[[el:Πρότυπο:Ημερομηνία γέννησης και ηλικία]]
+[[en:Template:Birth date and age]]
+[[eo:Ŝablono:Naskiĝtago kaj aĝo]]
+[[fa:الگو:تاریخ تولد و سن]]
+[[fr:Modèle:Date de naissance]]
+[[hsb:Předłoha:Narodniny a staroba]]
+[[ko:틀:출생일과 만나이]]
+[[mk:Шаблон:Роден на и возраст]]
+[[id:Templat:Tanggal lahir dan umur]]
+[[ja:Template:生年月日と年齢]]
+[[lv:Veidne:Dzimšanas datums un vecums]]
+[[no:Mal:Fødselsdato og alder]]
+[[os:Шаблон:Райгуырд]]
+[[pt:Predefinição:Dni]]
+[[ro:Format:Birth date and age]]
+[[ru:Шаблон:Родился]]
+[[tr:Şablon:Doğum tarihi ve yaşı]]
+[[sv:Mall:Ålder]]
+[[fi:Malline:Syntymäaika ja ikä]]
+[[uk:Шаблон:Дата з віком]]
+[[ur:سانچہ:Birth date and age]]
+[[vi:Tiêu bản:Ngày sinh và tuổi]]
+[[zh:Template:Birth date and age]]
+</includeonly>
