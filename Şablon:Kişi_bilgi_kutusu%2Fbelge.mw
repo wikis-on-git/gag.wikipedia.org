@@ -1,0 +1,283 @@
+<includeonly>{{template doc page transcluded|{{NAMESPACE}}:{{BASEPAGENAME}}}}</includeonly>
+<noinclude>{{template doc page viewed directly}}</noinclude>
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+'''Bilgi kutusu kişi''' bir kişinin hakkında özet bilgiler için kullanılabilir.
+
+== Kullanım ==
+Bu bilgi kutusu aşağıdaki örnekte gösterildiği gibi kopyalanarak maddeye eklenebilir. Parametreleri kısmen doldurabilirsiniz atlananlar görüntülenmeyecektir.
+
+<div style="width:250px; background:#dddddd; border:1px solid black; padding:0.5em 1em 0.5em 1em;">
+Kısaltılmış boş şablon
+<pre>{{Kişi bilgi kutusu
+| isim           =
+| resim          = 
+| başlık         = 
+| doğum_tarihi   = <!-- {{Doğum tarihi ve yaşı|yıl|ay|gün}} -->
+| doğum_yeri     = 
+| ölüm_tarihi    = <!-- {{Ölüm tarihi ve yaşı|ö.yıl|ö.ay|ö.gün|d.yıl|d.ay|d.gün}} -->
+| ölüm_yeri      = 
+| diğer_adları   = 
+| bilinen        = 
+| meslek         = 
+}}</pre>
+</div>
+<br/>
+<div style="width:325px; background:#dddddd; border:1px solid black; padding:0.5em 1em 0.5em 1em;">
+Bütün parametreleri içeren boş şablon
+<pre>{{Kişi bilgi kutusu
+| isim                        = 
+| resim                       = 
+| resim_boyutu                = 
+| başlık                      = 
+| doğum_adı                   = 
+| doğum_tarihi                = <!-- {{Doğum tarihi ve yaşı|yıl|ay|gün}} -->
+| doğum_yeri                  = 
+| kaybolma_tarihi             = 
+| kaybolma_yeri               = 
+| kaybolma_durumu             = 
+| ölüm_tarihi                 = <!-- {{Ölüm tarihi ve yaşı|ö.yıl|ö.ay|ö.gün|d.yıl|d.ay|d.gün}} -->
+| ölüm_yeri                   = 
+| ölüm_sebebi                 = 
+| bedeninin_bulunuşu          = 
+| yattığı_yer                 = 
+| yattığı_yerin_koordinatları = 
+| anıtlar                     = 
+| ikamet                      = 
+| milliyeti                   = 
+| soyu                        = 
+| vatandaşlık                 = 
+| savaşları                   = 
+| diğer_adları                = 
+| tanınma_nedeni              = 
+| rütbesi                     = 
+| eğitim                      = 
+| alma_mater                  = 
+| aktif_yılları               = 
+| işveren                     = 
+| organizasyon                = 
+| ajans                       = 
+| meslek                      = 
+| unvan                       = 
+| maaş                        = 
+| net_değer                   = 
+| etkiledikleri               = 
+| etkilendikleri              = 
+| boy                         = 
+| kilo                        = 
+| televizyon                  = 
+| dönem                       = 
+| önceki                      = 
+| sonraki                     = 
+| parti                       = 
+| boards                      = 
+| din                         = 
+| mezhep                      = 
+| ebeveynler                  = 
+| aile                        =  
+| eş                          = 
+| çocukları                   = 
+| partner                     =
+| akrabalar                   = 
+| diğer                       = 
+| diğer2                      = 
+| diğer3                      = 
+| diğer4                      = 
+| diğer5                      = 
+| diğer6                      = 
+| imza                        = 
+| ödülleri                    = 
+| website                     = 
+| twitter                     = 
+| facebook                    = 
+| youtube                     = 
+| google plus                 = 
+| linkedin                    = 
+| dipnotlar                   = 
+}}</pre>
+</div>
+
+==Parametereler==
+Bir kişi için tüm parametreleri doldurmanız gerekmez. Liste insanları geniş bir biçimde tanımlamak için uzundur. 
+
+{| class="wikitable"
+! style="text-align: left" | Parametre
+! style="text-align: left" | Açıklama
+|- 
+| '''isim'''
+| Kişinin adı
+|-
+| '''resim'''
+| Resim adı: abc.jpg, xpz.png, 123.gif, vb.
+|-
+| '''resim_boyutu'''<br/> 
+| Resmin görüntüleneceği boyut: ''200px'' (genişlik), veya ''200x300px'' (azami genişlik x azami yükseklik). Boş bırakıldığında varsayılan olarak 225px geçerli olur.
+|-
+| '''başlık'''
+| Resim için açıklama (genellikle fotoğrafın çekim tarihi ve çekildiği yerin dahil edilmesi)
+|-
+| '''doğum_adı'''
+| Kişinin doğumunda verilen, daha sonradan edinmediği adı.
+|-
+| '''doğum_tarihi'''
+| Şu şekilde doldurulmalıdır: yaşıyorsa; <nowiki>{{doğum tarihi ve yaşı|1930|1|15}}, vefat etmişse; {{doğum tarihi|1930|1|15}}</nowiki> (Detaylar için bkz:[[Şablon:Doğum tarihi]])
+|-
+| '''doğum_yeri'''
+| En küçük birimden en kapsamlıya (Köy, Şehir, Bölge, Ülke gibi)
+|-
+| '''ölüm_tarihi'''
+| Doğum tarihi biliniyorsa <nowiki>{{ölüm yeri ve yaşı|1995|10|9|1930|1|15}}, bilinmiyorsa {{ölüm tarihi|1995|10|9}}</nowiki> (Detaylar için bkz: [[Şablon:Ölüm tarihi]])
+|-
+| '''ölüm_yeri'''
+| En küçük birimden en kapsamlıya (Köy, Şehir, Bölge, Ülke gibi)
+|-
+| '''ölüm_sebebi'''
+| Ölüm sebebi
+|-
+| '''Yattığı yer''' 
+| Mezarının bulunduğu veya küllerinin saçıldığı yer
+|-
+| '''yattığı_yerin_koordinatları'''
+| Mezarının bulunduğu yerin enlem ve boylamları ({{tl|Koor dm}} şablonu kullanılmalıdır.)
+|-
+| '''ikamet'''
+| Kişinin ikamet ettiği yer, eğer kayda değer ise
+|-
+| '''uyruk'''
+| Uyruğu
+|-
+| '''diğer_adları'''
+| Eğer adı ve doğum adı farklıysa yazılmalıdır.
+|-
+| '''bilinen'''</br> 
+| Kişiyi kayda değer yapan bir açıklama
+|-
+| '''eğitim'''
+| Eğitimi
+|-
+| '''işveren'''
+| Çalıştığı şirketin adı
+|-
+| '''meslek'''
+| Mesleği, meşgalesi, işi
+|-
+| '''unvan'''
+| Çeşitli kullanımları vardır:
+* Resmi unvan: Japonya'nın ''First Lady''si gibi.
+* Kazanılmış unvan: [[Arnold Schwarzenegger]], ''Bay Olympia'' gibi.
+* Mesleki unvan: [[Anthony Diekema]], ''Calvin College Başkanı'' gibi.
+* Yukarıdakilerin karışımı: örneğin [[Bill Parry (matematikçi)|Bill Parry]] için ''Matematik profesörü'' ve ''[[Fellow of the Royal Society]]''
+|-
+| '''maaş'''
+| Yıllık maaş
+|-
+| '''netdeğer'''
+| Şu anki toplam serveti
+|-
+| '''boy'''
+| Eğer bu kişinin boyu önemliyse
+|-
+| '''kilo'''
+| Eğer bu parametre kullanılırsa tarih de verilmelidir.
+|-
+| '''dönem'''
+| Yukarıdaki unvana sahip olduğu dönem
+|-
+| '''önceki'''
+| Bu unvanın bir önceki sahibi
+|-
+| '''sonraki'''
+| Bu unvanın bir sonraki sahibi
+|-
+| '''parti'''
+| Üyesi olduğu siyasi parti
+|-
+| '''din'''
+| Dini veya başka türlü bilinen inancı
+|-
+| '''eş'''
+| Eşi veya eşlerinin sayısı, takiben nikahlandıkları tarih. Bugünkü eşi için ''Adı (1950-bugün)'' ve eski eşleri için ''Ad (1970-1999)''. Girdileri boş satırlarla ayırın (<nowiki><br/></nowiki>).
+|-
+| '''çocukları'''
+| Çocuklarının sayısı eğer kayda değer ise isimleri. Girdileri boş satırlarla ayırın (<nowiki><br/></nowiki>).
+|-
+| '''ebeveynler'''
+| Eğer kayda değer ise ebeveynlerinin adları. Girdileri boş satırlarla ayırın (<nowiki><br/></nowiki>).
+|-
+| '''partner'''
+| İlişki yaşadığı kişi(ler). Girdileri boş satırlarla ayırın (<nowiki><br/></nowiki>).
+|-
+| '''imza'''
+| Kişinin imzasının bir resmi. Resim 128px genişliğinde gösterilir. ({{tl|Yazar_bilgi_kutusu}} ve {{tl|Filozof_bilgi_kutusu}} ile aynı biçimde)
+|-
+| '''website'''
+| Sadece resmi web sitesi yazılmalıdır. Herhangi resmi olmayan web siteleri maddenin içindeki <nowiki>==Dış bağlantılar==</nowiki> kısmına eklenebilir.
+|-
+| '''twitter''' 
+| Twitter  hesabını gösterir
+|-
+| '''facebook'''
+| Facebook hesabını gösterir
+|-
+| '''youtube'''
+| Youtube kanalı mevcut ise gösterir
+|-
+| '''Google plus'''
+| Google plus hesabını gösterir
+|-
+| '''linkedin'''
+| Linkedin hesabını gösterir
+|-
+| '''dipnotlar'''
+| Bu verilerin herhangi biriyle ilgili not/notlar
+|}
+
+==Mikroformatlar==
+{{UF-hcard-person}}
+
+==Örnek ==
+{{Kişi bilgi kutusu
+| isim             = William Henry Bill Gates
+| resim           = Bill Gates in WEF ,2007.jpg
+| başlık          = Bill Gates, [[2007]] [[Davos]] [[Dünya Ekonomik Forumu]]'nda
+| doğum_tarihi     = {{Doğum tarihi ve yaşı|1955|10|28}}
+| doğum_yeri       = [[Seattle]], [[Amerika Birleşik Devletleri|ABD]]
+| meslek           = [[Microsoft]] Başkanı<br />[[Bill & Melinda Gates Vakfı]]'nın başkan yardımcısı
+| netdeğer         = {{loss}}[[United States dollar|US$]] 56 [[milyar]] (2011)
+| uyruk           = [[ABD]]
+| eş               = [[Melinda Gates]] (1994–günümüz)
+| çocukları        =  Jennifer Katharine Gates (d.1996)<br /> Sulhettin Rory John Gates (d.1999) <br />  Phoebe Adele Gates (d.2002)
+| ikamet           =  [[Amerika Birleşik Devletleri]], 
+| eğitim           = Harvard University (1975'te atıldı, 2007'de onur madalyası aldı)
+| website          = [http://www.microsoft.com/presspass/exec/billg/default.mspx  Bill Gates]
+| imza             = BillGates Signature.svg
+| dipnotlar           =
+| ebeveynler       = [[William H. Gates, Sr.]]<br />[[Mary Maxwell Gates]]
+}}
+
+
+<pre style="font-size:90%; width:55%; overflow:auto; margin-right:5px">
+{{Kişi bilgi kutusu
+| isim             = William Henry Bill Gates
+| resim            = Bill Gates in WEF ,2007.jpg
+| başlık           = Bill Gates, [[2007]] [[Davos]] [[Dünya Ekonomik Forumu]]'nda
+| doğum_tarihi     = {{Doğum tarihi ve yaşı|1955|10|28}}
+| doğum_yeri       = [[Seattle]], [[Amerika]]
+| meslek           = [[Microsoft]] Başkanı<br />[[Bill & Melinda Gates Vakfı]]'nın başkan yardımcısı
+| netdeğer         = {{loss}}[[United States dollar|US$]] 56 [[milyar]] (2011)
+| uyruk            = [[ABD]]
+| eş               = [[Melinda Gates]] (1994–günümüz)
+| çocukları        =  Jennifer Katharine Gates (d.1996)<br /> Sulhettin Rory John Gates (d.1999) <br />  Phoebe Adele Gates (d.2002)
+| ikamet           =  [[Amerika Birleşik Devletleri]], 
+| eğitim           = Harvard University (1975'te atıldı, 2007'de onur madalyası aldı)
+| website          = [http://www.microsoft.com/presspass/exec/billg/default.mspx  Bill Gates]
+| imza             = BillGates Signature.svg
+| dipnotlar        =
+| ebeveynler       = [[William H. Gates, Sr.]]<br />[[Mary Maxwell Gates]]
+}}
+</pre>
+
+<includeonly>
+<!-- KATEGORİLERİ BU ÇİZGİNİN ALTINA EKLEYİN -->
+[[Kategori:Kişi bilgi kutusu şablonları|Kişi]]
+
+</includeonly>
