@@ -1,0 +1,22 @@
+== Ş and Ţ ==
+
+Should in Gagauzian alphabet S and T with cedilla
+<span lang="gag" xml:lang="gag" style="font-family: Verdana;">
+:Ş U+015E LATIN CAPITAL LETTER S WITH CEDILLA
+:ş U+015F LATIN SMALL LETTER S WITH CEDILLA
+
+:Ţ U+0162 LATIN CAPITAL LETTER T WITH CEDILLA
+:ţ U+0163 LATIN SMALL LETTER T WITH CEDILLA
+</span>
+
+or S and T with comma below
+<span lang="gag" xml:lang="gag" style="font-family: Verdana;">  
+:Ș U+0218 LATIN CAPITAL LETTER S WITH COMMA BELOW
+:ș U+0219 LATIN SMALL LETTER S WITH COMMA BELOW
+
+:Ț U+021A LATIN CAPITAL LETTER T WITH COMMA BELOW
+:ț U+021B LATIN SMALL LETTER T WITH COMMA BELOW
+</span>
+
+It is considered [http://download.microsoft.com/download/a/1/8/a180e21e-9c2b-4b54-9c32-bf7fd7429970/EUupdate.EXE European Union Expansion Font Update] is installed on your Windows XP or Windows Vista system for properly display Romanian letters.
+--[[User:AlefZet|AlefZet]] 14:35, 22 January 2008 (UTC)
