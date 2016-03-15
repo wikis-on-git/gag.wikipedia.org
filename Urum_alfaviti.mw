@@ -26,7 +26,7 @@
 | colspan="2" | a
 | 1
 |-
-|<span style="font-size:133%;">Β β<br />ϐ</span> (alternate<sup>2</sup>)
+|<span style="font-size:133%;">Β β<br />ϐ</span>
 | colspan="2" | {{Polytonic|βῆτα}}
 | βήτα
 | Beta
@@ -59,7 +59,7 @@
 | d, dh
 | 4
 |-
-|<span style="font-size:133%;">Ε ε<br />ϵ ϶</span> (alternate)
+|<span style="font-size:133%;">Ε ε<br />ϵ ϶</span>
 | {{Polytonic|εἶ}}
 | {{Polytonic|ἒ ψιλόν}}
 | έψιλον
@@ -90,7 +90,7 @@
 | i
 | 8
 |-
-|<span style="font-size:133%;">Θ θ<br />ϴ ϑ</span> (alternate)
+|<span style="font-size:133%;">Θ θ<br />ϴ ϑ</span>
 | colspan="2" | {{Polytonic|θῆτα}}
 | θήτα
 | Theta
@@ -110,7 +110,7 @@
 | colspan="2" | i
 | 10
 |-
-|<span style="font-size:133%;">Κ κ<br />ϰ ϗ</span> (alternate)
+|<span style="font-size:133%;">Κ κ<br />ϰ ϗ</span>
 | colspan="2" | {{Polytonic|κάππα}}
 | κάππα<br />κάπα
 | Kappa
@@ -169,7 +169,7 @@
 | colspan="2" | o
 | 70
 |-
-|<span style="font-size:133%;">Π π<br />ϖ</span> (alternate)
+|<span style="font-size:133%;">Π π<br />ϖ</span>
 | {{Polytonic|πεῖ}}
 | {{Polytonic|πῖ}}
 | πι
@@ -179,7 +179,7 @@
 | colspan="2" | p
 | 80
 |-
-|<span style="font-size:133%;">Ρ ρ<br /> ϱ</span> (alternate)
+|<span style="font-size:133%;">Ρ ρ<br /> ϱ</span>
 | colspan="2" | {{Polytonic|ῥῶ}}
 | ρω
 | Rho 
@@ -190,7 +190,7 @@
 | r
 | 100
 |-
-|<span style="font-size:133%;">Σ σ<br />Ϲ ϲ<br />Ͻ {{Unicode|ͻ}}<br />ς</span> (alternate<sup>3</sup>)
+|<span style="font-size:133%;">Σ σ<br />Ϲ ϲ<br />Ͻ {{Unicode|ͻ}}<br />ς</span> 
 | colspan="2" | {{Polytonic|σῖγμα}}
 | σίγμα
 | Sigma
@@ -208,7 +208,7 @@
 | colspan="2" | t
 | 300
 |-
-|<span style="font-size:133%;">Υ υ<br />ϒ</span> (alternate)
+|<span style="font-size:133%;">Υ υ<br />ϒ</span>
 | {{Polytonic|ὗ}}
 | {{Polytonic|ὓ ψιλόν}}
 | ύψιλον
@@ -220,7 +220,7 @@
 | y, v, f
 | 400
 |-
-|<span style="font-size:133%;">Φ φ<br />ϕ</span> (alternate)
+|<span style="font-size:133%;">Φ φ<br />ϕ</span>
 | {{Polytonic|φεῖ}}
 | {{Polytonic|φῖ}}
 | φι
@@ -314,7 +314,7 @@ Aşaadaki bukvalar girmez standart urum alfavitinä, ama kullanıldı pre-klassi
 | {{Polytonic|σάν}}
 | San 
 | {{IPA|[s]}}
-| [[Image:phoenician_sade.png|20px|Sade]] Tsade (position)<br />[[Image:phoenician_sin.png|20px|Sin]] Shin (name)
+| [[Image:phoenician_sade.png|20px|Sade]] Tsade (pozisyon)<br />[[Image:phoenician_sin.png|20px|Sin]] Shin (nam)
 | s
 | ?
 |-
@@ -322,12 +322,12 @@ Aşaadaki bukvalar girmez standart urum alfavitinä, ama kullanıldı pre-klassi
 | -
 | -
 | Şo 
-| obviously fricative,<br />but exact value discussed<br />{{IPA|[ʃ]}} is proposed
-| Origin disputed,<br />possibly [[Image:phoenician_sin.png|20px|Shin]] Shin
+| {{IPA|[ʃ]}}
+| [[Image:phoenician_sin.png|20px|Shin]] Shin
 | ş
 | ?
 |-
-|style="font-size:133%;"|Ϙ ϙ<br />Ϟ ϟ</span> (alternate)
+|style="font-size:133%;"|Ϙ ϙ<br />Ϟ ϟ</span>
 | {{Polytonic|ϙόππα}} ?
 | {{Polytonic|κόππα}}
 | Koppa
@@ -336,15 +336,19 @@ Aşaadaki bukvalar girmez standart urum alfavitinä, ama kullanıldı pre-klassi
 | q
 | 90
 |-
-|style="font-size:133%;"|<br />Ͳ ͳ<br />Ϡ ϡ</span> (alternate)
+|style="font-size:133%;"|<br />Ͳ ͳ<br />Ϡ ϡ</span>
 | -
 | {{Polytonic|σαμπί}}
 | Sampi
-| obviously fricative,<br />but exact value discussed<br />{{IPA|[sː]}}, {{IPA|[ks]}}, {{IPA|[ts]}} are proposed
-| Origin disputed,<br />possibly [[Image:phoenician_sade.png|20px|Sade]] Tsade
+| {{IPA|[sː]}}, {{IPA|[ks]}}, {{IPA|[ts]}}
+| [[Image:phoenician_sade.png|20px|Sade]] Tsade
 | ss
 | 900
 |}
+
+== Dış bağlantılar ==
+
+*http://www.opoudjis.net/unicode/unicode.html
 
 [[Kategoriya:Alfavit]]
 [[Kategoriya:Bilim]]
