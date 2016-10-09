@@ -5,20 +5,20 @@
 |bayrak =Flag-map of Turkey.svg
 |arma =
 |Devlet =[[Türkiye]]
-|toprak= 
-|nüfus =
+|toprak= 315 km2
+|nüfus = 21,050
 |yoğunluk = 
  |yükseklik = 
- |prezident = 
- |araba_kodu =
- |telefon_kodu =
+ |prezident = Ahmet ACAR
+ |araba_kodu = 54
+ |telefon_kodu = 0264
  |işsizlik =
- |vakit_bölgesi =
- |web    =
+ |vakit_bölgesi =EEST (UTC+3)
+ |web    =[http://www.kocaali.bel.tr/ www.kocaali.bel.tr]
  | slogan                                = 
  | ülke                                  = 
- | görüntü                               = 
- | görüntü_boyutu                        = 
+ | görüntü                               = Sakarya districts.png
+ | görüntü_boyutu                        = 250px
  | görüntü_açıklaması                    = 
  | yerleşim_türü                         = 
  | kent_türü                             = 
@@ -89,7 +89,7 @@
  | rakım_min_ft                          = 
  | rakım_dipnotlar                       = 
  | posta_kodu_türü                       = 
- | posta_kodu                            = 
+ | posta_kodu                            = 54800
  | posta2_kodu_türü                      = 
  | posta2_kodu                           = 
  | alan_kodu                             = 
@@ -104,12 +104,12 @@
 |Turkey   
 |label={{PAGENAME}}           
 |lat_dir=E
-| lat_deg=35 
-| lat_min=00     
+| lat_deg=30 
+| lat_min=51
 | lat_sec=0      
 |lon_dir=N
-| lon_deg=34  
-| lon_min=0 
+| lon_deg=41
+| lon_min=03 
 | lon_sec=0 
 }}
 }}
