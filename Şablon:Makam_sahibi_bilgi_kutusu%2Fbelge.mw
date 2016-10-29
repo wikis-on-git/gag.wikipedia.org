@@ -1,0 +1,211 @@
+{{Şablon belge sayfası}}
+<includeonly><div style="clear:both;"></div>{{esoteric}}
+</includeonly><tt>&#123;{'''Şablon:Makam sahibi bilgi kutusu'''}}</tt><includeonly>
+== Kullanım ==
+=== Tüm parametreler ===
+<pre style="font-size:95%; overflow:auto;">
+{{Makam sahibi bilgi kutusu
+|unvan-ön            = 
+|isim                = 
+|yerli_isim          = 
+|yerli_isim_dil      = 
+|unvan-arka          = 
+|resim               = 
+|resim_büyüklüğü     = 
+|resim_küçük         = <!--Bu belirtilirse, "görüntü" olmamalıdır.-->
+|resim_başlığı       = 
+|sıra                = 
+|makam               = 
+|dönembaşı           = 
+|dönemsonu           = 
+|yanısıra            = <!--Aynı bölgede aynı konumda hizmet veren iki veya daha fazla kişi için. (ör. ABD senatörü.)-->
+|başkanyardımcısı    = 
+|başbakanyardımcısı  = 
+|vekil               = 
+|yardımcı            = 
+|hükümdar            = 
+|başkan              = 
+|başbakan            = 
+|taoiseach           = 
+|şansölye            = 
+|vali                = 
+|genel-vali          = 
+|1boşisim            = 
+|1isimveri           = 
+|seçim_bölgesi       = 
+|çoğunluk            = 
+|öncegelen           = 
+|sonragelen          = 
+|önceki_dönem        = 
+|sıra1               = 
+|makam1              = 
+|dönembaşı1          = 
+|dönemsonu1          = 
+|yanısıra1           = <!--Aynı bölgede aynı konumda görev yapan iki veya daha fazla kişi için. (ör. ABD senatörü.)-->
+|başkanyardımcısı1   = 
+|başbakanyardımcısı1 = 
+|vekil1              = 
+|yardımcı1           = 
+|hükümdar1           = 
+|başkan1             = 
+|başbakan1           = 
+|taoiseach1          = 
+|şansölye1           = 
+|vali1               = 
+|genel-vali1         = 
+|2boşisim            = 
+|2isimveri           = 
+|seçim_bölgesi1      = 
+|çoğunluk1           = 
+|öncegelen1          = 
+|sonragelen1         = 
+|önceki_dönem1       = 
+|doğum_tarihi        = <!-- {{Doğum tarihi ve yaşı|doğum yılı|doğum ayı|doğum günü}} -->
+|doğum_yeri          = 
+|ölüm_tarihi         = <!-- {{Ölüm tarihi ve yaşı|ö.yıl|ö.ay|ö.gün|d.yıl|d.ay|d.gün}} -->
+|ölüm_yeri           = 
+|ölüm_nedeni         = 
+|yattığı_yer         = 
+|yattığı_yerin_koordinatları = 
+|doğum_adı           = 
+|vatandaşlığı        = 
+|milliyeti           = 
+|partisi             = 
+|diğerparti          = 
+|eşi                 = 
+|diğer_eşi           = 
+|çocukları           = 
+|ilişkiler           = 
+|yaşadığı_yer        = 
+|öğrenim             = 
+|meslek              = 
+|uzmanlık            = 
+|hükümeti            = 
+|komiteleri          = 
+|portföy             = 
+|dini                = 
+|imza                = 
+|imza_bilgisi        = 
+|websitesi           = 
+|dipnotlar           = 
+|takma_adı           = 
+|bağlılığı           = 
+|alanı               = 
+|hizmetyılları       = 
+|rütbesi             = 
+|birimi              = 
+|kumandaettiği       = 
+|savaşları           = 
+|ödüller             = 
+|askeri_başlık1      = 
+|askeri_bilgi1       = 
+|askeri_başlık2      = 
+|askeri_bilgi2       = 
+|askeri_başlık3      = 
+|askeri_bilgi3       = 
+|askeri_başlık4      = 
+|askeri_bilgi4       = 
+|askeri_başlık5      = 
+|askeri_bilgi5       = 
+}}</pre>
+
+=== Genellikle kullanılan parametreler ===
+<pre style="font-size:95%; overflow:auto;">
+{{Makam sahibi bilgi kutusu
+|isim               = 
+|resim              = 
+|resim_büyüklüğü    = 
+|sıra               = 
+|makam              = 
+|dönembaşı          = 
+|dönemsonu          = 
+|öncegelen          = 
+|sonragelen         = 
+|sıra1              = 
+|makam1             = 
+|dönembaşı1         = 
+|dönemsonu1         = 
+|öncegelen1         = 
+|sonragelen1        = 
+|sıra2              = 
+|makam2             = 
+|dönembaşı2         = 
+|dönemsonu2         = 
+|öncegelen2         = 
+|sonragelen2        = 
+|sıra3              = 
+|makam3             = 
+|dönembaşı3         = 
+|dönemsonu3         = 
+|öncegelen3         = 
+|sonragelen3        = 
+|doğum_tarihi       = <!-- {{Doğum tarihi ve yaşı|doğum yılı|doğum ayı|doğum günü}} -->
+|doğum_yeri         = 
+|ölüm_tarihi        = <!-- {{Ölüm tarihi ve yaşı|ö.yıl|ö.ay|ö.gün|d.yıl|d.ay|d.gün}} -->
+|ölüm_yeri          = 
+|doğum_adı          = 
+|partisi            = 
+|eşi                = 
+|çocukları          = 
+|ilişkiler          = 
+|yaşadığı_yer       = 
+|öğrenim            = 
+|meslek             = 
+|dini               = 
+|imza               = 
+|takma_adı          = 
+|bağlılığı          = 
+|alanı              = 
+|hizmetyılları      = 
+|rütbesi            = 
+|birimi             = 
+|kumandaettiği      = 
+|savaşları          = 
+|ödüller            = 
+}}</pre>
+</pre><includeonly>
+<!--Categories-->
+[[Kategori:Kişi bilgi kutusu şablonları]]
+
+<!--İnterwiki-->
+[[ar:قالب:معلومات صاحب منصب]]
+[[ast:Plantilla:Info presidentes]]
+[[az:Şablon:Dövlət xadimi]]
+[[be-x-old:Шаблён:Палітык]]
+[[bg:Шаблон:Президент инфо]]
+[[bn:টেমপ্লেট:Infobox Officeholder]]
+[[bs:Šablon:Infokutija predsjednik]]
+[[ca:Plantilla:Fitxa d'autoritat]]
+[[cy:Nodyn:Gwybodlen Gwleidydd]]
+[[da:Skabelon:Infoboks leder]]
+[[en:Template:Infobox officeholder]]
+[[es:Plantilla:Ficha de autoridad]]
+[[fr:Modèle:Infobox Politicien]]
+[[ga:Teimpléad:Bosca Sonraí Uachtaráin]]
+[[hu:Sablon:Vezető infobox]]
+[[hy:Կաղապար:Տեղեկաքարտ Պետական գործիչ]]
+[[id:Templat:Infobox Officeholder]]
+[[it:Template:Carica pubblica]]
+[[ja:Template:Infobox Officeholder]]
+[[ka:თარგი:ინფოდაფა ლიდერი]]
+[[lb:Schabloun:Infobox Minister]]
+[[mk:Шаблон:Инфокутија Функционер]]
+[[ms:Templat:Infobox officeholder]]
+[[nn:Mal:Infoboks leiar]]
+[[no:Mal:Infoboks_politiker]]
+[[oc:Modèl:Infobox Cap d'estat o govèrn]]
+[[os:Шаблон:Паддзахадон архайæг]]
+[[pl:Szablon:Polityk infobox]]
+[[ro:Format:Infocaseta Funcţie oficială]]
+[[ru:Шаблон:Государственный деятель]]
+[[si:සැකිල්ල:තොරතුරුකොටුව තනතුරුධාරි]]
+[[simple:Template:Infobox Politician]]
+[[sk:Šablóna:Infobox Politik]]
+[[sl:Predloga:Infopolje Funkcionar]]
+[[sv:Mall:Infobox politiker]]
+[[ta:வார்ப்புரு:தகவற்சட்டம் தலைவர்கள்]]
+[[uk:Шаблон:Державний діяч]]
+[[ur:سانچہ:Infobox officeholder]]
+[[vi:Tiêu bản:Tổng thống]]
+[[zh:Template:Infobox Officeholder]]
+</includeonly>
