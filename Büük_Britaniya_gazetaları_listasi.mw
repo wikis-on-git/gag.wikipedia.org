@@ -4,339 +4,175 @@
 '''Büük Britaniya gazetaları listasi'''
 
 * The Daily Telegraph
-
 * The Financial Times
-
 * The Guardian
-
 * The Independent
-
 * The Morning Star
-
 * The Times
-
 * Daily Express
-
 * Daily Mail
-
 * Daily Star
-
 * The Daily Mirror
-
 * The Independent on Sunday
-
 * The Sunday Telegraph
-
 * The Sunday Times
-
 * The Observer
-
 * News of the World
-
 * The People
-
 * Sunday Express
-
 * Sunday Mirror
-
 * Evening Standard
-
-* Liverpool Daily Post 
-
-* The Western Mail
-
-* The Daily Record 
-
-* The Scotsman 
-
-* East Anglian Daily Times 
-
-* Eastern Daily Press 
-
-* The Sentinel 
-
-* Yorkshire Post
-
-* Ashford Herald
-
-* Aintree & Maghull Champion 
-
-* Anfield & Walton Champion 
-
-* Birmingham Mail
-
-* Birmingham Post
-
-* Bolton News
-
-* Bootle Champion 
-
-* Bournemouth Daily Echo
-
-* The Post, Bristol
-
-* Bucks Free Press
-
-* Cambridge News
-
-* Camden Gazette
-
-* Camden New Journal
-
-* The Citizen
-
-* Cornish Guardian
-
-* The Cornishman
-
-* Coventry Telegraph
-
-* Crosby & Litherland Champion 
-
-* Deal and Sandwich Express
-
-* Derby Telegraph
-
-* Dover Express
-
-* Dover Mercury
-
-* East Kent Gazette
-
-* East Kent Mercury
-
-* East Riding Mail
-
-* Eastern Daily Press 
-
-* East Anglian Daily Times 
-
-* Express and Echo
-
-* Express & Star 
-
-* Essex Chronicle
-
-* Folkestone Herald
-
-* Formby Champion 
-
-* Gravesend and Dartford Reporter
-
-* Hampstead & Highgate Express 
-
-* Hull Daily Mail
-
-* Hampshire Chronicle
-
-* Hastings Observer
-
-* Herne Bay Gazette
-
-* Hythe Herald
-
-* Ilford Recorder
-
-* Isle of Wight County Press
-
-* The Journal 
-
-* Kent and Sussex Courier
-
-* Kent on Saturday
-
-* Kent on Sunday
-
-* Kent Messenger
-
-* Kentish Express
-
-* Kentish Gazette
-
-* Lancashire Evening Post
-
-* Lancashire Telegraph
-
-* Leicester Mercury
-
-* Lincolnshire Echo
-
 * Liverpool Daily Post
-
-* Liverpool Echo
-
-* London Evening Standard
-
-* Lynn News
-
-* Manchester Evening News
-
-* Medway News
-
-* The Mercury 
-
-* Mid Sussex Times
-
-* Newcastle Evening Chronicle
-
-* Newcastle Sunday Sun
-
-* Northampton Chronicle & Echo
-
-* Northampton Herald & Post
-
-* The Northern Echo 
-
-* Nottingham Evening Post
-
-* Oldham Chronicle
-
-* Ormskirk Advertiser
-
-* Ormskirk & West Lancs Champion 
-
-* Oxford Mail
-
-* Oxford Journal
-
-* Oxford Times
-
-* Patterdale Chronicle
-
-* Peterborough Evening Telegraph
-
-* The Press (York)
-
-* Reading Chronicle
-
-* Romney Marsh Herald
-
-* Salford Advertiser
-
-* Salford City Reporter
-
-* Salisbury Journal
-
-* Scunthorpe Telegraph
-
-* The Sentinel 
-
-* Sevenoaks Chronicle
-
-* Sheerness Times Guardian
-
-* Sheffield Star
-
-* Shropshire Star
-
-* Skelmersdale Champion 
-
-* Southern Daily Echo
-
-* Southport Champion 
-
-* Southport Visiter
-
-* Southport Reporter
-
-* Star Courier Hampshire and Surrey
-
-* Stockport Express and Times, 
-
-* Sunday Independent
-
-* Sunderland Echo
-
-* Tavistock Times Gazette
-
-* Teesdale Mercury
-
-* The Champion (Southport)
-
-* The Argus 
-
-* The Asian Today (Midlands) 
-
+* The Western Mail
+* The Daily Record
+* The Scotsman
+* East Anglian Daily Times
+* Eastern Daily Press
+* The Sentinel
 * Yorkshire Post
-
-* Watford Observer
-
-* The West Briton
-
-* Warwickshire Telegraph
-
-* Western Daily Press
-
-* Western Morning News
-
-* Whitstable Gazette
-
-* Wigan Observer
-
-* Barking & Dagenham Recorder
-
-* Bexley Times
-
-* Brent & Wembley Leader
-
-* The Press 
-
-* The Wharf 
-
-* Croydon Advertiser
-
-* Croydon Post
-
-* Camden New Journal
-
+* Ashford Herald
+* Aintree & Maghull Champion
+* Anfield & Walton Champion
+* Birmingham Mail
+* Birmingham Post
+* Bolton News
+* Bootle Champion
+* Bournemouth Daily Echo
+* The Post, Bristol
+* Bucks Free Press
+* Cambridge News
 * Camden Gazette
-
+* Camden New Journal
+* The Citizen
+* Cornish Guardian
+* The Cornishman
+* Coventry Telegraph
+* Crosby & Litherland Champion
+* Deal and Sandwich Express
+* Derby Telegraph
+* Dover Express
+* Dover Mercury
+* East Kent Gazette
+* East Kent Mercury
+* East Riding Mail
+* Eastern Daily Press
+* East Anglian Daily Times
+* Express and Echo
+* Express & Star
+* Essex Chronicle
+* Folkestone Herald
+* Formby Champion
+* Gravesend and Dartford Reporter
+* Hampstead & Highgate Express
+* Hull Daily Mail
+* Hampshire Chronicle
+* Hastings Observer
+* Herne Bay Gazette
+* Hythe Herald
+* Ilford Recorder
+* Isle of Wight County Press
+* The Journal
+* Kent and Sussex Courier
+* Kent on Saturday
+* Kent on Sunday
+* Kent Messenger
+* Kentish Express
+* Kentish Gazette
+* Lancashire Evening Post
+* Lancashire Telegraph
+* Leicester Mercury
+* Lincolnshire Echo
+* Liverpool Daily Post
+* Liverpool Echo
+* London Evening Standard
+* Lynn News
+* Manchester Evening News
+* Medway News
+* The Mercury
+* Mid Sussex Times
+* Newcastle Evening Chronicle
+* Newcastle Sunday Sun
+* Northampton Chronicle & Echo
+* Northampton Herald & Post
+* The Northern Echo
+* Nottingham Evening Post
+* Oldham Chronicle
+* Ormskirk Advertiser
+* Ormskirk & West Lancs Champion
+* Oxford Mail
+* Oxford Journal
+* Oxford Times
+* Patterdale Chronicle
+* Peterborough Evening Telegraph
+* The Press (York)
+* Reading Chronicle
+* Romney Marsh Herald
+* Salford Advertiser
+* Salford City Reporter
+* Salisbury Journal
+* Scunthorpe Telegraph
+* The Sentinel
+* Sevenoaks Chronicle
+* Sheerness Times Guardian
+* Sheffield Star
+* Shropshire Star
+* Skelmersdale Champion
+* Southern Daily Echo
+* Southport Champion
+* Southport Visiter
+* Southport Reporter
+* Star Courier Hampshire and Surrey
+* Stockport Express and Times,
+* Sunday Independent
+* Sunderland Echo
+* Tavistock Times Gazette
+* Teesdale Mercury
+* The Champion (Southport)
+* The Argus
+* The Asian Today (Midlands)
+* Yorkshire Post
+* Watford Observer
+* The West Briton
+* Warwickshire Telegraph
+* Western Daily Press
+* Western Morning News
+* Whitstable Gazette
+* Wigan Observer
+* Barking & Dagenham Recorder
+* Bexley Times
+* Brent & Wembley Leader
+* The Press
+* The Wharf
+* Croydon Advertiser
+* Croydon Post
+* Camden New Journal
+* Camden Gazette
 * Ealing Gazette
-
 * Ealing Leader
-
 * Ealing Informer
-
 * East London Advertiser
-
 * Enfield Advertiser
-
 * Enfield Gazette
-
 * Fulham & Hammersmith Chronicle
-
 * Hackney Gazette
-
 * Hammersmith & Kensington Times
-
 * Hampstead and Highgate Express
-
 * Haringey Advertiser
-
 * Harrow Leader
-
 * Harrow Informer
-
 * Harrow & Wembley Observer
 
 ===Hem bak===
 * [[Büük Britaniya]]
-
 * [[İngilizler]]
-
 * [[Şotlandiyalılar]]
-
 * [[Walesler]]
-
 * [[İngiliz dili]]
-
 * [[Şotlandiya dili]]
-
 * [[Wales dili]]
-
 * [[Büük Britaniya köklü anılmış arhitekturacılar listasi]]
 
-
 {{Evropa devletläri gazetaları listasi}}
+
 [[Kategoriya:Gazeta]]
 [[Kategoriya:Büük Britaniya]]
