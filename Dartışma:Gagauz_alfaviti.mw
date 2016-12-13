@@ -20,9 +20,3 @@ or S and T with comma below
 
 It is considered [http://download.microsoft.com/download/a/1/8/a180e21e-9c2b-4b54-9c32-bf7fd7429970/EUupdate.EXE European Union Expansion Font Update] is installed on your Windows XP or Windows Vista system for properly display Romanian letters.
 --[[User:AlefZet|AlefZet]] 14:35, 22 January 2008 (UTC)
-
-::я не понял суть проблемы, к сожалению :(  но я сегодня загрузил [http://download.microsoft.com/download/a/1/8/a180e21e-9c2b-4b54-9c32-bf7fd7429970/EUupdate.EXE European Union Expansion Font Update]. можете по подробнее?--[[User:Cuman|Cuman]] 08:52, 24 January 2008 (UTC)
-:::Проблема в том, следует ли гагаузский алфавит французскому принципу (хвостик или цедилла у буквы) или румынскому (запятая под буквой)? Если гагаузы добиваются совместимости с клавиатурой, кодировкой и шрифтами в турецком, татарском, азербайджанском, крымскотатарском, то - первое, если же с румынской, то второе. Насколько понимаю, технического стандарта нет? См. таже [[User_talk:Cuman#Буква Ц]]--[[User:AlefZet|AlefZet]] 19:04, 24 January 2008 (UTC)
-:::: Вообще, логично было бы предположить, что Ç и Ş - турецкие, а Ц - румынская. [[User:Don Alessandro|Alessandro]] 09:28, 25 January 2008 (UTC)
-:::::Так как не существует специальная гагаузская клавиатура, я использую турецкий алфавит + румынский Ц. так что согласен с Александром --- [[User:Cuman|Cuman]] 16:28, 25 January 2008 (UTC)
-:::::: Так ведь в том-то и дело, что если используется турецкий алфавит с цедиллами, то и Т должна быть с цедиллой, т.е. <span lang="gag" xml:lang="gag" style="font-family: Verdana;">Ţ U+0162 LATIN CAPITAL LETTER T WITH CEDILLA</span>--[[User:AlefZet|AlefZet]] 11:55, 30 January 2008 (UTC)
