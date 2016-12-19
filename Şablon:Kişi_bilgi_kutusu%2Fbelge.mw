@@ -237,7 +237,7 @@ Bir kişi için tüm parametreleri doldurmanız gerekmez. Liste insanları geni�
 ==Örnek ==
 {{Kişi bilgi kutusu
 | isim             = William Henry Bill Gates
-| resim           = Bill Gates in WEF ,2007.jpg
+| resim           = Bill Gates in WEF, 2007.jpg
 | başlık          = Bill Gates, [[2007]] [[Davos]] [[Dünya Ekonomik Forumu]]'nda
 | doğum_tarihi     = {{Doğum tarihi ve yaşı|1955|10|28}}
 | doğum_yeri       = [[Seattle]], [[Amerika Birleşik Devletleri|ABD]]
@@ -258,7 +258,7 @@ Bir kişi için tüm parametreleri doldurmanız gerekmez. Liste insanları geni�
 <pre style="font-size:90%; width:55%; overflow:auto; margin-right:5px">
 {{Kişi bilgi kutusu
 | isim             = William Henry Bill Gates
-| resim            = Bill Gates in WEF ,2007.jpg
+| resim            = Bill Gates in WEF, 2007.jpg
 | başlık           = Bill Gates, [[2007]] [[Davos]] [[Dünya Ekonomik Forumu]]'nda
 | doğum_tarihi     = {{Doğum tarihi ve yaşı|1955|10|28}}
 | doğum_yeri       = [[Seattle]], [[Amerika]]
