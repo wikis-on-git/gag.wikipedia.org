@@ -8,7 +8,7 @@
 ! rowspan="2" style="background:#ccf;" | [[Urum țifraları|Țifralar]]
 |-
 ! style="background:#ccffff;" | Eski<br />urum
-! style="background:#ccffff;" | Orta zaman<br />urum<br />(polytonic)
+! style="background:#ccffff;" | Orta zaman<br />urum<br />(politonik)
 ! style="background:#ccffff;" | Modern<br />urum
 ! style="background:#ccffff;" | Latin
 ! style="background:#ccffff;" | Klassik<br />eski<br />urum
@@ -73,7 +73,7 @@
 | colspan="2" | {{Polytonic|ζήτα}}
 | ζήτα
 | Zeta
-| {{IPA|[zd]}}<br />([[Zeta (letter)#Pronunciation|or {{IPA|[dz]}}?]])<br />later {{IPA|[zː]}}
+| {{IPA|[zd]}}<br />([[Zeta (letter)#Pronunciation|{{IPA|[dz]}}]])<br />{{IPA|[zː]}}
 | {{IPA|[z]}}
 | [[Image:phoenician_zayin.png|20px|Zayin]] Zayin
 | colspan="2" | z
@@ -227,7 +227,7 @@
 | Phi
 | {{IPA|[pʰ]}}
 | {{IPA|[f]}}
-| rowspan="3" | origin disputed<br />(see text)
+| rowspan="3" | ?
 | ph
 | f
 | 500
@@ -279,11 +279,11 @@ Aşaadaki bukvalar girmez standart urum alfavitinä, ama kullanıldı pre-klassi
 ! rowspan="2" style="background:#ccf;" | [[Urum țifraları|Țifralar]]
 |-
 ! style="background:#ccffff;" | Arhaik<br />urum<br />
-! style="background:#ccffff;" | Geç<br />urum<br />(polytonic)
+! style="background:#ccffff;" | Geç<br />urum<br />(politonik)
 ! style="background:#ccffff;" | Latin
 |-
 |style="font-size:133%;"|Ϝ ϝ
-| {{Polytonic|ϝαῦ}} ?
+| {{Polytonic|ϝαῦ}}
 | {{Polytonic|δίγαμμα}}
 | Digamma
 | {{IPA|[w]}}
@@ -301,25 +301,25 @@ Aşaadaki bukvalar girmez standart urum alfavitinä, ama kullanıldı pre-klassi
 | 6
 |-
 |style="font-size:133%;"|Ͱ ͱ
-| {{Polytonic|ἡτα}}
+| {{Polytonic|ͱἡτα}}
 | {{Polytonic|ήτα}} 
 | Heta
 | {{IPA|[h]}}
 | [[Image:phoenician_heth.png|20px|Heth]] Heth
 | h
-| ?
+| -
 |-
 |style="font-size:133%;"|Ϻ ϻ
-| {{Polytonic|ϻάν}} ?
+| {{Polytonic|ϻάν}}
 | {{Polytonic|σάν}}
 | San 
 | {{IPA|[s]}}
 | [[Image:phoenician_sade.png|20px|Sade]] Tsade (pozisyon)<br />[[Image:phoenician_sin.png|20px|Sin]] Shin (nam)
 | s
-| ?
+| -
 |-
 |style="font-size:133%;"|Ϙ ϙ<br />Ϟ ϟ</span>
-| {{Polytonic|ϙόππα}} ?
+| {{Polytonic|ϙόππα}}
 | {{Polytonic|κόππα}}
 | Koppa
 | {{IPA|[q]}}
@@ -343,7 +343,7 @@ Aşaadaki bukvalar girmez standart urum alfavitinä, ama kullanıldı pre-klassi
 | {{IPA|[ʃ]}}
 | [[Image:phoenician_sin.png|20px|Shin]] Shin
 | ş
-| ?
+| -
 |}
 
 == Dış bağlantılar ==
