@@ -38,8 +38,8 @@
  |{{{Öndercilerin postların adları}}}
  |{{{Önderciler}}}
  |- style="white-space: nowrap;"
- | '''[[Territоriya|Territоriya]]'''<br/>&nbsp;&nbsp;• Hepsi {{#if: {{{Su|}}} | <br/>&nbsp;&nbsp;• Su (%)}}
- | [[Territоriyaya görä padişaalıklar tabliţası|{{{Territоriya sırası}}}]]<br/>{{{Territоriya}}} km² {{#if: {{{Su|}}} | <br/>{{{Su}}} %}}
+ | '''[[Territoriya|Territoriya]]'''<br/>&nbsp;&nbsp;• Hepsi {{#if: {{{Su|}}} | <br/>&nbsp;&nbsp;• Su (%)}}
+ | [[Territoriyaya görä padişaalıklar tabliţası|{{{Territoriya sırası}}}]]<br/>{{{Territoriya}}} km² {{#if: {{{Su|}}} | <br/>{{{Su}}} %}}
  |- style="white-space: nowrap;"
  | '''[[İnsannar|İnsannar]]'''<br/>&nbsp;&nbsp;• Hepsi {{#if: {{{Yıl}}}|([[{{{İnsannar yılı}}}]])}}<br/>&nbsp;&nbsp;• [[İnsannar sıklıı|İnsannar sıklıı]]
  | [[İnsannara göre padişaalıklar tabliţası|{{{İnsannarın sırası}}}]]<br/>{{{İnsannar}}} kişi<br/>{{{İnsannarın sıklıı}}} kişi/km²
