@@ -1,7 +1,7 @@
 <div style="float: left; border:solid darkred 1px; margin: 1px;">
 {| cellspacing="0" style="width: 238px; background: #ff0000;"
 | style="width: 45px; height: 45px; background: white; text-align: center; font-size: {{{5|{{{id-s|20}}}}}}pt; color: {{{id-fc|#FF0000}}};" | [[Image:Quill and ink.png|48px]]
-| style="font-size: {{{info-s|9}}}pt; padding: 4pt; line-height: 1.25em; color: {{{info-fc|#FCB514}}};" | Bu kullanıcı '''<font color=#FCB514>[[Literatura|literatura]]</font>''' eni yazı yaradabiler.
+| style="font-size: {{{info-s|9}}}pt; padding: 4pt; line-height: 1.25em; color: {{{info-fc|#FCB514}}};" | Bu kullanıcı '''[[Literatura|<font color="#FCB514">literatura</font>]]''' eni yazı yaradabiler.
 |}</div>
 <includeonly>[[Kategori:Gagauz literaturası|{{PAGENAME}}]]</includeonly>
 <noinclude>[[Kategori:Kullanıcı şablonnarı]]</noinclude>
