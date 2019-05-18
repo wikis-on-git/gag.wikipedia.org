@@ -1,0 +1,34 @@
+{{join
+|1         = <!--
+doğum tarixi
+-->{{Wikidata|P569-2
+  |before      = 
+  |conjunction = {{sp}}və&nbsp;ya{{sp}}
+  }}<!--
+doğum yeri
+-->{{wikidata|P19
+  |claim-module   = Wikidata/Places2
+  |claim-function = formatPlaceWithQualifiers
+  |before         = ,{{sp}}
+  |after          = <nowiki/>
+  |separator      = ,{{sp}}
+  |conjunction    = {{sp}}və&nbsp;ya{{sp}}
+  }}<!--
+ayırıcı -->
+|separator = {{sp}}–{{sp}}
+|2         = <!--
+ölüm tarixi
+-->{{Wikidata|P570-2
+  |before      = {{if-wikidata|P570|||v.{{sp}}}}
+  |conjunction = {{sp}}və&nbsp;ya{{sp}}
+  }}<!--
+ölüm yeri
+-->{{wikidata|P20
+  |claim-module   = Wikidata/Places2
+  |claim-function = formatPlaceWithQualifiers
+  |before         = ,{{sp}}
+  |after          = <nowiki/>
+  |separator      = ,{{sp}}
+  |conjunction    = {{sp}}və&nbsp;ya{{sp}}
+  }}
+}}<noinclude>{{doc}}</noinclude>
