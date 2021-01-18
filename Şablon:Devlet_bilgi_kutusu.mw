@@ -53,31 +53,31 @@
 {{#if:{{{harita2_resmi|}}}|
 {{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} [[Dosya:{{{harita2_resmi}}} |{{{harita2_boyutu|250px}}} |center |alt=Konum]]<small>{{#if:{{{harita2_açıklaması|}}}|{{{harita2_açıklaması}}}}}</small>}}
 |-
-<!---------- Başkent, en büyük kent vs. ---------->
-{{#if:{{{başkent|}}}{{{yönetim_merkezi|}}}{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|
-<!--  Başkent veya yönetim merkezi varsa: -->
-{{#if:{{{başkent|}}}{{{yönetim_merkezi|}}}|
+<!---------- Baş kasaba ---------->
+{{#if:{{{Baş_kasaba|}}}{{{yönetim_merkezi|}}}{{{En_büük_kasaba|}}}{{{en_büük_küü|}}}|
+<!--  baş_kasaba veya yönetim merkezi varsa: -->
+{{#if:{{{Baş_kasaba|}}}{{{yönetim_merkezi|}}}|
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetim_merkezi_tipi|}}}{{{yönetim_merkezi|}}}|
-'''{{{yönetim_merkezi_tipi|Yönetim&nbsp;merkezi}}}'''|{{#if:{{{başkent_tipi|}}}|'''{{{başkent_tipi}}}'''|'''[[Başkent]]''' }}}}
-<!------------- Başkentin olduğu durumlarda, en büyük şehir veya yerleşim başkent ise:--------->{{#ifeq: {{#ifeq:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|başkent|başkent|
-{{#switch:{{{başkent}}}
-| [[{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}]] = başkent
-| {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}     = başkent
-| başkent değil
-}}}}|başkent|
-<!----- Başkent en büyük şehir veya yerleşim ise: ----->
-(en büyük {{{en_büyük_yerleşim_tipi|şehir}}})
-{{!!}} {{{başkent}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}|
-<!-- Başkent en büyük şehir veya yerleşim değil ise: -->
-{{!!}} {{{başkent|}}}{{{yönetim_merkezi|}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}
+'''{{{yönetim_merkezi_tipi|Yönetim&nbsp;merkezi}}}'''|{{#if:{{{baş_kasaba_tipi|}}}|'''{{{baş_kasaba_tipi}}}'''|'''[[baş_kasaba]]''' }}}}
+<!------------- baş_kasabain olduğu durumlarda, en büük kasaba veya yerleşim baş_kasaba ise:--------->{{#ifeq: {{#ifeq:{{{en_büük_kasaba|}}}{{{en_büük_küü|}}}|baş_kasaba|baş_kasaba|
+{{#switch:{{{baş_kasaba}}}
+| [[{{{en_büük_kasaba|}}}{{{en_büük_yerleşim|}}}]] = baş_kasaba
+| {{{en_büük_kasaba|}}}{{{en_büük_yerleşim|}}}     = baş_kasaba
+| baş_kasaba değil
+}}}}|baş_kasaba|
+<!----- baş_kasaba en büük kasaba veya yerleşim ise: ----->
+(en büük {{{en_büük_yerleşim_tipi|kasaba}}})
+{{!!}} {{{baş_kasaba}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}|
+<!-- baş_kasaba en büük kasaba veya yerleşim değil ise: -->
+{{!!}} {{{baş_kasaba|}}}{{{yönetim_merkezi|}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}
 {{!}}- | class="mergedrow" | class="mergedbottomrow"
-{{#if:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''En büyük {{{en_büyük_yerleşim_tipi|şehir}}}'''
-{{!!}} {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}} }}}}
-<!-- Başkent yoksa, en büyük şehir veya yerleşimi eklemek için: -->
-|{{#if:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''En büyük {{{en_büyük_yerleşim_tipi|şehir}}}''' 
-{{!!}} {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}
+{{#if:{{{en_büük_kasaba|}}}{{{en_büük_yerleşim|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''En büük {{{en_büük_yerleşim_tipi|kasaba}}}'''
+{{!!}} {{{en_büük_kasaba|}}}{{{en_büük_yerleşim|}}} }}}}
+<!-- baş_kasaba yoksa, en büük kasaba veya yerleşimi eklemek için: -->
+|{{#if:{{{en_büük_kasaba|}}}{{{en_büük_yerleşim|}}}|
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''En büük {{{en_büük_yerleşim_tipi|kasaba}}}''' 
+{{!!}} {{{en_büük_kasaba|}}}{{{en_büük_yerleşim|}}}
 }}}}}}
 |-
 <!---------- Resmi veya tanınmış bölgesel diller, etnik gruplar ---------->
