@@ -1,11 +1,11 @@
 {{Şablon belge sayfası}}
 <pre>
 {{Ülke bilgi kutusu
-| kendi_dilinde_adı                    =
+| kendi_dil_adı                    =
 | adı                                  =
 | tam_adı                              =
 | bayrak_resmi                         =
-| arma_resmi                           =
+| gerb_resmi                           =
 | slogan                               =
 | millî_marş                           =
 | kraliyet_marşı                       =
@@ -28,7 +28,7 @@
 | etnik_gruplar                        =
 | etnik_grup_yılı                      =
 | milliyet                             =
-| yönetim_biçimi                       =
+| devlet_kurumu                       =
 | yönetici_unvanı1                     =
 | yönetici_adı1                        =
 | yönetici_unvanı2                     =
@@ -85,10 +85,10 @@
 | FR_metropol_nüfusu                   =
 | FR_metropol_nüfusu_sırası            =
 | FR_dipnot5                           =
-| nüfus_yoğunluğu                      =
-| nüfus_yoğunluğu_milkare              =
-| nüfus_yoğunluğu_sırası               =
-| nüfus_yoğunluğu_dipnotu              =
+| insannar_sıklıı                     =
+| insannar_sıklıı_milkare              =
+| insannar_sıklıı_sıra               =
+| insannar_sıklıı_not              =
 | GSYİH_SAGP                           =
 | GSYİH_SAGP_sırası                    =
 | GSYİH_SAGP_yılı                      =
