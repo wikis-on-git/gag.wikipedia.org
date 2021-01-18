@@ -1,0 +1,1369 @@
+{{Belgeleme altsayfası}}
+<includeonly>{{ikidilli şablon|özgün=Cite web}}{{Lua|Modül:Kaynak/KB1}}</includeonly>
+{{şablon yönlendirmeleri|Webkaynağı|Cite web}}
+
+Bu [[Yardım:Şablon kullanımı|şablon]], Vikipedi maddelerine çevrimiçi kaynaklar eklemek için kullanılmaktadır. Bir haber kaynağı eklerken {{tl|Haber kaynağı}} kullanılabilir. Vikipedi maddelerine kaynak eklemek için şablon kullanımı ile ilgili ayrıntılı bilgiye [[Vikipedi:Kaynak gösterme şablonları]] sayfasından ulaşılabilir.
+
+== Kullanım ==
+
+=== Herhangi bir biçimdeki yazarlı yaygın biçimler===
+Bir sayfadaki kaynaklar, tutarlı biçimler kullanmalıdır. Ancak hangi biçimin en doğrusu olduğu konusunda bir fikir birliği bulunmamaktadır. Aşağıdaki örnekler, bir veya daha fazla yazarın herhangi bir biçimin kullanımıyla tek bir {{parametre|yazar|<var>yazarlar</var>}} parametresinde listelendiği kaynaklar içindir. Ayrıca Vikipedi'de yaygın olarak kullanılan tarih biçimi gösterilmektedir:
+
+;Gün Ay Yıl: <code><nowiki>{{Web kaynağı | url =  | başlık =  | yazar =  | tarih =  | eser =  | yayıncı =  | erişimtarihi = </nowiki>{{GÜNCELGÜN}} {{GÜNCELAYADI}} {{GÜNCELYIL}}<nowiki> }}</nowiki></code>
+
+=== soyadı1, ad1 (soyadı2, ad2, ...) kullanan yaygın biçimler ===
+Bundan sonra örnekler, ad ve soyadı girilmiş ikiye kadar yazar için yeterli olacaktır. Benzer biçemde ek parametreler oluşturmanız yeterlidir:
+
+;Gün Ay Yıl: <code><nowiki>{{Web kaynağı | url =  | başlık =  | soyadı1 =  | ad1 =  | soyadı2 =  | ad2 =  | tarih =  | eser =  | yayıncı =  | erişimtarihi = </nowiki>{{#time: j F Y}}<nowiki> }}</nowiki></code>
+
+===Tüm parametreler===
+Dikey ya da yatay yerleşimde tüm parametreler kopyalandığında, ihtiyaç duyulMayısanları silin. Parametrelerin hiçbirinin büyük harfle yazılması gerekmektedir. Böyle bir durumda şablon, istendiği gibi çalışmayacaktır. Örnek vermek gerekirse "url" veya "başlık" parametrelerini "URL" veya "BAŞLIK" biçiminde yazmamanız gerekir.
+
+;Tüm parametreler, yatay yerleşim: <code><nowiki>{{Web kaynağı | url =  | başlık =  | soyadı =  | ad =  | yazar =  | yazarbağı =  | soyadı2 =  | ad2 =  | yazar2 =  | yazarbağı2 =  | tarih =  | ay =  | yıl =  | eser =  | yayıncı =  | yer =  | sayfa =  | sayfalar =  | konum =  | dil =  | çeviribaşlık =  | tip =  | biçim =  | arxiv =  | asin =  | bibcode =  | doi =  | doibozuk =  | isbn =  | issn =  | jfm =  | jstor =  | lccn =  | mr =  | oclc =  | ol =  | osti =  | pmc =  | pmid =  | rfc =  | ssrn =  | zbl =  | tanıtıcı =  | arşivurl =  | arşivtarihi =  | ölüurl =  | erişimtarihi =  | alıntı =  | ref =  | ayırıcı =  | postscript =  }}</nowiki></code>
+
+;Tüm parametreler, dikey yerleşim:
+{| cellpadding="5" cellspacing="6"
+! Tüm parametreler <br />Soyadı ve ad kullanımı !! Tüm parametreler <br />Yazar kullanımı !! Yaygın parametreler <br />Soyadı ve ad kullanımı !! Yaygın parametreler <br />Yazar kullanımı
+|- width="50%"
+|
+<pre>
+{{Web kaynağı | url =  | başlık =  | soyadı1 =  | ad1 =  | yazarbağı1 =  | soyadı2 =  | ad2 =  | yazarbağı2 =  | tarih =  | ay =  | yıl =  | eser =  | yayıncı =  | yer =  | sayfa =  | sayfalar =  | konum =  | dil =  | çeviribaşlık =  | tip =  | biçim =  | arxiv =  | asin =  | bibcode =  | doi =  | doibozuk =  | isbn =  | issn =  | jfm =  | jstor =  | lccn =  | mr =  | oclc =  | ol =  | osti =  | pmc =  | pmid =  | rfc =  | ssrn =  | zbl =  | tanıtıcı =  | arşivurl =  | arşivtarihi =  | ölüurl =  | erişimtarihi =  | alıntı =  | ref =  | ayırıcı =  | postscript =  }}
+</pre>
+| style="vertical-align: top;" |
+<pre>
+{{Web kaynağı | url =  | başlık =  | yazar1 =  | yazarbağı1 =  | yazar2 =  | yazarbağı2 =  | tarih =  | ay =  | yıl =  | eser =  | yayıncı =  | yer =  | sayfa =  | sayfalar =  | konum =  | dil =  | çeviribaşlık =  | tip =  | biçim =  | arxiv =  | asin =  | bibcode =  | doi =  | doibozuk =  | isbn =  | issn =  | jfm =  | jstor =  | lccn =  | mr =  | oclc =  | ol =  | osti =  | pmc =  | pmid =  | rfc =  | ssrn =  | zbl =  | tanıtıcı =  | arşivurl =  | arşivtarihi =  | ölüurl =  | erişimtarihi =  | alıntı =  | ref =  | ayırıcı =  | postscript =  }}
+</pre>
+| style="vertical-align: top;" |
+<pre>
+{{Web kaynağı | url =  | başlık =  | soyadı =  | ad =  | tarih =  | eser =  | yayıncı =  | erişimtarihi =  }}</pre>
+| style="vertical-align: top;" |
+<pre>
+{{Web kaynağı | url =  | başlık =  | yazar =  | tarih =  | eser =  | yayıncı =  | erişimtarihi =  }}</pre>
+|}
+
+==Örnekler==
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | tarih = 30 Nisan 2005 | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | tarih = 30 Nisan 2005 | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.nfl.com/rulebook/digestofrules | başlık = Digest of Rules | yayıncı = National Football League | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20150930230454/http://www.nfl.com/rulebook/digestofrules | arşivtarihi = 30 Eylül 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.nfl.com/rulebook/digestofrules | başlık = Digest of Rules | yayıncı = National Football League | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20150930230454/http://www.nfl.com/rulebook/digestofrules | arşivtarihi = 30 Eylül 2015}}
+
+;{{parametre|biçim}} kullanımı
+<code><nowiki>{{Web kaynağı | url = http://www.incb.org/pdf/e/list/green.pdf | başlık = List of psychotropic substances under international control | yayıncı = International Narcotics Control Board | biçim = PDF | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20120831222336/http://www.incb.org:80/pdf/e/list/green.pdf | arşivtarihi = 31 Ağustos 2012}}</nowiki></code>
+*{{Web kaynağı | url = http://www.incb.org/pdf/e/list/green.pdf | başlık = List of psychotropic substances under international control | yayıncı = International Narcotics Control Board | biçim = PDF | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20120831222336/http://www.incb.org:80/pdf/e/list/green.pdf | arşivtarihi = 31 Ağustos 2012}}
+
+;Yabancı dil ve çeviri başlık
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = Honni soit qui mal y pense | yazar = Joliet, François | tarih = 30 Nisan 2005 | erişimtarihi = 6 Temmuz 2005 | dil = Fransızca | çeviribaşlık = Kötü düşünene yazıklar olsun | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = Honni soit qui mal y pense | yazar = Joliet, François | tarih = 30 Nisan 2005 | erişimtarihi = 6 Temmuz 2005 | dil = Fransızca | çeviribaşlık = Kötü düşünene yazıklar olsun | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+;{{parametre|yazarbağı}} kullanımı
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | yazarbağı = John Doe | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = My Favorite Things, Part II | yazar = Doe, John | yazarbağı = John Doe | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+;Birden çok yazar
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = Our Favorite Things | ad = John | soyadı = Doe | soyadı2 = Smith | ad2 = Peter | soyadı3 = Smythe | ad3 = Jim | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 16 Mayıs 2006 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+
+*{{Web kaynağı | url = http://www.example.org/ | başlık = Our Favorite Things | ad = John | soyadı = Doe | soyadı2 = Smith | ad2 = Peter | soyadı3 = Smythe | ad3 = Jim | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 16 Mayıs 2006 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = Our Favorite Things | yazarlar = John Doe; Peter Smith; Jim Smythe | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 16 Mayıs 2006 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = Our Favorite Things | yazarlar = John Doe; Peter Smith; Jim Smythe | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 16 Mayıs 2006 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+;Yazarsız
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = Index of Sharp Things | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 16 Mayıs 2006 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = Index of Sharp Things | yayıncı = Open Publishing | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 16 Mayıs 2006 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+;Yazarsız ve yayıncısız
+Bu kısaltılmış biçim, yalnızca editörün yayıncı ve yazarı belirleyemediği durumlarda kullanılmalıdır.
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = Index of Sharp Things | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = Index of Sharp Things | tarih = 30 Nisan 2005 | eser = Encyclopedia of Things | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.example.org/ | başlık = Index of Sharp Things | tarih = 30 Nisan 2005 | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.example.org/ | başlık = Index of Sharp Things | tarih = 30 Nisan 2005 | erişimtarihi = 6 Temmuz 2005 | arşivurl = http://web.archive.org/web/20151122202351/http://www.example.org/ | arşivtarihi = 22 Kasım 2015}}
+
+<code><nowiki>{{Web kaynağı | url = http://www.incb.org/pdf/e/list/green.pdf | başlık = List of psychotropic substances under international control | tarih = 30 Nisan 2005 | biçim = PDF | erişimtarihi = 6 Temmuz 2005 | dil = Yunanca | arşivurl = http://web.archive.org/web/20120831222336/http://www.incb.org:80/pdf/e/list/green.pdf | arşivtarihi = 31 Ağustos 2012}}</nowiki></code>
+*{{Web kaynağı | url = http://www.incb.org/pdf/e/list/green.pdf | başlık = List of psychotropic substances under international control | tarih = 30 Nisan 2005 | biçim = PDF | erişimtarihi = 6 Temmuz 2005 | dil = Yunanca | arşivurl = http://web.archive.org/web/20120831222336/http://www.incb.org:80/pdf/e/list/green.pdf | arşivtarihi = 31 Ağustos 2012}}
+
+;Arşivlenmiş Web sayfaları için "{{parametre|arşivurl}}" ve "{{parametre|arşivtarihi}}" (ve opsiyonel olarak da "{{parametre|ölüurl}}") kullanımı
+<code><nowiki>{{Web kaynağı
+|url          = http://www.incb.org/pdf/e/list/green.pdf
+|başlık       = List of psychotropic substances under international control
+|tarih        = 30 Nisan 2005
+|biçim        = PDF
+|erişimtarihi = 6 Temmuz 2005
+|arşivurl     = http://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+|arşivtarihi  = 11 Eylül 2005
+}}</nowiki></code>
+*{{Web kaynağı
+|url          = http://www.incb.org/pdf/e/list/green.pdf
+|başlık       = List of psychotropic substances under international control
+|tarih        = 30 Nisan 2005
+|biçim        = PDF
+|erişimtarihi = 6 Temmuz 2005
+|arşivurl     = http://www.archive.org/2005-09-11/www.incb.org/pdf/e/list/green.pdf
+|arşivtarihi  = 11 Eylül 2005
+}}
+
+<code><nowiki>{{Web kaynağı
+|url          = http://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|başlık       = Interview with Maggie Downs
+|tarih        = 31 Mart 2006
+|yayıncı      = The Desert Sun
+|arşivurl     = http://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|arşivtarihi  = 26 Nisan 2006
+|ölüurl       = no
+}}</nowiki></code>
+*{{Web kaynağı
+|url          = http://joanjettbadrep.com/cgi-bin/fullStory.cgi?archive=currnews&story=20060405-01shore.htm
+|başlık       = Interview with Maggie Downs
+|tarih        = 31 Mart 2006
+|yayıncı      = The Desert Sun
+|arşivurl     = http://72.14.207.104/search?q=cache:JAxf4v-pQmgJ:joanjettbadrep.com/cgi-bin/fullStory.cgi%3Farchive%3Dcurrnews%26story%3D20060405-01shore.htm
+|arşivtarihi  = 26 Nisan 2006
+|ölüurl       = no
+}}
+
+<code><nowiki>{{Web kaynağı
+|url          = http://www.wunderground.com/global/stations/03772.html
+|başlık       = London, United Kingdom Forecast : Weather Underground (weather and elevation at Heathrow Airport)
+|yayıncı      = The Weather Underground, Inc.
+|erişimtarihi = 6 Haziran 2008
+|ref          = harv
+| arşivurl=http://www.webcitation.org/5yo0HaAk7 |arşivtarihi  = 19 Mayıs 2011| ölüurl=hayır
+}}</nowiki></code>
+*{{Web kaynağı
+|url          = http://www.wunderground.com/global/stations/03772.html
+|başlık       = London, United Kingdom Forecast : Weather Underground (weather and elevation at Heathrow Airport)
+|yayıncı      = The Weather Underground, Inc.
+|erişimtarihi = 6 Haziran 2008
+|ref          = harv
+|arşivurl     = http://www.webcitation.org/5yo0HaAk7 |arşivtarihi  = 19 Mayıs 2011| ölüurl=hayır}}
+
+;"{{parametre|alıntı}}" kullanımı
+<code><nowiki>{{Web kaynağı | url = http://www.webexhibits.org/daylightsaving/c.html | başlık = Daylight saving time: rationale and original idea | eser = WebExhibits | yıl = 2008 | erişimtarihi = 27 Eylül 2009 | alıntı = ...&amp;nbsp;Lord Balfour came forward with a unique concern: 'Supposing some unfortunate lady was confined with twins&amp;nbsp;...' | arşivurl = http://web.archive.org/web/20151016073138/http://www.webexhibits.org/daylightsaving/c.html | arşivtarihi = 16 Ekim 2015}}</nowiki></code>
+*{{Web kaynağı | url = http://www.webexhibits.org/daylightsaving/c.html | başlık = Daylight saving time: rationale and original idea | eser = WebExhibits | yıl = 2008 | erişimtarihi = 27 Eylül 2009 | alıntı = ...&nbsp;Lord Balfour came forward with a unique concern: 'Supposing some unfortunate lady was confined with twins&nbsp;...' | arşivurl = http://web.archive.org/web/20151016073138/http://www.webexhibits.org/daylightsaving/c.html | arşivtarihi = 16 Ekim 2015}}
+
+==Parametreler==
+
+===Sözdizimi===
+{{kaybel|sözdizimi}}
+
+{{kaybel|coins}}
+
+{{kaybel|ayr_nokta}}
+
+===Kullanım dışı===
+{{kaybel|kullanım_dışı}}
+
+===Açıklama===
+
+====Yazarlar====
+{{kaybel|yazar|ortakyazarlar=evet|diğerleri=evet}}
+
+====Başlık====
+{{kaybel|Web}}
+{{kaybel|tip}}
+{{kaybel|dil}}
+
+====Tarih====
+{{kaybel|tarih}}
+
+====Yayıncı====
+{{kaybel|yayıncı|eser=hayır}}
+
+====Seri====
+{{kaybel|seri}}
+
+====Kaynak içi konum====
+{{kaybel|sayfalar}}
+
+====URL====
+{{kaybel|url}}
+
+====Çengel====
+{{kaybel|ref}}
+
+====Tanıtıcılar====
+{{kaybel|tanıtıcı1}}
+{{kaybel|tanıtıcı2}}
+
+====Alıntı====
+{{kaybel|alıntı}}
+
+====Editörler====
+{{kaybel|editör}}
+
+====Diğer özet====
+{{kaybel|diğer}}
+
+====Görüntü seçenekleri====
+{{kaybel|görüntü}}
+
+{{Kaynak Biçemi 1}}
+
+==Template data==
+<templatedata>
+{
+	"params": {
+		"Şehir": {
+			"aliases": [
+				"city",
+				"şehir"
+			]
+		},
+		"YazarListesi-Bağ": {
+			"aliases": [
+				"authorlink#",
+				"author-link#",
+				"author#-link",
+				"subjectlink#",
+				"author#link",
+				"subject-link#",
+				"subject#-link",
+				"subject#link",
+				"yazar#-bağ",
+				"yazarbağı#",
+				"yazarlink#",
+				"konubağı#",
+				"muhatapbağı#",
+				"öznebağı#",
+				"süjebağı#"
+			]
+		},
+		"url": {
+			"aliases": [
+				"URL",
+				"katkı-url"
+			],
+			"required": true
+		},
+		"başlık": {
+			"aliases": [
+				"title",
+				"Başlık"
+			],
+			"required": true
+		},
+		"erişimtarihi": {
+			"aliases": [
+				"access-date",
+				"accessdate",
+				"erişim-tarihi",
+				"ErişimTarihi",
+				"erişim tarihi"
+			],
+			"type": "date",
+			"suggested": true
+		},
+		"ajans": {
+			"aliases": [
+				"agency",
+				"Ajans"
+			]
+		},
+		"erişimyılı": {
+			"aliases": [
+				"ErişimYılı"
+			]
+		},
+		"arşivtarihi": {
+			"aliases": [
+				"archive-date",
+				"archivedate",
+				"arşiv-tarihi",
+				"ArşivTarihi"
+			]
+		},
+		"yazarlar": {
+			"aliases": [
+				"authors",
+				"people",
+				"host",
+				"credits",
+				"Yazarlar",
+				"yazars",
+				"katkıdabulunanlar",
+				"muhataplar",
+				"kişiler"
+			]
+		},
+		"arşivurl": {
+			"aliases": [
+				"archive-url",
+				"archiveurl",
+				"arşiv-url",
+				"ArşivURL",
+				"arşivURL"
+			]
+		},
+		"arşivengelli": {
+			"aliases": [
+				"arşivengeli",
+				"ArşivEngelli"
+			]
+		},
+		"arşivbiçimi": {
+			"aliases": [
+				"archive-format",
+				"arşiv-biçimi",
+				"ArşivBiçimi"
+			]
+		},
+		"kitapbaşlığı": {
+			"aliases": [
+				"book-title",
+				"booktitle",
+				"kitap-başlığı",
+				"KitapBaşlığı"
+			]
+		},
+		"kısım": {
+			"aliases": [
+				"chapter",
+				"contribution",
+				"entry",
+				"article",
+				"section",
+				"makale",
+				"madde",
+				"Kısım"
+			]
+		},
+		"kısımbiçimi": {
+			"aliases": [
+				"chapter-format",
+				"contribution-format",
+				"section-format",
+				"bölüm-biçimi",
+				"kısım-biçimi",
+				"KısımBiçimi"
+			]
+		},
+		"kısım-url": {
+			"aliases": [
+				"chapter-url",
+				"chapterurl",
+				"contribution-url",
+				"contributionurl",
+				"section-url",
+				"sectionurl",
+				"KısımURL",
+				"bölüm-url",
+				"bölümurl"
+			]
+		},
+		"sınıf": {
+			"aliases": [
+				"class",
+				"Sınıf"
+			]
+		},
+		"id": {
+			"aliases": [
+				"ID",
+				"tanıtıcı",
+				"id"
+			]
+		},
+		"eşyazarlar": {
+			"aliases": [
+				"coauthors",
+				"coauthor",
+				"EşYazarlar",
+				"ortakyazarlar",
+				"yardımcıyazarlar",
+				"yardımcı yazarlar"
+			]
+		},
+		"işbirliği": {
+			"aliases": [
+				"collaboration",
+				"İşbirliği"
+			]
+		},
+		"konferans": {
+			"aliases": [
+				"conference",
+				"event",
+				"Konferans",
+				"etkinlik"
+			]
+		},
+		"konferans-biçimi": {
+			"aliases": [
+				"conference-format",
+				"event-format",
+				"KonferansBiçimi",
+				"etkinlik-biçimi"
+			]
+		},
+		"konferans-url": {
+			"aliases": [
+				"conference-url",
+				"conferenceurl",
+				"event-url",
+				"eventurl",
+				"etkinlik-url",
+				"KonferansURL"
+			]
+		},
+		"katkı": {
+			"aliases": [
+				"contribution",
+				"Katkı"
+			]
+		},
+		"tarih": {
+			"aliases": [
+				"date",
+				"air-date",
+				"airdate",
+				"Tarih"
+			],
+			"suggested": true
+		},
+		"ölüurl": {
+			"aliases": [
+				"dead-url",
+				"deadurl",
+				"ÖlüURL",
+				"ölü-url",
+				"bozukurl",
+				"bozukURL"
+			]
+		},
+		"lisans": {
+			"aliases": [
+				"degree",
+				"Lisans"
+			]
+		},
+		"yazarları-göster": {
+			"aliases": [
+				"display-authors",
+				"displayauthors",
+				"yazar-göster",
+				"YazarlarıGöster"
+			]
+		},
+		"editörleri-göster": {
+			"aliases": [
+				"display-editors",
+				"displayeditors",
+				"editör-göster",
+				"EditörleriGöster"
+			]
+		},
+		"doibozuk": {
+			"aliases": [
+				"doi-broken",
+				"doi-broken-date",
+				"doi-inactive-date",
+				"doi_brokendate",
+				"doi_inactivedate",
+				"doi-kırık-tarih",
+				"DoiKırık",
+				"doi_bozuktarihi"
+			]
+		},
+		"editörler": {
+			"aliases": [
+				"editors",
+				"Editörler"
+			]
+		},
+		"biçim": {
+			"aliases": [
+				"format",
+				"Biçim"
+			]
+		},
+		"sayı": {
+			"aliases": [
+				"issue",
+				"number",
+				"Sayı"
+			]
+		},
+		"dil": {
+			"aliases": [
+				"language",
+				"in",
+				"Dil"
+			]
+		},
+		"sonyazarve": {
+			"aliases": [
+				"last-author-amp",
+				"lastauthoramp",
+				"SonYazarVe"
+			]
+		},
+		"diğertarih": {
+			"aliases": [
+				"lay-date",
+				"laydate",
+				"DiğerTarih"
+			]
+		},
+		"diğer-biçim": {
+			"aliases": [
+				"lay-format",
+				"DiğerBiçim"
+			]
+		},
+		"diğerkaynak": {
+			"aliases": [
+				"lay-source",
+				"laysource",
+				"diğer-kaynak",
+				"DiğerKaynak"
+			]
+		},
+		"diğer-url": {
+			"aliases": [
+				"lay-url",
+				"lay-summary",
+				"layurl",
+				"laysummary",
+				"diğerurl",
+				"diğerözet",
+				"DiğerURL"
+			]
+		},
+		"posta-listesi": {
+			"aliases": [
+				"mailinglist",
+				"mailing-list",
+				"PostaListesi",
+				"e-posta",
+				"kurum"
+			]
+		},
+		"harita": {
+			"aliases": [
+				"map",
+				"Harita"
+			]
+		},
+		"harita-biçimi": {
+			"aliases": [
+				"map-format",
+				"HaritaBiçimi"
+			]
+		},
+		"harita-url": {
+			"aliases": [
+				"mapurl",
+				"map-url",
+				"HaritaURL"
+			]
+		},
+		"mesaj-id": {
+			"aliases": [
+				"message-id",
+				"MesajID"
+			]
+		},
+		"dakika": {
+			"aliases": [
+				"minutes",
+				"Dakika"
+			]
+		},
+		"ağ": {
+			"aliases": [
+				"network",
+				"Ağ",
+				"şebeke",
+				"kurum"
+			]
+		},
+		"sayfa": {
+			"aliases": [
+				"p",
+				"page",
+				"s",
+				"Sayfa"
+			]
+		},
+		"sayfalar": {
+			"aliases": [
+				"pp",
+				"pages",
+				"ss",
+				"Sayfalar"
+			]
+		},
+		"ssyok": {
+			"aliases": [
+				"no-pp",
+				"nopp",
+				"SSYok"
+			]
+		},
+		"yer": {
+			"aliases": [
+				"place",
+				"location",
+				"Yer",
+				"konum"
+			]
+		},
+		"program": {
+			"aliases": [
+				"Program"
+			]
+		},
+		"baskı": {
+			"aliases": [
+				"basım"
+			],
+			"label": "Baskı",
+			"description": ""
+		},
+		"ansiklopedi": {
+			"aliases": [
+				"encyclopedia",
+				"encyclopaedia",
+				"Ansiklopedi"
+			]
+		},
+		"bölüm": {
+			"aliases": [
+				"episode",
+				"Bölüm"
+			]
+		},
+		"numara": {
+			"aliases": [
+				"number",
+				"Numara"
+			]
+		},
+		"yayıntarihi": {
+			"aliases": [
+				"publicationdate",
+				"publication-date",
+				"yayın-tarihi",
+				"YayınTarihi"
+			]
+		},
+		"yayınyeri": {
+			"aliases": [
+				"publication-place",
+				"publicationplace",
+				"yayın-yeri",
+				"YayınYeri"
+			]
+		},
+		"yayıncı": {
+			"aliases": [
+				"publisher",
+				"distributor",
+				"institution",
+				"newsgroup",
+				"Yayıncı",
+				"yayımcı",
+				"çağrıişareti",
+				"habergrubu"
+			],
+			"suggested": true
+		},
+		"alıntı": {
+			"aliases": [
+				"quote",
+				"quotation",
+				"Alıntı"
+			]
+		},
+		"kaynak": {
+			"aliases": [
+				"ref",
+				"Kaynak"
+			]
+		},
+		"sezon": {
+			"aliases": [
+				"season",
+				"Sezon"
+			]
+		},
+		"seri": {
+			"aliases": [
+				"series",
+				"version",
+				"Seri",
+				"versiyon",
+				"edition",
+				"Sürüm"
+			]
+		},
+		"seri-bağlantısı": {
+			"aliases": [
+				"series-link",
+				"serieslink",
+				"SeriBağlantısı",
+				"seribağı"
+			]
+		},
+		"seri-numarası": {
+			"aliases": [
+				"series-number",
+				"series-no",
+				"seriesnumber",
+				"seriesno",
+				"SeriNumarası"
+			]
+		},
+		"istasyon": {
+			"aliases": [
+				"station",
+				"İstasyon",
+				"kanal"
+			]
+		},
+		"başlıkyok": {
+			"aliases": [
+				"BaşlıkYok"
+			]
+		},
+		"başlık-bağı": {
+			"aliases": [
+				"title-link",
+				"episode-link",
+				"titlelink",
+				"episodelink",
+				"bölüm-bağlantısı",
+				"başlık-bağlantısı",
+				"bölüm-url",
+				"bölümurl",
+				"başlıklink",
+				"başlıkbağı",
+				"BaşlıkBağı"
+			]
+		},
+		"başlıknotu": {
+			"aliases": [
+				"department",
+				"BaşlıkNotu"
+			]
+		},
+		"başlıktürü": {
+			"aliases": [
+				"type",
+				"medium",
+				"tür",
+				"medya",
+				"tip",
+				"ortam",
+				"BaşlıkTürü"
+			]
+		},
+		"çeviribölümü": {
+			"aliases": [
+				"trans-chapter",
+				"trans_chapter",
+				"çeviri_bölüm",
+				"çeviri_bölümü",
+				"ÇeviriBölüm"
+			]
+		},
+		"çeviribaşlık": {
+			"aliases": [
+				"trans-title",
+				"trans_title",
+				"çeviri-başlık",
+				"ÇeviriBaşlık",
+				"çeviri_başlık"
+			]
+		},
+		"ay": {
+			"aliases": [
+				"Ay",
+				"month"
+			]
+		},
+		"yıl": {
+			"aliases": [
+				"year",
+				"Yıl",
+				"sene"
+			]
+		},
+		"özgünyıl": {
+			"aliases": [
+				"orig-year",
+				"origyear",
+				"ÖzgünYıl"
+			]
+		},
+		"zaman": {
+			"aliases": [
+				"time",
+				"Zaman"
+			]
+		},
+		"ile": {
+			"aliases": [
+				"via",
+				"İle"
+			]
+		},
+		"diğerleri": {
+			"aliases": [
+				"others",
+				"interviewer",
+				"interviewers",
+				"Diğerleri"
+			]
+		},
+		"cimerbaşvuruno": {
+			"aliases": [
+				"CimerBaşvuruNo"
+			]
+		},
+		"ebilgiedinmeno": {
+			"aliases": [
+				"EBilgiEdinmeNo"
+			]
+		},
+		"edilekçeno": {
+			"aliases": [
+				"EDilekçeNo"
+			]
+		},
+		"cilt": {
+			"aliases": [
+				"volume",
+				"Cilt"
+			]
+		},
+		"ad": {
+			"aliases": [
+				"first#",
+				"given#",
+				"author-first#",
+				"author#-first",
+				"YazarListesi-Ad#",
+				"ilk#",
+				"muhatapadı#"
+			]
+		},
+		"soyadı": {
+			"aliases": [
+				"last#",
+				"author#",
+				"surname#",
+				"author-last#",
+				"author#-last",
+				"subject#",
+				"son#",
+				"YazarListesi-Soyadı#",
+				"yazar#",
+				"yazar",
+				"muhatap#",
+				"muhatapsoyadı#",
+				"özne#",
+				"süje#",
+				"konu#"
+			]
+		},
+		"yazarmaskesi": {
+			"aliases": [
+				"YazarListesi-Maske#",
+				"author-mask#",
+				"authormask#",
+				"author#mask",
+				"author#-mask"
+			]
+		},
+		"katkı-ad": {
+			"aliases": [
+				"contributor-first#",
+				"contributor#-first",
+				"KatkıcıListesi-Ad#"
+			]
+		},
+		"katkı-soyadı": {
+			"aliases": [
+				"contributor#",
+				"contributor-last#",
+				"contributor#-last",
+				"KatkıcıListesi-Soyadı#"
+			]
+		},
+		"katkı-bağı": {
+			"aliases": [
+				"contributor-link#",
+				"contributor#-link",
+				"KatkıcıListesi-Bağ#"
+			]
+		},
+		"katkı-maskesi": {
+			"aliases": [
+				"contributor-mask#",
+				"contributor#-mask",
+				"KatkıcıListesi-Maske#"
+			]
+		},
+		"çalışma": {
+			"aliases": [
+				"journal",
+				"newspaper",
+				"magazine",
+				"work",
+				"Periyodik",
+				"periodical",
+				"encyclopedia",
+				"encyclopaedia",
+				"dictionary",
+				"mailinglist",
+				"dergi",
+				"gazete",
+				"website",
+				"eser",
+				"iş",
+				"websitesi",
+				"süreliyayın",
+				"sözlük"
+			],
+			"suggested": true
+		},
+		"editör-ad": {
+			"aliases": [
+				"editor-first",
+				"editor#-first",
+				"editor-given#",
+				"editor#-given",
+				"editör#-ilk",
+				"EditörListesi#-Ad"
+			]
+		},
+		"editör-soyadı": {
+			"aliases": [
+				"editor#",
+				"editor-last",
+				"editor#-last",
+				"editor-surname#",
+				"editor#-surname",
+				"EditörListesi#-Soyadı",
+				"editör#-son",
+				"editör#"
+			]
+		},
+		"editör-bağ": {
+			"aliases": [
+				"editor-link#",
+				"editor#-link",
+				"editorlink#",
+				"editor#link",
+				"editör#-bağı",
+				"EditörListesi#-Bağ"
+			]
+		},
+		"editör-maskesi": {
+			"aliases": [
+				"editor-mask#",
+				"editor#-mask",
+				"editormask#",
+				"editor#mask",
+				"EditörListesi#-Maske"
+			]
+		},
+		"görüşmeci-ad": {
+			"aliases": [
+				"interviewer-first#",
+				"interviewer#-first",
+				"GörüşmeciListesi#-Ad"
+			]
+		},
+		"görüşmeci-soyadı": {
+			"aliases": [
+				"interviewer#",
+				"interviewer-last#",
+				"interviewer#-last",
+				"GörüşmeciListesi#-Soyadı",
+				"görüşmeci#"
+			]
+		},
+		"görüşmeci-bağlantı": {
+			"aliases": [
+				"interviewer-link#",
+				"interviewer#-link",
+				"GörüşmeciListesi#-Bağ"
+			]
+		},
+		"görüşmeci-maskesi": {
+			"aliases": [
+				"interviewer-mask#",
+				"interviewer#-mask",
+				"GörüşmeciListesi#-Maske"
+			]
+		},
+		"çevirmen-ad": {
+			"aliases": [
+				"translator-first#",
+				"translator#-first",
+				"ÇevirmenListesi#-Ad"
+			]
+		},
+		"çevirmen-soyadı": {
+			"aliases": [
+				"translator#",
+				"translator-last#",
+				"translator#-last",
+				"çevirmen#",
+				"ÇevirmenListesi#-Soyadı"
+			]
+		},
+		"çevirmen-bağı": {
+			"aliases": [
+				"translator-link#",
+				"translator#-link",
+				"ÇevirmenListesi#-Bağ"
+			]
+		},
+		"çevirmen-maskesi": {
+			"aliases": [
+				"translator-mask#",
+				"translator#-mask",
+				"ÇevirmenListesi#-Maske"
+			]
+		},
+		"ad2": {},
+		"ad3": {},
+		"ad4": {},
+		"ad5": {},
+		"ad6": {},
+		"ad7": {},
+		"ad8": {},
+		"ad9": {},
+		"soyadı2": {},
+		"soyadı3": {},
+		"soyadı4": {},
+		"soyadı5": {},
+		"soyadı6": {},
+		"soyadı7": {},
+		"soyadı8": {},
+		"soyadı9": {},
+		"issn": {},
+		"isbn": {},
+		"pmc": {},
+		"pmid": {},
+		"oclc": {},
+		"doi": {},
+		"others": {},
+		"translator-first": {},
+		"translator-first2": {},
+		"translator-first3": {},
+		"translator-first4": {},
+		"translator-first5": {},
+		"translator-first6": {},
+		"translator-first7": {},
+		"translator-first8": {},
+		"translator-first9": {},
+		"translator-last": {},
+		"translator-last2": {},
+		"translator-last3": {},
+		"translator-last4": {},
+		"translator-last5": {},
+		"translator-last6": {},
+		"translator-last7": {},
+		"translator-last8": {},
+		"translator-last9": {},
+		"editor-first": {},
+		"editor2-first": {},
+		"editor3-first": {},
+		"editor4-first": {},
+		"editor5-first": {},
+		"editor6-first": {},
+		"editor7-first": {},
+		"editor8-first": {},
+		"editor9-first": {},
+		"editor-last": {},
+		"editor2-last": {},
+		"editor3-last": {},
+		"editor4-last": {},
+		"editor5-last": {},
+		"editor6-last": {},
+		"editor7-last": {},
+		"editor8-last": {},
+		"editor9-last": {}
+	},
+	"maps": {
+		"citoid": {
+			"title": "başlık",
+			"url": "url",
+			"subject": "başlık",
+			"publicationTitle": "çalışma",
+			"blogTitle": "çalışma",
+			"forumTitle": "çalışma",
+			"seriesTitle": "çalışma",
+			"websiteTitle": "çalışma",
+			"publisher": "yayıncı",
+			"date": "tarih",
+			"PMCID": "pmc",
+			"PMID": "pmid",
+			"oclc": "oclc",
+			"pages": "sayfalar",
+			"series": "seri",
+			"accessDate": "erişimtarihi",
+			"DOI": "doi",
+			"language": "dil",
+			"contributor": "diğerleri",
+			"author": [
+				[
+					"ad",
+					"soyadı"
+				],
+				[
+					"ad2",
+					"soyadı2"
+				],
+				[
+					"ad3",
+					"soyadı3"
+				],
+				[
+					"ad4",
+					"soyadı4"
+				],
+				[
+					"ad5",
+					"soyadı5"
+				],
+				[
+					"ad6",
+					"soyadı6"
+				],
+				[
+					"ad7",
+					"soyadı7"
+				],
+				[
+					"ad8",
+					"soyadı8"
+				],
+				[
+					"ad9",
+					"soyadı9"
+				]
+			],
+			"editor": [
+				[
+					"editor-first",
+					"editor-last"
+				],
+				[
+					"editor2-first",
+					"editor2-last"
+				],
+				[
+					"editor3-first",
+					"editor3-last"
+				],
+				[
+					"editor4-first",
+					"editor4-last"
+				],
+				[
+					"editor5-first",
+					"editor5-last"
+				],
+				[
+					"editor6-first",
+					"editor6-last"
+				],
+				[
+					"editor7-first",
+					"editor7-last"
+				],
+				[
+					"editor8-first",
+					"editor8-last"
+				],
+				[
+					"editor9-first",
+					"editor9-last"
+				]
+			]
+		}
+	},
+	"paramOrder": [
+		"url",
+		"başlık",
+		"erişimtarihi",
+		"ajans",
+		"erişimyılı",
+		"arşivtarihi",
+		"arşivbiçimi",
+		"arşivengelli",
+		"arşivurl",
+		"yazarlar",
+		"kitapbaşlığı",
+		"kısım",
+		"kısımbiçimi",
+		"kısım-url",
+		"Şehir",
+		"sınıf",
+		"id",
+		"eşyazarlar",
+		"işbirliği",
+		"konferans",
+		"konferans-biçimi",
+		"konferans-url",
+		"katkı",
+		"tarih",
+		"ölüurl",
+		"lisans",
+		"yazarları-göster",
+		"editörleri-göster",
+		"doibozuk",
+		"baskı",
+		"editörler",
+		"ansiklopedi",
+		"bölüm",
+		"biçim",
+		"sayı",
+		"numara",
+		"dil",
+		"sonyazarve",
+		"diğertarih",
+		"diğer-biçim",
+		"diğerkaynak",
+		"diğer-url",
+		"posta-listesi",
+		"harita",
+		"harita-biçimi",
+		"harita-url",
+		"mesaj-id",
+		"dakika",
+		"ağ",
+		"sayfa",
+		"sayfalar",
+		"ssyok",
+		"çalışma",
+		"yer",
+		"program",
+		"yayıntarihi",
+		"yayınyeri",
+		"yayıncı",
+		"alıntı",
+		"kaynak",
+		"sezon",
+		"seri",
+		"seri-bağlantısı",
+		"seri-numarası",
+		"istasyon",
+		"başlıkyok",
+		"başlık-bağı",
+		"başlıknotu",
+		"başlıktürü",
+		"çeviribölümü",
+		"çeviribaşlık",
+		"ay",
+		"yıl",
+		"özgünyıl",
+		"zaman",
+		"ile",
+		"cilt",
+		"edilekçeno",
+		"ebilgiedinmeno",
+		"cimerbaşvuruno",
+		"diğerleri",
+		"ad",
+		"soyadı",
+		"YazarListesi-Bağ",
+		"yazarmaskesi",
+		"katkı-ad",
+		"katkı-soyadı",
+		"katkı-bağı",
+		"katkı-maskesi",
+		"editör-ad",
+		"editör-soyadı",
+		"editör-bağ",
+		"editör-maskesi",
+		"görüşmeci-ad",
+		"görüşmeci-soyadı",
+		"görüşmeci-bağlantı",
+		"görüşmeci-maskesi",
+		"çevirmen-ad",
+		"çevirmen-soyadı",
+		"çevirmen-bağı",
+		"çevirmen-maskesi",
+		"ad2",
+		"ad3",
+		"ad4",
+		"ad5",
+		"ad6",
+		"ad7",
+		"ad8",
+		"ad9",
+		"soyadı2",
+		"soyadı3",
+		"soyadı4",
+		"soyadı5",
+		"soyadı6",
+		"soyadı7",
+		"soyadı8",
+		"soyadı9",
+		"issn",
+		"isbn",
+		"pmc",
+		"pmid",
+		"oclc",
+		"doi",
+		"others",
+		"translator-first",
+		"translator-first2",
+		"translator-first3",
+		"translator-first4",
+		"translator-first5",
+		"translator-first6",
+		"translator-first7",
+		"translator-first8",
+		"translator-first9",
+		"translator-last",
+		"translator-last2",
+		"translator-last3",
+		"translator-last4",
+		"translator-last5",
+		"translator-last6",
+		"translator-last7",
+		"translator-last8",
+		"translator-last9",
+		"editor-first",
+		"editor2-first",
+		"editor3-first",
+		"editor4-first",
+		"editor5-first",
+		"editor6-first",
+		"editor7-first",
+		"editor8-first",
+		"editor9-first",
+		"editor-last",
+		"editor2-last",
+		"editor3-last",
+		"editor4-last",
+		"editor5-last",
+		"editor6-last",
+		"editor7-last",
+		"editor8-last",
+		"editor9-last"
+	]
+}
+</templatedata>
