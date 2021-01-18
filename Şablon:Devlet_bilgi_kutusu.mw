@@ -41,9 +41,9 @@
 {{#if: {{{slogan|}}} |
 {{!}} colspan="2" style="text-align:center;" {{!}} '''[[Slogan]]:&nbsp;'''{{{slogan}}}
 {{!}}- }}
-<!---------- Marşlar ---------->
-{{#if:{{{ulusal_marş|}}}{{{kraliyet_marşı|}}}{{{marş|}}} |
-{{!}} colspan="2" style="text-align:center" {{!}} {{#if:{{{ulusal_marş|}}}|'''[[Ulusal Marş]]:&nbsp;'''{{{ulusal_marş}}}<br/>}} {{#if:{{{marş|}}}|'''[[Marş]]:&nbsp;'''{{{marş}}}<br/>}} {{#if:{{{kraliyet_marşı|}}}|'''[[Kraliyet Marşı]]:&nbsp;'''{{{kraliyet_marşı}}} }}
+<!---------- Gimnalar ---------->
+{{#if:{{{Gimna|}}}{{{kraliyet_Gimnası|}}}{{{Gimna|}}} |
+{{!}} colspan="2" style="text-align:center" {{!}} {{#if:{{{Gimna|}}}|'''[[Gimna]]:&nbsp;'''{{{Gimna}}}<br/>}} {{#if:{{{Gimna|}}}|'''[[Gimna]]:&nbsp;'''{{{Gimna}}}<br/>}} {{#if:{{{kraliyet_Gimnası|}}}|'''[[Kraliyet Gimnası]]:&nbsp;'''{{{kraliyet_Gimnası}}} }}
 {{!}}- }}
 |-
 <!---------- Haritalar ---------->
