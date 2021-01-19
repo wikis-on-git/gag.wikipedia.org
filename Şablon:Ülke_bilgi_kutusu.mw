@@ -17,11 +17,11 @@
 {{{!}} width=100% style="text-align:center; margin:0 auto; background:none;"
 {{!}}-
 {{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{bayrak_resmi}}}|125px|border|alt={{{bayrak_açıklaması|Bayrak}}}]]
-{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]
+{{!}}align=center style="border:0; vertical-align:middle;"{{!}} [[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Gerb}}}]]
 {{!}}- style="font-size: 95%;"
-{{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak_adı|}}}|[[{{{bayrak_adı}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayrağı|[[{{{adı}}} bayrağı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
+{{!}} style="border:0; text-align:center;"{{!}} <small>{{#if:{{{bayrak_adı|}}}|[[{{{bayrak_adı}}}|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]|{{#ifexist:{{{adı}}} bayraı|[[{{{adı}}} bayraı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]]| {{#ifexist:{{{adı}}} bayraı|[[{{{adı}}} bayraı|{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}}]] |{{#if:{{{bayrak_açıklaması|}}}|{{{bayrak_açıklaması}}}|Bayrak}} }} }} }}
 </small>
-{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma_resmi|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}
+{{!}} style="border:0; text-align:center;"{{!}} {{#if:{{{arma_resmi|}}}|<small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}]]|{{#ifexist:{{{adı}}} gerbi|[[{{{adı}}} gerbi|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}]]| {{#ifexist:{{{adı}}} gerbi|[[{{{adı}}} gerbi|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}}}}}}}}}
 </small>
 {{!}}} 
 |{{!}}- class="mergedtoprow"
@@ -30,7 +30,7 @@
 |-
 {{#if:{{{bayrak_resmi|}}}||{{#if:{{{arma_resmi|}}}|
 {{!}} colspan="2" class="maptable" align=center {{!}}
-<p>[[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Arma}}}]]<p> <small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]|{{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]]| {{#ifexist:{{{adı}}} arması|[[{{{adı}}} arması|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Arma}}}}}}}}}}}}
+<p>[[Dosya:{{{arma_resmi|}}} |{{{arma_boyutu|85px}}} |alt={{{arma_açıklaması|Gerb}}}]]<p> <small>{{#if:{{{arma_adı|}}}|[[{{{arma_adı}}}|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}]]|{{#ifexist:{{{adı}}} gerbi|[[{{{adı}}} gerbi|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}]]| {{#ifexist:{{{adı}}} gerbi|[[{{{adı}}} gerbi|{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}]] |{{#if:{{{arma_açıklaması|}}}|{{{arma_açıklaması}}}|Gerb}}}}}}}}}}}}
 </small>
 |-
 <!---------- Diğer sembol ---------->
@@ -80,12 +80,12 @@
 |-
 <!---------- Resmi veya tanınmış bölgesel diller, etnik gruplar ---------->
 {{#if: {{{resmî_diller|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Resmî dil(ler)'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Ofiţial dil(lär)'''
 {{!!}} {{{resmî_diller|}}} 
 }}
 |-
 {{#if: {{{bölgesel_diller|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Bölgesel dil|Bölgesel dil(ler)]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Territoriyal dil|Territoriyal dil(lär)]]'''
 {{!!}} {{{bölgesel_diller|}}} 
 }}
 |-
@@ -111,9 +111,9 @@
 {{!!}} {{{üyelik}}}
 }}
 |-
-<!---------- Resmî din ---------->
+<!---------- Ofiţial din ---------->
 {{#if: {{{resmî dinler|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Resmî din|Resmî din(ler)]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Ofiţial din|Ofiţial din(ner)]]'''
 {{!!}} {{#ifexist:{{{resmî dinler}}}|[[{{{resmî dinler}}}]]|{{{resmî dinler}}}}}
 }}
 |-
