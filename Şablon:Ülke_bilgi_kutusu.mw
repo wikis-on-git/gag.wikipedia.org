@@ -37,13 +37,13 @@
 {{#if:{{{diğer_sembol_resmi|}}}|
 {{!}} colspan="2" style="border-top:solid 1px #ccd2d9; vertical-align:top; text-align:center; font-size:95%; padding:0.4em 0 0.4em 0" {{!}} {{{diğer_sembol_resmi}}}<br /><small>{{#if:{{{diğer_sembol_adı|}}}|{{{diğer_sembol_adı}}}}}</small>}}
 |-
-<!---------- Slogan ---------->
+<!---------- Deviz ---------->
 {{#if: {{{slogan|}}} |
-{{!}} colspan="2" style="text-align:center;" {{!}} '''Slogan:&nbsp;'''{{{slogan}}}
+{{!}} colspan="2" style="text-align:center;" {{!}} '''Milli Deviz:&nbsp;'''{{{slogan}}}
 {{!}}- }}
-<!---------- Marşlar ---------->
+<!---------- Gimna ---------->
 {{#if:{{{ulusal_marş|}}}{{{kraliyet_marşı|}}}{{{marş|}}} |
-{{!}} colspan="2" style="text-align:center" {{!}} {{#if:{{{ulusal_marş|}}}|'''Ulusal Marş:&nbsp;'''{{{ulusal_marş}}} }} {{#if:{{{marş|}}}|'''Marş:&nbsp;'''{{{marş}}}<br/>}} {{#if:{{{kraliyet_marşı|}}}|'''Kraliyet Marşı:&nbsp;'''{{{kraliyet_marşı}}} }}
+{{!}} colspan="2" style="text-align:center" {{!}} {{#if:{{{ulusal_marş|}}}|'''Milli Gimna:&nbsp;'''{{{ulusal_marş}}} }} {{#if:{{{marş|}}}|'''Marş:&nbsp;'''{{{marş}}}<br/>}} {{#if:{{{kraliyet_marşı|}}}|'''Kraliyet Marşı:&nbsp;'''{{{kraliyet_marşı}}} }}
 {{!}}- }}
 <!---------- Haritalar ---------->
 {{#if:{{{harita_resmi|}}}|
