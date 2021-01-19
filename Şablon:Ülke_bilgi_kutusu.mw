@@ -57,13 +57,13 @@
 <!--  Başkent veya yönetim merkezi varsa: -->
 {{#if:{{{başkent|}}}{{{yönetim_merkezi|}}}|
 {{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} {{#if:{{{yönetim_merkezi_tipi|}}}{{{yönetim_merkezi|}}}|
-'''{{{yönetim_merkezi_tipi|Yönetim&nbsp;merkezi}}}'''|{{#if:{{{başkent_tipi|}}}|'''{{{başkent_tipi}}}'''|'''Başkent''' }}}}
-<!------------- Başkentin olduğu durumlarda, en büyük şehir veya yerleşim başkent ise:--------->{{#ifeq: {{#ifeq:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|başkent|başkent|
+'''{{{yönetim_merkezi_tipi|Yönetim&nbsp;merkezi}}}'''|{{#if:{{{başkent_tipi|}}}|'''{{{başkent_tipi}}}'''|'''Baş kasaba''' }}}}
+<!------------- Başkentin olduğu durumlarda, en büyük şehir veya yerleşim başkent ise:--------->{{#ifeq: {{#ifeq:{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}|baş kasaba|baş kasaba|
 {{#switch:{{{başkent}}}
-| [[{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}]] = başkent
-| {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}     = başkent
-| başkent değil
-}}}}|başkent|
+| [[{{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}]] = baş kasaba
+| {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}     = baş kasaba
+| baş kasaba diil
+}}}}|baş kasaba|
 <!----- Başkent en büyük şehir veya yerleşim ise: ----->ve en büyük {{{en_büyük_yerleşim_tipi|şehir}}}
 {{!!}} {{{başkent}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}|
 <!-- Başkent en büyük şehir veya yerleşim değil ise: -->
@@ -124,10 +124,10 @@
 }}
 |-
 {{#if: {{{yönetim_biçimi|}}}{{{yönetici_unvanı1|}}}{{{yönetici_unvanı2|}}}{{{yönetici_unvanı3|}}}{{{yönetici_unvanı4|}}}{{{yönetici_unvanı5|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Yönetim biçimleri|Yönetim biçimi]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Devlet kurumu'''
 {{!!}} {{{yönetim_biçimi|}}}
 |{{#if:{{{yönetici_unvanı1|}}}{{{yönetici_adı1|}}}|{{#if:{{{adı|}}}{{{üyelik|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Yönetim biçimleri|Yönetim biçimi]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Devlet kurumu'''
 {{!!}} 
 }}}}}}
 |-
@@ -231,13 +231,13 @@
 |-
 <!---------- AB'ye katılım ---------->
 {{#if: {{{avrupa_birliğine_katılım|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Avrupa Birliği|AB]]'ye''' '''[[Avrupa Birliği üyesi devletler|katılım]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Evropa Birlii]]'ne''' '''katılmaa'''
 {{!!}} {{{avrupa_birliğine_katılım}}}
 }}
 |-
 <!---------- Yüzölçümü ---------->
 {{#if: {{{yüzölçümü|}}}{{{su_yüzdesi|}}}{{{yüzölçümü2|}}}{{{FR_IGN_yüzölçümü|}}}{{{kadastro_yüzölçümü|}}} |
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Yüzölçümlerine göre ülkeler listesi|Yüzölçümü]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''Toprak'''
 {{!!}} 
 }}
 {{!}}- | class="mergedrow" | class="mergedbottomrow"}}
@@ -273,7 +273,7 @@
 |-
 <!---------- Nüfus ---------->
 {{#if: {{{tahmini_nüfus|}}}{{{sayım_nüfusu|}}} |
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Nüfus]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''İnsannar'''
 {{!!}} 
 }}
 {{!}}- | class="mergedrow" | class="mergedbottomrow"}}
@@ -302,11 +302,11 @@
 {{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;-  [[Metropol Fransa]]
 {{!!}} {{{FR_metropol_nüfusu}}} {{#if:{{{FR_metropol_nüfusu_sırası|}}} |([[Nüfusa göre ülkelerin listesi|{{{FR_metropol_nüfusu_sırası}}}]])}}
 }} 
-<!----- Nüfus yoğunluğu ----->
+<!----- İnsannar sıklıı ----->
 {{!}}- | class="mergedrow" | class="mergedbottomrow"}}
 {{#if:{{{nüfus_yoğunluğu|}}}|
-{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[Nüfus yoğunluğu|Yoğunluk]] {{#if:{{{FR_dipnot5|}}} |{{{FR_dipnot5}}} }}
-{{!!}} {{{nüfus_yoğunluğu}}}/km²&nbsp; {{#if:{{{nüfus_yoğunluğu_dipnotu|}}}|{{{nüfus_yoğunluğu_dipnotu|}}}}} {{#if:{{{nüfus_yoğunluğu_sırası|}}} |([[Nüfus yoğunluklarına göre ülkeler listesi|{{{nüfus_yoğunluğu_sırası}}}]])}}<br/>{{#if:{{{nüfus_yoğunluğu_milkare|}}}|{{formatnum:{{{nüfus_yoğunluğu_milkare|}}}}}|{{formatnum:{{#expr: {{{nüfus_yoğunluğu|}}} div 2.589988110336 round 0}}}}}}/mil²
+{{!}}style="white-space:nowrap;padding: 0em 0.6em 0.4em 0.6em;"{{!}} &nbsp;- [[İnsannar sıklıı]] {{#if:{{{FR_dipnot5|}}} |{{{FR_dipnot5}}} }}
+{{!!}} {{{nüfus_yoğunluğu}}}/km²&nbsp; {{#if:{{{nüfus_yoğunluğu_dipnotu|}}}|{{{nüfus_yoğunluğu_dipnotu|}}}}} {{#if:{{{nüfus_yoğunluğu_sırası|}}} |(İnsannar sıklıı sırası)}}<br/>{{#if:{{{nüfus_yoğunluğu_milkare|}}}|{{formatnum:{{{nüfus_yoğunluğu_milkare|}}}}}|{{formatnum:{{#expr: {{{nüfus_yoğunluğu|}}} div 2.589988110336 round 0}}}}}}/mil²
 }} 
 |-
 <!---------- GSYİH-SAGP ---------->
@@ -353,14 +353,14 @@
 |-
 <!---------- Para birimi ---------->
 {{#if: {{{para_birimi|}}}|
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Para|Para birimi]]'''
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Para]]'''
 {{!!}} {{{para_birimi}}} {{#if:{{{para_birimi_kodu|}}}| (<code>[[ISO 4217|{{{para_birimi_kodu}}}]]</code>) }}
 }}
 |-
-<!---------- Zaman dilimi ---------->
+<!---------- Saat Kuşaı ---------->
 {{#if:{{{zaman_dilimi|}}}{{{utc|}}}| 
-{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Zaman dilimi]]'''
-{{!!}} {{{zaman_dilimi|}}} {{#if:{{{utc|}}} |{{nowrap|([[Eşgüdümlü Evrensel Zaman|UTC]]{{{utc}}})}} }}
+{{!}}style="white-space:nowrap;padding: 0.4em 0.6em 0.4em 0.6em;"{{!}} '''[[Saat Kuşaı]]'''
+{{!!}} {{{zaman_dilimi|}}} {{#if:{{{utc|}}} |{{nowrap|(UTC{{{utc}}})}} }}
 }}
 {{!}}- | class="mergedrow" | class="mergedbottomrow"}}
 {{#if:{{{yaz_zaman_dilimi|}}}|
