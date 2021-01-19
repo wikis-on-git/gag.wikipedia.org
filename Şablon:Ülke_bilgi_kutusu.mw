@@ -64,7 +64,7 @@
 | {{{en_büyük_şehir|}}}{{{en_büyük_yerleşim|}}}     = baş kasaba
 | baş kasaba diil
 }}}}|baş kasaba|
-<!----- Başkent en büyük şehir veya yerleşim ise: ----->ve en büyük {{{en_büyük_yerleşim_tipi|şehir}}}
+<!----- Başkent en büyük şehir veya yerleşim ise: ----->ve en büük {{{en_büyük_yerleşim_tipi|kasaba}}}
 {{!!}} {{{başkent}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}|
 <!-- Başkent en büyük şehir veya yerleşim değil ise: -->
 {{!!}} {{{başkent|}}}{{{yönetim_merkezi|}}} {{#if:{{{latd|}}}|<br/><small><span style="white-space:nowrap;">{{coord|{{{latd}}}|{{{latm}}}|{{{latNS}}}|{{{longd}}}|{{{longm}}}|{{{longEW}}}|type:country}}</span></small>}}
