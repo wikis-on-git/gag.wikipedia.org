@@ -9,10 +9,8 @@
 |-
 | colspan="3" | 
 {|
-<small>
 |- 
-<small>
-!  bgcolor=#85ABFF colspan="1" |<font color="white"><small> '''Aza Devletler'''</font><small> 
+!  bgcolor=#85ABFF colspan="1" |<span style="color:white;"><small> '''Aza Devletler'''</small><span> 
 | <small>
 {{Amerika Birleşik Devletläri}} &nbsp;•
 {{Büük Britaniya}} &nbsp;• 
@@ -22,18 +20,15 @@
 {{Kanada}} &nbsp;• 
 {{Rusiya}} &nbsp;•
 {{Yaponiya}} 
-<small>
+</small>
 |
 | 
 |-
 | 
 |
 |-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Temsil edilenler'''</font><small>
-| <small>
-{{Evropa birlii bayrak}}  
-<small>
+!  bgcolor=#85ABFF colspan="1" | <span style="color:white;"><small>'''Temsil edilenler'''</small></span>
+| <small>{{Evropa birlii bayrak}}</small>
 |}
 
 |-
