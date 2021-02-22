@@ -1,28 +1,76 @@
-{{Devlet 
-|kendi_dilinde_adı = Republic of Ghana
-|tam_adı = Gana
-|bayrak = Flag of Ghana.svg
-|arma = Guinea-Stemma.png
-|harita = LocationGhana.svg
-|slogan =
-|marş = 
-|kuruluş =
-|başkent = 
-|dil = 
-|halk =
-|hükümet = 
-|prezident = Nana Akufo-Addo
-|din =
-|toprak= 
-|tahmini_nüfus =  
-|yoğunluk = 
-|gsyih = 
-|para = [[Gana Cedisi]]
-|para_kodu = GH
-|vakit = 
-|internet = .gh
-|telefon = + 233
-}}
+{{Ülke bilgi kutusu
+| kendi_dilinde_adı                    = ''Republic of Ghana''
+| adı                                  = Gana
+| tam_adı                              = Gana Cumhuriyeti
+| bayrak_resmi                         = Flag of Ghana.svg
+| arma_resmi                           =Coat_of_arms_of_Ghana.svg
+| slogan                               = "Özgürlük ve Adalet"
+| ulusal_marş                          = ''[[God Bless Our Homeland Ghana]]'' <br/> ''(Tanrı vatanımız Gana'yı korusun)''<br/><br/><br/>
+| harita_resmi                         = Ghana (orthographic projection).svg
+| harita_açıklaması                    = 
+| harita2_resmi                        = Ghana physical map.svg
+| harita2_açıklaması                   = 
+| başkent                              = [[Akra]]
+| en_büyük_şehir                       = başkent
+| başkent_koordinatları                = {{Kayma|{{Koordinat|5|33|N|0|15|W|type:city}}}}
+
+| resmî_diller                         = [[İngilizce]]
+| bölgesel_diller                      = Akan
+| milliyet                             = Ganalı
+| yönetim_biçimi                       = Demokratik [[Başkanlık sistemi]]
+| yönetici_unvanı1                     = Devlet Başkanı
+| yönetici_adı1                        = [[Nana Addo Dankwa Akufo-Addo]]
+| yönetici_unvanı2                     = Başkan yardımcısı
+| yönetici_adı2                        = [[Mahamudu Bawumia]]
+| olay1                                = Bağımsızlık
+| olay1_tarihi                         = 6 Mart 1957
+| yüzölçümü_sırası                     = 82.
+| yüzölçümü                            = 238.537
+| su_yüzdesi                           = 4,61
+| population_estimate      = 31.072.940<ref name=popest>{{web kaynağı |başlık=2020 Population Projection by Sex, 2010–2020|yayıncı=Ghana Statistical Service |url=http://www.statsghana.gov.gh/pop_stats.html |erişimtarihi=2 Mayıs 2018 |arşivurl=https://web.archive.org/web/20180424110616/http://www.statsghana.gov.gh/pop_stats.html |arşivtarihi=24 Nisan 2018 |ölüurl=evet}}</ref>
+| population_census        = 24.200.000<ref name=unpop>{{web kaynağı |url=http://www.ghana.gov.gh/index.php?option=com_content&view=article&id=4712:2010-provisional-census-results-out&catid=88:daily-news-summary&Itemid=236 |arşivurl=https://web.archive.org/web/20110615141322/http://www.ghana.gov.gh/index.php?option=com_content&view=article&id=4712%3A2010-provisional-census-results-out&catid=88%3Adaily-news-summary&Itemid=236 |arşivtarihi=15 Haziran 2011 |başlık=2010 Provisional Census Results Out |version=4 February 2011 |yayıncı=Population Division, Ghana Government |yıl=2010 |erişimtarihi=7 Şubat 2011 |yazar=Antoinette I. Mintah |ölüurl=evet}}</ref>
+| population_estimate_year = 2020
+| population_estimate_rank = 47.
+| population_census_year   = 2010
+| population_density_km2   = 101,5
+| population_density_sq_mi = 258,8 <!--Do not remove per [[Wikipedia:Manual of Style/Dates and numbers]]-->
+| population_density_rank  = 103.
+
+| GDP_PPP                = 175,639 milyar $
+| GDP_PPP_rank           = 69.
+| GDP_PPP_year           = 2020
+| GDP_PPP_per_capita     = 5.707 $<ref name="auto">{{Web kaynağı | url = https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/weorept.aspx?pr.x=62&pr.y=7&sy=2019&ey=2024&scsm=1&ssd=1&sort=country&ds=.&br=1&c=676&s=NGDPD,PPPGDP,NGDPDPC,PPPPC&grp=0&a= | başlık = Report for Selected Countries and Subjects | website = www.imf.org | arşivengelli = evet}}</ref>
+| GDP_PPP_per_capita_rank = 127.
+
+| GDP_nominal            = 67,337 milyar $
+| GDP_nominal_rank       = 72.
+| GDP_nominal_year       = 2020
+| GDP_nominal_per_capita = 2.188 $<ref name="auto"/>
+| GDP_nominal_per_capita_rank = 134.
+
+| Gini                     = 42.4
+| Gini_year                = 2012
+| Gini_change              = <!--increase/decrease/steady-->
+| Gini_ref                 = <ref name="worldbank">{{web kaynağı|url=https://data.worldbank.org/indicator/SI.POV.GINI?locations=GH|başlık=GINI index (World Bank estimate)|yayıncı=[[World Bank]]|website=data.worldbank.org|erişimtarihi=24 Ocak 2019|arşivurl=https://web.archive.org/web/20190125020447/https://data.worldbank.org/indicator/SI.POV.GINI?locations=GH|arşivtarihi=25 Ocak 2019|ölüurl=hayır}}</ref>
+| Gini_rank                = 
+| HDI                      = 0.611
+| HDI_year                 = 2019
+| HDI_change               = increase
+| HDI_ref                  = <ref name="UNHDR">{{Web kaynağı | url = http://hdr.undp.org/sites/default/files/hdr2020.pdf | başlık = Human Development Report 2020 | dil = İngilizce | yayıncı = [[United Nations Development Programme]] | tarih = 15 Aralık 2020 | erişimtarihi = 15 Aralık 2020 | biçim = PDF | arşivurl = https://web.archive.org/web/20201215063955/http://hdr.undp.org/sites/default/files/hdr2020.pdf | arşivtarihi = 15 Aralık 2020}}</ref>
+| HDI_rank                 = 138
+
+| para_birimi                          = [[Cedi]]
+| para_birimi_kodu                     = GHS
+| zaman_dilimi                         = [[Greenwich Ortalama Zamanı|GMT]]
+| utc                                  = 0
+| yaz_zaman_dilimi                     = [[Greenwich Ortalama Zamanı|GMT]]
+| yaz_utc                              = 0
+| takvim                               = 
+| trafik_akışı                         = sağ
+| cctld                                = [[.gh]]
+| ISO_3166_kodu                        = 
+| telefon_kodu                         = 233
+}} 
 
 [[Dosye:Central accra-2.jpg|thumb|right|220px|Accra]]
 [[Dosye:Kumasi2 Ghana.jpg|thumb|right|220px|Kumasi]]
@@ -78,9 +126,7 @@
 * Kanon (Zakon) : 28 Çiçek ay (aprel) 1992
 
 * Saat kuşaı : GMT (UTC+0)
-
-* Dinner : Hristian : % 68.8, İslam % 15 , Tayfe % 16,2
-
+* Dinner : Hristian % 68.8, İslam % 15 , Tayfe % 16,2
 
 === Komşuları ===
 
