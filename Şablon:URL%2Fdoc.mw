@@ -20,64 +20,64 @@ This template can be used to create a formatted external link.
 |-
 ! Code !! Result
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki> }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki> }}</nowiki></code>
 | {{ {{BASEPAGENAME}} }} 
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | }} 
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| EXAMPLE.com }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| EXAMPLE.com }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | EXAMPLE.com }} 
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| example.com }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| example.com }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | example.com }} 
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | www.example.com }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | http://www.example.com }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| https://www.example.com }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| https://www.example.com }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | https://www.example.com }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| ftp://www.example.com }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| ftp://www.example.com }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | ftp://www.example.com }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| ftp://ftp.example.com }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| ftp://ftp.example.com }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | ftp://ftp.example.com }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/ }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/ }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | http://www.example.com/ }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/path }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/path }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | http://www.example.com/path }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | www.example.com/foo }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/foo | link }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/foo | link }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | http://www.example.com/foo | link }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo | link }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo | link }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | www.example.com/foo | link}}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/path/ }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/path/ }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | http://www.example.com/path/ }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo/ }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo/ }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | www.example.com/foo/ }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| 1=http://www.example.com/path?section=17 }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| 1=http://www.example.com/path?section=17 }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | 1=http://www.example.com/path?section=17 }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| 1=www.example.com/foo?page=42 }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| 1=www.example.com/foo?page=42 }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | 1=www.example.com/foo?page=42 }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/foo/ | link }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| http://www.example.com/foo/ | link }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | http://www.example.com/foo/ | link }}
 |-
-| <tt><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo/ | link }}</nowiki></tt>
+| <code><nowiki>{{</nowiki> {{BASEPAGENAME}} <nowiki>| www.example.com/foo/ | link }}</nowiki></code>
 | {{ {{BASEPAGENAME}} | www.example.com/foo/ | link}}
 |}
 
