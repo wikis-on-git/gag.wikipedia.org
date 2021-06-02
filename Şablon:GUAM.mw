@@ -5,38 +5,34 @@
 <div class="NavHead" style="background:#85ABFF; ">'''[[GUAM|GUAM]]'''</div>
 <div class="NavContent" style="text-align:left;">
 {|
-<small>
 |- 
-<small>
-!  bgcolor=#85ABFF colspan="1" |<font color="white"><small> '''Aza Devletlär'''</font><small> 
+!  bgcolor=#85ABFF |<small style="color:white;">'''Aza Devletlär'''</small>
 | <small>
 {{Azerbaycan bayrak}} &nbsp;• 
 {{Gruziya}} &nbsp;•
 {{Moldova}} &nbsp;• 
 {{Ukrayna}} 
-<small>
+</small>
 |
 | 
 |-
 | 
 |
 |-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Gözlemci Devletlär'''</font><small>
+!  bgcolor=#85ABFF | <small style="color:white;">'''Gözlemci Devletlär'''</small>
 | <small>
 {{Latviya}} &nbsp;• 
 {{Türkiye}} 
-<small>
+</small>
 |
 | 
 |-
 | 
 |
 |-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Eski Aza Devlet'''</font><small>
+!  bgcolor=#85ABFF | <small style="color:white;">'''Eski Aza Devlet'''</small>
 | <small>
 {{Özbekistan}} 
-<small>
+</small>
 |}
 |}
