@@ -4,7 +4,7 @@
 |-
 |- valign=top
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Odesa Görünüş</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Odesa Görünüş</div>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
@@ -15,11 +15,11 @@
 | align=center width=148 | Odesa gerbi
 |}
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Odesa Kartası</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Odesa Kartası</div>
 |-
 | align=center colspan=2 style="background: #ffffff;" | [[Dosye:Odessa.png|270px|center]]
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Odesa</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Odesa</div>
 |-
 |- valign=top
 | '''Geografik koordinatnarı:'''
