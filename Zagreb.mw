@@ -5,7 +5,7 @@
 |-
 |- valign=top
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Zagreb Görünüş</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Zagreb Görünüş</div>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
@@ -16,11 +16,11 @@
 | align=center width=148 | Zagreb gerbi
 |}
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Zagreb Kartası</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Zagreb Kartası</div>
 |-
 | align=center colspan=2 style="background: #ffffff;" | [[Dosye:Croatia location map, City of Zagreb county.svg|230px|center]]
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Zagreb</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Zagreb</div>
 |-
 |- valign=top
 | '''Devlet:'''
