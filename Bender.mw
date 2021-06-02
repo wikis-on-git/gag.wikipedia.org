@@ -5,7 +5,7 @@
 |-
 |- valign=top
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Bender Görünüş</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Bender Görünüş</div>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
@@ -16,11 +16,11 @@
 | align=center width=148 | Bender gerbi
 |}
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Bender Kartası</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Bender Kartası</div>
 |-
 | align=center colspan=2 style="background: #ffffff;" | [[Dosye:Bender map 2008.png|270px|center]]
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Bender</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Bender</div>
 |-
 |- valign=top
 | '''Geografik koordinatnarı:'''
