@@ -5,7 +5,7 @@
 |-
 |- valign=top
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Tiraspol Görünüş</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Tiraspol Görünüş</div>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
@@ -16,11 +16,11 @@
 | align=center width=148 | Tiraspol gerbi
 |}
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Tiraspol Kartası</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Tiraspol Kartası</div>
 |-
 | align=center colspan=2 style="background: #ffffff;" | [[Dosye:Naddniestrze-administracja.png|250px|center]]
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Tiraspol</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Tiraspol</div>
 |-
 |- valign=top
 | '''Devlet:'''
