@@ -5,7 +5,7 @@
 |-
 |- valign=top
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni Görünüş</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Ţicleni Görünüş</div>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
@@ -16,11 +16,11 @@
 | align=center width=148 | Romıniya gerbi
 |}
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni Kartası</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Ţicleni Kartası</div>
 |-
 | align=center colspan=2 style="background: #ffffff;" | [[Dosye:Ticleni jud Gorj.png|270px|center]]
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Ţicleni</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Ţicleni</div>
 |-
 |- valign=top
 | '''Devlet:'''
