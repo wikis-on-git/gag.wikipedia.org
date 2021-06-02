@@ -4,7 +4,7 @@
 |-
 |- valign=top
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Uşak Görünüş</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Uşak Görünüş</div>
 |-
 | style="background:#ffffff;" align=center colspan=2 |
 {| border=0 cellpadding=2 cellspacing=0
@@ -15,11 +15,11 @@
 | align=center width=148 | 
 |}
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Uşak Kartası</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Uşak Kartası</div>
 |-
 | align=center colspan=2 style="background: #ffffff;" | [[Dosye:Latrans-Turkey location Uşak.svg|270px|center]]
 |-
-! colspan="2" style="background: #e3e3e3;" | <center>Uşak</center>
+! colspan="2" style="background: #e3e3e3;" | <div class="center">Uşak</div>
 |-
 |- valign=top
 | '''Devlet:'''
