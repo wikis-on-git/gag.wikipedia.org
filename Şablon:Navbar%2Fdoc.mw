@@ -5,9 +5,9 @@
 == Usage ==
 ===General===
 Copyable examples when inside a given [[Wikipedia:Navigation templates|template]] adds navbar navigational functionality:
-:<tt><nowiki>{{navbar|{{subst:PAGENAME}}|mini=1}}</nowiki></tt> 
-:<tt><nowiki>{{navbar|{{subst:PAGENAME}}|plain=1}}</nowiki></tt> 
-:<tt><nowiki>{{navbar|{{subst:PAGENAME}}|fontstyle=color:green}}</nowiki></tt> 
+:<code><nowiki>{{navbar|{{subst:PAGENAME}}|mini=1}}</nowiki></code> 
+:<code><nowiki>{{navbar|{{subst:PAGENAME}}|plain=1}}</nowiki></code> 
+:<code><nowiki>{{navbar|{{subst:PAGENAME}}|fontstyle=color:green}}</nowiki></code> 
 
 The <code><nowiki>{{subst:PAGENAME}}</nowiki></code> will be substituted with the template's name when parsed by the servers.
 <nowiki>{{navbar|navbar/doc}}</nowiki> gives: {{navbar|navbar/doc}}
