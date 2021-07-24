@@ -162,7 +162,7 @@ The first unnamed parameter following the longitude is an optional string of coo
 {{UF-coord-classes}}
 
 ==Incorrect uses and maintenance category==
-The template has some input checks built in.  Most errors display a <font color=red><b>bold, red</b></font> message inline and categorize the article in the [[Wikipedia:Hidden category|hidden]] [[Wikipedia:Categorization#Maintenance_categories|maintenance category]] '''[[:Category:Coord template needing repair|Coord template needing repair]]'''. There are currently '''{{PAGESINCATEGORY:Coord_template_needing_repair}}''' pages in that category. See the category description for more information.
+The template has some input checks built in.  Most errors display a <span style="color:red;"><b>bold, red</b></span> message inline and categorize the article in the [[Wikipedia:Hidden category|hidden]] [[Wikipedia:Categorization#Maintenance categories|maintenance category]] '''[[:Category:Coord template needing repair|Coord template needing repair]]'''. There are currently '''{{PAGESINCATEGORY:Coord_template_needing_repair}}''' pages in that category. See the category description for more information.
 
 A daily report of coordinates needing repair is at [[tools:~dispenser/view/File viewer#log:coord-enwiki.log]].
 
