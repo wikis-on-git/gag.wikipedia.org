@@ -1,27 +1,22 @@
 {| class="toccolours" width=100% style="clear:both; margin:1.5em auto; text-align:center;" summary="Biyaz Rusiya Voblastları"
-|- valign="top" 
+|- valign="top"
 |
 <div style="float:right;margin-right:8px;">{{Tnavbar|Biyaz Rusiya Voblastları|mini=1}}</div><div class="NavHead" style="background:#ccf; ">'''[[Biyaz Rusiya Voblastları]]'''</div>
 <div class="NavContent" style="text-align:left;">
 {|  width=100% style="text-align:left;"
 |-
-| colspan="3" | 
+| colspan="3" |
 {|
-<small>
-|- 
-<small>
-!  bgcolor=#85ABFF colspan="1" |<font color="white"><small> '''Baş kasaba '''</font><small> 
-| <small>
-[[Minsk|Minsk]] 
-<small>
-|
-| 
 |-
-| 
+!  bgcolor=#85ABFF colspan="1" |<small style="color:white;">'''Baş kasaba '''</small>
+| <small>[[Minsk]]</small>
+|
 |
 |-
-<small>
-!  bgcolor=#85ABFF colspan="1" | <font color="white"><small>'''Voblastlar '''</font><small>
+|
+|
+|-
+!  bgcolor=#85ABFF colspan="1" |<small style="color:white;">'''Voblastlar'''</small>
 | <small>
 {{Brest Rayonu}} &nbsp;•
 {{Homyel Voblastı}} &nbsp;•
@@ -29,7 +24,7 @@
 {{Mahilyov Voblastı}}&nbsp;•
 {{Minsk Voblastı}} &nbsp;•
 {{Vitsebsk Voblastı}}&nbsp;•
-<small>
+</small>
 |}
 |}
 |-
