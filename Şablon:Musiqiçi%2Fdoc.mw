@@ -1,0 +1,189 @@
+{{docpage}}
+
+'''{{tl|Musiqiçi}}''' — [[musiqiçi]] səhifələri üçün standart məlumat qutusudur. Musiqi qrupları üçün {{tl|Musiqi qrupu}} şablonuna baxın.
+
+{{Musiqiçi
+| adı              = Kurt Kobeyn
+| orijinal adı     = {{dil-en|Kurt Cobain}}
+| şəkil            = Nirvana_around_1992.jpg
+| şəklin izahı     = 1992-ci il MTV mükafatlandırma mərasimi
+| şəklin ölçüsü    = 
+| fon rəngi        = solo ifaçı
+| doğum adı        = Kurt Donald Cobain
+| ləqəbi           = Kurdt Cobain
+| doğum tarixi     = 20.2.1967
+| doğum yeri       = Aberdin, [[Vaşinqton]], [[ABŞ]]
+| vəfat tarixi     = 5.4.1994
+| vəfat yeri       = [[Sietl]], [[Vaşinqton]], [[ABŞ]]
+| dəfn yeri        = [[Sietl]], [[Vaşinqton]], [[ABŞ]]
+| vətəndaşlığı     = {{ABŞ}}
+| janr             = [[alternativ-rok]], [[qranj]]
+| fəaliyyəti       = [[musiqiçi]], [[bəstəkar]]
+| musiqi aləti     = [[vokal]], [[gitara]], [[bas-gitara]]
+| fəaliyyət illəri = 1986–1994
+| albom şirkəti    = Sub Pop, <br>DGC Records
+| mükafatları      = 
+| imzası           = 
+| vikianbar        = Kurt Cobain
+}}
+
+== Parametrlər ==
+<pre>{{Musiqiçi
+ |adı              = 
+ |orijinal adı     = 
+ |şəkil            = 
+ |şəklin ölçüsü    = 
+ |şəklin izahı     = 
+ |fon rəngi        = 
+ |digər adı        = 
+ |doğum adı        = 
+ |ləqəbi           = 
+ |doğum tarixi     = 
+ |doğum yeri       = 
+ |vəfat tarixi     = 
+ |vəfat yeri       = 
+ |vəfat səbəbi     = 
+ |dəfn yeri        = 
+ |vətəndaşlığı     = 
+ |milliyyəti       = 
+ |fəaliyyəti       = 
+ |fəaliyyət illəri = 
+ |janr             = 
+ |musiqi aləti     = 
+ |səs tembri       = 
+ |albom şirkəti    = 
+ |əlaqələri        = 
+ |təhsili          = 
+ |üzvlüyü          = 
+ |mükafatları      = 
+ |imzası           = 
+ |saytı            = 
+ |vikianbar        = 
+}}</pre>
+
+;Əlavə parametrlər
+<pre>
+ |həyat yoldaşı    = 
+ |uşağı            = 
+ |partnyoru        = 
+ |atası            = 
+ |anası            = 
+</pre>
+
+'''Qeyd:''' ləqəbi, janr, albom şirkətlərinin sayı 1-dən çox olarsa, onları vergüllə ayırmaq lazımdır <br>(şablonda tək və ya cəm halda yazılması üçün, məsələn 1 janr olduqda "Janr", çox olduqda "Janr" yazılması üçün)
+
+;Ad
+Sənətçinin ("səhnə") adı . Bu sahə zəruridir.
+
+;Şəkil
+şəklin yalnız adı nı yazın. Nümunə, <code>| şəkil = Misal.jpg</code>.
+
+;Şəklin izahı
+şəkil başlığını göstərmək üçün.
+
+;Şəklin ölçüsü
+Şəklin ölçüsünü bu parametrlə dəyişmək mümkündür. Piksel genişliyini həm "px"-lə həm də "px"-siz yazıla bilər. Məsələn, <code>|şəklin ölçüsü = 150px</code>.
+
+;Fon rəngi
+Musiqiçini ifadə edən aşağıdakı yeddi kateqoriyadan birini seçin.
+
+Şablon rəngi musiqiçi haqqında sürətli məlumat üçün kodlaşdırılmışdır. İstifadəçi rəngləri birbaşa seçmir, "fon rəngi" qismində ifadə edilən kod sənətçinin fəaliyyət növünü ifadə edir. Mümkün olan "fəaliyyət" rəngləri aşağıdakı cədvəldə ifadə edilmişdir.
+
+{|style="background:transparent;"
+|-
+|style="vertical-align:top;"|
+{|class="infobox" style="width:21em;font-size:95%;margin:0;"
+|-
+!style="background:{{Musiqiçi/rəng|solo ifaçı}};"| solo ifaçı
+|}
+| Solo ifaçılar üçün. Nümunə: Sevda Ələkbərzadə
+|-
+|style="vertical-align:top;"|
+{|class="infobox" style="width:21em;font-size:95%;margin:0;"
+|-
+!style="background:{{Musiqiçi/rəng|vokal ifa etməyən çalğıçı}};"| vokal ifa etməyən çalğıçı
+|}
+| Musiqi alətində ifa edib vokal ifa etməyən sənətçilər üçün. Nümunə: Ənvər Sadıxov
+|-
+|style="vertical-align:top;"|
+{|class="infobox" style="width:21em;font-size:95%;margin:0;"
+|-
+!style="background:{{Musiqiçi/rəng|ifaçı olmayan personal}};"| ifaçı olmayan personal
+|}
+|  Prodüserlər, bəstəkarlar, aranjmançılar, DJ-lər kimi mahnı ifa etməyənlər üçün. Nümunə: Vaqif Gərayzadə
+|-
+|style="vertical-align:top;"|
+{|class="infobox" style="width:21em;font-size:95%;margin:0;"
+|-
+!style="background:{{Musiqiçi/rəng|dirijor}};"| bəstəkar, dirijor
+|}
+| Bəstəkar və dirijorlar üçün. Nümunə: Faiq Sücəddinov, Kazım Əliverdibəyov
+|-
+|style="vertical-align:top;"|
+{|class="infobox" style="width:21em;font-size:95%;margin:0;"
+|-
+!style="background:{{Musiqiçi/rəng|}};"| digər
+|}
+| Parametr boş saxlanılarsa və ya müvafiq sözlər yazılmazsa.
+|}
+
+;Digər adı
+Sənətçinin digər adları. Məsələn, Soltan Hacıbəyov, Sultan Hacıbəyov.
+
+;Doğum adı
+Sənətçilərin doğum adını bura yazın.
+
+;Ləqəbi
+Sənətçilərin rəsmi səhnə adları üçün istifadə edilə bilər.
+
+;Doğum tarixi
+Sənətçinin doğum tarixini (Nümunə: <code>23 noyabr 1945</code> və ya <code>23.11.1945</code> şəklində istifadə edə bilərsiniz).
+
+;Doğum yeri
+Sənətçinin doğulduğu şəhər, ölkə göstərilir.
+
+;Vəfat tarixi
+Sənətçinin ölüm tarixi. (Nümunə: <code>1 may 1985</code> və ya <code>1.5.1985</code> şəklində istifadə edə bilərsiniz).
+
+;Vəfat yeri
+Sənətçinin vəfat etdiyi şəhər, ölkə göstərilir.
+
+;Dəfn yeri
+Sənətçinin dəfn olunduğu şəhər, ölkə göstərilir.
+
+;Milliyyəti
+Sənətçinin mənsub olduğu etnik qrupu ifadə etmək üçün.
+
+;Musiqi aləti
+Sənətçi ifa etdiyi əsas musiqi alətləri üçündür. Misal: <code><nowiki>[[gitara]]</nowiki></code> və ya <code><nowiki>[[skripka]]</nowiki></code>.
+
+;Səs tembri
+{{fontcolor||#c0c0c0|Bu bölmə solo ifaçılar üçündür.}}
+Səs tembrləri ilə [[səs tembri]] məqaləsində tanış ola bilərsiniz.
+
+;Janr
+Sənətçi musiqi janrını ifadə etmək üçün istifadə edin.
+
+;Fəaliyyəti
+Sənətçinin fəaliyyəti.(Misal: musiqiçi, bəstəkar, prodüser və s.). Musiqidən kənar peşələrini (məs., aktyorluq), yalnız önəmlidirsə yazın.
+
+;Fəaliyyət illəri
+Musiqiçinin aktiv olduğu illər. Sadəcə illəri göstərin. Ardıcıl olmayan illəri vergüllə ayırın. Ardıcıl illəri [[tire]] ilə ayırın. (məs., {{nobr|1993–2004, 2005-ci ildən}})
+
+;Üzvlüyü
+Musiqiçinin üzv olduğu qruplar, ansambllar.
+
+;Əlaqələri
+Sənətçinin əməkdaşlıq etdiyi musiqilər.
+
+;Albom şirkəti
+Sənətçinin əməkdaşlıq etdiyi musiqi şirkətləri. Şirkət adlarının sonundaki "Music" sözünü yazmayın.
+
+;Saytı
+Sənətçinin rəsmi veb-saytı.
+
+<includeonly>
+[[Kateqoriya:Şablonlar:Musiqiçilər| ]]
+[[Kateqoriya:Məlumat qutuları:Mədəniyyət və incəsənət xadimləri]]
+[[Kateqoriya:Məlumat qutuları:Musiqi]]
+</includeonly>
