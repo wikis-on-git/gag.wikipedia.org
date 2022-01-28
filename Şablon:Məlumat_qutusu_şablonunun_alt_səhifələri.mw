@@ -1,0 +1,45 @@
+{{Naviqasiya cədvəli
+|ad                = Məlumat qutusu şablonunun alt səhifələri
+|state             = {{{state|}}}
+|siyahıların sinfi = hlist hlist-items-nowrap
+|başlıq            = {{tnav|Məlumat qutusu}} şablonunun alt səhifələri
+|başlığın stili    = background:#ccddff
+|qrupların stili   = background:#ccddff
+
+|qrup1             = {{!}}yuxarı=
+|siyahı1           =
+* {{tnav|məlumat qutusu/başlıq}} (dəqiqləşdirilməmiş başlıq)
+* {{tnav|məlumat qutusu/ad}} (dəqiqləşdirilməmiş ad)
+
+|qrup2             = {{!}}yuxarı2=
+|siyahı2           =
+* {{tnav|məlumat qutusu/orijinal başlıq}} ([[d:P:P1705|P1705]] parametri)
+* {{tnav|məlumat qutusu/əsərin orijinal adı}} ([[d:P:P1476|P1476]] parametri)
+* {{tnav|məlumat qutusu/rəsmi adı}} ([[d:P:P1448|P1448]] parametri)
+* {{tnav|məlumat qutusu/orijinal ad}} ([[d:P:P1559|P1559]] parametri)
+
+|qrup3             = Müxtəlif
+|siyahı3           =
+* {{tnav|məlumat qutusu/şəkil}}
+* {{tnav|məlumat qutusu/bayraq və gerb}} ([[d:p:P41|P41]] və [[d:p:P94|P94]] parametrləri)
+* {{tnav|məlumat qutusu/medallar}} ([[d:p:P166|P166]] parametri)
+* {{tnav|məlumat qutusu/xronologiya}} ([[d:p:P155|P155]] və [[d:p:P156|P156]] parametrləri)
+* {{tnav|məlumat qutusu/dövr}} ([[d:p:P580|P580]] və [[d:p:P582|P582]] parametrləri)
+* {{tnav|məlumat qutusu/kataloq kodları}} ([[d:p:P528|P528]] parametri)
+* {{tnav|məlumat qutusu/blok}}
+* {{tnav|məlumat qutusu/markerli blok}}
+
+|qrup4             = {{!}}aşağı=
+|siyahı4           =
+* {{tnav|məlumat qutusu/aşağı}}
+* {{tnav|məlumat qutusu/Vikiverilənlər}}
+* {{tnav|məlumat qutusu/Vikianbar}} ([[d:P:P373|P373]] parametrləri)
+* {{tnav|məlumat qutusu/Vikimənbə}}
+* {{tnav|məlumat qutusu/Vikikitab}}
+* {{tnav|məlumat qutusu/Vikisitat}}
+
+|aşağının sinfi    = hlist
+|aşağı             = 
+}}<noinclude>
+[[Kateqoriya:Naviqasiya şablonları:Şablonlar üçün]]
+</noinclude>
