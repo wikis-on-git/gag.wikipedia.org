@@ -1,0 +1,426 @@
+{{docpage}}
+{{ÇİŞ}}
+{{onLua|Navbox}}
+
+Bu şablon naviqasiya şablonlarını tez yaratmağa imkan verir.
+
+{{şablonun başqa adı|Naviqasiya cədvəli}}
+
+== Köçürmək üçün nümunə ==
+
+=== Azərbaycan dilində ===
+<pre style="overflow: auto;">{{Naviqasiya cədvəli
+| ad                = {{subst:PAGENAME}}
+| başlıq            = 
+| başlığın stili    = <!-- background: ; -->
+| siyahıların sinfi = hlist hlist-items-nowrap
+| state             = {{{vəziyyət|}}}
+| yuxarı            = 
+| şəkil             = 
+
+| qrup1             = 
+| list1             = 
+
+| qrup2             = 
+| list2             =
+<!-- ... -->
+| qrup3            = 
+| list3             = 
+
+| aşağı             = 
+}}
+</pre>
+
+=== İngilis dilində ===
+<pre style="overflow: auto;">{{Navbox
+| name       = {{subst:PAGENAME}}
+| titlestyle = background: ;
+| basestyle  = background: ; color:;
+| listclass  = hlist
+| state      = {{{state|}}}
+
+| title      = 
+| above      = 
+| image      = 
+
+| group1     = 
+| list1      = 
+
+| group2     = 
+| list2      =
+<!-- ... -->
+| group3     = 
+| list3      = 
+
+| below      = 
+}}
+</pre>
+
+== Parametrlər ==
+{{Navbox
+| ad      = Navbox/doc
+| state   = uncollapsed
+| başlıq  = {{{title}}}{{{başlıq}}}
+| yuxarı  = {{{above}}}{{{yuxarı}}}
+| şəkil   = {{{image}}}{{{şəkil}}}
+| qrup1   = {{{group1}}}{{{qrup1}}}
+| siyahı1 = {{{list1}}}{{{siyahı1}}}
+| qrup2   = {{{group2}}}{{{qrup2}}}
+| siyahı2 = {{{list2}}}{{{siyahı2}}}
+| siyahı3 = {{{list3}}}{{{siyahı3}}} ''{{{siyahı3}}}-süz''
+| qrup4   = {{{group4}}}{{{qrup4}}}
+| siyahı4 = {{{list4}}}{{{siyahı4}}}
+| aşağı   = {{{below}}}{{{aşağı}}}
+}}
+
+=== Əsas ===
+{| class="wikitable" style="float:right; margin-left:1em;"
+! colspan="2" | Parametrlərin siyahısı
+|-
+! İngilis dilində
+! Azərbaycan dilində
+|-
+| {{para|name}}
+| {{para|ad}}
+|-
+| {{para|title}}
+| {{para|başlıq}}
+|-
+| {{para|navbar}}
+| {{para|baxış üçün keçid}}
+|-
+| {{para|border}}
+|—
+|-
+| {{para|state}}
+|—
+|-
+| {{para|above}}
+| {{para|yuxarı}}
+|-
+| {{para|image}}
+| {{para|şəkil}}
+|-
+| {{para|imageleft}}
+| {{para|sol şəkil}}
+|-
+| {{para|group<sub>n</sub>}}
+| {{para|qrup<sub>n</sub>}}
+|-
+| {{para|list<sub>n</sub>}}
+| {{para|siyahı<sub>n</sub>}}
+|-
+| {{para|below}}
+| {{para|aşağı}}
+|-
+| {{para|bodystyle}}
+| {{para|gövdənin stili}}
+|-
+| {{para|basestyle}}
+| {{para|bazanın stili}}
+|-
+| {{para|titlestyle}}
+| {{para|başlığın stili}}
+|-
+| {{para|groupstyle}}
+| {{para|qrupların stili}}
+|-
+| {{para|group<sub>n</sub>style}}
+| {{para|qrupun stili<sub>n</sub>}}
+|-
+| {{para|groupwidth}}
+| {{para|qrupun eni}}
+|-
+| {{para|liststyle}}
+| {{para|siyahıların stili}}
+|-
+| {{para|list<sub>n</sub>style}}
+| {{para|siyahının stili<sub>n</sub>}}
+|-
+| {{para|listpadding}}
+| {{para|siyahı boşluğu}}
+|-
+| {{para|abovestyle}}
+| {{para|yuxarının stili}}
+|-
+| {{para|belowstyle}}
+| {{para|aşağının stili}}
+|-
+| {{para|imagestyle}}
+| {{para|şəklin stili}}
+|-
+| {{para|imageleftstyle}}
+| {{para|sol şəklin stili}}
+|-
+| {{para|bodyclass}}
+| {{para|gövdənin sinfi}}
+|-
+| {{para|titleclass}}
+| {{para|başlığın sinfi}}
+|-
+| {{para|imageclass}}
+| {{para|şəklin sinfi}}
+|-
+| {{para|groupclass}}
+| {{para|qrupun sinfi}}
+|-
+| {{para|listclass}}
+| {{para|siyahıların sinfi}}
+|-
+| {{para|aboveclass}}
+| {{para|yuxarının sinfi}}
+|-
+| {{para|belowclass}}
+| {{para|aşağının sinfi}}
+|-
+| {{para|titlegroup}}
+|—
+|-
+| {{para|titlegroupstyle}}
+|—
+|-
+| {{para|innerstyle}}
+|—
+|}
+; ad*
+; name*
+: Şablonun adı, naviqasiya cədvəlində [[Şəkil:Wikipedia interwiki section gear icon.svg|14px|Bu şablona bax|link=Şablon:Navbox|alt=]] (bütün səhifələrdən şablona keçid) düyməsini əlavə etmək üçün istifadə olunur. Sadəcə {{tc|subst:PAGENAME}} formasında da istifadə etmək mümkündür. Əgər {{para|baxış üçün keçid|plain}} parametri qoşulubsa, bu parametr işləmir.
+
+; state* <span style="font-weight:normal;">[<code>autocollapse, collapsed, uncollapsed, plain, off</code>]</span>
+:: <code>autocollapse</code> — susmaya görə təyin olunmuş dəyər; əgər {{para|state}} parametri boşdursa, bu dəyərdən istifadə olunur;
+:: <code>collapsed</code> — bu halda naviqasiya cədvəli hər zaman yığılmış görünəcəkdir;
+:: <code>uncollapsed</code> — bu halda naviqasiya cədvəli hər zaman açıq görünəcəkdir;
+:: <code>plain</code> — bu halda naviqasiya cədvəli hər zaman açıq görünəcək və sağdakı [göstər]{{sp/}}[gizlə] düymələri yığışdırılacaq. Şablonun başlığı "lupa" düyməsinə əhəmiyyət verməyərək cədvəlin tam eninə uyğunlaşacaq;
+:: <code>off</code> — bu halda naviqasiya cədvəli hər zaman qapalı görünəcək və sağdakı [göstər]{{sp/}}[gizlə] düymələri yığışdırılacaq. Şablonun başlığı "lupa" düyməsinə əhəmiyyət verməyərək cədvəlin tam eninə uyğunlaşmayacaq. <code>off</code> dəyərinin əvəzinə <code>plain</code> istifadə etməniz məsləhət görülür.
+
+; baxış üçün keçid*
+; navbar*
+: Naviqasiya cədvəlində [[Şəkil:Wikipedia interwiki section gear icon.svg|14px|Bu şablona bax|link=Şablon:Navbox|alt=]] (bütün səhifələrdən şablona keçid) düyməsini əlavə etmək üçün istifadə olunur.
+
+; border*
+:Əgər bu parametrin dəyəri <code> child </code> və ya <code> subgroup </code> formasında təyin olunubsa, naviqasiya cədvəli daxilində əlavə kiçik naviqasiya cədvəli yerləşdirmək mümkündür.
+:: {{pre|<nowiki>{{Navbox|child
+...
+}}</nowiki>}}
+
+=== Xanalar ===
+; başlıq*
+; title*
+: Cədvəlin üst sətirində göstərilən mətn. Adətən bu şablonun mövzusu və ya məzmununun qısa təsviri olur.
+
+; yuxarı
+; above
+: Cədvəl enində xana; əsas başlıqdan dərhal aşağıda, şablon gövdəsindən və siyahılardan üstdə yerləşir.
+
+; qrup<sub>n</sub>
+; group<sub>n</sub>
+: ''(qrup1, qrup2, …, qrup23)'' Əgər bu parametr qurulmasa, {{para|siyahı<sub>n</sub>}} daxilindəki məzmun göstəriləcək.
+
+; siyahı<sub>n</sub>
+; list<sub>n</sub>
+: ''(siyahı1, siyahı2, …, siyahı23)'' Şablonun əsası; Adətən daxili keçidlər verilən mətn toplusu olur. Hər {{para|siyahı<sub>n</sub>}} parametri {{para|qrup <sub>n</sub>}} parametri ilə müşayiət oluna bilər.
+
+; şəkil
+; image
+: Cədvəlin sağ tərəfində, əsas başlığın altında görünəcək şəkil (qrup və siyahıların sağında). Şəklin göstərilməsi üçün ən azı bir {{para|siyahı}} və ya {{para|qrup}} parametri təyin olunmalıdır. {{Para|şəkil}} parametri standart vikikodun göstərilməsinə imkan verir, yəni:
+:: <code><nowiki>| şəkil = [[Şəkil:Nümunə.jpg|100px]]</nowiki></code>
+: Səhifənin tam enini əhatə etməyən şablonda şəkil şablonun sağ kənarından sürüşmə bilər. Bunun qarşısını almaq üçün düzgün vikikoddan istifadə edin, yəni:
+:: <code><nowiki>| şəkil = [[Şəkil:Nümunə.jpg|80px|right]]</nowiki></code>
+
+; sol şəkil
+; imageleft
+: Cədvəlin sol tərəfində, əsas başlığın altında görünəcək şəkil (qrup və siyahıların solunda). Şəklin göstərilməsi üçün ən azı bir {{para|siyahı}} və ya {{para|qrup}} parametri təyin olunmalıdır.
+
+; aşağı
+; below
+: Cədvəl enində, aşağıda (qrup və siyahıların altında) görünəcək xana.
+
+== Siyahı tərtibatı ==
+<!---------- çox sətirli siyahı div -siz---------->
+{| width="100%" style="background:transparent"
+| valign="top" |
+{{Naviqasiya cədvəli
+|navbar            = plain
+|state             = nocollapse
+|başlıq            = bir sətirlik siyahı
+|cütlərin stili    = background:#f0f0f0
+|siyahıların stili = text-align:left
+
+|qrup1             = 1
+|siyahı1           = mətn mətn mətn
+
+|qrup2             = 2
+|siyahı2           = mətn mətn mətn
+}}
+
+<pre>{{Naviqasiya cədvəli
+|navbar            = plain
+|state             = nocollapse
+|başlıq            = bir sətirlik siyahı
+|cütlərin stili    = background:#f0f0f0
+|siyahıların stili = text-align:left
+
+|qrup1             = 1
+|siyahı1           = mətn mətn mətn
+
+|qrup2             = 2
+|siyahı2           = mətn mətn mətn
+}}</pre>
+
+----
+
+{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = çox sətirli siyahı div -siz
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        =
+mətn 
+mətn 
+mətn
+
+|qrup2          = 2
+|siyahı2        =
+mətn 
+mətn 
+mətn
+}}
+<pre>{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = çox sətirli siyahı div -siz
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        =
+mətn 
+mətn 
+mətn
+
+|qrup2          = 2
+|siyahı2        =
+mətn 
+mətn 
+mətn
+}}</pre>
+
+----
+|-<!---------- çox sətirli siyahı div -li ---------->
+| valign="top" |
+{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = bir sətirli siyahı
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        = mətn mətn mətn
+
+|qrup2          = 2
+|siyahı2        = mətn mətn mətn
+}}
+
+<pre>{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = bir sətirli siyahı
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        = mətn mətn mətn
+
+|qrup2          = 2
+|siyahı2        = mətn mətn mətn
+}}</pre>
+
+
+----
+
+{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = çox sətirli siyahı div -li
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        = <div>
+mətn
+mətn
+mətn
+</div>
+
+|qrup2          = 2
+|siyahı2        = <div>
+mətn
+mətn
+mətn
+</div>
+}}
+
+<pre>{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = çox sətirli siyahı div -li
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        = <div>
+mətn
+mətn
+mətn
+
+|qrup2          = 2
+|siyahı2        = <div>
+mətn
+mətn
+mətn
+</div>
+}}</pre>
+
+----
+
+{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = div göstəricilərlə
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        = <div style="margin-top:-1ex;margin-bottom:-1ex;padding:0">
+mətn
+mətn
+mətn
+
+|qrup2          = 2
+|siyahı2        = <div style="margin-top:-1ex;margin-bottom:-1ex;padding:0">
+mətn
+mətn
+mətn
+}}
+
+<pre>{{Naviqasiya cədvəli
+|navbar         = plain
+|state          = nocollapse
+|başlıq         = div göstəricilərlə
+|cütlərin stili = background:#f0f0f0
+
+|qrup1          = 1
+|siyahı1        = <div style="margin-top:-1ex;margin-bottom:-1ex;padding:0">
+mətn
+mətn
+mətn
+
+|qrup2          = 2
+|siyahı2        = <div style="margin-top:-1ex;margin-bottom:-1ex;padding:0">
+mətn
+mətn
+mətn
+</div>
+}}</pre>
+|}
+
+<includeonly>
+[[Kateqoriya:Şablonlar]]
+</includeonly>
