@@ -1,0 +1,15 @@
+{{docpage}}
+Şablon məlumat qutularının kodunu sadələşdirmək, həmçinin [[Vikianbar]] layihəsinə keçid əlavə etmək üçün hazırlanmışdır.
+
+Birinci parametr boşdursa, məqalənin [[Vikiverilənlər]] elementi ilə əlaqələndirilmiş Vikianbar kateqoriyası yerləşdiriləcəkdir.
+
+== İstifadəsi ==
+Məlumat qutusunda Vikianbara keçid əlavə etmək üçün şablondan aşağıdakı qaydada istifadə olunur:
+ <nowiki>{{məlumat qutusu/Vikianbar|{{{vikianbar|}}}}}</nowiki>
+
+{{Məlumat qutusu şablonunun alt səhifələri}}
+
+<includeonly>
+[[Kateqoriya:Şablonlar:Vikimedia layihələrinə istinadlar]]
+[[Kateqoriya:Şablonlar:Məlumat qutusu şablonunun alt səhifələri]]
+</includeonly>
