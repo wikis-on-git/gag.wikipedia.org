@@ -1,0 +1,124 @@
+<includeonly>{{Məlumat qutusu
+|adı              = Musiqiçi
+|yuxarı           = {{məlumat qutusu/ad|{{{adı|}}}}}
+|yuxarının sinfi  = title {{{piktoqram|musiqi}}}
+|yuxarı2          = {{məlumat qutusu/orijinal ad|{{{orijinal adı|}}}}}
+|yuxarı stili     = background-color:{{Musiqiçi/rəng|{{{fon rəngi|}}}|1}}
+|başlıqlar stili  = background:{{Musiqiçi/rəng|{{{fon rəngi|}}}|2}}
+|aşağı stili      = background:{{Musiqiçi/rəng|{{{fon rəngi|}}}|2}}
+|avtobaşlıqlar    = true
+
+|şəkil            = {{wikidata|P18|{{{şəkil|}}}|size={{{şəklin ölçüsü|}}}|caption={{{şəklin izahı|}}}}}
+
+|başlıq1          = Ümumi məlumatlar
+
+|nişan2           = {{Sətirdə tək-cəm|{{{digər adı|}}}|Digər adı|Digər adları}}
+|mətn2            = {{{digər adı|}}}
+
+|nişan3           = Doğum adı
+|mətn3            = {{{doğum adı|}}}
+|vikiverilənlər3  = P1477
+
+|nişan4           = {{Sətirdə tək-cəm|{{wikidata|P742|{{{ləqəbi|}}}|plain=true}}|Ləqəbi|Ləqəbləri}}
+|mətn4            = {{{ləqəbi|}}}
+|vikiverilənlər4  = P742
+
+|nişan5           = Doğum tarixi
+|mətn5            = {{wikidata/p569|{{{doğum tarixi|}}}|{{{vəfat tarixi|}}}}}
+|vikiverilənlər5  = P569
+
+|nişan6           = Doğum yeri
+|mətn6            = {{{doğum yeri|}}}
+|vikiverilənlər6  = P19
+
+|nişan7           = Vəfat tarixi
+|mətn7            = {{wikidata/p570|{{{vəfat tarixi|}}}|{{{doğum tarixi|}}}}}
+|vikiverilənlər7  = P570
+
+|nişan8           = Vəfat yeri
+|mətn8            = {{{vəfat yeri|}}}
+|vikiverilənlər8  = P20
+
+|nişan9           = Vəfat səbəbi
+|mətn9            = {{{vəfat səbəbi|}}}
+|vikiverilənlər9  = P509
+
+|nişan10          = Dəfn yeri
+|mətn10           = {{{dəfn yeri|}}}
+|vikiverilənlər10 = P119
+
+|nişan11          = Vətəndaşlığı
+|mətn11           = {{{vətəndaşlığı|}}}
+|vikiverilənlər11 = P27
+
+|nişan12          = Milliyyəti
+|mətn12           = {{{milliyyəti|}}}
+
+|nişan13          = {{Sətirdə tək-cəm|{{wikidata|P26|{{{həyat yoldaşı|}}}|plain=true}}|{{nobr|Həyat yoldaşı}}|{{nobr|Həyat yoldaşları}}}}
+|mətn13           = {{{həyat yoldaşı|}}}
+|vikiverilənlər13 = P26
+
+|nişan14          = {{Sətirdə tək-cəm|{{wikidata|P40|{{{uşağı|}}}|plain=true}}|Uşağı|Uşaqları}}
+|mətn14           = {{{uşağı|}}}
+|vikiverilənlər14 = P40
+
+|nişan15          = {{Sətirdə tək-cəm|{{wikidata|P451|{{{partnyoru|}}}|plain=true}}|Partnyoru|Partnyorları}}
+|mətn15           = {{{partnyoru|}}}
+|vikiverilənlər15 = P451
+
+|nişan16          = Atası
+|mətn16           = {{{atası|}}}
+|vikiverilənlər16 = P22
+
+|nişan17          = Anası
+|mətn17           = {{{anası|}}}
+|vikiverilənlər17 = P25
+
+|başlıq18         = Musiqiçi məlumatları
+
+|nişan19          = Fəaliyyəti
+|mətn19           = {{{fəaliyyəti|}}}
+|vikiverilənlər19 = P106
+
+|nişan20          = Fəaliyyət illəri
+|mətn20           = {{wikidata/p2031|{{{fəaliyyət illəri|}}}}}
+|vikiverilənlər20 = P2031
+
+|nişan21          = {{Sətirdə tək-cəm|{{wikidata|P136|{{{janr|}}}|plain=true}}|Janr|Janrlar}}
+|mətn21           = {{{janr|}}}
+|vikiverilənlər21 = P136
+
+|nişan22          = {{Sətirdə tək-cəm|{{wikidata|P1303[!Q17172850]|{{{musiqi aləti|}}}|plain=true}}|{{nobr|Musiqi aləti}}|{{nobr|Musiqi alətləri}}}}
+|mətn22           = {{{musiqi aləti|}}}
+|vikiverilənlər22 = P1303[!Q17172850]
+
+|nişan23          = Səs tembri
+|mətn23           = {{{səs tembri|}}}
+|vikiverilənlər23 = P412
+
+|nişan24          = {{Sətirdə tək-cəm|{{wikidata|P264|{{{albom şirkəti|}}}|plain=true}}|{{nobr|Albom şirkəti}}|{{nobr|Albom şirkətləri}}}}
+|mətn24           = {{{albom şirkəti|}}}
+|vikiverilənlər24 = P264
+
+|nişan25          = {{Sətirdə tək-cəm|{{{əlaqələri|}}}|Əlaqəsi|Əlaqələri}}
+|mətn25           = {{{əlaqələri|}}}
+
+|nişan26          = Təhsili
+|mətn26           = {{{təhsili|}}}
+|vikiverilənlər26 = P69
+
+|nişan27          = Üzvlüyü
+|mətn27           = {{{üzvlüyü|}}}
+|vikiverilənlər27 = P463
+
+|nişan28          = Mükafatları
+|mətn28           = {{wikidata/p166|{{{mükafatları|}}}}}
+|sinif28          = infobox-awards
+|vikiverilənlər28 = P166
+
+|mətn29           = {{wikidata|P109|{{{imzası|}}}|size={{{imzanın ölçüsü|}}}|alt={{{imzanın izahı|}}}}}
+
+|mətn30           = {{wikidata|P856|{{{saytı|{{{sayt|}}}}}}}}
+
+|aşağı            = {{məlumat qutusu/Vikianbar|{{{vikianbar|}}}}}
+}}{{Kateqoriya yalnız məqalələrdə|Əlifba sırasına görə musiqiçilər|{{PAGENAME}}}}{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Kateqoriya:Vikipediya:Naməlum parametrləri olan musiqiçi məqalələri|_VALUE_{{PAGENAME}}]]}}|preview=[[Şablon:Musiqiçi|Musiqiçi]] şablonunu naməlum parametrlə işlədən səhifə. Naməlum parametr: "_VALUE_"|ignoreblank=y|activity | adı | orijinal adı | digər adı | şəkil | şəklin ölçüsü | şəklin izahı | fəaliyyəti | fon rəngi | digər adı | doğum adı | ləqəbi | doğum tarixi | doğum yeri | vəfat tarixi | vəfat yeri | vəfat səbəbi | dəfn yeri | vətəndaşlığı | milliyyəti | həyat yoldaşı | uşağı | partnyoru | atası | anası | mənşə | janr | musiqi aləti | səs tembri | fəaliyyət illəri | albom şirkəti | əlaqələri | təhsili | üzvlüyü | mükafatları | imzası | imzanın eni | imzanın izahı | saytı | sayt | vikianbar}}</includeonly><noinclude>{{doc}}</noinclude>
