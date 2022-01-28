@@ -1,0 +1,10 @@
+{{ombox
+ |type=notice
+ |image= [[Şəkil:Stalewarning.svg|40px|link=Xüsusi:MostTranscludedPages]]
+ |text='''Diqqət! Bu, [[Special:MostLinkedTemplates|ən çox işlənən {{#ifeq: {{NAMESPACENUMBER}} | 828 | modullardan | şablonlardan }}]] biridir (qoşulma sayı&nbsp;{{{1|20}}} mindən az olmayan).'''<br/>Şablonda hər hansı dəyişiklik etdikdə [[Vikimedia Fondu]]nun serverlərində [[mw:Manual:Job queue|əhəmiyyətli yüklənmə]] yaranır. Lütfən, dəyişikliklərinizin adekvatlığına və düzgünlüyünə əmin olun, onları əvvəlcə [[VP:İS|istifadəçi səhifəsi]] və ya qaralama səhifələrində sınaqdan keçirin.
+}}<includeonly>{{#if:{{{nocat|}}}||[[Kateqoriya:Şablonlar:Müstəsna|{{PAGENAME}}]]}}</includeonly><noinclude>
+{{doc}}
+[[Kateqoriya:Şablonlar:Şablonlar üçün]]
+[[Kateqoriya:Şablonlar:Xəbərdarlıqlar]]
+[[Kateqoriya:Şablonlar:Müstəsna]]
+</noinclude>
