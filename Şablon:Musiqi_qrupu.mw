@@ -1,0 +1,67 @@
+<includeonly>{{Kartoçka
+|gövdənin sinfi  = infobox_v2
+|başlıqlar stili = background-color:{{#switch:{{{Fon|}}}|group_or_band=&#35;b0c4de|classical_ensemble=&#35;b0e0e6|cover_band=&#35;d8bfd8|temporary=&#35;d3d3d3|&#35;b0c4de}};
+|yuxarının sinfi = title {{{piktoqram|musiqi}}}
+|yuxarı          = {{kartoçka/başlıq|{{{Ad|{{{ad|{{{Adı|{{{adı|}}}}}}}}}}}}}}
+|yuxarı stili    = background-color:{{#switch:{{{Fon|}}}|group_or_band=&#35;b0c4de|classical_ensemble=&#35;b0e0e6|cover_band=&#35;d8bfd8|temporary=&#35;d3d3d3|&#35;b0c4de}}
+|yuxarı2         = {{Kartoçka/orijinal başlıq|{{{Orijinal ad|{{{orijinal ad|{{{Orijinal adı|{{{orijinal adı|}}}}}}}}}}}}}}
+|nişan stili     = min-width:7em
+|avtobaşlıqlar   = true
+
+|şəkil           = {{wikidata|p154|{{{Loqo|{{{loqo|}}}}}}|size={{#if:{{{Loqo miqyası|{{{loqo miqyası|}}}}}}|{{{Loqo miqyası|{{{loqo miqyası|}}}}}}|220px}}}}
+
+|şəkil2          = {{wikidata|p18|{{{Şəkil|{{{şəkil|{{{portret|}}}}}}}}}|size={{{Şəklin eni|{{{Şəkil miqyası|{{{şəkil miqyası|{{{şəkil miqyas|{{{miqyas|{{{Miqyas|{{{Şəklin ölçüsü|{{{Şəklin miqyası|{{{portretin ölçüsü|{{{Şəkil ölçüsü|{{{Miqyası|{{{şəkil_ölçüsü|}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}|caption={{{Başlıq|{{{şəkil_izah|{{{izah|{{{şəkil məlumat|{{{Şəkil başlığı|{{{Şəkilaltı yazı|{{{Şəklin izahı|{{{İzah|{{{İzahı|{{{imza|{{{izah|{{{Şəkil məlumat|}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+|başlıq1         = Əsas məlumatlar
+
+|nişan2          = <span title="Mahnıların janrı">Üslub</span>
+|mətn2           = {{{Janr|{{{Üslub|}}}}}}
+|vikiverilənlər2 = p136
+
+|nişan3          = <span title="Qrupun fəaliyyət illəri">Fəaliyyət illəri</span>
+|mətn3           = {{{İllər|{{{Fəaliyyət illəri|}}}}}}
+
+|nişan4          = <span title="Qrupun təmsil etdiyi ölkə">Ölkə</span>
+|mətn4           = {{{Ölkə|{{{Yarandığı yer|}}}}}}
+|vikiverilənlər4 = p17
+
+|nişan5          = <span title="Qrupun yarandığı şəhər">Şəhər
+|mətn5           = {{{Şəhər|}}}
+
+|nişan6          = <span title="Qrupun digər adları">Digər adı</span>
+|mətn6           = {{{Digər adı|}}}
+
+|nişan7          = <span title="Mahnıların dili">Dil</span>
+|mətn7           = {{{Dil|}}}
+|vikiverilənlər7 = p1412
+
+|nişan8          = <span title="Səsyazma studiyasının leyblı">Leybl</span>
+|mətn8           = {{{Leybl|{{{Albom şirkəti|}}}}}}
+|vikiverilənlər8 = p264
+
+|nişan9          = <span title="Qrupun hazırkı heyəti">Heyət</span>
+|mətn9           = {{{Heyət|{{{İndiki üzvlər|}}}}}}
+
+|nişan10         = <span title="Qrupun keçmiş üzvləri">Keçmiş üzvlər</span>
+|mətn10          = {{{Keçmiş üzvlər|{{{Əvvəlki üzvlər|}}}}}}
+
+|nişan11         = <span title="Qrup üzvlərinin digər layihələri">Digər layihələr</span>
+|mətn11          = {{{Digər layihələr|}}}
+
+|nişan12         = <span title="Qrupun əlaqəli layihələri">Əlaqəli layihələr</span>
+|mətn12          = {{{Əlaqəli layihələr|}}}
+
+|nişan13         = <span title="Əməkdaşlıq etdiyi musiqiçilər və musiqi qrupları">Əməkdaşlıq</span>
+|mətn13          = {{{Əməkdaşlıq|}}}
+
+|mətn14          = {{wikidata|856|{{{Sayt|{{{Veb saytı|}}}}}}}}
+
+|aşağı stili     = background-color:#eff0f7;
+|aşağı           = {{kartoçka/Vikianbar|{{{Commons|{{{commons|{{{VikiAnbar|{{{Vikianbar|{{{vikianbar|}}}}}}}}}}}}}}}}}
+}}{{#if:{{{nocat|}}}{{NAMESPACE}}||<!--
+-->[[Kateqoriya:Əlifba sırasına görə musiqi qrupları|<!--
+  -->{{#if:{{{Açar|}}}|{{{Açar}}}|<!--
+    -->{{#if:{{{Ad|}}}|{{{Ad}}}|{{PAGENAME}}}}}}]]<!--
+-->{{#if:{{{Şəkil|}}}||[[Kateqoriya:Şəkli olmayan musiqi qrupları haqqında məqalələr]]}}<!--
+-->{{#ifeq:{{#invoke:String|sub|{{#invoke:wikitext|nodis|{{PAGENAME}}}}|1|3}}|The|{{DEFAULTSORT:{{#invoke:String|sub|{{#invoke:wikitext|nodis|{{PAGENAME}}}}|5}}}}}}
+}}</includeonly><noinclude>{{doc}}</noinclude>
