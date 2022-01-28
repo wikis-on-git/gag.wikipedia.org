@@ -1,0 +1,3 @@
+<includeonly>{{#if:{{{aşağı|}}}|<tr><td colspan="2" class="infobox-below {{{aşağının sinfi|}}}" style="{{{ümumi aşağı stili|}}};{{{aşağı stili|}}}">{{{aşağı|}}}</td></tr>}}</includeonly><noinclude>
+{{doc}}
+</noinclude>
