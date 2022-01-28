@@ -1,0 +1,101 @@
+{{Məlumat qutusu
+|adı              = Mahnı
+|yuxarı0          = {{{Növü|Mahnı}}}
+|yuxarı           = {{məlumat qutusu/başlıq|{{{Başlıq|}}}}}
+|avtobaşlıqlar    = true
+
+|şəkil            = {{wikidata|P18|{{{Şəkil|}}}|size={{{Şəklin ölçüsü|}}}|caption={{{Şəklin izahı|}}}}}
+
+|nişan1           = {{Sətirdə tək-cəm|{{wikidata|P175|{{{İfaçı|}}}|plain=true}}|İfaçı|İfaçılar}}
+|mətn1            = {{{İfaçı|}}}
+|vikiverilənlər1  = P175
+
+|nişan2           = Albom
+|mətn2            = {{{Albom|}}}
+
+|nişan3           = Yayımlanıb
+|mətn3            = {{{Yayımlanıb|}}}
+|vikiverilənlər3  = P577
+
+|nişan4           = Yazılma tarixi
+|mətn4            = {{{Yazılıb|}}}
+|vikiverilənlər4  = P571
+
+|nişan5           = [[Musiqi janrları|Janr]]
+|mətn5            = {{{Janr|}}}
+|vikiverilənlər5  = P136
+
+|nişan6           = Dil
+|mətn6            = {{{Dil|}}}
+|vikiverilənlər6  = P407
+
+|nişan7           = Müddət
+|mətn7            = {{{Müddət|}}}
+|vikiverilənlər7  = P2047
+
+|nişan8           = {{Sətirdə tək-cəm|{{wikidata|P86|{{{Bəstəkar|}}}|plain=true}}|[[Bəstəkar]]|[[Bəstəkar]]lar}}
+|mətn8            = {{{Bəstəkar|}}}
+|vikiverilənlər8  = P86
+
+|nişan9           = {{Sətirdə tək-cəm|{{wikidata|P676|{{{Sözlər|}}}|plain=true}}|Sözlərin müəllifi|Sözlərin müəllifləri}}
+|mətn9            = {{{Sözlər|}}}
+|vikiverilənlər9  = P676
+
+|nişan10          = Prodüser
+|mətn10           = {{{Prodüser|}}}
+|vikiverilənlər10 = P162
+
+|nişan11          = Studiya
+|mətn11           = {{{Studiya|}}}
+|vikiverilənlər11 = P264
+
+|başlıq12         = Peşəkar icmallar
+
+|mətn13           = {{{İcmallar|}}}
+|mətnin stili13   = text-align:left;
+
+|başlıq14         = {{#if: {{{Xronologiya|}}}{{{Albom|}}} | "{{{Xronologiya|{{{Albom|}}}}}}" albomunun xronologiyası|{{wikidata|P175|{{{İfaçı|}}}}} mahnılarının xronologiyası}}
+
+|mətnin stili15   = padding:0;
+|mətn15           = {{#if: {{wikidata|P155|{{{Əvvəlki|}}}}}{{wikidata|P156|{{{Sonrakı|}}}}} | 
+<table style="width:100% !important; display:table; margin:0; background:transparent; text-align:center; vertical-align:top;">
+<tr>
+<td style="width:33%; padding:.25em 0; line-height:1.4;">{{#if: {{wikidata|P155|{{{Əvvəlki|}}}}} | "{{wikidata|P155|{{{Əvvəlki|}}}}}" {{#if: {{{Nömrə1|}}} | <br>({{{Nömrə1}}}) }} }}</td>
+<td style="width:33%; padding:.25em 0; line-height:1.4;">'''"{{#if: {{wikidata|P155|{{{Əvvəlki|}}}}}{{wikidata|P156|{{{Sonrakı|}}}}}|{{məlumat qutusu/başlıq|{{{Başlıq|}}}}}|{{{Başlıq}}}}}" '''<br>{{#if:{{{Nömrə2|}}}|({{{Nömrə2}}})}}</td>
+<td style="width:33%; padding:.25em 0; line-height:1.4;">{{#if: {{wikidata|P156|{{{Sonrakı|}}}}} | "{{wikidata|P156|{{{Sonrakı|}}}}}" {{#if: {{{Nömrə3|}}} | <br>({{{Nömrə3}}}) }} }}</td>
+</tr>
+</table>
+}}
+
+|başlıq16         = Audio nümunəsi
+
+|mətnin stili17   = padding:0;
+|mətn17           = {{#if: {{wikidata|P51|{{{Səslənməsi|}}}}} | 
+<table style="width:100% !important; display:table; margin-top:0.4em; background:transparent; text-align:center; vertical-align:top;">
+{{#if:{{{Səslənməsi|}}}|{{audio nümunəsi|Audiofayl={{{Səslənməsi|}}}|Mətn=|Başlıq={{{Səslənmənin izahı|}}}}}|<span class="unicode audiolink" style="display:block; margin-top:0.4em; font-size:smaller><center>{{wikidata|p51}}</center>[[:Fayl:{{wikidata|P51|plain=true}}|Fayl haqqında məlumat]]</span>}}
+</table>
+}}
+
+|başlıq18         = {{#if:{{{Səslənmənin başlığı2|}}}|{{{Səslənmənin başlığı2|}}}}}
+
+|mətnin stili19   = padding:0;
+|mətn19           = {{#if: {{{Səslənməsi2|}}} | 
+<table style="width:100% !important; display:table; margin-top:0.4em; background:transparent; text-align:center; vertical-align:top;">
+{{#if:{{{Səslənməsi2|}}}|{{audio nümunəsi|Audiofayl={{{Səslənməsi2|}}}|Mətn=|Başlıq={{{Səslənmənin izahı2|}}}}}}}
+</table>
+}}
+
+|başlıq20         = -
+
+|mətnin stili21   = padding:0;
+|mətn21           = {{#if: {{{Əlavə|}}} | 
+<table style="width:100% !important; display:table; margin:0; background:transparent; text-align:center; vertical-align:top;">
+{{{Əlavə|}}}
+</table>
+}}
+
+|aşağı            = {{məlumat qutusu/Vikianbar|{{{Vikianbar|}}}}}
+}}{{#if: {{NAMESPACE}}{{{nocat|}}} || <!--
+-->{{#ifeq: {{#invoke:String|sub|{{#invoke:wikitext|nodis|{{PAGENAME}}}}|1|3}} | The | {{DEFAULTSORT:{{#invoke:String|sub|{{#invoke:wikitext|nodis|{{PAGENAME}}}}|5}}|noerror}} }}<!--
+-->[[Kateqoriya:Əlifba sırasına görə mahnılar]]<!--
+-->}}<noinclude>{{doc}}</noinclude>
