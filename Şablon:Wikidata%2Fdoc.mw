@@ -1,0 +1,17 @@
+{{docpage}}
+{{ÇİŞ|60}}
+{{OnLua|Wikidata|formatStatements}}
+
+[[Kömək:Vikiverilənlər|Vikiverilənlər]] parametrləri ilə işləməyi asanlaşdıran şablon; şablon və məqalələrdə istifadə olunur.
+
+<code><nowiki>
+{{Wikidata|1=Parametr|2=Lokal dəyər}}
+</nowiki></code>
+
+<code><nowiki>
+{{wikidata|p559|{{{yekun|{{{Yekun|}}}}}}|separator=<br>|conjunction=<br>}}
+</nowiki></code>
+
+<includeonly>
+[[Kateqoriya:Şablonlar:Vikiverilənlər]]
+</includeonly>
