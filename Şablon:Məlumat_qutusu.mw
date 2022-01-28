@@ -1,0 +1,39 @@
+<table class="infobox {{{gövdənin sinfi|}}}" style="{{{gövdənin stili|}}}" {{#if:{{{adı|}}}|{{#ifeq:{{{adı|}}}|-||data-name="{{{adı}}}"}}}}><!--
+ Yuxarı0
+-->{{#if:{{{yuxarı0|}}}|<tr><td colspan="2" class="{{{yuxarının sinfi0|}}}" style="text-align:center; {{{yuxarı stili0|}}}">{{{yuxarı0}}}</td></tr>}}<!--
+ Yuxarı
+-->{{#if:{{{yuxarı|}}}|<tr><th colspan="2" class="infobox-above {{{yuxarının sinfi|}}}" style="{{{yuxarı stili|}}}">{{{yuxarı}}}</th></tr>}}<!--
+ Yuxarı2
+-->{{#if:{{{yuxarı2|}}}|<tr><td colspan="2" class="{{{yuxarının sinfi2|}}}" style="text-align:center; {{{yuxarı stili2|}}}">{{{yuxarı2}}}</td></tr>}}<!--
+ Yuxarı3
+-->{{#if:{{{yuxarı3|}}}|<tr><td colspan="2" class="{{{yuxarının sinfi3|}}}" style="text-align:center; {{{yuxarı stili3|}}}">{{{yuxarı3}}}</td></tr>}}<!--
+ Şəkil
+-->{{#if:{{{şəkil|}}}|<tr><td colspan="2" class="infobox-image {{{şəkil sinfi|}}}" style="{{{şəkil stili|}}}"> {{{şəkil}}} {{#if:{{{imza|}}}|
+<div class="media-caption" style="{{{imzanın stili|}}}">{{{imza}}}</div>}}</td></tr>}}<!--
+ Şəkil2
+-->{{#if:{{{şəkil2|}}}|<tr><td colspan="2" class="infobox-image {{{şəkil sinfi2|}}}" style="{{{şəkil stili2|}}}"> {{{şəkil2}}} {{#if:{{{imza2|}}}|
+<div class="media-caption" style="{{{imzanın stili2|}}}">{{{imza2}}}</div>}}</td></tr>}}<!--
+ Şəkil3
+-->{{#if:{{{şəkil3|}}}|<tr><td colspan="2" class="infobox-image {{{şəkil sinfi3|}}}" style="{{{şəkil stili3|}}}"> {{{şəkil3}}} {{#if:{{{imza3|}}}|
+<div class="media-caption" style="{{{imzanın stili3|}}}">{{{imza3}}}</div>}}</td></tr>}}<!--
+ Şəkil4
+-->{{#if:{{{şəkil4|}}}|<tr><td colspan="2" class="infobox-image {{{şəkil sinfi4|}}}" style="{{{şəkil stili4|}}}"> {{{şəkil4}}} {{#if:{{{imza4|}}}|
+<div class="media-caption" style="{{{imzanın stili4|}}}">{{{imza4}}}</div>}}</td></tr>}}<!--
+ Sətirlər
+-->{{#invoke:Məlumat qutusu|renderLines}}<!--
+ Aşağı
+-->{{Məlumat qutusu/aşağı|
+ümumi aşağı stili={{{aşağı stili|}}}|
+aşağının sinfi={{{aşağının sinfi|}}}|
+aşağı={{{aşağı|}}}}}<!--
+ Aşağı N
+-->{{#invoke:Transclude|npc|Məlumat qutusu/aşağı|
+ümumi aşağı stili={{{aşağı stili|}}}|
+aşağı stili=|
+aşağının sinfi|=|
+aşağı=}}
+</table><includeonly>{{#if:{{NAMESPACE}}||<!--
+-->}}{{#ifeq:{{NAMESPACENUMBER}}|10|<!--
+-->}}{{#ifeq:{{NAMESPACE}}|{{ns:10}}|<!--
+-->{{#ifeq:{{{adı|}}}|{{PAGENAME}}|[[Kateqoriya:Əlifba sırasına görə məlumat qutuları|{{ucfirst:{{başlanğıcsız|{{PAGENAME}}|Məlumat qutusu }}}}]]}}<!--
+-->}}</includeonly><noinclude>{{doc}}</noinclude>
