@@ -3,7 +3,7 @@
 | type         = delete
 | image        = [[Dosye:International tidyman.svg|40px|link=|class=noviewer]]
 | style        = background:#FEE;
-| text         = '''Bu sayfa Wikipedia prinsiplerine uygun olmadığı üçün yakın zamanda silinecek'''
+| text         = '''Bu sayfa Wikipedia prinsiplerine uygun olmadığı için yakın zamanda silinecek'''
 | text-small   = {{#if: {{{1|}}} | ''Səbəb'': {{#switch: {{{1|}}}
     | Ü1 = [[VP:Ü1|Ümumi 1]]: Heç bir məna ifadə etməyən səhifə
     | Ü2 = [[VP:Ü2|Ümumi 2]]: Test səhifəsi
