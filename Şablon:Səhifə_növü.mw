@@ -1,0 +1,30 @@
+{{#switch:{{NAMESPACE:{{#if:{{{page|}}}
+  |{{{page}}}
+  |{{#ifeq:{{{subjectspace|}}}|yes
+   |{{TALKPAGENAME}}
+   |{{FULLPAGENAME}}
+  }}
+ }}
+}}
+ |{{ns:0}}             = məqalə
+ |{{ns:1}}             = məqalə
+ |{{ns:2}}             = istifadəçi
+ |{{ns:3}}             = istifadəçi
+ |{{ns:4}}             = layihə
+ |{{ns:5}}             = layihə
+ |{{ns:6}}             = şəkil
+ |{{ns:7}}             = istifadəçi
+ |{{ns:8}}             = MediaWiki
+ |{{ns:9}}             = MediaWiki
+ |{{ns:10}}            = şablon
+ |{{ns:11}}            = şablon
+ |{{ns:12}}            = kömək
+ |{{ns:13}}            = kömək
+ |{{ns:14}}            = kateqoriya
+ |{{ns:15}}            = kateqoriya
+ |{{ns:100}}           = portal
+ |{{ns:101}}           = portal
+ |#default             = səhifə
+}}<noinclude>
+{{doc}}
+</noinclude>
