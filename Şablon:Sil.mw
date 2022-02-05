@@ -1,9 +1,63 @@
-<div name="Deletion notice" class="notice" id="delete" style="margin: 0 5%; padding: .5em; background: #fee; border: 1px solid #999999; text-align: left; font-size: 95%;">'''This page meets Wikipedia's criteria for speedy deletion.  The given reason is: ''{{{1}}}'''''
-
-If you disagree with its speedy deletion, please explain why on [[{{NAMESPACE}} talk:{{PAGENAME}}|its talk page]]. Do not remove this notice from articles that you have created yourself.
-
-Администраторам: [[Special:Whatlinkshere/{{FULLPAGENAME}}|ссылки сюда]], [{{fullurl:{{FULLPAGENAME}}|action=history}} Geçmişi gör] ([{{fullurl:{{FULLPAGENAME}}|diff=0}} последнее изменение]), [{{fullurl:Special:Log|page={{FULLPAGENAMEE}}}} журналы], [{{fullurl:{{FULLPAGENAME}}|action=delete&wpReason={{urlencode:{{{1}}}}}}} удалить].
-</div>
-<includeonly>[[Kategoriya:Vikipediya:Silinacak sahifalar]]</includeonly>
-<noinclude>[[Kategoriya:Şablonlar:İnzibati]]
-</noinclude>
+{{ambox
+| name         = Sil
+| type         = delete
+| image        = [[Dosye:International tidyman.svg|40px|link=|class=noviewer]]
+| style        = background:#FEE;
+| text         = '''Bu {{səhifə növü}} [[az:Vikipediya:Sürətli silmə kriteriyaları|sürətli silmə kriteriyalarına]] görə yaxın vaxtda silinəcək'''
+| text-small   = {{#if: {{{1|}}} | ''Səbəb'': {{#switch: {{{1|}}}
+    | Ü1 = [[VP:Ü1|Ümumi 1]]: Heç bir məna ifadə etməyən səhifə
+    | Ü2 = [[VP:Ü2|Ümumi 2]]: Test səhifəsi
+    | Ü3 = [[VP:Ü3|Ümumi 3]]: Birmənalı şəkildə vandalizm və saxtakarlıq
+    | Ü4 = [[VP:Ü4|Ümumi 4]]: Müzakirə nəticəsində silinən səhifənin yenidən yaradılması
+    | Ü5 = [[VP:Ü5|Ümumi 5]]: Bloklanmış və ya qadağan edilmiş istifadəçilərin töhfələri
+    | Ü6 = [[VP:Ü6|Ümumi 6]]: Texniki silmə
+    | Ü7 = [[VP:Ü7|Ümumi 7]]: Müəllif istəyi
+    | Ü8 = [[VP:Ü8|Ümumi 8]]: Silinmiş və ya mövcud olmayan səhifələrdən asılı səhifələr
+    | Ü9 = [[VP:Ü9|Ümumi 9]]: Fondun tələbi
+    | Ü10 = [[VP:Ü10|Ümumi 10]]: Alçaldıcı, hədələyici, təhdid və ya təqib edən məzmuna malik səhifələr
+    | Ü11 = [[VP:Ü11|Ümumi 11]]: Birmənalı şəkildə reklam və ya təbliğat
+    | Ü12 = [[VP:Ü12|Ümumi 12]]: Birmənalı şəkildə müəllif hüquqlarının pozulması
+    | Ü13 = [[VP:Ü13|Ümumi 13]]: Tərk edilmiş qaralamalar
+    | Ü14 = [[VP:Ü14|Ümumi 14]]: Lazımsız dəqiqləşdirmə səhifələri
+    | M1 = [[VP:M1|Məqalə 1]]: Boş məqalə
+    | M2 = [[VP:M2|Məqalə 2]]: Azərbaycan dilində olmayan və ya maşın tərcüməsi olan səhifələr
+    | M3 = [[VP:M3|Məqalə 3]]: Məzmunsuz məqalə
+    | M4 = [[VP:M4|Məqalə 4]]: Digər Vikimedia layihələrinə köçürülməli olan məqalə
+    | M5 = [[VP:M5|Məqalə 5]]: Əhəmiyyəti təsdiqlənməyən məqalə (şəxs, heyvan, təşkilat, veb kontent, hadisə)
+    | M6 = [[VP:M6|Məqalə 6]]: Əhəmiyyəti təsdiqlənməyən məqalə (mahnılar, musiqi məhsulları və s.)
+    | M7 = [[VP:M7|Məqalə 7]]: Mövcud olan bir mövzunun dublikatı və ya oxşarı olan yeni yaradılmış məqalələr
+    | M8 = [[VP:M8|Məqalə 8]]: Orijinal tədqiqat
+    | M9 = [[VP:M9|Məqalə 9]]: Stil kitabçası pozuntuları ehtiva edən məqalələr
+    | İ1 = [[VP:İ1|İstiqamətləndirmə 1]]: Ad fəzaları arasında istiqamətləndirmələr
+    | İ2 = [[VP:İ2|İstiqamətləndirmə 2]]: Həddən artıq yazı səhvləri
+    | İ3 = [[VP:İ3|İstiqamətləndirmə 3]]: Fayl fəzasında olan və Vikianbardakı səhifəyə istiqamətləndirilənlər
+    | F1 = [[VP:F1|Fayllar 1]]: Lazımsız fayllar
+    | F2 = [[VP:F2|Fayllar 2]]: Pozulmuş, mövcud olmayan və ya boş fayllar
+    | F3 = [[VP:F3|Fayllar 3]]: Uyğun olmayan, yanlış lisenziya
+    | F4 = [[VP:F4|Fayllar 4]]: Lisenziyasız fayllar
+    | F5 = [[VP:F5|Fayllar 5]]: İstifadəsiz fayl
+    | F6 = [[VP:F6|Fayllar 6]]: Azad olmayan fayl istifadəsinin əsaslandırılmasında əskiklik
+    | F7 = [[VP:F7|Fayllar 7]]: Yanlış ədalətli istifadə iddası
+    | F8 = [[VP:F8|Fayllar 8]]: Vikianbarda eynisi (dublikatı) mövcud olan fayllar
+    | F9 = [[VP:F9|Fayllar 9]]: Birmənalı şəkildə müəllif hüquqları pozuntusu
+    | F10 = [[VP:F10|Fayllar 10]]: Media olmayan istifadəsiz fayllar
+    | F11 = [[VP:F11|Fayllar 11]]: İcazənin dəlilinin olmaması
+    | K1 = [[VP:K1|Kateqoriyalar 1]]: Boş kateqoriyalar
+    | K2 = [[VP:K2|Kateqoriyalar 2]]: İstiqamətləndirmə, ad dəyişdirmə və ya birləşdirmə
+    | K3 = [[VP:K3|Kateqoriyalar 3]]: Təkrarlanan kateqoriya
+    | İS1 = [[VP:İS1|İstifadəçi səhifələri 1]]: İstifadəçi istəyi
+    | İS2 = [[VP:İS2|İstifadəçi səhifələri 2]]: Qeydiyyatsız, mövcud olmayan istifadəçi
+    | İS3 = [[VP:İS3|İstifadəçi səhifələri 3]]: Azad olmayan albomdan ibarət
+    | İS4 = [[VP:İS4|İstifadəçi səhifələri 4]]: Vikipediyanın reklam, təbliğat və bu kimi məqsədlərlə istifadəsi
+    | P1 = [[VP:P1|Portallar 1]]: Məqalə olarsa, sürətli silinməli olan hər hansı bir portal
+    | P2 = [[VP:P2|Portallar 2]]: Boş portallar
+    | {{{1|}}}
+    }}
+  | <span style="color:#e30;">Səbəb göstərilməyib.</span><br />
+  }}{{#if: {{{2|}}} | ''İzah'': {{-.|{{{2}}}}}.<br /> }}
+* Əgər səhifənin silinməsini düzgün hesab etmirsinizsə [[{{TALKSPACE}}:{{PAGENAME}}|müzakirə səhifəsində]] bu barədə fikrinizi bildirin.
+----
+'''{{Son redaktəçi}}'''
+  | imageright = {{{imageright|}}}
+}}
+<includeonly>[[Kateqoriya:Vikipediya:Sürətli silinəcək səhifələr]]</includeonly>
