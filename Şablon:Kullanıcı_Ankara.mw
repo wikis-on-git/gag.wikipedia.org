@@ -1,7 +1,7 @@
 <div style="float: left; border:solid yellow 2px; margin: 1px;">
 {| cellspacing="0" style="width: 238px; background:#00008B;"
 | style="width: 45px; height: 45px; background: red; text-align: center; font-size: {{{5|{{{id-s|13}}}}}}pt; color: {{{id-fc|navy}}};" | <big>06</big>
-| style="font-size: {{{info-s|10}}}pt; padding: 4pt; line-height: 1.25em; color: {{{info-fc|yellow}}};" |Bu kullanıcı duudu<font color="yellow">Türkiyenin </font>Ankara kasabasında
+| style="font-size: {{{info-s|10}}}pt; padding: 4pt; line-height: 1.25em; color: {{{info-fc|yellow}}};" |Bu kullanıcı duudu<span style="color:yellow;">Türkiyenin </span>Ankara kasabasında
 |}</div>
 <includeonly>[[Kategori:Ankaralı vikipediyacılar|{{PAGENAME}}]]</includeonly>
 <noinclude>[[Kategori:Kullanıcı şablonnarı|Ankara]]</noinclude>
