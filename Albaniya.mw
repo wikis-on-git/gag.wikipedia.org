@@ -303,7 +303,7 @@
 === Albaniya kasabalar listasi ===
 {| class="wikitable" border="0" style="border: 1px solid #999; background-color:#FFFFFF"
 |- bgcolor=#BDBBD7
-| rowspan=1 align="center" | <font color=#000080>'''Sıra'''</font> || colspan=1 align="center" | <font color=#000080>'''Kasaba''' || rowspan=1 align="center" | <font color=#000080>'''Albaniya bögeler'''</font> || rowspan=1 align="center" | <font color=#000080>'''İnsannar'''
+| rowspan=1 align="center" | <span style="color:#000080;">'''Sıra'''</span> || colspan=1 align="center" | <font color=#000080>'''Kasaba''' || rowspan=1 align="center" | <span style="color:#000080;">'''Albaniya bögeler'''</span> || rowspan=1 align="center" | <span style="color:#000080;">'''İnsannar'''</span>
 |- bgcolor="#EFEFEF"
 |  1 || [[Tirana]] || [[Tirana bölgesi|Tirana]] || 570.837
 |- bgcolor="#EFEFEF"
