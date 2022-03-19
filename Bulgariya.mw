@@ -106,11 +106,11 @@
 | Gini                                 = 35,1
 | Gini_sırası                          = 
 | Gini_yılı                            = 2011
-| Gini_kategorisi                      = <font color="#009900">orta</font>
+| Gini_kategorisi                      = <span style="color:#009900;">orta</span>
 | İGE                                  = 0.782
 | İGE_sırası                           = 57
 | İGE_sırası                           = 2013
-| İGE_kategorisi                       = <font color="#009900">yüksek</font>
+| İGE_kategorisi                       = <span style="color:#009900;">yüksek</span>
 | para_birimi                          = [[Lev]]
 | para_birimi_kodu                     = BGN
 | zaman_dilimi                         = [[Eastern European Time|EET]]
