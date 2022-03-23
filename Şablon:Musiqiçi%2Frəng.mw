@@ -1,0 +1,9 @@
+<includeonly>{{#switch:{{lc:{{{1|}}}}}<!--
+
+-->|solo_singer |solo ifaçı |müğənni |xanəndə |vokalçı={{Rəng|Vokalçı}}<!--
+-->|non_vocal_instrumentalist |vokal ifa etməyən çalğıçı |çalğıçı={{Rəng|Çalğıçı}}<!--
+-->|non_performing_personnel |ifaçı olmayan personal |bəstəkar |prodüser |dirijor={{Rəng|Bəstəkar}}<!--
+
+-->|{{#switch:{{{2|}}} |1={{Rəng|Accent75}} |{{Rəng|Accent80}} }}}}</includeonly><noinclude>
+{{doc}}
+</noinclude>
