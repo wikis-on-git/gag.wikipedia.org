@@ -1,0 +1,108 @@
+<includeonly>{{Məlumat qutusu
+|adı              = Mükafat
+|yuxarı           = {{məlumat qutusu/başlıq|{{{Ad|}}}{{{ad|}}}{{{adı|}}}{{{Adı|}}}}}
+|yuxarı2          = {{məlumat qutusu/orijinal başlıq|{{{Orijinal ad|}}}{{{orijinal ad|}}}{{{orijinal adı|}}}{{{Orijinal adı|}}}}}
+|avtobaşlıqlar    = true
+
+|başlıq1          = {{#if:{{{Şəkil2dər|}}}|{{#if:{{{Dərəcə adı1|}}}|{{{Dərəcə adı1|}}}|I dərəcə}}}}
+
+|mətn2            =
+{{#if:{{wikidata|P18|{{{Şəkil|}}}}}|{{#if:{{wikidata|P2425|{{{Lentin şəkli|}}}}}|<div style="display: flex; width: 100%;">
+<div style="flex: 0 1 50%;">{{wikidata|P2425[1]|{{{Lentin şəkli|}}}|size={{#if:{{{Lentin eni|{{{Lentin ölçüsü|}}}}}}|{{{Lentin eni|{{{Lentin ölçüsü|}}}}}}|90x90px}}}}</div>
+<div style="flex: 0 1 50%;">{{wikidata|P18[1]|{{{Şəkil|}}}|size={{#if:{{{Şəklin eni|{{{Şəklin ölçüsü|{{{şəkilölçü|}}}}}}}}}|{{{Şəklin eni|{{{Şəklin ölçüsü|{{{şəkilölçü|}}}}}}}}}|150x300px}}}}</div>
+</div>|{{wikidata|P18[1]|{{{Şəkil|}}}|size={{#if:{{{Şəklin eni|{{{Şəklin ölçüsü|{{{şəkilölçü|}}}}}}}}}|{{{Şəklin eni|{{{Şəklin ölçüsü|{{{şəkilölçü|}}}}}}}}}|150x300px}}}}}}|{{wikidata|P2425[1]|{{{Lentin şəkli|}}}|size={{#if:{{{Lentin eni|{{{Lentin ölçüsü|}}}}}}|{{{Lentin eni|{{{Lentin ölçüsü|}}}}}}|90x90px}}}}}}
+
+|imza             = {{{Şəklin izahı|}}}
+
+|başlıq3          = {{#if:{{{Şəkil2dər|}}}|{{#if:{{{Dərəcə adı2|}}}|{{{Dərəcə adı2|}}}|II dərəcə}}}}
+
+|mətn4            =
+{{#if:{{{Şəkil2dər|}}}|{{#if:{{{Lentin şəkli2dər|}}}|<div style="display: flex; width: 100%;">
+<div style="flex: 0 1 50%;">{{#invoke:InfoboxImage|InfoboxImage|image={{{Lentin şəkli2dər|}}}|size={{{Lentin eni|{{{Lentin ölçüsü|90x90px}}}}}}}}</div>
+<div style="flex: 0 1 50%;">{{#invoke:InfoboxImage|InfoboxImage|image={{{Şəkil2dər|}}}|size={{{Şəklin eni|{{{Şəklin ölçüsü|150x300px}}}}}}}}</div>
+</div>|{{#invoke:InfoboxImage|InfoboxImage|image={{{Şəkil2dər|}}}|size={{{Şəklin eni|{{{Şəklin ölçüsü|150x300px}}}}}}}}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{Lentin şəkli2dər|}}}|size={{{Lentin eni|{{{Lentin ölçüsü|90x90px}}}}}}}}}}
+
+|başlıq5          = {{#if:{{{Şəkil3dər|}}}|{{#if:{{{Dərəcə adı3|}}}|{{{Dərəcə adı3|}}}|III dərəcə}}}}
+
+|mətn6            =
+{{#if:{{{Şəkil3dər|}}}|{{#if:{{{Lentin şəkli3dər|}}}|<div style="display: flex; width: 100%;">
+<div style="flex: 0 1 50%;">{{#invoke:InfoboxImage|InfoboxImage|image={{{Lentin şəkli3dər|}}}|size={{{Lentin eni|{{{Lentin ölçüsü|90x90px}}}}}}}}</div>
+<div style="flex: 0 1 50%;">{{#invoke:InfoboxImage|InfoboxImage|image={{{Şəkil3dər|}}}|size={{{Şəklin eni|{{{Şəklin ölçüsü|150x300px}}}}}}}}</div>
+</div>|{{#invoke:InfoboxImage|InfoboxImage|image={{{Şəkil3dər|}}}|size={{{Şəklin eni|{{{Şəklin ölçüsü|150x300px}}}}}}}}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{Lentin şəkli3dər|}}}|size={{{Lentin eni|{{{Lentin ölçüsü|90x90px}}}}}}}}}}
+
+|mətn7            = {{br separated entries|{{{Şəklin izahı|}}}|{{#if:{{wikidata|P2425|{{{Lentin şəkli|}}}}}{{wikidata|P18|{{{Şəkil|}}}}}|<hr>}}}}
+
+|nişan8           = Deviz
+|mətn8            = {{{Deviz|}}}
+|vikiverilənlər8  = P1451
+
+|nişan9           = Ölkə
+|mətn9            = {{{Ölkə|{{{ölkə|}}}}}}
+|vikiverilənlər9  = P17
+
+|nişan10          = Tip
+|mətn10           = {{{Tip|}}}
+|vikiverilənlər10 = P31
+
+|başlıq11         = {{#if:{{{Kimə verilir2|}}}|Kimə verilir}}
+|nişan12          = {{#if:{{{Kimə verilir2|}}}||{{#if:{{{Kimə verilir|{{{kimə verilir|}}}}}}|Kimə verilir}}|}}
+|mətn12           = {{#if:{{{Kimə verilir2|}}}|<div style="text-align: left; font-size: 75%; line-height: 1.2em;">{{{Kimə verilir2|}}}</div>|{{{Kimə verilir|{{{kimə verilir|}}}}}}}}
+
+|nişan13          = Təqdim edir
+|mətn13           = {{{Kim təqdim edir|{{{təqdim edən|{{{Təqdim edir|}}}}}}}}}
+|vikiverilənlər13 = P1027
+
+|nişan14          = Təltifə əsas
+|mətn14           = {{{Təltifə əsas|}}}
+
+|nişan15          = Status
+|mətn15           = {{{Status|}}}
+
+|başlıq16         = Statistika
+
+|nişan17          = Parametrlər
+|mətn17           = {{{Parametrlər|}}}
+
+|nişan18          = Təsis tarixi
+|mətn18           = {{{Təsis tarixi|{{{tarix|}}}}}}
+|vikiverilənlər18 = P571
+
+|nişan19          = Ləğv tarixi
+|mətn19           = {{{Ləğv tarixi|{{{Ləğv olunub|{{{ləğv olunub|}}}}}}}}}
+|vikiverilənlər19 = P576
+
+|nişan20          = Birinci təltif
+|mətn20           = {{{İlk təltif|}}}
+
+|nişan21          = İlk laureat
+|mətn21           = {{{İlk laureat|{{{ilk|}}}}}}
+
+|nişan22          = Son təltif
+|mətn22           = {{{Son təltif|}}}
+
+|nişan23          = Son laureat
+|mətn23           = {{{Son laureat|{{{son|}}}}}}
+
+|nişan24          = Təltif sayı
+|mətn24           = {{fiziki dəyər|{{{Sayı|{{{Təltiflərin sayı|{{{Təltif sayı|}}}}}}}}}|nəfər}}
+|vikiverilənlər24 = P1114
+
+|başlıq25         = Ardıcıllıq
+
+|nişan26          = <span title="Daha yüksək mükafat">{{nobr|Sonrakı (yüksək)}}</span>
+|mətn26           = {{{Sonrakı mükafat|{{{Yüksək mükafat|}}}}}}
+|vikiverilənlər26 = P3730
+
+|nişan27          = <span title="Daha kiçik mükafat">{{nobr|Əvvəlki (aşağı)}}</span>
+|mətn27           = {{{Əvvəlki mükafat|{{{Kiçik mükafat|{{{Aşağı mükafat|}}}}}}}}}
+|vikiverilənlər27 = P3729
+
+|nişan28          = <span title="Eyni statuslu mükafat">Müvafiqdir</span>
+|mətn28           = {{{Müvafiqdir|}}}
+
+|başlıq29         = -
+
+|mətn30           = {{wikidata|P856|{{{Sayt|{{{saytı|{{{Saytı|{{{Rəsmi vebsaytı|{{{sayt|{{{vebsəhifə|}}}}}}}}}}}}}}}}}}}}
+
+|aşağı            = {{məlumat qutusu/Vikianbar|{{{Commons|{{{commons|{{{VikiAnbar|{{{Vikianbar|{{{vikianbar|}}}}}}}}}}}}}}}}}
+}}{{Kateqoriya yalnız məqalələrdə|Əlifba sırasına görə mükafatlar}}</includeonly><noinclude>{{doc}}</noinclude>
